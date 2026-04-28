@@ -18,6 +18,21 @@ from .schema import Context, ExamMetadata, ExamResult, Question
 logger = logging.getLogger(__name__)
 
 _DEFAULT_MODEL = "qwen2.5:14b-instruct"
+
+# ENEM question number ranges per day/area
+# Day 1: Linguagens (1-45), Humanas (46-90)
+# Day 2: Natureza (91-135), Matemática (136-180)
+DAY_AREAS: dict[int, list[tuple[str, range]]] = {
+    1: [("linguagens", range(1, 46)), ("humanas", range(46, 91))],
+    2: [("nature", range(91, 136)), ("math", range(136, 181))],
+}
+
+
+def area_for_question(q_num: int, day: int) -> str | None:
+    for area, r in DAY_AREAS.get(day, []):
+        if q_num in r:
+            return area
+    return None
 _FALLBACK_MODEL = "qwen2.5:7b-instruct"
 
 
@@ -29,8 +44,24 @@ def _pdf_hash(pdf_path: Path) -> str:
     return h.hexdigest()[:16]
 
 
-def _cache_key(pdf_hash: str, question_number: int) -> str:
-    return f"{pdf_hash}_q{question_number:03d}"
+def _cache_key(pdf_hash: str, question_number: int, occurrence: int = 0) -> str:
+    suffix = f"_v{occurrence}" if occurrence > 0 else ""
+    return f"{pdf_hash}_q{question_number:03d}{suffix}"
+
+
+_ES_PATTERN = re.compile(r"[¿¡]|\b(que|está|una|por|del|las|los|se|en|con|como)\b", re.IGNORECASE)
+_EN_PATTERN = re.compile(r"\b(the|is|are|was|were|have|has|this|that|with|from|which|their)\b", re.IGNORECASE)
+
+
+def _detect_language(text: str) -> str | None:
+    """Heuristic language detection for Q1-5 foreign language variants."""
+    es_hits = len(_ES_PATTERN.findall(text))
+    en_hits = len(_EN_PATTERN.findall(text))
+    if es_hits > en_hits and es_hits >= 3:
+        return "es"
+    if en_hits > es_hits and en_hits >= 3:
+        return "en"
+    return None
 
 
 def _load_cache(cache_dir: Path) -> dict[str, dict]:
@@ -127,6 +158,7 @@ def _process_block(
     year: Optional[int],
     area: Optional[str],
     debug_dir: Optional[Path],
+    language_hint: Optional[str] = None,
 ) -> tuple[Optional[Question], list[str]]:
     """Process one question block. Returns (Question | None, warnings)."""
     warnings: list[str] = []
@@ -137,7 +169,14 @@ def _process_block(
     images_in_block = _images_for_block(pdf_path, page_idx, y_top, y_bottom)
     has_image = _detect_image_for_block(block, images_in_block)
 
-    prompt = build_extraction_prompt(block.raw_text, has_image_marker=has_image, year=year, area=area)
+    prompt = build_extraction_prompt(
+        block.raw_text,
+        has_image_marker=has_image,
+        image_count=len(images_in_block),
+        year=year,
+        area=area,
+        language_hint=language_hint,
+    )
 
     if debug_dir:
         (debug_dir / "chunks").mkdir(parents=True, exist_ok=True)
@@ -189,6 +228,15 @@ def _process_block(
 
     data["images"] = cropped_figures or data.get("images", [])
 
+    # Validate that bracket marker count in text matches image count
+    if cropped_figures:
+        marker_count = len(re.findall(r'\[(?:Figura|Gráfico|Infográfico|Esquema|Imagem)[^]]*\]', data.get("text", ""), re.IGNORECASE))
+        if marker_count != len(cropped_figures):
+            warnings.append(
+                f"Q{q_num}: image/marker mismatch — {len(cropped_figures)} image(s) but "
+                f"{marker_count} marker(s) in text. Review needed."
+            )
+
     try:
         question = Question(**data)
     except Exception as exc:
@@ -216,6 +264,7 @@ def extract_exam(
     gabarito_pdf: str | Path | None = None,
     *,
     area: str | None = None,
+    day: int | None = None,
     page_range: tuple[int, int] | None = None,
     output_dir: str | Path = "output",
     model: str = _DEFAULT_MODEL,
@@ -287,9 +336,24 @@ def extract_exam(
     all_warnings: list[str] = []
     all_figures: list[str] = []
 
+    # Track occurrences of each question number to handle EN/ES duplicates (Q1-5 day 1)
+    q_num_occurrences: dict[int, int] = {}
+
     for idx, block in enumerate(blocks):
         next_q_num = blocks[idx + 1].number if idx + 1 < len(blocks) else None
-        cache_key = _cache_key(pdf_hash, block.number)
+
+        occurrence = q_num_occurrences.get(block.number, 0)
+        q_num_occurrences[block.number] = occurrence + 1
+        cache_key = _cache_key(pdf_hash, block.number, occurrence)
+
+        # Detect language for foreign-language variants (day 1, Q1-5)
+        is_foreign_q = day == 1 and block.number <= 5
+        language_hint = _detect_language(block.raw_text) if is_foreign_q else None
+        if is_foreign_q and occurrence > 0 and language_hint is None:
+            # Second occurrence without clear detection — assume ES if first was EN, vice versa
+            first_key = _cache_key(pdf_hash, block.number, 0)
+            first_lang = cache.get(first_key, {}).get("language")
+            language_hint = "es" if first_lang == "en" else "en"
 
         # Resume: use cached result if available
         if cache_key in cache:
@@ -297,8 +361,9 @@ def extract_exam(
             try:
                 cached = cache[cache_key]
                 # Always apply current run's area/year/answer so stale cache entries are corrected
-                if area is not None:
-                    cached["area"] = area
+                q_area = area_for_question(block.number, day) if day else area
+                if q_area is not None:
+                    cached["area"] = q_area
                 if year is not None:
                     cached["year"] = year
                 if gabarito.get(block.number):
@@ -313,17 +378,19 @@ def extract_exam(
             from .parse import Block as _Block  # noqa: F401
             # Use the existing parse_question from enem_parser if available
             # Otherwise produce a stub
+            q_area = area_for_question(block.number, day) if day else area
             stub = Question(
                 number=block.number,
                 text=block.raw_text,
                 alternatives={"a": "", "b": "", "c": "", "d": "", "e": ""},
                 answer=gabarito.get(block.number),
                 year=year,
-                area=area,
+                area=q_area,
             )
             all_questions.append(stub)
             continue
 
+        q_area = area_for_question(block.number, day) if day else area
         question, warnings = _process_block(
             block=block,
             next_q_num=next_q_num,
@@ -337,8 +404,9 @@ def extract_exam(
             model=model,
             gabarito=gabarito,
             year=year,
-            area=area,
+            area=q_area,
             debug_dir=debug_dir,
+            language_hint=language_hint,
         )
         all_warnings.extend(warnings)
 
@@ -349,19 +417,27 @@ def extract_exam(
         else:
             logger.warning("Q%d: skipped (no valid output)", block.number)
 
-    # Output filename: {area}_{test}_{year}.json  (web app convention)
-    area_slug = area or "exam"
+    # Write output JSON — one file per area (split by day), or single file
     test_slug = test_name.lower()
     year_slug = str(year) if year else "unknown"
-    out_json = output_dir / f"{area_slug}_{test_slug}_{year_slug}.json"
 
-    # Write flat questions array (web app format)
-    questions_data = [_question_to_web(q) for q in all_questions]
-    out_json.write_text(
-        json.dumps(questions_data, ensure_ascii=False, indent=2),
-        encoding="utf-8",
-    )
-    logger.info("Saved %d questions to %s", len(all_questions), out_json)
+    if day and day in DAY_AREAS:
+        for area_slug, q_range in DAY_AREAS[day]:
+            area_questions = [q for q in all_questions if q.number in q_range]
+            out_json = output_dir / f"{area_slug}_{test_slug}_{year_slug}.json"
+            out_json.write_text(
+                json.dumps([_question_to_web(q) for q in area_questions], ensure_ascii=False, indent=2),
+                encoding="utf-8",
+            )
+            logger.info("Saved %d questions (%s) to %s", len(area_questions), area_slug, out_json)
+    else:
+        area_slug = area or "exam"
+        out_json = output_dir / f"{area_slug}_{test_slug}_{year_slug}.json"
+        out_json.write_text(
+            json.dumps([_question_to_web(q) for q in all_questions], ensure_ascii=False, indent=2),
+            encoding="utf-8",
+        )
+        logger.info("Saved %d questions to %s", len(all_questions), out_json)
 
     # Build and write contexts.json from contextId/contextIds references
     _write_contexts_json(output_dir, all_questions)
@@ -385,18 +461,19 @@ def extract_exam(
 
 
 def _question_to_web(q: Question) -> dict:
-    """Serialize a Question to the web app JSON format."""
+    """Serialize a Question to the web app JSON format with canonical field order."""
     d: dict = {
         "number": q.number,
         "text": q.text,
         "alternatives": q.alternatives,
-        "answer": q.answer,
+        "images": q.images,
         "tags": q.tags,
         "year": q.year,
         "test": q.test,
         "area": q.area,
-        "images": q.images,
+        "answer": q.answer,
     }
+    # Optional fields — only include when present
     if q.contextIds:
         d["contextIds"] = q.contextIds
     elif q.contextId:

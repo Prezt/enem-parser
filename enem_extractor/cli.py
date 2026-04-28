@@ -32,6 +32,7 @@ def cmd_extract(args: argparse.Namespace) -> None:
         prova_pdf=args.prova,
         gabarito_pdf=args.gabarito,
         area=args.area,
+        day=args.day,
         page_range=args.pages,
         output_dir=args.output,
         model=args.model,
@@ -97,9 +98,15 @@ def main() -> None:
         "gabarito", metavar="gabarito.pdf", nargs="?", help="Path to answer key PDF (optional)"
     )
     extract_parser.add_argument(
+        "--day",
+        type=int,
+        choices=[1, 2],
+        help="Exam day (1 = linguagens+humanas, 2 = nature+math). Assigns area automatically by question range.",
+    )
+    extract_parser.add_argument(
         "--area",
         choices=["math", "nature", "linguagens", "humanas"],
-        help="Exam area",
+        help="Exam area (used when --day is not set)",
     )
     extract_parser.add_argument(
         "--pages",
