@@ -1,38 +1,33 @@
 from __future__ import annotations
 
-from pathlib import Path
 from typing import Optional
 
-from pydantic import BaseModel, field_validator, model_validator
+from pydantic import BaseModel, field_validator
 
 
 VALID_ANSWERS = {"a", "b", "c", "d", "e", "annulled"}
 ALTERNATIVE_KEYS = {"a", "b", "c", "d", "e"}
-
-
-class Alternative(BaseModel):
-    key: str
-    text: str
-
-    @field_validator("key")
-    @classmethod
-    def key_must_be_valid(cls, v: str) -> str:
-        if v not in ALTERNATIVE_KEYS:
-            raise ValueError(f"Alternative key must be one of {ALTERNATIVE_KEYS}, got {v!r}")
-        return v
+VALID_AREAS = {"math", "nature", "linguagens", "humanas"}
+VALID_LANGUAGES = {"en", "es"}
 
 
 class Question(BaseModel):
+    # Required
     number: int
     text: str
     alternatives: dict[str, str]
-    images: list[str] = []
-    tags: list[str] = []
     answer: Optional[str] = None
+    tags: list[str] = []
     year: Optional[int] = None
     test: str = "ENEM"
     area: Optional[str] = None
+
+    # Optional
+    images: list[str] = []
+    contextId: Optional[str] = None
+    contextIds: Optional[list[str]] = None
     language: Optional[str] = None
+
     _review_needed: bool = False
 
     @field_validator("alternatives")
@@ -55,6 +50,21 @@ class Question(BaseModel):
     @classmethod
     def images_use_forward_slashes(cls, v: list[str]) -> list[str]:
         return [p.replace("\\", "/") for p in v]
+
+    @field_validator("language")
+    @classmethod
+    def language_must_be_valid(cls, v: Optional[str]) -> Optional[str]:
+        if v is not None and v not in VALID_LANGUAGES:
+            raise ValueError(f"language must be one of {VALID_LANGUAGES}, got {v!r}")
+        return v
+
+
+class Context(BaseModel):
+    title: Optional[str] = None
+    subtitle: Optional[str] = None
+    text: str
+    images: list[str] = []
+    reference: Optional[str] = None
 
 
 class ExamMetadata(BaseModel):

@@ -11,10 +11,10 @@ def build_extraction_prompt(
     Build the LLM prompt for extracting a single question chunk.
 
     Args:
-        chunk: Raw question text (one question block, possibly multi-question for edge cases).
-        has_image_marker: If True, ask the model to insert an image placeholder.
+        chunk: Raw question text (one question block).
+        has_image_marker: If True, ask the model to insert bracket image placeholders.
         year: Exam year for context.
-        area: Exam area (linguagens, humanas, natureza, matematica).
+        area: Exam area (math, nature, linguagens, humanas).
     """
     context_parts = []
     if year:
@@ -25,22 +25,27 @@ def build_extraction_prompt(
 
     image_instruction = ""
     if has_image_marker:
-        image_instruction = (
-            "\n- The question contains a figure. "
-            "Insert a placeholder `[Imagem: q{number}_<short_descriptor>.png]` "
-            "at the exact position in `text` where the figure appears."
-        )
+        image_instruction = """
+- The question contains one or more figures (charts, diagrams, images).
+  For each figure, insert a bracket placeholder in `text` at the exact position it appears.
+  Use the most descriptive format that fits:
+    [Figura: short description]
+    [Gráfico - short description]
+    [Infográfico - short description]
+    [Esquema - short description]
+  The number of placeholders in `text` must match the number of entries in `images`.
+  Leave `images` as an empty array [] — the pipeline will fill in the actual file paths."""
 
     return f"""You are a strict JSON extractor for Brazilian ENEM exam questions{context_note}.
 
-Extract the question below and return ONLY valid JSON — no explanation, no markdown, no preamble.
+Extract the question below and return ONLY a valid JSON array — no explanation, no markdown, no preamble.
 
-Output a JSON array with one object per question found. Each object must follow this schema exactly:
+Each object in the array must follow this schema exactly:
 
 [
   {{
-    "number": <integer>,
-    "text": <string, full question body in Portuguese>,
+    "number": <integer — question number from the exam booklet>,
+    "text": <string — full question stem in Portuguese, verbatim>,
     "alternatives": {{
       "a": <string>,
       "b": <string>,
@@ -48,23 +53,29 @@ Output a JSON array with one object per question found. Each object must follow 
       "d": <string>,
       "e": <string>
     }},
-    "images": [<list of image placeholder strings, may be empty>],
-    "tags": [<2 to 4 short topic strings inferred from content, in Portuguese>],
     "answer": null,
+    "tags": [<2 to 4 short topic tags in Portuguese, e.g. "física", "cinemática">],
     "year": {year if year is not None else "null"},
     "test": "ENEM",
     "area": {f'"{area}"' if area else "null"},
+    "images": [],
+    "contextId": null,
+    "contextIds": null,
     "language": null
   }}
 ]
 
 Rules:
-- Keep original Portuguese wording verbatim.
-- Do not invent or paraphrase anything.
-- alternatives must have exactly keys a, b, c, d, e — no more, no less.
-- Strip alternative letter prefixes (e.g. write the text after "A ", not "A texto").
-- Ignore headers, page numbers, watermarks, and unrelated footer text.
-- If redação (essay prompt) is found, skip it entirely.
+- Keep original Portuguese wording verbatim. Do not paraphrase.
+- alternatives must have exactly keys a, b, c, d, e.
+- Strip the letter prefix from each alternative (write the text after "A ", not "A texto").
+- If the question has a reference text (Texto I, Texto II, or a named excerpt), extract it into
+  `contextId` as a short key string like "enem_{year}_{area}_ctx1". If there are two texts, use
+  `contextIds: ["enem_{year}_{area}_ctx1", "enem_{year}_{area}_ctx2"]` and set `contextId` to null.
+- language: set to "en" or "es" only for foreign-language questions (English/Spanish); otherwise null.
+- Ignore page headers, watermarks, page numbers, and unrelated footer text.
+- Skip redação (essay) prompts entirely.
+- images must always be present as an array (empty [] when no images).
 - Ensure output is valid JSON (double-quote all strings, no trailing commas).{image_instruction}
 
 QUESTION TEXT:

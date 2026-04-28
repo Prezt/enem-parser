@@ -13,7 +13,7 @@ from .llm import OllamaClient, extract_json, resolve_model
 from .parse import extract_text, normalize_text, split_by_question, Block
 from .pdf import rasterize_pages, get_pdf_dimensions, compute_scale
 from .prompt import build_extraction_prompt
-from .schema import ExamMetadata, ExamResult, Question
+from .schema import Context, ExamMetadata, ExamResult, Question
 
 logger = logging.getLogger(__name__)
 
@@ -52,18 +52,55 @@ def _save_cache(cache_dir: Path, key: str, data: dict) -> None:
     )
 
 
-def _detect_image_for_block(
-    pdf_path: Path,
-    block: Block,
-    page_idx: int,
-) -> bool:
-    """Return True if the block likely has an associated figure."""
-    images = find_embedded_images(pdf_path, page_idx)
-    if images:
+_FIGURE_MENTION = re.compile(
+    r"(conforme a figura|veja (o |a )?(figura|gráfico|imagem)|figura \d|observe (o |a )?)",
+    re.IGNORECASE,
+)
+
+
+def _question_vertical_bounds(pdf_path: Path, page_idx: int, q_num: int, next_q_num: int | None) -> tuple[float, float]:
+    """
+    Return (y_top, y_bottom) in PDF points for question q_num on the given page.
+    Searches for 'QUESTÃO {q_num}' and 'QUESTÃO {next_q_num}' text positions.
+    Falls back to (0, page_height) if not found.
+    """
+    import fitz
+    with fitz.open(str(pdf_path)) as doc:
+        page = doc[page_idx]
+        page_h = page.rect.height
+
+        header = f"QUESTÃO {q_num}"
+        hits = page.search_for(header)
+        if not hits:
+            hits = page.search_for(f"QUESTAO {q_num}")
+        y_top = hits[0].y0 if hits else 0.0
+
+        y_bottom = page_h
+        if next_q_num is not None:
+            next_header = f"QUESTÃO {next_q_num}"
+            next_hits = page.search_for(next_header)
+            if not next_hits:
+                next_hits = page.search_for(f"QUESTAO {next_q_num}")
+            if next_hits:
+                y_bottom = next_hits[0].y0
+
+    return y_top, y_bottom
+
+
+def _images_for_block(pdf_path: Path, page_idx: int, y_top: float, y_bottom: float):
+    """Return only embedded images whose bbox falls within [y_top, y_bottom]."""
+    all_images = find_embedded_images(pdf_path, page_idx)
+    return [
+        img for img in all_images
+        if img.bbox_pts.y1 > y_top and img.bbox_pts.y0 < y_bottom
+    ]
+
+
+def _detect_image_for_block(block: Block, images_in_block: list) -> bool:
+    """Return True if the block has embedded images or mentions a figure."""
+    if images_in_block:
         return True
-    # Simple heuristic: text mentions "figura" or "gráfico"
-    figure_pattern = re.compile(r"(conforme a figura|veja (o |a )?(figura|gráfico|imagem)|figura \d)", re.IGNORECASE)
-    return bool(figure_pattern.search(block.raw_text))
+    return bool(_FIGURE_MENTION.search(block.raw_text))
 
 
 def _find_page_for_block(block: Block, page_texts: list[tuple[int, str]]) -> int:
@@ -77,6 +114,7 @@ def _find_page_for_block(block: Block, page_texts: list[tuple[int, str]]) -> int
 
 def _process_block(
     block: Block,
+    next_q_num: int | None,
     pdf_path: Path,
     png_paths: list[Path],
     page_texts: list[tuple[int, str]],
@@ -95,7 +133,9 @@ def _process_block(
     q_num = block.number
 
     page_idx = _find_page_for_block(block, page_texts)
-    has_image = _detect_image_for_block(pdf_path, block, page_idx)
+    y_top, y_bottom = _question_vertical_bounds(pdf_path, page_idx, q_num, next_q_num)
+    images_in_block = _images_for_block(pdf_path, page_idx, y_top, y_bottom)
+    has_image = _detect_image_for_block(block, images_in_block)
 
     prompt = build_extraction_prompt(block.raw_text, has_image_marker=has_image, year=year, area=area)
 
@@ -136,14 +176,14 @@ def _process_block(
     cropped_figures: list[str] = []
     if has_image and page_idx < len(png_paths):
         png_path = png_paths[page_idx]
-        embedded = find_embedded_images(pdf_path, page_idx)
-        for i, img_rect in enumerate(embedded):
-            fig_name = f"q{q_num:03d}_fig{i+1}.png"
+        for i, img_rect in enumerate(images_in_block):
+            year_tag = f"_{year}" if year else ""
+            fig_name = f"q{q_num:03d}{year_tag}_fig{i+1}.png"
             fig_path = figures_dir / fig_name
             try:
                 crop_figure(png_path, img_rect.bbox_pts, scale_x, scale_y, out_path=fig_path)
-                cropped_figures.append(str(fig_path))
-                logger.info("Q%d: cropped figure -> %s", q_num, fig_name)
+                cropped_figures.append(f"figuras/{fig_name}")
+                logger.info("Q%d: cropped figure -> figuras/%s", q_num, fig_name)
             except Exception as exc:
                 warnings.append(f"Q{q_num}: figure crop failed: {exc}")
 
@@ -188,12 +228,12 @@ def extract_exam(
     if gabarito_pdf and not str(gabarito_pdf).strip():
         gabarito_pdf = None
     output_dir = Path(output_dir)
-    figures_dir = output_dir / "figures"
+    figures_dir = output_dir / "figuras"
     cache_dir = output_dir / ".cache"
     debug_dir = output_dir / "debug" if debug else None
 
     output_dir.mkdir(parents=True, exist_ok=True)
-    figures_dir.mkdir(parents=True, exist_ok=True)
+    figures_dir.mkdir(parents=True, exist_ok=True)  # output_dir/figuras/
 
     # Rasterize pages
     png_dir = output_dir / "pages"
@@ -247,14 +287,23 @@ def extract_exam(
     all_warnings: list[str] = []
     all_figures: list[str] = []
 
-    for block in blocks:
+    for idx, block in enumerate(blocks):
+        next_q_num = blocks[idx + 1].number if idx + 1 < len(blocks) else None
         cache_key = _cache_key(pdf_hash, block.number)
 
         # Resume: use cached result if available
         if cache_key in cache:
             logger.info("Q%d: loaded from cache", block.number)
             try:
-                all_questions.append(Question(**cache[cache_key]))
+                cached = cache[cache_key]
+                # Always apply current run's area/year/answer so stale cache entries are corrected
+                if area is not None:
+                    cached["area"] = area
+                if year is not None:
+                    cached["year"] = year
+                if gabarito.get(block.number):
+                    cached["answer"] = gabarito[block.number]
+                all_questions.append(Question(**cached))
                 continue
             except Exception:
                 logger.warning("Q%d: cache entry invalid, re-extracting", block.number)
@@ -277,6 +326,7 @@ def extract_exam(
 
         question, warnings = _process_block(
             block=block,
+            next_q_num=next_q_num,
             pdf_path=prova_pdf,
             png_paths=png_paths,
             page_texts=page_texts,
@@ -299,6 +349,23 @@ def extract_exam(
         else:
             logger.warning("Q%d: skipped (no valid output)", block.number)
 
+    # Output filename: {area}_{test}_{year}.json  (web app convention)
+    area_slug = area or "exam"
+    test_slug = test_name.lower()
+    year_slug = str(year) if year else "unknown"
+    out_json = output_dir / f"{area_slug}_{test_slug}_{year_slug}.json"
+
+    # Write flat questions array (web app format)
+    questions_data = [_question_to_web(q) for q in all_questions]
+    out_json.write_text(
+        json.dumps(questions_data, ensure_ascii=False, indent=2),
+        encoding="utf-8",
+    )
+    logger.info("Saved %d questions to %s", len(all_questions), out_json)
+
+    # Build and write contexts.json from contextId/contextIds references
+    _write_contexts_json(output_dir, all_questions)
+
     metadata = ExamMetadata(
         year=year,
         test=test_name,
@@ -309,19 +376,68 @@ def extract_exam(
         page_range=page_range,
     )
 
-    result = ExamResult(
+    return ExamResult(
         metadata=metadata,
         questions=all_questions,
         figures=all_figures,
         warnings=all_warnings,
     )
 
-    # Save output JSON
-    out_json = output_dir / f"questions_{area or 'exam'}_{year or 'unknown'}.json"
-    out_json.write_text(
-        json.dumps(result.model_dump(), ensure_ascii=False, indent=2),
-        encoding="utf-8",
-    )
-    logger.info("Saved %d questions to %s", len(all_questions), out_json)
 
-    return result
+def _question_to_web(q: Question) -> dict:
+    """Serialize a Question to the web app JSON format."""
+    d: dict = {
+        "number": q.number,
+        "text": q.text,
+        "alternatives": q.alternatives,
+        "answer": q.answer,
+        "tags": q.tags,
+        "year": q.year,
+        "test": q.test,
+        "area": q.area,
+        "images": q.images,
+    }
+    if q.contextIds:
+        d["contextIds"] = q.contextIds
+    elif q.contextId:
+        d["contextId"] = q.contextId
+    if q.language:
+        d["language"] = q.language
+    return d
+
+
+def _write_contexts_json(output_dir: Path, questions: list[Question]) -> None:
+    """
+    Collect all contextId/contextIds referenced by questions and write contexts.json.
+    Stubs are written for any ID not already present; existing entries are preserved.
+    """
+    contexts_path = output_dir / "contexts.json"
+    existing: dict = {}
+    if contexts_path.exists():
+        try:
+            existing = json.loads(contexts_path.read_text(encoding="utf-8"))
+        except (json.JSONDecodeError, OSError):
+            pass
+
+    all_ids: set[str] = set()
+    for q in questions:
+        if q.contextIds:
+            all_ids.update(q.contextIds)
+        elif q.contextId:
+            all_ids.add(q.contextId)
+
+    for ctx_id in sorted(all_ids):
+        if ctx_id not in existing:
+            existing[ctx_id] = {
+                "title": None,
+                "subtitle": None,
+                "text": "",
+                "images": [],
+                "reference": None,
+            }
+
+    if existing:
+        contexts_path.write_text(
+            json.dumps(existing, ensure_ascii=False, indent=2), encoding="utf-8"
+        )
+        logger.info("Written %d context(s) to %s", len(existing), contexts_path)

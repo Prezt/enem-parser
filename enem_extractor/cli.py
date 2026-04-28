@@ -98,7 +98,7 @@ def main() -> None:
     )
     extract_parser.add_argument(
         "--area",
-        choices=["linguagens", "humanas", "natureza", "matematica"],
+        choices=["math", "nature", "linguagens", "humanas"],
         help="Exam area",
     )
     extract_parser.add_argument(
