@@ -185,6 +185,8 @@ def extract_exam(
     debug: bool = False,
 ) -> ExamResult:
     prova_pdf = Path(prova_pdf)
+    if gabarito_pdf and not str(gabarito_pdf).strip():
+        gabarito_pdf = None
     output_dir = Path(output_dir)
     figures_dir = output_dir / "figures"
     cache_dir = output_dir / ".cache"
