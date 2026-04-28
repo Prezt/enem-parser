@@ -9,7 +9,7 @@ from typing import Optional
 
 from .gabarito import parse_gabarito
 from .images import find_embedded_images, find_vector_figure_bbox, crop_figure, expand_bbox_to_caption
-from .llm import OllamaClient, extract_json
+from .llm import OllamaClient, extract_json, resolve_model
 from .parse import extract_text, normalize_text, split_by_question, Block
 from .pdf import rasterize_pages, get_pdf_dimensions, compute_scale
 from .prompt import build_extraction_prompt
@@ -109,7 +109,9 @@ def _process_block(
     try:
         response = client.generate(prompt, model=model)
     except RuntimeError as exc:
-        warnings.append(f"Q{q_num}: LLM call failed: {exc}")
+        msg = f"Q{q_num}: LLM call failed: {exc}"
+        warnings.append(msg)
+        logger.warning("%s", msg)
         return None, warnings
 
     if debug_dir:
@@ -235,7 +237,8 @@ def extract_exam(
     pdf_hash = _pdf_hash(prova_pdf)
     cache = _load_cache(cache_dir)
 
-    # LLM client
+    # LLM client — resolve model before starting
+    model = resolve_model(model, _FALLBACK_MODEL)
     client = OllamaClient()
 
     all_questions: list[Question] = []
@@ -291,6 +294,8 @@ def extract_exam(
             all_figures.extend(question.images)
             _save_cache(cache_dir, cache_key, question.model_dump())
             all_questions.append(question)
+        else:
+            logger.warning("Q%d: skipped (no valid output)", block.number)
 
     metadata = ExamMetadata(
         year=year,
