@@ -1,0 +1,19 @@
+# Data files
+data/
+
+# Output
+output/
+debug/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+*.egg-info/
+dist/
+build/
+
+# Pytest / tools
+.pytest_cache/
+.ruff_cache/

@@ -1,0 +1,25 @@
+
+
+===== RESPONSE 77 =====
+
+[
+  {
+    "number": 167,
+    "text": "Atualmente, há telefones celulares com telas de\niversos tamanhos e em formatos retangulares. Alguns\neles apresentam telas medindo polegadas, com 3\n2\neterminadas especificações técnicas. Além disso, em\nmuitos modelos, com a inclusão de novas funções no\nelular, suas telas ficaram maiores, sendo muito comum\n5\n4 ncontrarmos atualmente telas medindo polegadas,\n6 onforme a figura.\nDisponível em: www.tecmundo.com.br.\nAcesso em: 5 nov. 2014 (adaptado).\ndiferença de tamanho, em valor absoluto, entre as\nmedidas, em polegada, das telas do celular 2 e do celular 1,\nepresentada apenas com uma casa decimal, é",
+    "alternatives": {
+      "a": "0,1.",
+      "b": "0,5.",
+      "c": "1,0.",
+      "d": "1,3.",
+      "e": "1,8."
+    }
+  }
+]
+
+===== RESPONSE 78 =====
+
+[]
+
+===== RESPONSE 79 =====
+
+[]

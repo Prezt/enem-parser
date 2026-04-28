@@ -1,0 +1,26 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "enem-extractor"
+version = "0.1.0"
+description = "Extract structured JSON + figures from ENEM PDF exams using a local LLM via Ollama"
+requires-python = ">=3.10"
+dependencies = [
+    "pymupdf>=1.24",
+    "pillow>=10",
+    "pydantic>=2",
+    "requests>=2.31",
+]
+
+[project.scripts]
+enem-extract = "enem_extractor.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["enem_extractor*"]
+
+[tool.ruff]
+line-length = 100
+target-version = "py310"

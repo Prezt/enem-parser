@@ -1,0 +1,117 @@
+
+
+===== CHUNK 78 =====
+
+QUESTÃO 168
+Projetistas de uma fábrica de amortecedores realiz
+semelhantes ao comportamento do gráfico de uma sen
+duração de 20 minutos, sendo os 9 primeiros minutos em
+restantes em superfície que simula uma estrada de chã
+Para os amortecedores serem aprovados no experim
+cada tipo de superfície, sejam constantes e, ainda, que a
+do que sua amplitude da oscilação na estrada de chão.
+O tipo de gráfico que descreve o comportamento oscilat
+A
+B
+C
+ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2
+26 MATEMÁTICA
+002200332255AAZZ..iinnddbb 2266
+EM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024
+uma série de experimentos que produziram oscilações
+para qualquer tipo de estrada. Cada experimento teve
+erfície que simula uma rodovia asfaltada, e os 11 minutos
+, exige-se que as amplitudes das ondas oscilatórias, em
+litude da oscilação do amortecedor no asfalto seja menor
+de um amortecedor aprovado nesse experimento é
+D
+E
+EM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024 2º
+AS TECNOLOGIAS • DIA • CADERNO 7 • AZUL •
+2233//0088//22002244 1188::2266::4422
+ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2
+
+===== CHUNK 79 =====
+
+QUESTÃO 169
+A criptografia refere-se à construção e análise de pro
+Júlio César, imperador romano, utilizava um código par
+se a mensagem caísse em mãos inimigas, a informação
+alfabeto era substituída pela letra três posições à frente
+pelo “F”, e assim sucessivamente.
+A B C D E F G H I J K L M N O P Q R
+A B C D E F G H I J K L M N O
+Qualquer código que tenha um padrão de substituiçã
+ou um Código de César. Note que, para decifrar uma Cifr
+pois isso define todas as demais substituições a serem
+Uma mensagem, em um alfabeto de 26 letras, foi cod
+de se descobrir, aleatoriamente, o padrão utilizado nessa
+nas tentativas seguintes.
+A probabilidade de se descobrir o padrão dessa Cifra de
+1 1 1
++ + A
+25 25 25
+24 23 1
++ + B
+25 24 23
+1 1 1
+× × C
+25 24 23
+24 23 1
+× × D
+25 25 25
+24 23 1
+× × E
+25 24 23
+
+===== CHUNK 80 =====
+
+QUESTÃO 170
+Em uma região com grande incidência de terremoto
+magnitudes M e M , medidos segundo a escala Richter,
+1 2
+os estudiosos do assunto, é conhecida uma expressão
+(cid:31)M M
+2 1
+Estudos mais abrangentes observaram que o prime
+liberada foi um décimo da observada no segundo terrem
+O valor aproximado da magnitude M do segundo terrem
+2
+A 5,4.
+B 6,2.
+C 7,6.
+D 8,2.
+E 8,4.
+ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2
+2º • MATEMÁTICA E SUAS TECNOLOGIAS • DIA •
+002200332255AAZZ..iinnddbb 2277
+*020325AZ27*
+EM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024
+os que impedem terceiros de lerem mensagens privadas.
+teger as mensagens enviadas a seus generais. Assim,
+poderia ser compreendida. Nesse código, cada letra do
+seja, o “A” era substituído pelo “D”, o “B” pelo “E”, o “C”
+T U V W X Y Z A B C Letra do texto codifi cado
+Q R S T U V W X Y Z Letra do texto original
+Disponível em: www.codifica.ibict.br. Acesso em: 15 out. 2019.
+etras como o descrito é considerado uma Cifra de César
+César, basta descobrir por qual letra o “A” foi substituído,
+.
+a usando uma Cifra de César. Considere a probabilidade
+cação, e que uma tentativa frustrada deverá ser eliminada
+ar apenas na terceira tentativa é dada por
+bservou-se que dois terremotos ocorridos apresentaram
+eraram energias iguais a E e E , respectivamente. Entre
+1 2
+rica relacionando esses valores dada por
+(cid:29)E (cid:26)
+2 og(cid:27) (cid:24)
+E (cid:28) (cid:25) 1
+= erremoto apresentou a magnitude M 6,9 e a energia
+1
+expresso com uma casa decimal, é igual a
+EM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024
+RNO 7 • AZUL 27
+2233//0088//22002244 1188::2266::4444
+*020325AZ28*
+ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2
