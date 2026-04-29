@@ -445,8 +445,8 @@ def extract_exam(
             first_lang = cache.get(first_key, {}).get("language")
             language_hint = "es" if first_lang == "en" else "en"
 
-        # Resume: use cached result if available
-        if cache_key in cache:
+        # Resume: use cached result if available (skip cache for questions being retried)
+        if cache_key in cache and not (retry_failed and block.number in retry_nums):
             logger.info("Q%d: loaded from cache", block.number)
             try:
                 cached = cache[cache_key]
@@ -459,6 +459,7 @@ def extract_exam(
                 if gabarito.get(block.number):
                     cached["answer"] = gabarito[block.number]
                 all_questions.append(Question(**cached))
+                failed_q_nums.discard(block.number)
                 continue
             except Exception:
                 logger.warning("Q%d: cache entry invalid, re-extracting", block.number)

@@ -153,15 +153,12 @@ def extract_json(response: str) -> str:
             pass
 
     # 5. Truncation recovery — the response was cut off mid-JSON.
-    #    Walk backwards from the end of the text, trimming characters until we find
-    #    a position where json.loads succeeds on the prefix completed with closing braces.
+    #    Use a stack to track open delimiters so we know the exact closing sequence.
     brace_match = re.search(r"\{", text)
     if brace_match:
         start = brace_match.start()
         fragment = text[start:]
-        # Count unclosed braces/brackets to figure out what needs to be appended
-        depth_brace = 0
-        depth_bracket = 0
+        stack: list[str] = []
         in_string = False
         escape_next = False
         for ch in fragment:
@@ -176,15 +173,16 @@ def extract_json(response: str) -> str:
                 continue
             if in_string:
                 continue
-            if ch == "{":
-                depth_brace += 1
-            elif ch == "}":
-                depth_brace -= 1
-            elif ch == "[":
-                depth_bracket += 1
-            elif ch == "]":
-                depth_bracket -= 1
-        closing = "]" * max(0, depth_bracket) + "}" * max(0, depth_brace)
+            if ch in "{[":
+                stack.append(ch)
+            elif ch == "}" and stack and stack[-1] == "{":
+                stack.pop()
+            elif ch == "]" and stack and stack[-1] == "[":
+                stack.pop()
+        # Close open string first, then close delimiters in reverse order
+        closing = ('"' if in_string else "") + "".join(
+            "}" if c == "{" else "]" for c in reversed(stack)
+        )
         if closing:
             candidate = fragment.rstrip() + closing
             try:
