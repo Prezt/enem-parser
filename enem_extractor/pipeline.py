@@ -83,6 +83,11 @@ def _save_cache(cache_dir: Path, key: str, data: dict) -> None:
     )
 
 
+_MARKER_RE = re.compile(
+    r'\[(?:Figura|Gráfico|Infográfico|Esquema|Imagem)[^]]*\]',
+    re.IGNORECASE,
+)
+
 _FIGURE_MENTION = re.compile(
     r"(conforme a figura|veja (o |a )?(figura|gráfico|imagem)|figura \d|observe (o |a )?)",
     re.IGNORECASE,
@@ -220,31 +225,64 @@ def _process_block(
     data.setdefault("year", year)
     data.setdefault("area", area)
 
-    # Crop figures if detected
+    # Crop figures and assign them to where their placeholders landed
+    # (either inside a context's text or in the question stem).
     cropped_figures: list[str] = []
     if has_image and page_idx < len(png_paths):
         png_path = png_paths[page_idx]
-        for i, img_rect in enumerate(images_in_block):
+        # Sort images top-to-bottom so they match document reading order
+        sorted_images = sorted(images_in_block, key=lambda img: img.bbox_pts.y0)
+
+        # Build an ordered list of destinations matching each placeholder in document order:
+        # contexts come before the question stem, so process them first.
+        destinations: list[tuple[str, str | None]] = []  # ("ctx", ctx_id) | ("question", None)
+        for ctx_id, ctx_data in extracted_contexts.items():
+            for _ in _MARKER_RE.findall(ctx_data.get("text", "")):
+                destinations.append(("ctx", ctx_id))
+        for _ in _MARKER_RE.findall(data.get("text", "")):
+            destinations.append(("question", None))
+
+        ctx_images: dict[str, list[str]] = {}
+        for i, (dest_type, ctx_id) in enumerate(destinations):
+            if i >= len(sorted_images):
+                break
+            img_rect = sorted_images[i]
             year_tag = f"_{year}" if year else ""
             fig_name = f"q{q_num:03d}{year_tag}_fig{i+1}.png"
             fig_path = figures_dir / fig_name
             try:
                 crop_figure(png_path, img_rect.bbox_pts, scale_x, scale_y, out_path=fig_path)
-                cropped_figures.append(f"figuras/{fig_name}")
                 logger.info("Q%d: cropped figure -> figuras/%s", q_num, fig_name)
+                if dest_type == "ctx" and ctx_id is not None:
+                    ctx_images.setdefault(ctx_id, []).append(f"figuras/{fig_name}")
+                else:
+                    cropped_figures.append(f"figuras/{fig_name}")
             except Exception as exc:
                 warnings.append(f"Q{q_num}: figure crop failed: {exc}")
 
+        # Write cropped paths back into the extracted context dicts
+        for ctx_id, imgs in ctx_images.items():
+            extracted_contexts[ctx_id]["images"] = imgs
+
     data["images"] = cropped_figures or data.get("images", [])
 
-    # Validate that bracket marker count in text matches image count
+    # Validate placeholder ↔ image counts for question text and each context
     if cropped_figures:
-        marker_count = len(re.findall(r'\[(?:Figura|Gráfico|Infográfico|Esquema|Imagem)[^]]*\]', data.get("text", ""), re.IGNORECASE))
-        if marker_count != len(cropped_figures):
+        q_marker_count = len(_MARKER_RE.findall(data.get("text", "")))
+        if q_marker_count != len(cropped_figures):
             warnings.append(
-                f"Q{q_num}: image/marker mismatch — {len(cropped_figures)} image(s) but "
-                f"{marker_count} marker(s) in text. Review needed."
+                f"Q{q_num}: question image/marker mismatch — {len(cropped_figures)} image(s) "
+                f"but {q_marker_count} marker(s) in question text. Review needed."
             )
+    for ctx_id, ctx_data in extracted_contexts.items():
+        ctx_imgs = ctx_data.get("images", [])
+        if ctx_imgs:
+            ctx_marker_count = len(_MARKER_RE.findall(ctx_data.get("text", "")))
+            if ctx_marker_count != len(ctx_imgs):
+                warnings.append(
+                    f"Q{q_num}: context {ctx_id} image/marker mismatch — {len(ctx_imgs)} "
+                    f"image(s) but {ctx_marker_count} marker(s). Review needed."
+                )
 
     try:
         question = Question(**data)
@@ -281,6 +319,7 @@ def extract_exam(
     year: int | None = None,
     test_name: str = "ENEM",
     debug: bool = False,
+    retry_failed: bool = False,
 ) -> ExamResult:
     prova_pdf = Path(prova_pdf)
     if gabarito_pdf and not str(gabarito_pdf).strip():
@@ -339,12 +378,35 @@ def extract_exam(
 
     # LLM client — resolve model before starting
     model = resolve_model(model, _FALLBACK_MODEL)
-    client = OllamaClient()
+    client = OllamaClient(options={"num_predict": 8192} if retry_failed else None)
 
     all_questions: list[Question] = []
     all_warnings: list[str] = []
     all_figures: list[str] = []
     all_contexts: dict[str, dict] = {}
+
+    # Load or initialise the set of question numbers to (re-)process
+    failed_file = output_dir / "failed_questions.json"
+    failed_q_nums: set[int] = set()
+
+    if retry_failed:
+        if not failed_file.exists():
+            logger.error("No failed_questions.json found in %s — nothing to retry", output_dir)
+            return ExamResult(
+                metadata=ExamMetadata(
+                    year=year, test=test_name, area=area,
+                    prova_pdf=str(prova_pdf),
+                    gabarito_pdf=str(gabarito_pdf) if gabarito_pdf else None,
+                    model=model, page_range=page_range,
+                ),
+                questions=[], figures=[], warnings=[],
+            )
+        retry_nums: set[int] = set(json.loads(failed_file.read_text(encoding="utf-8")))
+        if not retry_nums:
+            logger.info("failed_questions.json is empty — nothing to retry")
+        else:
+            logger.info("Retrying %d failed question(s): %s", len(retry_nums), sorted(retry_nums))
+        failed_q_nums = set(retry_nums)  # will shrink as questions succeed
 
     # Track occurrences of each question number to handle EN/ES duplicates (Q1-5 day 1)
     q_num_occurrences: dict[int, int] = {}
@@ -355,6 +417,24 @@ def extract_exam(
         occurrence = q_num_occurrences.get(block.number, 0)
         q_num_occurrences[block.number] = occurrence + 1
         cache_key = _cache_key(pdf_hash, block.number, occurrence)
+
+        # When retrying, skip questions that aren't in the failed list
+        if retry_failed and block.number not in retry_nums:
+            # Still load from cache so the output file stays complete
+            if cache_key in cache:
+                try:
+                    cached = cache[cache_key]
+                    q_area = area_for_question(block.number, day) if day else area
+                    if q_area is not None:
+                        cached["area"] = q_area
+                    if year is not None:
+                        cached["year"] = year
+                    if gabarito.get(block.number):
+                        cached["answer"] = gabarito[block.number]
+                    all_questions.append(Question(**cached))
+                except Exception:
+                    pass
+            continue
 
         # Detect language for foreign-language variants (day 1, Q1-5)
         is_foreign_q = day == 1 and block.number <= 5
@@ -384,10 +464,6 @@ def extract_exam(
                 logger.warning("Q%d: cache entry invalid, re-extracting", block.number)
 
         if not refine_with_llm:
-            # Skip LLM, produce a minimal question from regex parse
-            from .parse import Block as _Block  # noqa: F401
-            # Use the existing parse_question from enem_parser if available
-            # Otherwise produce a stub
             q_area = area_for_question(block.number, day) if day else area
             stub = Question(
                 number=block.number,
@@ -428,8 +504,21 @@ def extract_exam(
             all_figures.extend(question.images)
             _save_cache(cache_dir, cache_key, question.model_dump())
             all_questions.append(question)
+            failed_q_nums.discard(block.number)
         else:
-            logger.warning("Q%d: skipped (no valid output)", block.number)
+            reason = "; ".join(warnings) if warnings else "unknown reason"
+            logger.warning("Q%d: skipped — %s", block.number, reason)
+            failed_q_nums.add(block.number)
+
+    # Persist (or clear) the failed question list
+    if failed_q_nums:
+        failed_file.write_text(
+            json.dumps(sorted(failed_q_nums), ensure_ascii=False, indent=2), encoding="utf-8"
+        )
+        logger.warning("%d question(s) failed: %s — saved to %s", len(failed_q_nums), sorted(failed_q_nums), failed_file)
+    elif failed_file.exists():
+        failed_file.unlink()
+        logger.info("All questions extracted successfully — removed %s", failed_file)
 
     # Write output JSON — one file per area (split by day), or single file
     test_slug = test_name.lower()

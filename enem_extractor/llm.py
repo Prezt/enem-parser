@@ -152,4 +152,48 @@ def extract_json(response: str) -> str:
         except json.JSONDecodeError:
             pass
 
+    # 5. Truncation recovery — the response was cut off mid-JSON.
+    #    Walk backwards from the end of the text, trimming characters until we find
+    #    a position where json.loads succeeds on the prefix completed with closing braces.
+    brace_match = re.search(r"\{", text)
+    if brace_match:
+        start = brace_match.start()
+        fragment = text[start:]
+        # Count unclosed braces/brackets to figure out what needs to be appended
+        depth_brace = 0
+        depth_bracket = 0
+        in_string = False
+        escape_next = False
+        for ch in fragment:
+            if escape_next:
+                escape_next = False
+                continue
+            if ch == "\\" and in_string:
+                escape_next = True
+                continue
+            if ch == '"':
+                in_string = not in_string
+                continue
+            if in_string:
+                continue
+            if ch == "{":
+                depth_brace += 1
+            elif ch == "}":
+                depth_brace -= 1
+            elif ch == "[":
+                depth_bracket += 1
+            elif ch == "]":
+                depth_bracket -= 1
+        closing = "]" * max(0, depth_bracket) + "}" * max(0, depth_brace)
+        if closing:
+            candidate = fragment.rstrip() + closing
+            try:
+                parsed = json.loads(candidate)
+                logger.warning("Recovered truncated JSON by appending %r", closing)
+                if isinstance(parsed, dict) and "questions" in parsed:
+                    return candidate
+                return f"[{candidate}]"
+            except json.JSONDecodeError:
+                pass
+
     raise ValueError(f"Could not extract valid JSON from response (first 200 chars): {text[:200]!r}")

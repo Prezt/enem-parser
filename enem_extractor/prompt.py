@@ -25,20 +25,25 @@ def build_extraction_prompt(
 
     if has_image_marker and image_count > 0:
         image_instruction = f"""
-- This question has exactly {image_count} image(s). You MUST insert exactly {image_count} bracket \
-placeholder(s) in `text`, one per image, at the position each figure appears in the question.
+- This question has exactly {image_count} image(s). Insert one bracket placeholder per image \
+at the exact position where the image appears in the original text:
+  - If the image is inside a reference text (Texto I, Texto II, etc.), insert the placeholder \
+inside that context's `text` field.
+  - If the image appears in the question stem itself, insert it in the question's `text` field.
   Use the most descriptive format that fits:
     [Figura: short description]
     [Gráfico - short description]
     [Infográfico - short description]
     [Esquema - short description]
-  The number of placeholders in `text` must equal the length of the `images` array ({image_count}).
-  Leave `images` as an empty array [] — the pipeline fills in the actual file paths."""
+  Leave all `images` arrays as [] — the pipeline fills in the actual file paths."""
     elif has_image_marker:
         image_instruction = """
-- This question contains one or more figures. Insert one bracket placeholder per figure in `text`:
+- This question contains one or more figures. For each figure, insert a bracket placeholder \
+where it appears in the original:
+  - Inside the matching context's `text` if the figure is part of a reference text.
+  - In the question's `text` if the figure is in the question stem itself.
     [Figura: short description]  /  [Gráfico - short description]  /  [Esquema - short description]
-  Leave `images` as []."""
+  Leave all `images` arrays as []."""
     else:
         image_instruction = ""
 

@@ -39,6 +39,7 @@ def cmd_extract(args: argparse.Namespace) -> None:
         refine_with_llm=not args.no_llm,
         year=args.year,
         debug=args.debug,
+        retry_failed=args.retry_failed,
     )
 
 
@@ -123,6 +124,11 @@ def main() -> None:
     extract_parser.add_argument("--year", type=int, help="Exam year (e.g. 2024)")
     extract_parser.add_argument("--no-llm", action="store_true", help="Skip LLM extraction")
     extract_parser.add_argument("--debug", action="store_true", help="Save debug files per stage")
+    extract_parser.add_argument(
+        "--retry-failed",
+        action="store_true",
+        help="Re-run only questions that failed in a previous extraction (reads failed_questions.json from output dir)",
+    )
     extract_parser.set_defaults(func=cmd_extract)
 
     # --- validate ---

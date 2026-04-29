@@ -31,14 +31,13 @@ pip install -e .
 ## Usage
 
 ```bash
-# Extract with gabarito (answer key)
-enem-extract extract matematica_2024_enem.pdf gabarito_2024.pdf \
-  --area matematica \
+# Extract full day 2 (nature + math) with gabarito (answer key)
+enem-extract extract enem_2024_dia2.pdf gabarito_2024.pdf \
+  --day 2 \
   --year 2024 \
-  --pages 1-45 \
-  --output output/matematica_2024
+  --output output/enem_2024_dia2
 
-# Extract without answer key, debug mode
+# Extract a single area without answer key, debug mode
 enem-extract extract linguagens_2024.pdf \
   --area linguagens \
   --year 2024 \
@@ -50,6 +49,19 @@ enem-extract validate output/matematica_2024/questions_matematica_2024.json
 # Print questions that need manual review
 enem-extract review output/matematica_2024/questions_matematica_2024.json
 ```
+
+### `extract` options
+
+| Option | Description |
+|--------|-------------|
+| `--day {1,2}` | Exam day: `1` = linguagens + humanas, `2` = nature + math. Assigns area automatically by question number range. |
+| `--area {math,nature,linguagens,humanas}` | Exam area — used when `--day` is not set. |
+| `--year YEAR` | Exam year (e.g. `2024`). Written into every question and the metadata block. |
+| `--pages START-END` | 1-indexed page range to process (e.g. `1-45`). |
+| `--output / -o` | Output directory (default: `output`). |
+| `--model MODEL` | Ollama model name (default: `qwen2.5:14b-instruct`). |
+| `--no-llm` | Skip LLM extraction (layout + gabarito only). |
+| `--debug` | Save per-stage debug files under `debug/`. |
 
 Output directory structure:
 
