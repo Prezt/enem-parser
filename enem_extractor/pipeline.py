@@ -159,8 +159,8 @@ def _process_block(
     area: Optional[str],
     debug_dir: Optional[Path],
     language_hint: Optional[str] = None,
-) -> tuple[Optional[Question], list[str]]:
-    """Process one question block. Returns (Question | None, warnings)."""
+) -> tuple[Optional[Question], dict, list[str]]:
+    """Process one question block. Returns (Question | None, extracted_contexts, warnings)."""
     warnings: list[str] = []
     q_num = block.number
 
@@ -191,20 +191,29 @@ def _process_block(
         msg = f"Q{q_num}: LLM call failed: {exc}"
         warnings.append(msg)
         logger.warning("%s", msg)
-        return None, warnings
+        return None, {}, warnings
 
     if debug_dir:
         (debug_dir / "responses" / f"{q_num:03d}.txt").write_text(response, encoding="utf-8")
 
+    extracted_contexts: dict = {}
     try:
         json_str = extract_json(response)
-        data_list = json.loads(json_str)
-        if not isinstance(data_list, list) or len(data_list) == 0:
-            raise ValueError("Empty or non-list JSON")
+        parsed = json.loads(json_str)
+        # Support both wrapper format {"questions": [...], "contexts": {...}} and bare array
+        if isinstance(parsed, dict) and "questions" in parsed:
+            data_list = parsed["questions"]
+            extracted_contexts = parsed.get("contexts") or {}
+        elif isinstance(parsed, list):
+            data_list = parsed
+        else:
+            raise ValueError(f"Unexpected JSON shape: {type(parsed)}")
+        if not data_list:
+            raise ValueError("Empty questions list")
         data = data_list[0]
     except (ValueError, json.JSONDecodeError, KeyError) as exc:
         warnings.append(f"Q{q_num}: JSON parse failed: {exc}")
-        return None, warnings
+        return None, {}, warnings
 
     # Merge gabarito answer
     data["answer"] = gabarito.get(q_num)
@@ -253,10 +262,10 @@ def _process_block(
             )
             object.__setattr__(question, "_review_needed", True)
         except Exception:
-            return None, warnings
+            return None, {}, warnings
 
     logger.info("Q%d: OK", q_num) if not warnings else logger.warning("Q%d: %s", q_num, "; ".join(warnings))
-    return question, warnings
+    return question, extracted_contexts, warnings
 
 
 def extract_exam(
@@ -335,6 +344,7 @@ def extract_exam(
     all_questions: list[Question] = []
     all_warnings: list[str] = []
     all_figures: list[str] = []
+    all_contexts: dict[str, dict] = {}
 
     # Track occurrences of each question number to handle EN/ES duplicates (Q1-5 day 1)
     q_num_occurrences: dict[int, int] = {}
@@ -391,7 +401,7 @@ def extract_exam(
             continue
 
         q_area = area_for_question(block.number, day) if day else area
-        question, warnings = _process_block(
+        question, q_contexts, warnings = _process_block(
             block=block,
             next_q_num=next_q_num,
             pdf_path=prova_pdf,
@@ -409,6 +419,10 @@ def extract_exam(
             language_hint=language_hint,
         )
         all_warnings.extend(warnings)
+        # Merge extracted contexts; first extraction wins for a given ID
+        for ctx_id, ctx_data in q_contexts.items():
+            if ctx_id not in all_contexts:
+                all_contexts[ctx_id] = ctx_data
 
         if question:
             all_figures.extend(question.images)
@@ -440,7 +454,7 @@ def extract_exam(
         logger.info("Saved %d questions to %s", len(all_questions), out_json)
 
     # Build and write contexts.json from contextId/contextIds references
-    _write_contexts_json(output_dir, all_questions)
+    _write_contexts_json(output_dir, all_questions, all_contexts)
 
     metadata = ExamMetadata(
         year=year,
@@ -483,10 +497,18 @@ def _question_to_web(q: Question) -> dict:
     return d
 
 
-def _write_contexts_json(output_dir: Path, questions: list[Question]) -> None:
+def _write_contexts_json(
+    output_dir: Path,
+    questions: list[Question],
+    extracted_contexts: dict[str, dict] | None = None,
+) -> None:
     """
     Collect all contextId/contextIds referenced by questions and write contexts.json.
-    Stubs are written for any ID not already present; existing entries are preserved.
+
+    - Existing entries with non-empty text are never overwritten (preserves user edits).
+    - Existing stub entries (empty text) are updated with freshly extracted content.
+    - New IDs get the extracted content if available, otherwise an empty stub.
+    - The file is always additive: no previously stored entry is removed.
     """
     contexts_path = output_dir / "contexts.json"
     existing: dict = {}
@@ -495,6 +517,8 @@ def _write_contexts_json(output_dir: Path, questions: list[Question]) -> None:
             existing = json.loads(contexts_path.read_text(encoding="utf-8"))
         except (json.JSONDecodeError, OSError):
             pass
+
+    extracted = extracted_contexts or {}
 
     all_ids: set[str] = set()
     for q in questions:
@@ -505,13 +529,19 @@ def _write_contexts_json(output_dir: Path, questions: list[Question]) -> None:
 
     for ctx_id in sorted(all_ids):
         if ctx_id not in existing:
-            existing[ctx_id] = {
+            # New entry — use extracted content or fall back to stub
+            existing[ctx_id] = extracted.get(ctx_id) or {
                 "title": None,
                 "subtitle": None,
                 "text": "",
                 "images": [],
                 "reference": None,
             }
+        else:
+            # Entry exists — only update if its text is empty and we have extracted content
+            current_text = existing[ctx_id].get("text", "")
+            if not current_text and ctx_id in extracted:
+                existing[ctx_id].update(extracted[ctx_id])
 
     if existing:
         contexts_path.write_text(

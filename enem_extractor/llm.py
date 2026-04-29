@@ -107,12 +107,14 @@ def extract_json(response: str) -> str:
     """
     text = response.strip()
 
-    # 1. Direct parse — normalise to array
+    # 1. Direct parse — keep wrapper objects as-is; normalise bare dicts to array
     try:
         parsed = json.loads(text)
         if isinstance(parsed, list):
             return text
         if isinstance(parsed, dict):
+            if "questions" in parsed:
+                return text  # wrapper format — return as-is
             return f"[{text}]"
     except json.JSONDecodeError:
         pass
@@ -137,12 +139,15 @@ def extract_json(response: str) -> str:
         except json.JSONDecodeError:
             pass
 
-    # 4. Extract first JSON object and wrap
+    # 4. Extract first JSON object — keep as-is if it's a wrapper (has "questions" key),
+    #    otherwise wrap in array for backward compat with single-question dicts
     obj_match = re.search(r"(\{[\s\S]*\})", text)
     if obj_match:
         candidate = obj_match.group(1).strip()
         try:
-            json.loads(candidate)
+            parsed = json.loads(candidate)
+            if isinstance(parsed, dict) and "questions" in parsed:
+                return candidate
             return f"[{candidate}]"
         except json.JSONDecodeError:
             pass
