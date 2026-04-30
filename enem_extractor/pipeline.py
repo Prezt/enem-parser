@@ -510,6 +510,21 @@ def extract_exam(
             reason = "; ".join(warnings) if warnings else "unknown reason"
             logger.warning("Q%d: skipped — %s", block.number, reason)
             failed_q_nums.add(block.number)
+            # On retry, fall back to old cache entry so the question isn't dropped from output
+            if retry_failed and cache_key in cache:
+                try:
+                    cached = cache[cache_key]
+                    q_area = area_for_question(block.number, day) if day else area
+                    if q_area is not None:
+                        cached["area"] = q_area
+                    if year is not None:
+                        cached["year"] = year
+                    if gabarito.get(block.number):
+                        cached["answer"] = gabarito[block.number]
+                    all_questions.append(Question(**cached))
+                    logger.info("Q%d: retry failed, kept previous cached entry", block.number)
+                except Exception:
+                    pass
 
     # Persist (or clear) the failed question list
     if failed_q_nums:
