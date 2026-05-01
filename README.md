@@ -37,6 +37,9 @@ enem-extract extract enem_2024_dia2.pdf gabarito_2024.pdf \
   --year 2024 \
   --output output/enem_2024_dia2
 
+enem-extract extract data/2021_PV_impresso_D1_CD1.pdf data/2021_GB_impresso_D1_CD1.pdf --day 1 --year 2021 --output output/2021 --provider anthropic --model claude-haiku-4-5-20251001
+enem-extract extract data/2021_PV_impresso_D2_CD7.pdf data/2021_GB_impresso_D2_CD7.pdf --day 2 --year 2021 --output output/2021 --provider anthropic --model claude-haiku-4-5-20251001
+
 # Extract a single area without answer key, debug mode
 enem-extract extract linguagens_2024.pdf \
   --area linguagens \

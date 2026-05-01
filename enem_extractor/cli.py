@@ -28,6 +28,13 @@ def _parse_page_range(s: str) -> tuple[int, int]:
 
 
 def cmd_extract(args: argparse.Namespace) -> None:
+    prova_path = Path(args.prova)
+    if not prova_path.exists():
+        logger.error("Exam PDF not found: %s", prova_path.resolve())
+        sys.exit(1)
+    if args.gabarito and not Path(args.gabarito).exists():
+        logger.error("Answer key PDF not found: %s", Path(args.gabarito).resolve())
+        sys.exit(1)
     extract_exam(
         prova_pdf=args.prova,
         gabarito_pdf=args.gabarito,
@@ -36,6 +43,7 @@ def cmd_extract(args: argparse.Namespace) -> None:
         page_range=args.pages,
         output_dir=args.output,
         model=args.model,
+        provider=args.provider,
         refine_with_llm=not args.no_llm,
         year=args.year,
         debug=args.debug,
@@ -117,9 +125,15 @@ def main() -> None:
     )
     extract_parser.add_argument("--output", "-o", default="output", help="Output directory")
     extract_parser.add_argument(
+        "--provider",
+        choices=["ollama", "anthropic"],
+        default="ollama",
+        help="LLM provider: 'ollama' (local, default) or 'anthropic' (Claude API, reads ANTHROPIC_API_KEY)",
+    )
+    extract_parser.add_argument(
         "--model",
         default=_DEFAULT_MODEL,
-        help=f"Ollama model name (default: {_DEFAULT_MODEL}, fallback: {_FALLBACK_MODEL})",
+        help=f"Model name — Ollama model (default: {_DEFAULT_MODEL}) or Claude model when --provider=anthropic (default: claude-haiku-4-5)",
     )
     extract_parser.add_argument("--year", type=int, help="Exam year (e.g. 2024)")
     extract_parser.add_argument("--no-llm", action="store_true", help="Skip LLM extraction")

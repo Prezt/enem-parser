@@ -12,6 +12,8 @@ dependencies = [
     "pillow>=10",
     "pydantic>=2",
     "requests>=2.31",
+    "anthropic>=0.90",
+    "python-dotenv>=1.0",
 ]
 
 [project.scripts]

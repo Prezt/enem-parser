@@ -23,6 +23,7 @@ class Question(BaseModel):
     area: Optional[str] = None
 
     # Optional
+    difficulty: Optional[int] = None
     images: list[str] = []
     contextId: Optional[str] = None
     contextIds: Optional[list[str]] = None
@@ -50,6 +51,13 @@ class Question(BaseModel):
     @classmethod
     def images_use_forward_slashes(cls, v: list[str]) -> list[str]:
         return [p.replace("\\", "/") for p in v]
+
+    @field_validator("difficulty")
+    @classmethod
+    def difficulty_must_be_valid(cls, v: Optional[int]) -> Optional[int]:
+        if v is not None and not (1 <= v <= 10):
+            raise ValueError(f"difficulty must be between 1 and 10, got {v!r}")
+        return v
 
     @field_validator("language")
     @classmethod

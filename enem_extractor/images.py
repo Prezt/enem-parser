@@ -130,6 +130,49 @@ def expand_bbox_to_caption(bbox: Bbox, text_dict: dict) -> Bbox:
     return Bbox(x0=bbox.x0, y0=bbox.y0, x1=bbox.x1, y1=new_y1)
 
 
+def find_figure_regions_by_gaps(
+    pdf_path: str | Path,
+    page_idx: int,
+    y_top: float,
+    y_bottom: float,
+    min_gap_pts: float = 35.0,
+) -> list[Bbox]:
+    """
+    Detect figure regions by finding vertical gaps between text blocks.
+    Works for both raster and vector figures since both create text-free zones.
+    Returns a list of Bbox for each gap found within [y_top, y_bottom].
+    """
+    with fitz.open(str(pdf_path)) as doc:
+        page = doc[page_idx]
+        page_w = page.rect.width
+        text_blocks = page.get_text("blocks")  # (x0, y0, x1, y1, text, block_no, type)
+
+    # Only text blocks (type 0) inside the question region
+    text_ys = []
+    for b in text_blocks:
+        if b[6] != 0:
+            continue
+        by0, by1 = b[1], b[3]
+        # block must overlap the question region
+        if by1 < y_top or by0 > y_bottom:
+            continue
+        text_ys.append((max(by0, y_top), min(by1, y_bottom)))
+
+    if not text_ys:
+        return []
+
+    text_ys.sort()
+
+    gaps: list[Bbox] = []
+    prev_end = y_top
+    for (start, end) in text_ys:
+        if start - prev_end >= min_gap_pts:
+            gaps.append(Bbox(x0=0.0, y0=prev_end, x1=page_w, y1=start))
+        prev_end = max(prev_end, end)
+
+    return gaps
+
+
 def crop_figure(
     png_path: str | Path,
     bbox_pts: Bbox,

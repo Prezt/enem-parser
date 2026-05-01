@@ -2,10 +2,21 @@ from __future__ import annotations
 
 import json
 import logging
+import os
 import re
 import time
+from pathlib import Path
 
 import requests
+
+# Load .env from project root if present
+_env_file = Path(__file__).parent.parent / ".env"
+if _env_file.exists():
+    try:
+        from dotenv import load_dotenv
+        load_dotenv(_env_file)
+    except ImportError:
+        pass
 
 logger = logging.getLogger(__name__)
 
@@ -93,6 +104,44 @@ class OllamaClient:
                 time.sleep(wait)
 
         raise RuntimeError(f"Ollama unreachable after 3 attempts: {last_exc}")
+
+
+class AnthropicClient:
+    """Claude API client with assistant-turn prefill to force JSON output."""
+
+    DEFAULT_MODEL = "claude-haiku-4-5-20251001"
+    RETRY_MODEL = "claude-sonnet-4-6"
+
+    def __init__(self, model: str | None = None, api_key: str | None = None):
+        try:
+            import anthropic as _anthropic
+        except ImportError:
+            raise RuntimeError("anthropic package not installed — run: pip install anthropic")
+
+        self._anthropic = _anthropic
+        self.model = model or self.DEFAULT_MODEL
+        self.api_key = api_key or os.environ.get("ANTHROPIC_API_KEY")
+        if not self.api_key:
+            raise RuntimeError(
+                "ANTHROPIC_API_KEY not set — add it to .env or export it in your shell"
+            )
+        self._client = _anthropic.Anthropic(api_key=self.api_key)
+
+    def generate(self, prompt: str, model: str | None = None, timeout: int = 300) -> str:
+        """Send prompt and return the text response, prefilling with '{' to force JSON."""
+        use_model = model or self.model
+        # Prefill assistant turn with '{' so the model must continue from valid JSON
+        response = self._client.messages.create(
+            model=use_model,
+            max_tokens=4096,
+            messages=[
+                {"role": "user", "content": prompt},
+                {"role": "assistant", "content": "{"},
+            ],
+        )
+        # The model's continuation starts after our prefill — prepend '{' back
+        continuation = response.content[0].text
+        return "{" + continuation
 
 
 def extract_json(response: str) -> str:

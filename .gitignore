@@ -17,3 +17,4 @@ build/
 # Pytest / tools
 .pytest_cache/
 .ruff_cache/
+.env

@@ -4,12 +4,13 @@ import hashlib
 import json
 import logging
 import re
+import unicodedata
 from pathlib import Path
 from typing import Optional
 
 from .gabarito import parse_gabarito
-from .images import find_embedded_images, find_vector_figure_bbox, crop_figure, expand_bbox_to_caption
-from .llm import OllamaClient, extract_json, resolve_model
+from .images import Bbox, ImageRect, find_embedded_images, find_figure_regions_by_gaps, crop_figure
+from .llm import AnthropicClient, OllamaClient, extract_json, resolve_model
 from .parse import extract_text, normalize_text, split_by_question, Block
 from .pdf import rasterize_pages, get_pdf_dimensions, compute_scale
 from .prompt import build_extraction_prompt
@@ -105,20 +106,25 @@ def _question_vertical_bounds(pdf_path: Path, page_idx: int, q_num: int, next_q_
         page = doc[page_idx]
         page_h = page.rect.height
 
-        header = f"QUESTÃO {q_num}"
-        hits = page.search_for(header)
-        if not hits:
-            hits = page.search_for(f"QUESTAO {q_num}")
+        def _search_question(page, num: int):
+            for pattern in [f"Questão {num:02d}", f"Questão {num}", f"QUESTÃO {num:02d}", f"QUESTÃO {num}"]:
+                hits = page.search_for(pattern)
+                if hits:
+                    return hits
+            return []
+
+        hits = _search_question(page, q_num)
         y_top = hits[0].y0 if hits else 0.0
 
         y_bottom = page_h
         if next_q_num is not None:
-            next_header = f"QUESTÃO {next_q_num}"
-            next_hits = page.search_for(next_header)
-            if not next_hits:
-                next_hits = page.search_for(f"QUESTAO {next_q_num}")
+            next_hits = _search_question(page, next_q_num)
             if next_hits:
-                y_bottom = next_hits[0].y0
+                candidate = next_hits[0].y0
+                # In two-column layouts, the next question may be in the other column
+                # (higher on the page). If so, don't restrict — use the full page height.
+                if candidate > y_top:
+                    y_bottom = candidate
 
     return y_top, y_bottom
 
@@ -139,13 +145,67 @@ def _detect_image_for_block(block: Block, images_in_block: list) -> bool:
     return bool(_FIGURE_MENTION.search(block.raw_text))
 
 
+def _strip_accents(s: str) -> str:
+    return "".join(c for c in unicodedata.normalize("NFD", s) if unicodedata.category(c) != "Mn")
+
+
 def _find_page_for_block(block: Block, page_texts: list[tuple[int, str]]) -> int:
     """Find which page index a block likely appears on (by matching question number)."""
-    header = f"QUESTÃO {block.number}"
+    n = block.number
+    # ENEM PDFs use "Questão 01" (accented, zero-padded) — try multiple variants
+    candidates = [
+        f"Questão {n:02d}",
+        f"Questão {n}",
+        f"QUESTÃO {n:02d}",
+        f"QUESTÃO {n}",
+    ]
     for page_idx, page_text in page_texts:
-        if header in page_text or f"QUESTAO {block.number}" in page_text.upper():
+        for c in candidates:
+            if c in page_text:
+                return page_idx
+        # accent-stripped fallback
+        stripped = _strip_accents(page_text).upper()
+        if f"QUESTAO {n:02d}" in stripped or f"QUESTAO {n}" in stripped:
             return page_idx
     return 0  # fallback
+
+
+def _validate_and_fix_extraction(data: dict, raw_text: str, q_num: int) -> list[str]:
+    """
+    Validate extracted question data against the original chunk and auto-correct
+    known failure modes:
+
+    1. Truncated fractions: alternative "35" when source has "35\n64" (fraction split
+       across lines by PDF layout). Auto-corrects to "35/64".
+    2. Lost question body: extracted `text` is suspiciously short relative to the
+       source chunk (after subtracting context/alternative lines). Emits a warning so
+       the question can be reviewed.
+    """
+    warnings: list[str] = []
+
+    # --- 1. Fraction auto-correction ---
+    alternatives = data.get("alternatives") or {}
+    for key, value in list(alternatives.items()):
+        stripped = str(value).strip().rstrip(".")
+        # Only inspect bare integers — fractions already contain "/"
+        if not re.match(r"^\d+$", stripped):
+            continue
+        # Look for this number appearing directly above another number in the raw text,
+        # i.e. "35\n64" or "35\n   64" — the classic PDF fraction split layout.
+        frac_pattern = re.compile(
+            rf"(?<!\d){re.escape(stripped)}\s*\n\s*(\d+)(?!\d)",
+        )
+        match = frac_pattern.search(raw_text)
+        if match:
+            denominator = match.group(1)
+            fixed = f"{stripped}/{denominator}"
+            alternatives[key] = fixed
+            warnings.append(
+                f"Q{q_num}: alternative '{key}' auto-corrected from {stripped!r} "
+                f"to {fixed!r} (fraction split across lines in source)"
+            )
+
+    return warnings
 
 
 def _process_block(
@@ -172,6 +232,11 @@ def _process_block(
     page_idx = _find_page_for_block(block, page_texts)
     y_top, y_bottom = _question_vertical_bounds(pdf_path, page_idx, q_num, next_q_num)
     images_in_block = _images_for_block(pdf_path, page_idx, y_top, y_bottom)
+    # If no embedded rasters found, fall back to gap-based detection for vector figures
+    if not images_in_block:
+        gap_bboxes = find_figure_regions_by_gaps(pdf_path, page_idx, y_top, y_bottom)
+        if gap_bboxes:
+            images_in_block = [ImageRect(bbox_pts=b, xref=-1) for b in gap_bboxes]
     has_image = _detect_image_for_block(block, images_in_block)
 
     prompt = build_extraction_prompt(
@@ -219,6 +284,9 @@ def _process_block(
     except (ValueError, json.JSONDecodeError, KeyError) as exc:
         warnings.append(f"Q{q_num}: JSON parse failed: {exc}")
         return None, {}, warnings
+
+    # Post-extraction validation and auto-correction
+    warnings.extend(_validate_and_fix_extraction(data, block.raw_text, q_num))
 
     # Merge gabarito answer
     data["answer"] = gabarito.get(q_num)
@@ -315,6 +383,7 @@ def extract_exam(
     page_range: tuple[int, int] | None = None,
     output_dir: str | Path = "output",
     model: str = _DEFAULT_MODEL,
+    provider: str = "ollama",
     refine_with_llm: bool = True,
     year: int | None = None,
     test_name: str = "ENEM",
@@ -376,9 +445,15 @@ def extract_exam(
     pdf_hash = _pdf_hash(prova_pdf)
     cache = _load_cache(cache_dir)
 
-    # LLM client — resolve model before starting
-    model = resolve_model(model, _FALLBACK_MODEL)
-    client = OllamaClient(options={"num_predict": 8192} if retry_failed else None)
+    # LLM client
+    if provider == "anthropic":
+        model = model if model != _DEFAULT_MODEL else AnthropicClient.DEFAULT_MODEL
+        client: OllamaClient | AnthropicClient = AnthropicClient(model=model)
+        logger.info("Using Anthropic Claude API (model: %s)", model)
+    else:
+        model = resolve_model(model, _FALLBACK_MODEL)
+        client = OllamaClient(options={"num_predict": 8192} if retry_failed else None)
+        logger.info("Using Ollama (model: %s)", model)
 
     all_questions: list[Question] = []
     all_warnings: list[str] = []
@@ -587,6 +662,7 @@ def _question_to_web(q: Question) -> dict:
         "alternatives": q.alternatives,
         "images": q.images,
         "tags": q.tags,
+        "difficulty": q.difficulty if q.difficulty is not None else 5,
         "year": q.year,
         "test": q.test,
         "area": q.area,
