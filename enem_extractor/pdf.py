@@ -12,6 +12,7 @@ def rasterize_pages(
     dpi: int = 200,
     first_page: int | None = None,
     last_page: int | None = None,
+    prefix: str = "page",
 ) -> list[Path]:
     """Rasterize PDF pages to PNG via pdftoppm. Returns sorted list of PNG paths."""
     out_dir = Path(out_dir)
@@ -23,14 +24,13 @@ def rasterize_pages(
     if last_page is not None:
         cmd += ["-l", str(last_page)]
 
-    prefix = out_dir / "page"
-    cmd += [str(pdf_path), str(prefix)]
+    cmd += [str(pdf_path), str(out_dir / prefix)]
 
     result = subprocess.run(cmd, capture_output=True, text=True)
     if result.returncode != 0:
         raise RuntimeError(f"pdftoppm failed: {result.stderr}")
 
-    return sorted(out_dir.glob("page-*.png"))
+    return sorted(out_dir.glob(f"{prefix}-*.png"))
 
 
 def get_pdf_dimensions(pdf_path: str | Path) -> tuple[float, float]:

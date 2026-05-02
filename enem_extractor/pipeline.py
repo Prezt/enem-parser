@@ -405,8 +405,9 @@ def extract_exam(
     png_dir = output_dir / "pages"
     first_page = page_range[0] if page_range else None
     last_page = page_range[1] if page_range else None
+    page_prefix = f"page-d{day}-{year}" if (day and year) else "page"
     logger.info("Rasterizing pages...")
-    png_paths = rasterize_pages(prova_pdf, png_dir, dpi=200, first_page=first_page, last_page=last_page)
+    png_paths = rasterize_pages(prova_pdf, png_dir, dpi=200, first_page=first_page, last_page=last_page, prefix=page_prefix)
 
     # Compute per-axis scale using first PNG
     scale_x, scale_y = (1.0, 1.0)
