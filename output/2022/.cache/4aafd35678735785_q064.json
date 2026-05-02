@@ -1,0 +1,23 @@
+{
+  "number": 64,
+  "text": "A interação dinâmica entre as forças naturais citadas avorece a ocupação do espaço geográfico, na medida que provoca a formação de",
+  "alternatives": {
+    "a": "solos vulcânicos.",
+    "b": "dorsais oceânicas.",
+    "c": "relevos escarpados.",
+    "d": "superfícies lateríticas.",
+    "e": "dobramentos modernos."
+  },
+  "answer": "a",
+  "tags": [
+    "geografia",
+    "ciências naturais"
+  ],
+  "year": 2022,
+  "test": "ENEM",
+  "area": "humanas",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

@@ -1,0 +1,23 @@
+{
+  "number": 60,
+  "text": "Negar o pedido por dinheiro indispensável para eecessidades pessoais ou comprar bens usando o nome a pessoa sem o consentimento dela. Ameaçar o corte e recursos dependendo de atitudes pessoais, esconder odocumentos ou trocar senhas do banco sem avisar. Ou, ainda, proibir a pessoa de trabalhar ou destruir seus ertences. As histórias são comuns, mas às vezes não são econhecidas como abuso. Mas é uma das cinco formas de conduta contra a mulher previstas na Lei Maria da Penha. O texto apresenta tipos de conduta sujeitos a punição, conforme previsto na Lei Maria da Penha, porque onsistem em formas de",
+  "alternatives": {
+    "a": "ação difamatória.",
+    "b": "desvio comportamental.",
+    "c": "expressão preconceituosa.",
+    "d": "violência patrimonial.",
+    "e": "desentendimento matrimonial."
+  },
+  "answer": "d",
+  "tags": [
+    "lei maria da penha",
+    "violencia contra a mulher"
+  ],
+  "year": 2023,
+  "test": "ENEM",
+  "area": "humanas",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

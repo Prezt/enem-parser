@@ -1,0 +1,28 @@
+{
+  "number": 4,
+  "text": "Com o impacto das tecnologias e a ampliação das redes sociais, consumidores encontram na internet possibilidades de opinar sobre serviços oferecidos. Nesse sentido, o segundo texto, que é um comentário sobre o site divulgado no primeiro, apresenta a intenção do autor de",
+  "alternatives": {
+    "a": "elogiar o trabalho proposto para a educação nessa era tecnológica.",
+    "b": "reforçar como a mídia pode contribuir para revolucionar a educação.",
+    "c": "chamar a atenção das pessoas influentes para o significado da educação.",
+    "d": "destacar que o site tem melhores resultados do que a educação tradicional.",
+    "e": "criticar a concepção de educação em que se baseia a organização."
+  },
+  "answer": "e",
+  "tags": [
+    "interpretação de texto",
+    "gêneros textuais",
+    "língua inglesa"
+  ],
+  "year": 2018,
+  "test": "ENEM",
+  "area": "linguagens",
+  "difficulty": 5,
+  "images": [],
+  "contextId": null,
+  "contextIds": [
+    "enem_2018_linguagens_ctx1",
+    "enem_2018_linguagens_ctx2"
+  ],
+  "language": "en"
+}

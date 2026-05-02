@@ -1,0 +1,1137 @@
+[
+  {
+    "number": 1,
+    "text": "Os recursos usados nesse pôster de divulgação de uma campanha levam o leitor a refletir sobre a necessidade de",
+    "alternatives": {
+      "a": "criticar o tipo de tratamento dado à mulher.",
+      "b": "rever o desempenho da mulher no trabalho.",
+      "c": "questionar a sobrecarga de atribuições da mulher.",
+      "d": "analisar as pesquisas acerca dos direitos da mulher.",
+      "e": "censurar a mulher pelo uso de determinadas palavras."
+    },
+    "images": [],
+    "tags": [
+      "interpretação de texto",
+      "comunicação e mídia"
+    ],
+    "difficulty": 6,
+    "year": 2020,
+    "test": "ENEM",
+    "area": "linguagens",
+    "answer": "a",
+    "contextId": "enem_2020_linguagens_01_ctx1"
+  },
+  {
+    "number": 2,
+    "text": "Nesse pôster de divulgação de uma campanha que aborda a diversidade e a inclusão, a interação dos elementos verbais e não verbais faz referência ao ato de",
+    "alternatives": {
+      "a": "estereotipar povos de certas culturas.",
+      "b": "discriminar hábitos de grupos minoritários.",
+      "c": "banir imigrantes de determinadas origens.",
+      "d": "julgar padrões de beleza de diversas etnias.",
+      "e": "desvalorizar costumes de algumas sociedades."
+    },
+    "images": [],
+    "tags": [
+      "interpretação de texto",
+      "comunicação e mídia"
+    ],
+    "difficulty": 5,
+    "year": 2020,
+    "test": "ENEM",
+    "area": "linguagens",
+    "answer": "a",
+    "contextIds": [
+      "enem_2020_linguagens_ctx1"
+    ]
+  },
+  {
+    "number": 3,
+    "text": "O escritor nigeriano Chinua Achebe traz uma reflexão sobre a situação dos refugiados em um cenário pós-guerra civil em seu país. Essa reflexão é construída no poema por meio da representação de uma mãe, explorando a(s)",
+    "alternatives": {
+      "a": "demonstração de orgulho por não precisar pedir doações.",
+      "b": "descrições artísticas detalhadas de uma obra conhecida.",
+      "c": "aceitação de um diagnóstico de doença terminal do filho.",
+      "d": "consternação ao visitar o túmulo do filho recém-falecido.",
+      "e": "impressões sensoriais experimentadas no ambiente."
+    },
+    "images": [],
+    "tags": [
+      "interpretação de texto",
+      "literatura mundial",
+      "gêneros textuais"
+    ],
+    "difficulty": 6,
+    "year": 2020,
+    "test": "ENEM",
+    "area": "linguagens",
+    "answer": "e",
+    "contextId": "enem_2020_linguagens_ctx1",
+    "language": "en"
+  },
+  {
+    "number": 4,
+    "text": "No poema de Robert Frost, as palavras \"fault\" e \"blame\" revelam por parte do eu lírico uma",
+    "alternatives": {
+      "a": "culpa por não poder cuidar do pássaro.",
+      "b": "atitude errada por querer matar o pássaro.",
+      "c": "necessidade de entender o silêncio do pássaro.",
+      "d": "sensibilização com relação à natureza do pássaro.",
+      "e": "irritação quanto à persistência do canto do pássaro."
+    },
+    "images": [],
+    "tags": [
+      "interpretação de texto",
+      "literatura mundial",
+      "língua inglesa"
+    ],
+    "difficulty": 6,
+    "year": 2020,
+    "test": "ENEM",
+    "area": "linguagens",
+    "answer": "d",
+    "contextId": "enem_2020_linguagens_ctx1",
+    "language": "en"
+  },
+  {
+    "number": 5,
+    "text": "A passagem do romance da escritora nigeriana traz um diálogo entre duas mulheres negras: a cabeleireira, Aisha, e a cliente, Ifemelu. O posicionamento da cliente é sustentado por argumentos que",
+    "alternatives": {
+      "a": "reforçam um padrão de beleza.",
+      "b": "retratam um conflito de gerações.",
+      "c": "revelam uma atitude de resistência.",
+      "d": "demonstram uma postura de imaturidade.",
+      "e": "evidenciam uma mudança de comportamento."
+    },
+    "images": [],
+    "tags": [
+      "interpretação de texto",
+      "literatura mundial"
+    ],
+    "difficulty": 6,
+    "year": 2020,
+    "test": "ENEM",
+    "area": "linguagens",
+    "answer": "c",
+    "contextId": "enem_2020_linguagens_ctx1",
+    "language": "en"
+  },
+  {
+    "number": 1,
+    "text": "Rubén Blades é um compositor panamenho de canções socialmente engajadas. O título Pablo Pueblo, associado ao conteúdo da letra da canção, revela uma crítica social ao",
+    "alternatives": {
+      "a": "contrapor a individualidade de um sujeito a uma estrutura social marcada pela decepção na atuação política.",
+      "b": "demonstrar que o problema sofrido pelo indivíduo atinge toda a comunidade.",
+      "c": "relativizar a importância que se dá ao sofrimento individual em uma estrutura social baseada na exploração.",
+      "d": "descrever a vida de um sujeito que nunca resolve suas inquietações e, por isso, mantém-se silencioso.",
+      "e": "usar um apelido jocoso para designar a atuação de um indivíduo em seu próprio bairro."
+    },
+    "images": [],
+    "tags": [
+      "interpretação de texto",
+      "literatura mundial"
+    ],
+    "difficulty": 5,
+    "year": 2020,
+    "test": "ENEM",
+    "area": "linguagens",
+    "answer": "a",
+    "contextId": "enem_2020_linguagens_es_ctx1",
+    "language": "es"
+  },
+  {
+    "number": 2,
+    "text": "Transformar palavras em atitudes tem sido um dos grandes dilemas dos intelectuais. Ao ponderar sobre essa temática, o autor, um dos grandes críticos e literatos latino-americanos da atualidade, leva o leitor a perceber que",
+    "alternatives": {
+      "a": "o compromisso político afasta o artista da criação.",
+      "b": "os costumes sociais governam a linguagem e as atitudes das pessoas.",
+      "c": "o compromisso ideológico de alguns intelectuais está refletido em suas obras.",
+      "d": "a complexidade relacionada ao conceito de liberdade impede o compromisso.",
+      "e": "os intelectuais latino-americanos têm um posicionamento acrítico perante o poder."
+    },
+    "images": [],
+    "tags": [
+      "interpretação de texto",
+      "língua espanhola"
+    ],
+    "difficulty": 6,
+    "year": 2020,
+    "test": "ENEM",
+    "area": "linguagens",
+    "answer": "a",
+    "contextId": "enem_2020_linguagens_es_ctx1",
+    "language": "es"
+  },
+  {
+    "number": 3,
+    "text": "Nessa resenha crítica acerca do filme Relatos Salvajes, o autor evidencia o",
+    "alternatives": {
+      "a": "cômico como fuga da sociedade diante de situações violentas.",
+      "b": "estado de apatia da sociedade perante a violência rotineira do mundo atual.",
+      "c": "empecilho para o espectador vivenciar a violência bruta na realidade e na ficção.",
+      "d": "sotaque reforçado dos personagens a fim de marcar o espaço do cinema argentino.",
+      "e": "autorreconhecimento diante dos diversos tipos de comportamento humano frente à violência."
+    },
+    "images": [],
+    "tags": [
+      "interpretação de texto",
+      "gêneros textuais"
+    ],
+    "difficulty": 6,
+    "year": 2020,
+    "test": "ENEM",
+    "area": "linguagens",
+    "answer": "e",
+    "contextId": "enem_2020_linguagens_es_ctx3",
+    "language": "es"
+  },
+  {
+    "number": 4,
+    "text": "Ao abordar a expropriação de territórios mexicanos pelos Estados Unidos, o eu lírico do poema revela um(a)",
+    "alternatives": {
+      "a": "rejeição da língua utilizada por seus antepassados.",
+      "b": "desejo de pertencimento ao espaço estadunidense.",
+      "c": "certeza de manutenção de suas tradições.",
+      "d": "reivindicação de um mundo unificado.",
+      "e": "sentimento de conflito de identidades."
+    },
+    "images": [],
+    "tags": [
+      "literatura mundial",
+      "interpretação de texto"
+    ],
+    "difficulty": 6,
+    "year": 2020,
+    "test": "ENEM",
+    "area": "linguagens",
+    "answer": "d",
+    "contextId": "enem_2020_linguagens_es_ctx1",
+    "language": "es"
+  },
+  {
+    "number": 5,
+    "text": "No texto, no qual é narrada a visita à casa de uma personagem, a expressão \"entrar con pies de plomo\" é utilizada para se referir ao(à)",
+    "alternatives": {
+      "a": "determinação para conduzir discussões pessoais.",
+      "b": "insensibilidade para lidar com temas do passado.",
+      "c": "discrição para administrar questões financeiras.",
+      "d": "disposição para resolver problemas familiares.",
+      "e": "cuidado para tratar de assuntos íntimos."
+    },
+    "images": [],
+    "tags": [
+      "interpretação de texto",
+      "língua espanhola"
+    ],
+    "difficulty": 5,
+    "year": 2020,
+    "test": "ENEM",
+    "area": "linguagens",
+    "answer": "c",
+    "contextId": "enem_2020_linguagens_es_q5_ctx1",
+    "language": "es"
+  },
+  {
+    "number": 6,
+    "text": "Os processos de interação comunicativa preveem a presença ativa de múltiplos elementos da comunicação, entre os quais se destacam as funções da linguagem. Nesse fragmento, a função da linguagem predominante é",
+    "alternatives": {
+      "a": "emotiva, porque o poeta expõe os sentimentos de angústia que o levaram à criação poética.",
+      "b": "referencial, porque o texto informa sobre a origem do nome empregado em um famoso poema de Bandeira.",
+      "c": "metalinguística, porque o poeta tece comentários sobre a gênese e o processo de escrita de um de seus poemas.",
+      "d": "poética, porque o texto aborda os elementos estéticos de um dos poemas mais conhecidos de Bandeira.",
+      "e": "apelativa, porque o poeta tenta convencer os leitores sobre sua dificuldade de compor um poema."
+    },
+    "images": [],
+    "tags": [
+      "interpretação de texto",
+      "gêneros textuais",
+      "linguística e variação linguística"
+    ],
+    "difficulty": 6,
+    "year": 2020,
+    "test": "ENEM",
+    "area": "linguagens",
+    "answer": "c",
+    "contextId": "enem_2020_linguagens_ctx1"
+  },
+  {
+    "number": 7,
+    "text": "A frase, título do filme, reproduz uma variedade linguística recorrente na fala de muitos brasileiros. Essa estrutura caracteriza-se pelo(a)",
+    "alternatives": {
+      "a": "uso de uma marcação temporal.",
+      "b": "imprecisão do referente de pessoa.",
+      "c": "organização interrogativa da frase.",
+      "d": "utilização de um verbo de ação.",
+      "e": "apagamento de uma preposição."
+    },
+    "images": [],
+    "tags": [
+      "linguística e variação linguística",
+      "interpretação de texto"
+    ],
+    "difficulty": 6,
+    "year": 2020,
+    "test": "ENEM",
+    "area": "linguagens",
+    "answer": "e"
+  },
+  {
+    "number": 8,
+    "text": "Na prática artística mencionada no texto, o corpo assume papel de destaque ao articular diferentes linguagens com o intuito de",
+    "alternatives": {
+      "a": "imprimir ritmo e visibilidade à expressão poética.",
+      "b": "redefinir o espaço de circulação da poesia urbana.",
+      "c": "estimular produções autorais de usuários de Libras.",
+      "d": "traduzir expressões verbais para a língua de sinais.",
+      "e": "proporcionar performances estéticas de pessoas surdas."
+    },
+    "images": [],
+    "tags": [
+      "interpretação de texto",
+      "linguística e variação linguística",
+      "literatura brasileira"
+    ],
+    "difficulty": 5,
+    "year": 2020,
+    "test": "ENEM",
+    "area": "linguagens",
+    "answer": "a",
+    "contextId": "enem_2020_linguagens_ctx1"
+  },
+  {
+    "number": 9,
+    "text": "A leitura do texto permite ao leitor entrar em contato com",
+    "alternatives": {
+      "a": "registros do inventário do português brasileiro.",
+      "b": "justificativas da variedade linguística do país.",
+      "c": "influências da fala do nordestino no uso da língua.",
+      "d": "explorações do falar de um grupo social específico.",
+      "e": "representações da mudança linguística do português"
+    },
+    "images": [],
+    "tags": [
+      "interpretação de texto",
+      "linguística e variação linguística",
+      "literatura brasileira"
+    ],
+    "difficulty": 5,
+    "year": 2020,
+    "test": "ENEM",
+    "area": "linguagens",
+    "answer": "a",
+    "contextId": "enem_2020_linguagens_q9_ctx1"
+  },
+  {
+    "number": 10,
+    "text": "As aspas sinalizam expressões metafóricas empregadas intencionalmente pelo autor do texto para",
+    "alternatives": {
+      "a": "imprimir um tom irônico à reportagem.",
+      "b": "incorporar citações de especialistas à reportagem.",
+      "c": "atribuir maior valor aos metais, objeto da reportagem.",
+      "d": "esclarecer termos científicos empregados na reportagem.",
+      "e": "marcar a apropriação de termos de outra ciência pela reportagem."
+    },
+    "images": [],
+    "tags": [
+      "interpretação de texto",
+      "gêneros textuais"
+    ],
+    "difficulty": 5,
+    "year": 2020,
+    "test": "ENEM",
+    "area": "linguagens",
+    "answer": "c",
+    "contextId": "enem_2020_linguagens_ctx1"
+  },
+  {
+    "number": 11,
+    "text": "No trecho, o narrador mobiliza recursos de linguagem que criam uma expressividade centrada na percepção da",
+    "alternatives": {
+      "a": "relação entre a natureza opressiva e o desejo de libertação da personagem.",
+      "b": "confluência entre o estado emocional da personagem e a configuração da paisagem.",
+      "c": "prevalência do mundo natural em relação à fragilidade humana.",
+      "d": "depreciação do sentido da vida diante da consciência da morte iminente.",
+      "e": "instabilidade psicológica da personagem face à realidade hostil."
+    },
+    "images": [],
+    "tags": [
+      "interpretação de texto",
+      "literatura brasileira"
+    ],
+    "difficulty": 6,
+    "year": 2020,
+    "test": "ENEM",
+    "area": "linguagens",
+    "answer": "b",
+    "contextId": "enem_2020_linguagens_11_ctx1"
+  },
+  {
+    "number": 12,
+    "text": "Ao situar a composição no panorama cultural brasileiro, o Texto II destaca o(a)",
+    "alternatives": {
+      "a": "diálogo que a letra da canção estabelece com diferentes tradições da cultura nacional.",
+      "b": "singularidade com que o compositor converte referências eruditas em populares.",
+      "c": "caráter inovador com que o compositor concebe o processo de criação artística.",
+      "d": "relativização que a letra da canção promove na concepção tradicional de originalidade.",
+      "e": "resgate que a letra da canção promove de obras pouco conhecidas pelo público no país."
+    },
+    "images": [],
+    "tags": [
+      "interpretação de texto",
+      "literatura brasileira",
+      "gêneros textuais"
+    ],
+    "difficulty": 5,
+    "year": 2020,
+    "test": "ENEM",
+    "area": "linguagens",
+    "answer": "a",
+    "contextIds": [
+      "enem_2020_linguagens_ctx1",
+      "enem_2020_linguagens_ctx2"
+    ]
+  },
+  {
+    "number": 13,
+    "text": "A inter-relação entre tecnologia e sociedade tem estimulado a criação de aplicativos. Nesse texto, isso é percebido pelo desenvolvimento de aplicativos para",
+    "alternatives": {
+      "a": "organização de eventos de competições esportivas.",
+      "b": "agendamento de viagens para eventos de esporte amador.",
+      "c": "mapeamento dos interesses dos praticantes acerca dos esportes.",
+      "d": "identificação da escassez de espaços para a vivência dos esportes.",
+      "e": "formação de grupos em comunidades virtuais para a prática esportiva."
+    },
+    "images": [],
+    "tags": [
+      "interpretação de texto",
+      "comunicação e mídia"
+    ],
+    "difficulty": 5,
+    "year": 2020,
+    "test": "ENEM",
+    "area": "linguagens",
+    "answer": "e",
+    "contextId": "enem_2020_linguagens_q13_ctx1"
+  },
+  {
+    "number": 14,
+    "text": "A provocação desse grupo gera um debate em torno da obra de arte pelo(a)",
+    "alternatives": {
+      "a": "recusa a crenças, convicções, valores morais, estéticos e políticos na história moderna.",
+      "b": "frutífero arsenal de materiais e formas que se relacionam com os objetos construídos.",
+      "c": "economia e problemas financeiros gerados pela recessão que tiveram grande impacto no mercado.",
+      "d": "influência desse grupo junto aos estilos pós-modernos que surgiram nos anos 1990.",
+      "e": "interesse em produtos indesejáveis que revela uma consciência sustentável no mercado."
+    },
+    "images": [],
+    "tags": [
+      "artes visuais",
+      "interpretação de texto"
+    ],
+    "difficulty": 6,
+    "year": 2020,
+    "test": "ENEM",
+    "area": "linguagens",
+    "answer": "b",
+    "contextIds": [
+      "enem_2020_linguagens_ctx1",
+      "enem_2020_linguagens_ctx2"
+    ]
+  },
+  {
+    "number": 15,
+    "text": "O esporte é uma manifestação cultural na qual se estabelecem relações sociais. Considerando o texto, o futebol é uma modalidade que",
+    "alternatives": {
+      "a": "apresenta proximidades com o tênis, no que tange às relações de gênero entre homens e mulheres.",
+      "b": "se caracteriza por uma identidade masculina no Brasil, conferindo maior remuneração aos jogadores.",
+      "c": "traz remunerações, aos jogadores e jogadoras, proporcionais aos seus esforços no treinamento esportivo.",
+      "d": "resulta em melhor eficiência para as mulheres e consequentemente, em remuneração mais alta às jogadoras.",
+      "e": "possui jogadores e jogadoras com a mesma visibilidade, apesar de haver expoentes femininas de destaque, como Marta."
+    },
+    "images": [],
+    "tags": [
+      "interpretação de texto",
+      "comunicação e mídia",
+      "cultura e identidade"
+    ],
+    "difficulty": 5,
+    "year": 2020,
+    "test": "ENEM",
+    "area": "linguagens",
+    "answer": "b",
+    "contextId": "enem_2020_linguagens_q15_ctx"
+  },
+  {
+    "number": 16,
+    "text": "As reivindicações dos operários, quanto às condições aviltantes de trabalho a que são submetidos, recebem algumas tentativas de neutralização dos representantes do empregador, das quais a mais forte é o(a)",
+    "alternatives": {
+      "a": "sequência de atribuição de responsabilidades e de poder decisório a terceiros.",
+      "b": "solicitação em nome dos prejuízos e compromissos para entrega da obra.",
+      "c": "intimidação pela discreta presença de um agente de segurança na cena.",
+      "d": "promessa de imediato atendimento da carência sexual dos operários.",
+      "e": "apelo pela identificação com a empresa extensiva ao amor patriótico."
+    },
+    "images": [],
+    "tags": [
+      "interpretação de texto",
+      "gêneros textuais"
+    ],
+    "difficulty": 6,
+    "year": 2020,
+    "test": "ENEM",
+    "area": "linguagens",
+    "answer": "e",
+    "contextId": "enem_2020_linguagens_ctx1"
+  },
+  {
+    "number": 17,
+    "text": "Com base no texto, a relação entre saúde e estilos de vida",
+    "alternatives": {
+      "a": "constrói a ideia de que a mudança individual de hábitos promove a saúde.",
+      "b": "considera a homogeneidade da escolha de hábitos saudáveis pelos indivíduos.",
+      "c": "reforça a necessidade de solucionar os problemas de saúde da sociedade com a prática de exercícios.",
+      "d": "problematiza a organização social e seu impacto na mudança de hábitos dos indivíduos.",
+      "e": "reproduz a noção de que a melhoria da aptidão física pela prática de exercícios promove a saúde."
+    },
+    "images": [],
+    "tags": [
+      "interpretação de texto",
+      "sociologia e estrutura social"
+    ],
+    "difficulty": 6,
+    "year": 2020,
+    "test": "ENEM",
+    "area": "linguagens",
+    "answer": "d",
+    "contextId": "enem_2020_linguagens_ctx17"
+  },
+  {
+    "number": 18,
+    "text": "No poema, a descrição lírica do objeto representado é orientada por um olhar que",
+    "alternatives": {
+      "a": "desvela sentimentos de vazio e angústia sob a aparente austeridade.",
+      "b": "expressa desilusão ante a possibilidade de superação do sofrimento.",
+      "c": "contrapõe a fragilidade emocional ao uso desmedido da força física.",
+      "d": "associa a incomunicabilidade emocional às determinações culturais.",
+      "e": "privilegia imagens relacionadas à exposição do dinamismo urbano."
+    },
+    "images": [],
+    "tags": [
+      "interpretação de texto",
+      "literatura brasileira"
+    ],
+    "difficulty": 6,
+    "year": 2020,
+    "test": "ENEM",
+    "area": "linguagens",
+    "answer": "a",
+    "contextId": "enem_2020_linguagens_ctx1"
+  },
+  {
+    "number": 19,
+    "text": "Essa petição de habeas corpus, ao transgredir o rigor da linguagem jurídica,",
+    "alternatives": {
+      "a": "permite que a narrativa seja objetiva e repleta de sentidos denotativos.",
+      "b": "mostra que o cordel explora termos próprios da esfera do direito.",
+      "c": "demonstra que o jogo de linguagem proposto atenua a gravidade do delito.",
+      "d": "exemplifica como o texto em forma de cordel compromete a solicitação pretendida.",
+      "e": "esclarece que os termos \"crime\" e \"processo de contravenção\" são sinônimos."
+    },
+    "images": [],
+    "tags": [
+      "interpretação de texto",
+      "gêneros textuais",
+      "literatura brasileira"
+    ],
+    "difficulty": 6,
+    "year": 2020,
+    "test": "ENEM",
+    "area": "linguagens",
+    "answer": "c",
+    "contextId": "enem_2020_linguagens_ctx1"
+  },
+  {
+    "number": 20,
+    "text": "De acordo com o texto, é possível identificar \"empreendedor de palco\" por",
+    "alternatives": {
+      "a": "livros por ele indicados.",
+      "b": "suas habilidades em língua inglesa.",
+      "c": "experiências por ele compartilhadas.",
+      "d": "padrões de linguagem por ele utilizados.",
+      "e": "preços acessíveis de seus treinamentos."
+    },
+    "images": [],
+    "tags": [
+      "interpretação de texto",
+      "linguística e variação linguística"
+    ],
+    "difficulty": 4,
+    "year": 2020,
+    "test": "ENEM",
+    "area": "linguagens",
+    "answer": "d",
+    "contextId": "enem_2020_linguagens_q20"
+  },
+  {
+    "number": 21,
+    "text": "O fragmento faz parte da canção brasileira contemporânea que celebra a cultura popular nordestina. Nele, o artista exalta as diferentes manifestações culturais pela",
+    "alternatives": {
+      "a": "valorização do teatro, música, artesanato, literatura, dança, personagens históricos e artistas populares, compondo um tecido diversificado e enriquecedor da cultura popular como patrimônio regional e nacional.",
+      "b": "identificação dos lugares pernambucanos, manifestações culturais, como o bumba meu boi, as cirandas, os bonecos mamulengos e heróis locais, fazendo com que essa canção se apresente como uma referência à cultura popular nordestina.",
+      "c": "exaltação das raízes populares, como a poesia, a literatura de cordel e o frevo, misturadas ao erudito, como a Orquestra Armorial, compondo um rico tecido cultural, que transforma o popular em erudito.",
+      "d": "caracterização das festas populares como identidade cultural localizada e como representantes de uma cultura que reflete valores históricos e sociais próprios da população local.",
+      "e": "apresentação do Pastoril do Faceta, do maracatu, do bumba meu boi e dos autos como representação da musicalidade e do teatro popular religioso, bastante comum ao folclore brasileiro."
+    },
+    "images": [],
+    "tags": [
+      "interpretação de texto",
+      "literatura brasileira",
+      "gêneros textuais"
+    ],
+    "difficulty": 5,
+    "year": 2020,
+    "test": "ENEM",
+    "area": "linguagens",
+    "answer": "b",
+    "contextId": "enem_2020_linguagens_q21_ctx1"
+  },
+  {
+    "number": 22,
+    "text": "Esse anúncio publicitário propõe soluções para um problema social recorrente, ao",
+    "alternatives": {
+      "a": "promover ações de conscientização para reduzir a violência de gênero em eventos esportivos.",
+      "b": "estimular o compartilhamento de políticas públicas sobre a igualdade de gênero no esporte.",
+      "c": "divulgar para a população as novas regras complementares para as torcidas de futebol.",
+      "d": "informar ao público masculino as consequências de condutas ofensivas.",
+      "e": "regulamentar normas de boa convivência nos estádios."
+    },
+    "images": [],
+    "tags": [
+      "interpretação de texto",
+      "comunicação e mídia"
+    ],
+    "difficulty": 5,
+    "year": 2020,
+    "test": "ENEM",
+    "area": "linguagens",
+    "answer": "a",
+    "contextId": "enem_2020_linguagens_q22_ctx1"
+  },
+  {
+    "number": 23,
+    "text": "As repetições e as frases curtas constituem procedimento linguísticos importantes para a compreensão da temática do texto, pois",
+    "alternatives": {
+      "a": "expressam a futilidade do discurso de poder e de distinção do narrador.",
+      "b": "disfarçam a falta de densidade das angústias existenciais narradas.",
+      "c": "ironizam a valorização da cultura norte-americana pelos brasileiros.",
+      "d": "explicitam a ganância financeira do capitalismo contemporâneo.",
+      "e": "criticam os estereótipos sociais das visões de mundo elitistas."
+    },
+    "images": [],
+    "tags": [
+      "interpretação de texto",
+      "gêneros textuais",
+      "linguística e variação linguística"
+    ],
+    "difficulty": 6,
+    "year": 2020,
+    "test": "ENEM",
+    "area": "linguagens",
+    "answer": "a",
+    "contextId": "enem_2020_linguagens_ctx23"
+  },
+  {
+    "number": 24,
+    "text": "Esse decreto pauta-se na ideia de que o uso do gerúndio como \"desculpa de ineficiência\", indica",
+    "alternatives": {
+      "a": "conclusão de uma ação.",
+      "b": "realização de um evento.",
+      "c": "repetição de uma prática.",
+      "d": "continuidade de um processo.",
+      "e": "transferência de responsabilidade."
+    },
+    "images": [],
+    "tags": [
+      "interpretação de texto",
+      "linguística e variação linguística"
+    ],
+    "difficulty": 6,
+    "year": 2020,
+    "test": "ENEM",
+    "area": "linguagens",
+    "answer": "d",
+    "contextId": "enem_2020_linguagens_ctx1"
+  },
+  {
+    "number": 25,
+    "text": "A obra de Joseph Kosuth data de 1965 e se constitui por uma fotografia de cadeira, uma cadeira exposta e um quadro com o verbete \"Cadeira\". Trata-se de um exemplo de arte conceitual que revela o paradoxo entre verdade e imitação, já que a arte",
+    "alternatives": {
+      "a": "não é a realidade, mas uma representação dela.",
+      "b": "fundamenta-se na repetição, construindo variações.",
+      "c": "não se define, pois depende da interpretação do fruidor.",
+      "d": "resiste ao tempo, beneficiada por múltiplas formas de registro.",
+      "e": "redesenha a verdade, aproximando-se das definições lexicais."
+    },
+    "images": [],
+    "tags": [
+      "artes visuais",
+      "interpretação de texto"
+    ],
+    "difficulty": 6,
+    "year": 2020,
+    "test": "ENEM",
+    "area": "linguagens",
+    "answer": "a"
+  },
+  {
+    "number": 26,
+    "text": "A realidade virtual é uma tecnologia de informação que, conforme sugere a imagem, tem como uma de suas principais funções\n\n[Figura: realidade virtual]",
+    "alternatives": {
+      "a": "promover a manipulação eficiente de conhecimentos e informações de difícil compreensão no mundo físico.",
+      "b": "conduzir escolhas profissionais da área de ciência da computação, oferecendo um leque de opções de atuação.",
+      "c": "transferir conhecimento da inteligência artificial para as áreas tradicionais, como as das ciências exatas e naturais.",
+      "d": "levar o ser humano a experimentar mentalmente outras realidades, para as quais é transportado sem sair de seu próprio lugar.",
+      "e": "delimitar tecnologias exclusivas de jogos virtuais, a fim de oferecer maior emoção ao jogador por meio de outras realidades."
+    },
+    "images": [
+      "figuras/q026_2020_fig1.png"
+    ],
+    "tags": [
+      "interpretação de texto",
+      "comunicação e mídia"
+    ],
+    "difficulty": 5,
+    "year": 2020,
+    "test": "ENEM",
+    "area": "linguagens",
+    "answer": "d"
+  },
+  {
+    "number": 27,
+    "text": "É comum coexistirem sequências tipológicas em um mesmo gênero textual. Nesse fragmento, os tipos textuais que se destacam na organização temática são",
+    "alternatives": {
+      "a": "descritivo e argumentativo, pois o enunciador detalha cada lugar por onde passa, argumentando contra a violência urbana.",
+      "b": "dissertativo e argumentativo, pois o enunciador apresenta seu ponto de vista sobre as notícias relativas à cidade.",
+      "c": "expositivo e injuntivo, pois o enunciador fala de seus estados físicos e psicológicos e interage com a mulher amada.",
+      "d": "narrativo e descritivo, pois o enunciador conta sobre suas andanças pelas ruas da cidade ao mesmo tempo que a descreve.",
+      "e": "narrativo e injuntivo, pois o enunciador ensina o interlocutor como andar pelas ruas da cidade contando sobre sua própria experiência."
+    },
+    "images": [],
+    "tags": [
+      "interpretação de texto",
+      "gêneros textuais",
+      "literatura brasileira"
+    ],
+    "difficulty": 6,
+    "year": 2020,
+    "test": "ENEM",
+    "area": "linguagens",
+    "answer": "d",
+    "contextId": "enem_2020_linguagens_q27_ctx1"
+  },
+  {
+    "number": 28,
+    "text": "A incorporação de um trecho da obra para flauta solo de Johann Sebastian Bach na música de MC Fioti demonstra a",
+    "alternatives": {
+      "a": "influência permanente da cultura eurocêntrica nas produções musicais brasileiras.",
+      "b": "homenagem aos referenciais estéticos que deram origem às produções da música popular.",
+      "c": "necessidade de divulgar a música de concerto nos meios populares nas periferias das grandes cidades.",
+      "d": "utilização desintencional de uma música excessivamente distante da realidade cultural dos jovens brasileiros.",
+      "e": "inter-relação de elementos culturais vindos de realidades distintas na construção de uma nova proposta musical."
+    },
+    "images": [],
+    "tags": [
+      "interpretação de texto",
+      "música e dança",
+      "comunicação e mídia"
+    ],
+    "difficulty": 6,
+    "year": 2020,
+    "test": "ENEM",
+    "area": "linguagens",
+    "answer": "e",
+    "contextId": "enem_2020_linguagens_ctx1"
+  },
+  {
+    "number": 29,
+    "text": "Nessa letra da canção, a suposição do último verso finaliza a intenção do autor de",
+    "alternatives": {
+      "a": "ironizar as relações familiares modernas.",
+      "b": "reforçar o humor da situação representada.",
+      "c": "expressar perplexidade em relação ao parente.",
+      "d": "atribuir à criança a causa da dúvida existencial.",
+      "e": "questionar os lugares predeterminados da família."
+    },
+    "images": [],
+    "tags": [
+      "interpretação de texto",
+      "gêneros textuais"
+    ],
+    "difficulty": 5,
+    "year": 2020,
+    "test": "ENEM",
+    "area": "linguagens",
+    "answer": "b",
+    "contextId": "enem_2020_linguagens_ctx1"
+  },
+  {
+    "number": 30,
+    "text": "Essa campanha de conscientização sobre o assédio sofrido pelas mulheres nas ruas constrói-se pela combinação da linguagem verbal e não verbal. [Figura: mulher com nariz e boca cobertos por lenço] A imagem da mulher com o nariz e a boca cobertos por um lenço é a representação não verbal do(a)",
+    "alternatives": {
+      "a": "silêncio imposto às mulheres, que não podem denunciar o assédio sofrido.",
+      "b": "metáfora de que as mulheres precisam defender-se do assédio masculino.",
+      "c": "constrangimento pelo qual passam as mulheres e sua tentativa de esconderem-se.",
+      "d": "necessidade que as mulheres têm de passarem despercebidas para evitar o assédio.",
+      "e": "incapacidade de as mulheres protegerem-se da agressão verbal dos assediadores."
+    },
+    "images": [
+      "figuras/q030_2020_fig1.png"
+    ],
+    "tags": [
+      "interpretação de texto",
+      "comunicação e mídia"
+    ],
+    "difficulty": 5,
+    "year": 2020,
+    "test": "ENEM",
+    "area": "linguagens",
+    "answer": "b"
+  },
+  {
+    "number": 31,
+    "text": "Pelas características do texto lido, que trata das consequências da perda de um animal de estimação, considera-se que ele se enquadra no gênero",
+    "alternatives": {
+      "a": "conto, pois exibe a história de vida de Joanie Simpson.",
+      "b": "depoimento, pois expõe o sofrimento da dona do animal.",
+      "c": "reportagem, pois discute cientificamente a cardiomiopatia.",
+      "d": "relato, pois narra um fato estressante vivido pela paciente.",
+      "e": "notícia, pois divulga fatos sobre a síndrome do coração partido."
+    },
+    "images": [],
+    "tags": [
+      "gêneros textuais",
+      "interpretação de texto"
+    ],
+    "difficulty": 4,
+    "year": 2020,
+    "test": "ENEM",
+    "area": "linguagens",
+    "answer": "e",
+    "contextId": "enem_2020_linguagens_031_ctx1"
+  },
+  {
+    "number": 32,
+    "text": "Os ditados populares são frases de sabedoria criadas pelo povo, utilizadas em várias situações da vida. Nesse texto, a personagem emprega um ditado popular com a intenção de",
+    "alternatives": {
+      "a": "criticar a natureza forte do filho.",
+      "b": "justificar o gênio difícil de Chiquito.",
+      "c": "legitimar o direito do filho à herança.",
+      "d": "conter o ânimo violento de Chico Lourenço.",
+      "e": "condenar a agressividade do marido contra o filho."
+    },
+    "images": [],
+    "tags": [
+      "interpretação de texto",
+      "gêneros textuais",
+      "literatura brasileira"
+    ],
+    "difficulty": 5,
+    "year": 2020,
+    "test": "ENEM",
+    "area": "linguagens",
+    "answer": "b",
+    "contextId": "enem_2020_linguagens_ctx1"
+  },
+  {
+    "number": 33,
+    "text": "Considerando-se a função que os cartazes colados em postes normalmente exercem nas ruas das cidades grandes, esse texto evidencia a",
+    "alternatives": {
+      "a": "disseminação da arte poética em um veículo não convencional.",
+      "b": "manutenção da expectativa das pessoas ao andarem pelas ruas.",
+      "c": "necessidade de exposição de poemas pequenos em diferentes suportes.",
+      "d": "característica corriqueira do suporte lambe-lambe muito comum nas ruas.",
+      "e": "exposição da beleza escondida das esquinas da cidade de Belo Horizonte."
+    },
+    "images": [],
+    "tags": [
+      "interpretação de texto",
+      "gêneros textuais"
+    ],
+    "difficulty": 6,
+    "year": 2020,
+    "test": "ENEM",
+    "area": "linguagens",
+    "answer": "a",
+    "contextIds": [
+      "enem_2020_linguagens_q33_ctx1",
+      "enem_2020_linguagens_q33_ctx2"
+    ]
+  },
+  {
+    "number": 34,
+    "text": "As significações afetivas engendradas no fragmento pressupõem o reconhecimento da",
+    "alternatives": {
+      "a": "perspectiva infantil assumida pela voz narrativa.",
+      "b": "suspensão da linearidade temporal da narração.",
+      "c": "tentativa de materializar lembranças da infância.",
+      "d": "incidência da memória sobre as imagens narradas.",
+      "e": "alternância entre impressões subjetivas e relatos factuais."
+    },
+    "images": [],
+    "tags": [
+      "interpretação de texto",
+      "literatura brasileira"
+    ],
+    "difficulty": 6,
+    "year": 2020,
+    "test": "ENEM",
+    "area": "linguagens",
+    "answer": "a",
+    "contextId": "enem_2020_linguagens_ctx34"
+  },
+  {
+    "number": 35,
+    "text": "Os jogos eletrônicos presentes na cultura juvenil podem desempenhar uma relevante função na abordagem do futebol ao",
+    "alternatives": {
+      "a": "disseminarem uma modalidade, promovendo a igualdade de gênero.",
+      "b": "superarem jogos malsucedidos no mercado, lançados anteriormente.",
+      "c": "inovarem a modalidade com novas ofertas de jogos ao mercado.",
+      "d": "explorarem nichos de mercado antes ignorados, produzindo mais lucro.",
+      "e": "reforçarem estereótipos de gênero masculino ou feminino nos esportes."
+    },
+    "images": [],
+    "tags": [
+      "interpretação de texto",
+      "gêneros textuais",
+      "comunicação e mídia"
+    ],
+    "difficulty": 5,
+    "year": 2020,
+    "test": "ENEM",
+    "area": "linguagens",
+    "answer": "a",
+    "contextId": "enem_2020_linguagens_35_ctx1"
+  },
+  {
+    "number": 36,
+    "text": "De acordo com o texto, podemos identificar uma abordagem das lutas nas aulas de educação física quando o professor realiza uma proposta envolvendo",
+    "alternatives": {
+      "a": "contato corporal intenso entre o aluno e seu oponente",
+      "b": "contenda entre os alunos que se agridem fisicamente",
+      "c": "confronto corporal em que os vencedores são previamente identificados",
+      "d": "combate corporal intencional com ações regulamentadas entre os oponentes",
+      "e": "conflito resolvido pelos alunos por meio de regras previamente estabelecidas"
+    },
+    "images": [],
+    "tags": [
+      "interpretação de texto",
+      "linguística e variação linguística"
+    ],
+    "difficulty": 5,
+    "year": 2020,
+    "test": "ENEM",
+    "area": "linguagens",
+    "answer": "d",
+    "contextId": "enem_2020_linguagens_ctx1"
+  },
+  {
+    "number": 37,
+    "text": "O conceito de saúde formulado na histórica VI Conferência Nacional de Saúde, no ano de 1986, ficou conhecido como um \"conceito ampliado\" de saúde conforme ilustrado na figura. Esse conceito foi fruto de intensa mobilização em diversos países da América Latina nas décadas de 1970 e 1980, como resposta à crise dos sistemas públicos de saúde.\n\n[Figura: Conceito ampliado de saúde com fatores determinantes]\n\nCom base no conceito apresentado no texto, a saúde é consequência direta do(a)",
+    "alternatives": {
+      "a": "adoção de um estilo de vida ativo por parte dos indivíduos.",
+      "b": "disponibilidade de emprego no mercado de trabalho.",
+      "c": "condição habitacional presente nas cidades.",
+      "d": "acesso ao sistema educacional.",
+      "e": "forma de organização social."
+    },
+    "images": [
+      "figuras/q037_2020_fig1.png"
+    ],
+    "tags": [
+      "interpretação de texto",
+      "filosofia moderna e contemporânea"
+    ],
+    "difficulty": 5,
+    "year": 2020,
+    "test": "ENEM",
+    "area": "linguagens",
+    "answer": "e"
+  },
+  {
+    "number": 38,
+    "text": "Nesse texto, busca-se seduzir o leitor por meio da exploração de uma voz externa sobre a identidade histórica do povo português. O trecho que evidencia esse procedimento argumentativo é",
+    "alternatives": {
+      "a": "\"Que linda a 'antiga, muy nobre, sempre leal e invicta' cidade do Porto!\".",
+      "b": "\"'Encantei-me', diriam eles... pelas belas paisagens, construções históricas com lindas fachadas [...]\".",
+      "c": "\"Os tripeiros, sinônimo de portuenses, têm orgulho de sua cidade [...]\".",
+      "d": "\"E valorizam tudo o que há de bom ali, como 'a melhor estrada para se dirigir do mundo' [...]\".",
+      "e": "\"Pois na manhã do 25 de abril, dia da Revolução dos Cravos, resolvemos conhecer a tal maravilha\"."
+    },
+    "images": [],
+    "tags": [
+      "interpretação de texto",
+      "gêneros textuais"
+    ],
+    "difficulty": 6,
+    "year": 2020,
+    "test": "ENEM",
+    "area": "linguagens",
+    "answer": "a",
+    "contextId": "enem_2020_linguagens_38_ctx1"
+  },
+  {
+    "number": 39,
+    "text": "No Hino à Bandeira, a descrição é um recurso utilizado para exaltar o símbolo nacional na medida em que",
+    "alternatives": {
+      "a": "remete a um momento futuro.",
+      "b": "promove a união dos cidadãos.",
+      "c": "valoriza os seus elementos.",
+      "d": "emprega termos religiosos.",
+      "e": "recorre à sua história."
+    },
+    "images": [],
+    "tags": [
+      "interpretação de texto",
+      "literatura brasileira"
+    ],
+    "difficulty": 5,
+    "year": 2020,
+    "test": "ENEM",
+    "area": "linguagens",
+    "answer": "c",
+    "contextId": "enem_2020_linguagens_39_ctx1"
+  },
+  {
+    "number": 40,
+    "text": "A ficção modernista explorou tipos humanos em situação de conflito social. No fragmento do romancista gaúcho, esse conflito revela a",
+    "alternatives": {
+      "a": "sujeição moral amplificada pela pobreza.",
+      "b": "crise econômica em expansão nas cidades.",
+      "c": "falta de diálogo entre patrões e empregados.",
+      "d": "perspicácia marcada pela formação intelectual.",
+      "e": "tensão política gerada pelas ideologias vigentes."
+    },
+    "images": [],
+    "tags": [
+      "literatura brasileira",
+      "interpretação de texto"
+    ],
+    "difficulty": 6,
+    "year": 2020,
+    "test": "ENEM",
+    "area": "linguagens",
+    "answer": "a",
+    "contextId": "enem_2020_linguagens_ctx1"
+  },
+  {
+    "number": 41,
+    "text": "Nessa petição da pitoresca personagem do romance de Lima Barreto, o uso da norma-padrão justifica-se pela",
+    "alternatives": {
+      "a": "situação social de enunciação representada.",
+      "b": "divergência teórica entre gramáticos e literatos.",
+      "c": "pouca representatividade das línguas indígenas.",
+      "d": "atitude irônica diante da língua dos colonizadores.",
+      "e": "tentativa de solicitação do documento demandado."
+    },
+    "images": [],
+    "tags": [
+      "interpretação de texto",
+      "linguística e variação linguística",
+      "literatura brasileira"
+    ],
+    "difficulty": 6,
+    "year": 2020,
+    "test": "ENEM",
+    "area": "linguagens",
+    "answer": "a",
+    "contextId": "enem_2020_linguagens_ctx1"
+  },
+  {
+    "number": 42,
+    "text": "Pela sua interatividade, os exergames apresentam-se como possibilidade para estimular o(a)",
+    "alternatives": {
+      "a": "exercitação física, promovendo a saúde.",
+      "b": "vivência de exercícios físicos sistemáticos.",
+      "c": "envolvimento com atividades físicas ao longo da vida.",
+      "d": "jogo por meio de comandos fornecidos pelo videogame.",
+      "e": "disputa entre jogadores, contribuindo para o individualismo."
+    },
+    "images": [],
+    "tags": [
+      "interpretação de texto",
+      "comunicação e mídia"
+    ],
+    "difficulty": 4,
+    "year": 2020,
+    "test": "ENEM",
+    "area": "linguagens",
+    "answer": "a",
+    "contextId": "enem_2020_linguagens_42"
+  },
+  {
+    "number": 43,
+    "text": "O texto permite o desnudamento da sociedade ao relacionar as tecnologias de informação e comunicação com o(a)",
+    "alternatives": {
+      "a": "agilidade dos softwares.",
+      "b": "passar dos anos.",
+      "c": "linguagem.",
+      "d": "preconceito.",
+      "e": "educação."
+    },
+    "images": [],
+    "tags": [
+      "interpretação de texto",
+      "comunicação e mídia"
+    ],
+    "difficulty": 5,
+    "year": 2020,
+    "test": "ENEM",
+    "area": "linguagens",
+    "answer": "d",
+    "contextId": "enem_2020_linguagens_q43_ctx"
+  },
+  {
+    "number": 44,
+    "text": "Nessa campanha publicitária, a imagem da família e texto verbal unem-se para reforçar a ideia de que",
+    "alternatives": {
+      "a": "a família que adota é mais feliz.",
+      "b": "a adoção tardia é muito positiva.",
+      "c": "as famílias preferem adotar bebês.",
+      "d": "a adoção de adolescentes é mais simples.",
+      "e": "os filhos adotivos são companheiros dos pais."
+    },
+    "images": [],
+    "tags": [
+      "interpretação de texto",
+      "comunicação e mídia"
+    ],
+    "difficulty": 5,
+    "year": 2020,
+    "test": "ENEM",
+    "area": "linguagens",
+    "answer": "b",
+    "contextId": "enem_2020_linguagens_ctx1"
+  },
+  {
+    "number": 45,
+    "text": "A tematização de Curitiba é frequente na obra de Dalton Trevisan. No fragmento, a relação do narrador com o espaço urbano é caracterizada por um olhar",
+    "alternatives": {
+      "a": "destituído de afetividade, que ironiza os costumes e as tradições da sociedade curitibana.",
+      "b": "marcado pela negatividade, que busca desconstruir perspectivas habituais de representação da cidade.",
+      "c": "carregado de melancolia, que constata a falta de identidade cultural diante dos impactos da urbanização.",
+      "d": "embevecido pela simplicidade do cenário, indiferente à descrição de elementos de reconhecido valor histórico.",
+      "e": "distanciado dos elementos narrados, que recorre ao ponto de vista do viajante como expressão de estranhamento."
+    },
+    "images": [],
+    "tags": [
+      "interpretação de texto",
+      "literatura brasileira"
+    ],
+    "difficulty": 6,
+    "year": 2020,
+    "test": "ENEM",
+    "area": "linguagens",
+    "answer": "b",
+    "contextId": "enem_2020_linguagens_ctx_trevisan"
+  }
+]

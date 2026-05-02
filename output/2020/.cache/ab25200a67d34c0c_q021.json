@@ -1,0 +1,25 @@
+{
+  "number": 21,
+  "text": "O fragmento faz parte da canção brasileira contemporânea que celebra a cultura popular nordestina. Nele, o artista exalta as diferentes manifestações culturais pela",
+  "alternatives": {
+    "a": "valorização do teatro, música, artesanato, literatura, dança, personagens históricos e artistas populares, compondo um tecido diversificado e enriquecedor da cultura popular como patrimônio regional e nacional.",
+    "b": "identificação dos lugares pernambucanos, manifestações culturais, como o bumba meu boi, as cirandas, os bonecos mamulengos e heróis locais, fazendo com que essa canção se apresente como uma referência à cultura popular nordestina.",
+    "c": "exaltação das raízes populares, como a poesia, a literatura de cordel e o frevo, misturadas ao erudito, como a Orquestra Armorial, compondo um rico tecido cultural, que transforma o popular em erudito.",
+    "d": "caracterização das festas populares como identidade cultural localizada e como representantes de uma cultura que reflete valores históricos e sociais próprios da população local.",
+    "e": "apresentação do Pastoril do Faceta, do maracatu, do bumba meu boi e dos autos como representação da musicalidade e do teatro popular religioso, bastante comum ao folclore brasileiro."
+  },
+  "answer": "b",
+  "tags": [
+    "interpretação de texto",
+    "literatura brasileira",
+    "gêneros textuais"
+  ],
+  "year": 2020,
+  "test": "ENEM",
+  "area": "linguagens",
+  "difficulty": 5,
+  "images": [],
+  "contextId": "enem_2020_linguagens_q21_ctx1",
+  "contextIds": null,
+  "language": null
+}

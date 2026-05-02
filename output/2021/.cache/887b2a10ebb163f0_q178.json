@@ -1,0 +1,24 @@
+{
+  "number": 178,
+  "text": "Uma unidade de medida comum usada para expressar áreas de terrenos de grandes dimensões é o hectare, que equivale a 10 000 m². Um fazendeiro decide fazer um loteamento utilizando 3 hectares de sua fazenda, dos quais uma parte será destinada para a construção de uma estrada de 500 m de comprimento e 10 m de largura, sendo o restante dividido em terrenos com área de 300 m² cada um. Os 20 primeiros terrenos vendidos serão oferecidos a R$ 50 000,00 cada, e os demais serão vendidos a R$ 60 000,00 cada. Nas condições estabelecidas, o valor total, em real, obtido pelo fazendeiro com a venda de todos os terrenos será igual a",
+  "alternatives": {
+    "a": "600 000",
+    "b": "1 600 000",
+    "c": "1 900 000",
+    "d": "2 200 000",
+    "e": "2 800 000"
+  },
+  "answer": "c",
+  "tags": [
+    "aritmética e números",
+    "matemática financeira"
+  ],
+  "year": 2021,
+  "test": "ENEM",
+  "area": "math",
+  "difficulty": 5,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

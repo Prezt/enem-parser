@@ -1,0 +1,27 @@
+{
+  "number": 73,
+  "text": "As situações apresentadas atestam a importância da relação entre a topografia e o(a)",
+  "alternatives": {
+    "a": "construção de vias terrestres.",
+    "b": "preservação do meio ambiente.",
+    "c": "emprego de armamentos sofisticados.",
+    "d": "intimidação contínua da população local.",
+    "e": "domínio cognitivo da configuração espacial."
+  },
+  "answer": "e",
+  "tags": [
+    "geopolítica e território",
+    "geografia física e geologia"
+  ],
+  "year": 2018,
+  "test": "ENEM",
+  "area": "humanas",
+  "difficulty": 5,
+  "images": [],
+  "contextId": null,
+  "contextIds": [
+    "enem_2018_humanas_ctx1",
+    "enem_2018_humanas_ctx2"
+  ],
+  "language": null
+}

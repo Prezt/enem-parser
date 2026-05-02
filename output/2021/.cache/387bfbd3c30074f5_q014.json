@@ -1,0 +1,29 @@
+{
+  "number": 14,
+  "text": "A crise dos refugiados imortalizada para sempre no fundo do mar — A balsa de Lampedusa [Figura: obra de arte submersa representando balsa com refugiados] — é nome da obra do artista que criou esculturas submersas para compor o acervo do primeiro museu subaquático do mundo, localizado na Itália. Uma delas, uma menina debruçada sobre a beira do bote, [Figura: detalhe da escultura da menina] representa a urgência e o desespero enfrentados pelos imigrantes. Considerando tanto a obra de arte quanto a reportagem sobre ela [Figura: imagem de contexto jornalístico], qual é o propósito textual compartilhado por ambas?",
+  "alternatives": {
+    "a": "denunciar a negligência dos governos europeus frente à morte de imigrantes no Mediterrâneo",
+    "b": "informar sobre a construção de um museu submarino como memorial para as vítimas das travessias no mar",
+    "c": "criticar a falta de políticas de acolhimento para refugiados na Europa",
+    "d": "a construção do museu submarino como um memorial para as centenas de imigrantes mortos nas travessias marítimas",
+    "e": "sensibilizar o público sobre a tragédia humanitária dos refugiados através da arte e do jornalismo"
+  },
+  "answer": "e",
+  "tags": [
+    "artes visuais",
+    "interpretação de texto",
+    "comunicação e mídia"
+  ],
+  "year": 2021,
+  "test": "ENEM",
+  "area": "linguagens",
+  "difficulty": 6,
+  "images": [
+    "figuras/q014_2021_fig1.png",
+    "figuras/q014_2021_fig2.png",
+    "figuras/q014_2021_fig3.png"
+  ],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

@@ -1,0 +1,28 @@
+{
+  "number": 133,
+  "text": "O biogás é uma alternativa energética muito importante, [Figura: descrição da figura] ois, além de reduzir a dependência por combustíveis [Gráfico - descrição do gráfico] ósseis, sua obtenção pode ser realizada a partir de [Esquema - descrição do esquema] esíduos da produção agroindustrial. Considere que o iogás produzido em um empreendimento de suinocultura ontém 70% em volume de metano (massa molar 16 g/mol; olume molar 22 L/mol). Ele será utilizado para geração de nergia em substituição ao etanol (massa molar 46 g/mol) m um gerador no qual 1 m³ de biogás de origem suína ubstitui 0,59 L de etanol anidro (densidade 0,78 g/mL).Nessas condições, a massa de metano necessária para ubstituir 10 mol de etanol na produção de energia é mais óxima de",
+  "alternatives": {
+    "a": "300 g.",
+    "b": "400 g.",
+    "c": "510 g.",
+    "d": "590 g.",
+    "e": "720 g."
+  },
+  "answer": "c",
+  "tags": [
+    "energia",
+    "biogás",
+    "metano"
+  ],
+  "year": 2024,
+  "test": "ENEM",
+  "area": "nature",
+  "images": [
+    "figuras/q133_2024_fig1.png",
+    "figuras/q133_2024_fig2.png",
+    "figuras/q133_2024_fig3.png"
+  ],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

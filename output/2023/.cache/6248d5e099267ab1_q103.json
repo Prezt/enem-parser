@@ -1,0 +1,23 @@
+{
+  "number": 103,
+  "text": "Durante a evolução das plantas, ocorreu uma transição do ambiente aquático para o ambiente terrestre graças ao surgimento de algumas estruturas que as tornaram independentes da água. Esse fato permitiu maior dispersão desse grupo de seres vivos, sendo possível observá-lo em diferentes ambientes na atualidade. Qual estrutura possibilitou a independência da água para a fecundação dos seres vivos citados acima?",
+  "alternatives": {
+    "a": "Fruto",
+    "b": "Esporo",
+    "c": "Semente",
+    "d": "Tubo polínico",
+    "e": "Vaso condutor"
+  },
+  "answer": "d",
+  "tags": [
+    "evolução",
+    "plantas"
+  ],
+  "year": 2023,
+  "test": "ENEM",
+  "area": "nature",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

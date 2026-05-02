@@ -1,0 +1,24 @@
+{
+  "number": 159,
+  "text": "Um agricultor é informado sobre um método de proteção ara sua lavoura que consiste em inserir larvas específicas, e rápida reprodução. A reprodução dessas larvas faz com ue sua população multiplique-se por 10 a cada 3 dias e, arara evitar eventuais desequilíbrios, é possível cessar essa eprodução aplicando-se um produto X. O agricultor decide niciar esse método com 100 larvas e dispõe de 5 litros do roduto X, cuja aplicação recomendada é de exatamente litro para cada população de 200 000 larvas. A quantidade otal do produto X de que ele dispõe deverá ser aplicada e uma única vez. Quantos dias após iniciado esse método o agricultor everá aplicar o produto X?",
+  "alternatives": {
+    "a": "2",
+    "b": "4",
+    "c": "6",
+    "d": "12",
+    "e": "18"
+  },
+  "answer": "d",
+  "tags": [
+    "matemática",
+    "reprodução",
+    "população"
+  ],
+  "year": 2023,
+  "test": "ENEM",
+  "area": "math",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

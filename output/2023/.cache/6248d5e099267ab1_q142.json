@@ -1,0 +1,23 @@
+{
+  "number": 142,
+  "text": "A água utilizada pelos 75 moradores de um vilarejo cujo raio da base mede 5 metros, sempre abastecido no desse vilarejo consome, em média, 200 litros de água por pessoa por dia. No mês de junho de um determinado ano, o vilarejo fez uma coleta nos primeiros 20 dias. Passado esse período, as pessoas reduziram a quantidade de água consumida e constataram que o nível da coluna de água estava em queda durante os 10 dias seguintes. Considere π como aproximadamente igual a 3. Qual é a quantidade mínima de água, em litros, que cada morador deve economizar por dia para garantir que o reservatório não fique sem água nos próximos 10 dias?",
+  "alternatives": {
+    "a": "50",
+    "b": "60",
+    "c": "80",
+    "d": "140",
+    "e": "150"
+  },
+  "answer": "a",
+  "tags": [
+    "água",
+    "matemática"
+  ],
+  "year": 2023,
+  "test": "ENEM",
+  "area": "math",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

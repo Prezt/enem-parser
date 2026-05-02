@@ -1,0 +1,23 @@
+{
+  "number": 78,
+  "text": "Os movimentos da agricultura urbana no Rio d Janeiro vêm crescendo nos últimos vinte anos, tanto por meio de reproduções de modelos de vida antigos vinculados ao resgate dos próprios costumes, como — cada vez mais — são revelados hábitos inventivos nos quais moradores urbanos de diferentes classes sociais sem nenhuma referência anterior com o campo, passam se dedicar a essas atividades. Ao possibilitar o acesso ao plantio e, consequentemente, à alimentação, permite-se uma nova relação com o que se come, reduzindo percurso da cadeia produtiva e aproximando produtores de consumidores, pois ambos se confundem nas experiências de agricultura urbana.",
+  "alternatives": {
+    "a": "ocupação de lugares ociosos",
+    "b": "densificação da área central",
+    "c": "valorização do mercado externo",
+    "d": "priorização de insumos químicos",
+    "e": "mecanização de técnicas de cultivo"
+  },
+  "answer": "a",
+  "tags": [
+    "agricultura urbana",
+    "desenvolvimento local"
+  ],
+  "year": 2023,
+  "test": "ENEM",
+  "area": "humanas",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

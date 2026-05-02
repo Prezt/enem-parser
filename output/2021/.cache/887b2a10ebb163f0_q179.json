@@ -1,0 +1,24 @@
+{
+  "number": 179,
+  "text": "Uma pessoa produzirá uma fantasia utilizando como materiais: 2 tipos de tecidos diferentes e 5 tipos distintos de pedras ornamentais. Essa pessoa tem à sua disposição [texto ilegível - OCR corrompido]. A quantidade de fantasias com materiais diferentes que [texto ilegível - OCR corrompido].",
+  "alternatives": {
+    "a": "6!/(4!2!) × 15!/(10!5!)",
+    "b": "6!/(4!2!) × 15!/(10!5!)",
+    "c": "6!/2! × 15!/5!",
+    "d": "6!/2! × 15!/5!",
+    "e": "21!"
+  },
+  "answer": "a",
+  "tags": [
+    "análise combinatória",
+    "aritmética e números"
+  ],
+  "year": 2021,
+  "test": "ENEM",
+  "area": "math",
+  "difficulty": 6,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

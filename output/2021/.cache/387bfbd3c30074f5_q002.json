@@ -1,0 +1,23 @@
+{
+  "number": 2,
+  "text": "[Question text corrupted and unreadable from source]",
+  "alternatives": {
+    "a": "[Unreadable]",
+    "b": "[Unreadable]",
+    "c": "[Unreadable]",
+    "d": "[Unreadable]",
+    "e": "[Unreadable]"
+  },
+  "answer": "a",
+  "tags": [
+    "interpretação de texto"
+  ],
+  "year": 2021,
+  "test": "ENEM",
+  "area": "linguagens",
+  "difficulty": 5,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

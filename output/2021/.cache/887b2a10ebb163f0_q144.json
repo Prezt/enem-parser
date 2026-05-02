@@ -1,0 +1,24 @@
+{
+  "number": 144,
+  "text": "Uma pessoa realizou uma pesquisa com alguns alunos de uma escola, coletando suas idades, e organizou os dados em um gráfico de barras. Qual é a média das idades, em ano, desses alunos?",
+  "alternatives": {
+    "a": "9/6",
+    "b": "12/9",
+    "c": "18",
+    "d": "19",
+    "e": "20"
+  },
+  "answer": "d",
+  "tags": [
+    "estatística",
+    "aritmética e números"
+  ],
+  "year": 2021,
+  "test": "ENEM",
+  "area": "math",
+  "difficulty": 4,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

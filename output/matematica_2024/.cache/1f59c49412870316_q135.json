@@ -1,0 +1,24 @@
+{
+  "number": 135,
+  "text": "Brasil fecha 2020 entre os maiores mundiais em reciclagem de latas de alumínio. De acordo com levantamento da Associação Brasileira dos Fabricantes de Latas de Alumínio (Abralatas), o país obteve um índice de reciclagem de 97,4%, de um total de 4,0 × 10^5 toneladas de latas vendidas. Considere que a lata é constituída de alumínio puro e que a bauxita contém alumina (Al2O3), que é a matéria prima necessária para produzir o alumínio (Al). Levando em conta apenas a reciclagem de latas, qual é a massa de bauxita, em tonelada, que deixou de ser extraída da natureza em 2020 no Brasil?",
+  "alternatives": {
+    "a": "1,0 × 10^5 ton",
+    "b": "3,9 × 10^5 ton",
+    "c": "5,0 × 10^5 ton",
+    "d": "1,9 × 10^5 ton",
+    "e": "2,0 × 10^5 ton"
+  },
+  "answer": "d",
+  "tags": [
+    "reciclagem",
+    "alumínio",
+    "bauxita"
+  ],
+  "year": 2024,
+  "test": "ENEM",
+  "area": "nature",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

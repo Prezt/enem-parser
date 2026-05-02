@@ -1,0 +1,24 @@
+{
+  "number": 148,
+  "text": "A Pesquisa Nacional por Amostra de Domicílio (Pnad) é uma pesquisa feita anualmente pelo IBGE exceto nos anos em que há Censo. Em um ano, foram entrevistados 363 mil jovens para fazer um levantamento sobre suas atividades profissionais e/ou acadêmicas. Os resultados da pesquisa estão indicados no gráfico.\n\nJovens em atividade entre 15 e 29 anos (%):\n  - Somente estuda: 45,2\n  - Trabalha e estuda: 21,6\n  - Somente trabalha: 19,6\n  - Não trabalha nem estuda: 13,6\n\nDe acordo com as informações dadas, o número de jovens entrevistados que trabalha é",
+  "alternatives": {
+    "a": "114 708",
+    "b": "164 076",
+    "c": "213 444",
+    "d": "284 592",
+    "e": "291 582"
+  },
+  "answer": "c",
+  "tags": [
+    "aritmética e números",
+    "estatística"
+  ],
+  "year": 2020,
+  "test": "ENEM",
+  "area": "math",
+  "difficulty": 3,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

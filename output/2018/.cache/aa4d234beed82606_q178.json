@@ -1,0 +1,24 @@
+{
+  "number": 178,
+  "text": "Durante uma festa de colégio, um grupo de aluno organizou uma rifa. Oitenta alunos faltaram à festa e não participaram da rifa. Entre os que compareceram, alguns compraram três bilhetes, 45 compraram 2 bilhetes, e muitos compraram apenas um. O total de alunos que comprou um único bilhete era 20% do número total de bilhetes vendidos, e o total de bilhetes vendidos excedeu em 33 o número total de alunos do colégio. Quantos alunos compraram somente um bilhete?",
+  "alternatives": {
+    "a": "34",
+    "b": "42",
+    "c": "47",
+    "d": "48",
+    "e": "79"
+  },
+  "answer": "d",
+  "tags": [
+    "aritmética e números",
+    "álgebra"
+  ],
+  "year": 2018,
+  "test": "ENEM",
+  "area": "math",
+  "difficulty": 6,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

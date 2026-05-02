@@ -1,0 +1,25 @@
+{
+  "number": 98,
+  "text": "Durante o desenvolvimento embrionário humano, o coração passa por diferentes estágios até alcançar sua forma final. Em um desses estágios, o coração é constituído de duas câmaras (átrio e ventrículo únicos), semelhante ao coração de peixes atuais. Em outro estágio, apresenta três câmaras (dois átrios e um ventrículo), semelhante ao coração de anfíbios e répteis. Qual grupo de vertebrados possui uma estrutura cardíaca que impede completamente a mistura de sangue venoso com o arterial durante todo o ciclo cardíaco?",
+  "alternatives": {
+    "a": "mamíferos, porque possuem um septo interventricular completo que impede totalmente a mistura de sangue.",
+    "b": "répteis, porque a mistura de sangue é minimizada por um metabolismo lento.",
+    "c": "aves, porque possuem um septo completo que impede a mistura sanguínea.",
+    "d": "peixes, porque apresentam circulação simples, na qual todo o sangue passa pelo coração uma única vez antes de chegar aos tecidos.",
+    "e": "anfíbios, porque pressões diferenciais isolam temporalmente o sangue venoso do arterial."
+  },
+  "answer": "d",
+  "tags": [
+    "fisiologia humana",
+    "evolução",
+    "zoologia"
+  ],
+  "year": 2021,
+  "test": "ENEM",
+  "area": "nature",
+  "difficulty": 6,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

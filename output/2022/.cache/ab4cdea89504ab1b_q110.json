@@ -1,0 +1,24 @@
+{
+  "number": 110,
+  "text": "Os padrões descritos evidenciam que",
+  "alternatives": {
+    "a": "as fêmeas influenciam o comportamento dos machos.",
+    "b": "o cuidado parental é necessário para o desenvolvimento.",
+    "c": "o grau de evolução determina o comportamento reprodutivo.",
+    "d": "o sucesso reprodutivo pode ser garantido por estratégias diferentes.",
+    "e": "o ambiente induz modificação na produção do número de gametas femininos."
+  },
+  "answer": "d",
+  "tags": [
+    "anfíbios",
+    "reprodução",
+    "evolução"
+  ],
+  "year": 2022,
+  "test": "ENEM",
+  "area": "nature",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

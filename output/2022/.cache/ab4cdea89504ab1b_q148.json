@@ -1,0 +1,23 @@
+{
+  "number": 148,
+  "text": "Considere duas estrelas E e F, sendo que a estrela E tem metade do raio da estrela F e o dobro da temperatura de F. Indique por L e L suas respectivas luminosidades. A relação entre as luminosidades dessas duas estrelas dada por",
+  "alternatives": {
+    "a": "L_F = \\frac{A}{A}",
+    "b": "L_F = \\frac{B}{B}",
+    "c": "L_E = L_F",
+    "d": "L_E = 4L_F",
+    "e": "L_E = 8L_F"
+  },
+  "answer": "d",
+  "tags": [
+    "física",
+    "estrelas"
+  ],
+  "year": 2022,
+  "test": "ENEM",
+  "area": "math",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

@@ -1,0 +1,26 @@
+{
+  "number": 59,
+  "text": "A divisão política do mundo como apresentada na [Figura: mapa-múndi com divisões políticas] é dependente pela estabilidade do(a)",
+  "alternatives": {
+    "a": "ciclo hidrológico",
+    "b": "processo erosivo",
+    "c": "estrutura geológica",
+    "d": "índice pluviométrico",
+    "e": "pressão atmosférica"
+  },
+  "answer": "c",
+  "tags": [
+    "geopolítica e território",
+    "geografia física e geologia"
+  ],
+  "year": 2019,
+  "test": "ENEM",
+  "area": "humanas",
+  "difficulty": 6,
+  "images": [
+    "figuras/q059_2019_fig1.png"
+  ],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

@@ -1,0 +1,24 @@
+{
+  "number": 150,
+  "text": "No período de 2005 a 2009, o aumento percentual no volume de vendas foi de",
+  "alternatives": {
+    "a": "45,4",
+    "b": "54,5",
+    "c": "120",
+    "d": "220",
+    "e": "283,2"
+  },
+  "answer": "c",
+  "tags": [
+    "aritmética e números",
+    "estatística"
+  ],
+  "year": 2021,
+  "test": "ENEM",
+  "area": "math",
+  "difficulty": 3,
+  "images": [],
+  "contextId": "enem_2021_math_150_ctx1",
+  "contextIds": null,
+  "language": null
+}

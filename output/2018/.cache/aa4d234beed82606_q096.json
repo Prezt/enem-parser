@@ -1,0 +1,24 @@
+{
+  "number": 96,
+  "text": "Para serem absorvidos pelas células do intestino humano, os lipídios ingeridos precisam ser primeiramente emulsificados. Nessa etapa da digestão, torna-se necessária a ação dos ácidos biliares, visto que os lipídios apresentam uma natureza apolar e são insolúveis em água. Esses ácidos atuam no processo de modo a",
+  "alternatives": {
+    "a": "hidrolisar os lipídios.",
+    "b": "agir como detergentes.",
+    "c": "tornar os lipídios anfifílicos.",
+    "d": "promover a secreção de lipases.",
+    "e": "estimular o trânsito intestinal dos lipídios."
+  },
+  "answer": "b",
+  "tags": [
+    "química geral e inorgânica",
+    "fisiologia humana"
+  ],
+  "year": 2018,
+  "test": "ENEM",
+  "area": "nature",
+  "difficulty": 6,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

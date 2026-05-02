@@ -1,0 +1,23 @@
+{
+  "number": 25,
+  "text": "O discurso da jornalista traz questionamentos sobre a relação da conquista da skatista com a",
+  "alternatives": {
+    "a": "conciação do jornalismo com a prática do skate.",
+    "b": "inserção das mulheres na modalidade skate street.",
+    "c": "desconstrução da noção do skate como modalidade masculina.",
+    "d": "vanguarda de ser a atleta mais jovem a subir no pódio olímpico.",
+    "e": "conquista de medalha nos Jogos Olímpicos de Tóquio."
+  },
+  "answer": "c",
+  "tags": [
+    "jornalismo",
+    "esporte"
+  ],
+  "year": 2022,
+  "test": "ENEM",
+  "area": "linguagens",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

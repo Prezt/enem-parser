@@ -1,0 +1,23 @@
+{
+  "number": 87,
+  "text": "Conforme descrito nos textos, o tratamento dispensado os grupos mencionados se fundamentava em",
+  "alternatives": {
+    "a": "preceitos teológicos e religiosos.",
+    "b": "aspectos socioeconômicos e ideológicos.",
+    "c": "regulamentações territoriais e alfandegárias.",
+    "d": "orientações constitucionais e estatutárias.",
+    "e": "decretos legislativos e internacionais."
+  },
+  "answer": "b",
+  "tags": [
+    "história",
+    "sociedade"
+  ],
+  "year": 2023,
+  "test": "ENEM",
+  "area": "humanas",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

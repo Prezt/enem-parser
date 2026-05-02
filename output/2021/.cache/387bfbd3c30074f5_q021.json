@@ -1,0 +1,27 @@
+{
+  "number": 21,
+  "text": "Com base nos textos, qual é a principal diferença entre as abordagens apresentadas sobre a estiagem em São Paulo?",
+  "alternatives": {
+    "a": "O Texto I nega a existência da estiagem, enquanto o Texto II a confirma.",
+    "b": "O Texto I apresenta uma visão mítica, enquanto o Texto II oferece uma explicação científica.",
+    "c": "O Texto I culpa as indústrias, enquanto o Texto II culpa a natureza.",
+    "d": "O Texto I defende que a água simplesmente desaparece, enquanto o Texto II explica o ciclo da água.",
+    "e": "O Texto I propõe soluções práticas, enquanto o Texto II apenas descreve o problema."
+  },
+  "answer": "a",
+  "tags": [
+    "interpretação de texto",
+    "gêneros textuais"
+  ],
+  "year": 2021,
+  "test": "ENEM",
+  "area": "linguagens",
+  "difficulty": 5,
+  "images": [],
+  "contextId": null,
+  "contextIds": [
+    "enem_2021_linguagens_ctx1",
+    "enem_2021_linguagens_ctx2"
+  ],
+  "language": null
+}

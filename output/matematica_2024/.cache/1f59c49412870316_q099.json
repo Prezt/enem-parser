@@ -1,0 +1,24 @@
+{
+  "number": 99,
+  "text": "Uma ambulância em alta velocidade com a sirene ligada desloca-se em direção a um radar operado por uma pessoa. O radar emite ondas de rádio com frequência f que são refletidas pela dianteira da ambulância, retornando para o detector com frequência f'. A percepção do operador do radar, em relação ao som emitido pela sirene, é de que este se altera à medida que a ambulância se aproxima ou se afasta. Durante a aproximação, como o operador percebe o som da sirene e qual é a relação entre as frequências f e f' medidas pelo radar?",
+  "alternatives": {
+    "a": "Mais grave do que o som emitido e f < f'",
+    "b": "Mais agudo do que o som emitido e f < f'",
+    "c": "Mais agudo do que o som emitido e f = f'",
+    "d": "Mais agudo do que o som emitido e f > f'",
+    "e": "Mais grave do que o som emitido e f > f'"
+  },
+  "answer": "d",
+  "tags": [
+    "física",
+    "ondas",
+    "relatividade"
+  ],
+  "year": 2024,
+  "test": "ENEM",
+  "area": "nature",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

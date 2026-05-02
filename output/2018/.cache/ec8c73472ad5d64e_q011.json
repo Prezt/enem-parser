@@ -1,0 +1,27 @@
+{
+  "number": 11,
+  "text": "Nos textos, a concepção de body art está relacionada à intenção de",
+  "alternatives": {
+    "a": "estabelecer limites entre o corpo e a composição.",
+    "b": "fazer do corpo um suporte privilegiado de expressão.",
+    "c": "discutir políticas e ideologias sobre o corpo como arte.",
+    "d": "compreender a autonomia do corpo no contexto da obra.",
+    "e": "destacar o corpo do artista em contato com o expectador."
+  },
+  "answer": "b",
+  "tags": [
+    "interpretação de texto",
+    "artes visuais"
+  ],
+  "year": 2018,
+  "test": "ENEM",
+  "area": "linguagens",
+  "difficulty": 6,
+  "images": [],
+  "contextId": null,
+  "contextIds": [
+    "enem_2018_linguagens_ctx1",
+    "enem_2018_linguagens_ctx2"
+  ],
+  "language": null
+}

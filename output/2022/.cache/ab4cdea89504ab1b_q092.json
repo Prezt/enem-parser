@@ -1,0 +1,23 @@
+{
+  "number": 92,
+  "text": "De acordo com a Organização Mundial da Saúde, a filariose e a leishmaniose são consideradas doença tropicais infecciosas e constituem uma preocupação para a saúde pública por ser alto o índice de mortalidade elas associado. Uma medida profilática comum a essas duas doenças é o(a)",
+  "alternatives": {
+    "a": "incineração do lixo orgânico",
+    "b": "construção de rede de esgoto",
+    "c": "uso de vermífugo pela população",
+    "d": "controle das populações dos vetores",
+    "e": "consumo de carnes vermelhas bem cozidas"
+  },
+  "answer": "d",
+  "tags": [
+    "saúde pública",
+    "doenças tropicais"
+  ],
+  "year": 2022,
+  "test": "ENEM",
+  "area": "nature",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

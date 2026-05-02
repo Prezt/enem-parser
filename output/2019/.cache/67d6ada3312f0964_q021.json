@@ -1,0 +1,24 @@
+{
+  "number": 21,
+  "text": "Escrita na década de 1960, a narrativa põe em evidência uma dramaticidade centrada na",
+  "alternatives": {
+    "a": "insinuação da lacuna familiar gerada pela ausência da figura paterna.",
+    "b": "associação entre a angústia da menina e a reação intempestiva da mãe.",
+    "c": "relação conflituosa entre o trabalho doméstico e a emancipação feminina.",
+    "d": "representação de estigmas sociais modulados pela perspectiva da criança.",
+    "e": "expressão de dúvidas existenciais intensificadas pela percepção do abandono."
+  },
+  "answer": "d",
+  "tags": [
+    "interpretação de texto",
+    "literatura brasileira"
+  ],
+  "year": 2019,
+  "test": "ENEM",
+  "area": "linguagens",
+  "difficulty": 6,
+  "images": [],
+  "contextId": "enem_2019_linguagens_ctx1",
+  "contextIds": null,
+  "language": null
+}

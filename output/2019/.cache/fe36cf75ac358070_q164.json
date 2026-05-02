@@ -1,0 +1,24 @@
+{
+  "number": 164,
+  "text": "Um mestre de obras deseja fazer uma laje com espessura de 5 cm utilizando concreto usinado conforme as dimensões do projeto dadas na figura. O concreto para fazer a laje será fornecido por uma usina que utiliza caminhões com capacidades máximas de 2 m³, 5 m³ e 10 m³ de concreto. Qual a menor quantidade de caminhões, utilizando suas capacidades máximas, que o mestre de obras deverá pedir à usina de concreto para fazer a laje?",
+  "alternatives": {
+    "a": "Dez caminhões com capacidade máxima de 10 m³",
+    "b": "Cinco caminhões com capacidade máxima de 10 m³",
+    "c": "Um caminhão com capacidade máxima de 5 m³",
+    "d": "Dez caminhões com capacidade máxima de 2 m³",
+    "e": "Um caminhão com capacidade máxima de 2 m³"
+  },
+  "answer": "c",
+  "tags": [
+    "geometria espacial",
+    "matemática financeira"
+  ],
+  "year": 2019,
+  "test": "ENEM",
+  "area": "math",
+  "difficulty": 5,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

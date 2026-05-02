@@ -1,0 +1,24 @@
+{
+  "number": 110,
+  "text": "Um assistente de laboratório precisou descartar sete frascos contendo solução de nitrato de mercúrio(I) que não foram utilizados em uma aula prática. Cada frasco continha 5,25 g de Hg (NO ) dissolvidos em água. Temendo a toxidez do mercúrio e sabendo que o Hg Cl tem solubilidade muito baixa, o assistente optou por retirar o mercúrio da solução por precipitação com cloreto de sódio (NaCl), conforme a equação química: Hg Cl (s) + 2 NaNO (aq). O assistente aumentou gradativamente a quantidade adicionada de NaCl e teve sua massa aferida. O assistente organizou os resultados na forma de um gráfico que correlaciona a massa de Hg Cl obtida com a massa de NaCl adicionada em cada frasco. A massa molar do Hg (NO ) é 525 g mol–1 e a do NaCl é 58 g mol–1.",
+  "alternatives": {
+    "a": "7\n6  (g) 2\n5 Cl 2\n4\n3\n2\n1\n0 Massa de Hg\n0,0 0,2 0,4 0,6 0,8 1,0 1,2 1,4\nMassa de NaCI (g)",
+    "b": "7\n6  (g) 2\n5 Cl 2\n4\n3\n2\n1\n0 Massa de Hg\n0,0 0,2 0,4 0,6 0,8 1,0 1,2 1,4\nMassa de NaCI (g)",
+    "c": "7\n6  (g) 2\n5 Cl 2\n4\n3\n2\n1\n0 Massa de Hg\n0,0 0,2 0,4 0,6 0,8 1,0 1,2 1,4\nMassa de NaCI (g)",
+    "d": "7\n6  (g) 2\n5 Cl 2\n4\n3 D\n2\n1\n0 Massa de Hg\n0,0 0,2 0,4 0,6 0,8 1,0 1,2 1,4\nMassa de NaCI (g)",
+    "e": "7\n6  (g) 2\n5 Cl 2\n4\n3\n2\n1\n0 Massa de Hg\n0,0 0,2 0,4 0,6 0,8 1,0 1,2 1,4\nMassa de NaCI (g)"
+  },
+  "answer": "b",
+  "tags": [
+    "química",
+    "equações químicas",
+    "precipitação"
+  ],
+  "year": 2023,
+  "test": "ENEM",
+  "area": "nature",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

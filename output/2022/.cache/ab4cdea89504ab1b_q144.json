@@ -1,0 +1,23 @@
+{
+  "number": 144,
+  "text": "Cada número que identifica uma agência bancária tem quatro dígitos: N , N , N , N mais um dígito verificador N . Para a determinação de N , primeiramente multiplica-se ordenadamente os quatro primeiros dígitos do número da agência por 5, 4, 3 e 2, respectivamente, somam-se os resultados e obtém-se S = 5N + 4N + 3N + 2N . Posteriormente, encontra-se o resto da divisão de S por 11, denotando por R esse resto. Dessa forma, N é a diferença 11 − R. Considere o número de uma agência bancária cujos quatro primeiros dígitos são 0100. Qual é o dígito verificador N dessa agência bancária?",
+  "alternatives": {
+    "a": "0",
+    "b": "6",
+    "c": "7",
+    "d": "8",
+    "e": "9"
+  },
+  "answer": "c",
+  "tags": [
+    "álgebra",
+    "divisão"
+  ],
+  "year": 2022,
+  "test": "ENEM",
+  "area": "math",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

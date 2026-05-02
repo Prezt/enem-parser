@@ -1,0 +1,24 @@
+{
+  "number": 65,
+  "text": "O texto aponta uma inovação na teoria política na época moderna expressa na distinção entre",
+  "alternatives": {
+    "a": "idealidade e efetividade da moral.",
+    "b": "nulidade e preservabilidade da liberdade.",
+    "c": "ilegalidade e legitimidade do governante.",
+    "d": "verificabilidade e possibilidade da verdade.",
+    "e": "objetividade e subjetividade do conhecimento."
+  },
+  "answer": "a",
+  "tags": [
+    "filosofia moderna e contemporânea",
+    "ética e política"
+  ],
+  "year": 2019,
+  "test": "ENEM",
+  "area": "humanas",
+  "difficulty": 6,
+  "images": [],
+  "contextId": "enem_2019_humanas_q65_ctx1",
+  "contextIds": null,
+  "language": null
+}

@@ -1,0 +1,24 @@
+{
+  "number": 6,
+  "text": "Um asteroide de cerca de um mil metros de diâmetro aproximou-se da Terra, pouco mais do dobro da distância que nos separa da Lua. Se esse asteroide tivesse sido capturado pelo campo gravitacional do nosso planeta, qual seria a consequência mais alarmante?",
+  "alternatives": {
+    "a": "A morte instantânea de todos os seres vivos do planeta.",
+    "b": "A alteração permanente da órbita terrestre.",
+    "c": "A alteração do campo magnético da Terra.",
+    "d": "A formação de uma cratera gigantesca e possível extinção em massa.",
+    "e": "A destruição completa da atmosfera terrestre."
+  },
+  "answer": "b",
+  "tags": [
+    "interpretação de texto",
+    "comunicação e mídia"
+  ],
+  "year": 2021,
+  "test": "ENEM",
+  "area": "linguagens",
+  "difficulty": 5,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

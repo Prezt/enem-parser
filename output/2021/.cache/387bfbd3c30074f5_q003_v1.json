@@ -1,0 +1,25 @@
+{
+  "number": 3,
+  "text": "O texto aborda a importância das redes sociais e da internet na sociedade contemporânea, destacando sua capacidade de mobilizar pessoas com ideais comuns e gerar movimentos sociais. A questão busca compreender como essas plataformas digitais influenciam na divulgação de informações e na organização de ações coletivas, particularmente em casos que envolvem justiça social.",
+  "alternatives": {
+    "a": "As redes sociais são ferramentas exclusivamente de entretenimento e diversão.",
+    "b": "A internet facilita a disseminação de informações falsas e prejudiciais.",
+    "c": "As plataformas digitais podem ser utilizadas para mobilizar pessoas em torno de causas sociais e gerar movimentos coletivos.",
+    "d": "A tecnologia substitui completamente as formas tradicionais de comunicação.",
+    "e": "As redes sociais têm apenas impacto negativo na sociedade contemporânea."
+  },
+  "answer": "a",
+  "tags": [
+    "interpretação de texto",
+    "comunicação e mídia",
+    "cultura e identidade"
+  ],
+  "year": 2021,
+  "test": "ENEM",
+  "area": "linguagens",
+  "difficulty": 5,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": "es"
+}

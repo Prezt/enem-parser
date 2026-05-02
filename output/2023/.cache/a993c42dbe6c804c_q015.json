@@ -1,0 +1,24 @@
+{
+  "number": 15,
+  "text": "As cinzas do Museu Nacional, no Rio de Janeiro, onsumido pelas chamas no mês de setembro de 2018, ào mais do que restos de fósseis, cerâmicas e espécimes aros. O museu abrigava, entre mais de 20 milhões de eças, os esqueletos com as respostas para perguntas ue ainda não haviam sido respondidas — ou sequer iteadas — por pesquisadores brasileiros. E o incêndio ode ter calado para sempre palavras e cantos indígenas ncestrais, de línguas que não existem mais no mundo. O acervo do local continha gravações de conversas, antos e rituais de dezenas de sociedades indígenas, m muitas feitas durante a década de 1960 com antigos ravadores de rolo e que ainda não haviam sido igitalizadas. Alguns dos registros abordavam línguas já xtintas, sem falantes originais ainda vivos. “A esperança ue outras instituições tenham registros dessas línguas”, iz a linguista Marilia Facó Soares. A pesquisadora, que rabalha com os índios Tikuna, o maior grupo da Amazônia rasileira, crê ter perdido parte de seu material. “Terei ue fazer novas viagens de campo para recompor meus rquivos. Mas obviamente não dá para recuperar a fala de ativos já falecidos, geralmente os mais idosos”, lamenta.",
+  "alternatives": {
+    "a": "exige a retomada das pesquisas por especialistas de diferentes áreas",
+    "b": "representa danos irreparáveis à memória e à identidade nacionais",
+    "c": "impossibilita o surgimento de novas pesquisas na área",
+    "d": "resulta na extinção da cultura de povos originários",
+    "e": "inviabiliza o estudo da língua do povo Tikuna"
+  },
+  "answer": "b",
+  "tags": [
+    "museu",
+    "incêndio",
+    "linguística"
+  ],
+  "year": 2023,
+  "test": "ENEM",
+  "area": "linguagens",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

@@ -1,0 +1,23 @@
+{
+  "number": 18,
+  "text": "O recurso que caracteriza a organização estrutural desse texto é o(a)",
+  "alternatives": {
+    "a": "justaposição de sequências verbais e nominais.",
+    "b": "mudança de eventos resultante do jogo temporal.",
+    "c": "uso de adjetivos qualificativos na descrição do cenário.",
+    "d": "encadeamento semântico pelo uso de substantivos sinônimos.",
+    "e": "inter-relação entre orações por elementos linguísticos lógicos."
+  },
+  "answer": "a",
+  "tags": [
+    "estrutura textual",
+    "literatura"
+  ],
+  "year": 2022,
+  "test": "ENEM",
+  "area": "linguagens",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

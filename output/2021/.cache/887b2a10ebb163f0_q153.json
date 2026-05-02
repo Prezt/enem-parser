@@ -1,0 +1,26 @@
+{
+  "number": 153,
+  "text": "Um parque temático brasileiro construiu uma réplica em miniatura do castelo de Liechtenstein. O castelo original, representado na imagem, está situado na Alemanha e foi reconstruído entre os anos de 1840 e 1842, após duas destruições causadas por guerras.\n\n[Figura: Castelo de Liechtenstein]\n\nO castelo possui uma ponte de 38,4 m de comprimento. O parque produziu a réplica do castelo, em escala. Nessa réplica, as medidas do comprimento e da largura da ponte são, respectivamente, 16 cm e 0,8 cm.\n\nA escala utilizada para fazer a réplica é",
+  "alternatives": {
+    "a": "1 : 480",
+    "b": "1 : 240",
+    "c": "1 : 24",
+    "d": "1 : 4,2",
+    "e": "1 : 2,4"
+  },
+  "answer": "c",
+  "tags": [
+    "geometria plana",
+    "matemática financeira"
+  ],
+  "year": 2021,
+  "test": "ENEM",
+  "area": "math",
+  "difficulty": 4,
+  "images": [
+    "figuras/q153_2021_fig1.png"
+  ],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

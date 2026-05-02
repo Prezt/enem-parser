@@ -1,0 +1,31 @@
+{
+  "number": 127,
+  "text": "Em um experimento de laboratório, duas barras metálicas, A e B, são carregadas com cargas opostas e mergulhadas em óleo. Farelo de milho é jogado sobre o óleo e, pós um certo tempo, o farelo assume o formato das linhas [Figura: representação do experimento] e campo elétrico entre as barras. Ao repetir o experimento colocando um cilindro metálico com entre as placas, o esquema que representa o formato das linhas de campo assumido pelo farelo é:",
+  "alternatives": {
+    "a": "D",
+    "b": "A",
+    "c": "B",
+    "d": "E",
+    "e": "C"
+  },
+  "answer": "e",
+  "tags": [
+    "física",
+    "eletricidade"
+  ],
+  "year": 2024,
+  "test": "ENEM",
+  "area": "nature",
+  "images": [
+    "figuras/q127_2024_fig1.png",
+    "figuras/q127_2024_fig2.png",
+    "figuras/q127_2024_fig3.png",
+    "figuras/q127_2024_fig4.png",
+    "figuras/q127_2024_fig5.png",
+    "figuras/q127_2024_fig6.png",
+    "figuras/q127_2024_fig7.png"
+  ],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

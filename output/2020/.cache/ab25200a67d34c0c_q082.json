@@ -1,0 +1,24 @@
+{
+  "number": 82,
+  "text": "As cidades de Puebla, no México, e Legazpi, na Filipinas, não têm quase nada em comum. Estão muito longe uma da outra e são habitadas por povos muito diferentes. O que as une é um trágico detalhe de sua geografia. Elas foram erguidas na vizinhança de alguns dos vulcões mais perigosos do mundo: o mexicano Popocatepétl e o filipino Mayon. Seus habitantes precisam estar prontos para correr a qualquer hora. Eles fazem parte dos 550 milhões de indivíduos que moram em zonas de risco vulcânico no mundo. Ao contrário do que seria sensato, continuam ali, indiferentes ao perigo que os espreita.\n\nA característica física que justifica a fixação do homem nos locais apresentados no texto é a ocorrência de",
+  "alternatives": {
+    "a": "solo fértil",
+    "b": "encosta íngreme",
+    "c": "vegetação diversificada",
+    "d": "drenagem eficiente",
+    "e": "clima ameno"
+  },
+  "answer": "a",
+  "tags": [
+    "geografia física e geologia",
+    "geografia humana e urbana"
+  ],
+  "year": 2020,
+  "test": "ENEM",
+  "area": "humanas",
+  "difficulty": 6,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

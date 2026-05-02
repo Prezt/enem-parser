@@ -1,0 +1,25 @@
+{
+  "number": 3,
+  "text": "A canção, muitas vezes, é uma forma de manifestar sentimentos e emoções da vida cotidiana. Por exemplo, o sofrimento retratado nessa canção foi causado",
+  "alternatives": {
+    "a": "pela morte precoce de um amigo jovem.",
+    "b": "pelo término de um relacionamento amoroso.",
+    "c": "pela mudança de um amigo para outro país.",
+    "d": "pelo fim de uma amizade de mais de vinte anos.",
+    "e": "pela traição por parte de pessoa próxima."
+  },
+  "answer": "a",
+  "tags": [
+    "interpretação de texto",
+    "gêneros textuais",
+    "língua inglesa"
+  ],
+  "year": 2019,
+  "test": "ENEM",
+  "area": "linguagens",
+  "difficulty": 3,
+  "images": [],
+  "contextId": "enem_2019_linguagens_ctx1",
+  "contextIds": null,
+  "language": "en"
+}

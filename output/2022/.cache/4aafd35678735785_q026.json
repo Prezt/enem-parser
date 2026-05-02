@@ -1,0 +1,23 @@
+{
+  "number": 26,
+  "text": "Nesse texto, predomina a função poética da linguagem Entretanto, a função emotiva pode ser identificada no verso",
+  "alternatives": {
+    "a": "\"Zanza pra acolá\".",
+    "b": "\"Fim de feira, periferia afora\".",
+    "c": "\"A cidade não mora mais em mim\".",
+    "d": "\"Onde só vento se semeava outrora\".",
+    "e": "\"Ó Manuel, Miguilim\"."
+  },
+  "answer": "c",
+  "tags": [
+    "literatura",
+    "poesia"
+  ],
+  "year": 2022,
+  "test": "ENEM",
+  "area": "linguagens",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

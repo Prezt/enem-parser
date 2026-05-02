@@ -1,0 +1,23 @@
+{
+  "number": 86,
+  "text": "Durante a Revolução Francesa, um certo padre Niollan escondeu-se no pequeno castelo de L’Escarbas. Pago amplamente a hospitalidade do velho fidalgo ocupando-s da educação de sua filha, Anaïs. A presença da mãe em nada modificou essa educação masculina dada a um jovem criatura já muito inclinada à independência em virtude da vida no campo. O padre transmitiu à aluna su intrepidez de opiniões e sua facilidade de julgamento sem pensar que essas qualidades, tão necessárias num homem, se tornam defeitos numa mulher destinada ao humildes afazeres de mãe de família. Embora o padr recomendasse continuamente à aluna ser tanto mai graciosa e modesta quanto seu saber era mais extenso a senhorita de Nègrepelisse ficou com excelente opiniã de si mesma.",
+  "alternatives": {
+    "a": "abandono de laços afetivos",
+    "b": "negação da ideia de subjetividade",
+    "c": "aceitação da hierarquia de gênero",
+    "d": "consolidação da estratificação social",
+    "e": "ruptura de valores institucionalizados"
+  },
+  "answer": "e",
+  "tags": [
+    "Revolução Francesa",
+    "Literatura"
+  ],
+  "year": 2023,
+  "test": "ENEM",
+  "area": "humanas",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

@@ -1,0 +1,25 @@
+{
+  "number": 15,
+  "text": "[Figura: imagem relacionada à proposta de divulgação de gasto em anúncios] Considerando-se a função social dos posts, essa imagem videncia a apropriação de outro gênero com o objetivo de",
+  "alternatives": {
+    "a": "promover o uso adequado de campanhas publicitárias do governo.",
+    "b": "divulgar o projeto sobre transparência da administração pública.",
+    "c": "responsabilizar o cidadão pelo controle dos gastos públicos.",
+    "d": "delegar a gestão de projetos de lei ao contribuinte.",
+    "e": "assegurar a fiscalização dos gastos públicos."
+  },
+  "answer": "b",
+  "tags": [
+    "propaganda",
+    "transparência"
+  ],
+  "year": 2022,
+  "test": "ENEM",
+  "area": "linguagens",
+  "images": [
+    "figuras/q015_2022_fig1.png"
+  ],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

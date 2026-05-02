@@ -1,0 +1,24 @@
+{
+  "number": 154,
+  "text": "Um designer de jogos planeja um jogo que faz uso de um tabuleiro de dimensão n × n, com n ≥ 2, no qual cada jogador, na sua vez, coloca uma peça sobre uma das casas vazias do tabuleiro. Quando uma peça é posicionada, a região formada pelas casas que estão na mesma linha ou coluna dessa peça é chamada de zona de combate dessa peça. O tabuleiro deve ser dimensionado de forma que a probabilidade de se posicionar a segunda peça aleatoriamente, seguindo a regra do jogo, e esta ficar sobre a zona de combate da primeira, seja inferior a 1/5. A dimensão mínima que o designer deve adotar para esse tabuleiro é",
+  "alternatives": {
+    "a": "4 × 4",
+    "b": "6 × 6",
+    "c": "9 × 9",
+    "d": "10 × 10",
+    "e": "11 × 11"
+  },
+  "answer": "d",
+  "tags": [
+    "probabilidade",
+    "aritmética e números"
+  ],
+  "year": 2018,
+  "test": "ENEM",
+  "area": "math",
+  "difficulty": 6,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

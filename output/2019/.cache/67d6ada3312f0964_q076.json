@@ -1,0 +1,25 @@
+{
+  "number": 76,
+  "text": "A partir da análise da autora, no encontro das temporalidades históricas, evidencia-se uma crítica à naturalização do(a)",
+  "alternatives": {
+    "a": "ideário nacional, que legitima as desigualdades sociais.",
+    "b": "alienação ideológica, que justifica as ações individuais.",
+    "c": "cosmologia religiosa, que sustenta as tradições hierárquicas.",
+    "d": "segregação humana, que fundamenta os projetos biopolíticos.",
+    "e": "enquadramento cultural, que favorece os comportamentos punitivos."
+  },
+  "answer": "d",
+  "tags": [
+    "filosofia moderna e contemporânea",
+    "direitos humanos e cidadania",
+    "geopolítica e relações internacionais"
+  ],
+  "year": 2019,
+  "test": "ENEM",
+  "area": "humanas",
+  "difficulty": 7,
+  "images": [],
+  "contextId": "enem_2019_humanas_76_ctx1",
+  "contextIds": null,
+  "language": null
+}

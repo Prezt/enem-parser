@@ -1,0 +1,24 @@
+{
+  "number": 24,
+  "text": "Esse decreto pauta-se na ideia de que o uso do gerúndio como \"desculpa de ineficiência\", indica",
+  "alternatives": {
+    "a": "conclusão de uma ação.",
+    "b": "realização de um evento.",
+    "c": "repetição de uma prática.",
+    "d": "continuidade de um processo.",
+    "e": "transferência de responsabilidade."
+  },
+  "answer": "d",
+  "tags": [
+    "interpretação de texto",
+    "linguística e variação linguística"
+  ],
+  "year": 2020,
+  "test": "ENEM",
+  "area": "linguagens",
+  "difficulty": 6,
+  "images": [],
+  "contextId": "enem_2020_linguagens_ctx1",
+  "contextIds": null,
+  "language": null
+}

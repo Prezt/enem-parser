@@ -1,0 +1,23 @@
+{
+  "number": 50,
+  "text": "No texto, há uma crítica ao modo de ocupação do espaço amazônico pautada na",
+  "alternatives": {
+    "a": "discrepância entre engenharia ambiental e equilíbrio da fauna.",
+    "b": "incoerência entre maquinaria estrangeira e controle da floresta.",
+    "c": "incompatibilidade entre investimento estatal e proteção aos nativos.",
+    "d": "competição entre farmacologia internacional e produtos da fitoterapia.",
+    "e": "contradição entre desenvolvimento nacional e respeito aos trabalhadores."
+  },
+  "answer": "e",
+  "tags": [
+    "crítica social",
+    "história"
+  ],
+  "year": 2022,
+  "test": "ENEM",
+  "area": "humanas",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

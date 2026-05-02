@@ -1,0 +1,23 @@
+{
+  "number": 32,
+  "text": "O sol começa a descer por trás da vegetação da Ilha da Restinga, na outra margem do rio Paraíba, colorindo o céu de amarelo, laranja e lilás. Então se ouvem as primeiras notas do Bolero, do compositor francês Maurice Ravel, executadas pelo saxofonista Jurandy. É assim o pôr do sol da praia do Jacaré, em Cabedelo (Grande João Pessoa). Depois do Bolero, Jurandy toca Asa branca de Luiz Gonzaga, e Meu sublime torrão, de Genival Macedo, espécie de hino não oficial da Paraíba.",
+  "alternatives": {
+    "a": "inter-relação de referenciais estéticos aparentemente distanciados",
+    "b": "valorização de músicas que revelam mensagens de serenidade",
+    "c": "consagração do repertório erudito como cultura dominante",
+    "d": "iniciativa de estímulo à vocação turística da cidade",
+    "e": "divisão hierárquica entre gêneros e estilos musicais"
+  },
+  "answer": "a",
+  "tags": [
+    "música",
+    "cultura"
+  ],
+  "year": 2023,
+  "test": "ENEM",
+  "area": "linguagens",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

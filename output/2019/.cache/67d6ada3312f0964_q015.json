@@ -1,0 +1,25 @@
+{
+  "number": 15,
+  "text": "A função da linguagem que predomina nesse texto se caracteriza por",
+  "alternatives": {
+    "a": "evidenciar a subjetividade da reportagem com base na fala do historiador de arte.",
+    "b": "convencer o leitor a fazer o acesso on-line, levando-o a conhecer as obras de arte.",
+    "c": "informar sobre o acesso às imagens por meio da descrição do modo como acessá-las.",
+    "d": "estabelecer interlocução com o leitor, orientando-o a fazer o download das obras de arte.",
+    "e": "enaltecer a arte, buscando popularizá-la por meio da possibilidade de visualização on-line."
+  },
+  "answer": "c",
+  "tags": [
+    "interpretação de texto",
+    "gêneros textuais",
+    "comunicação e mídia"
+  ],
+  "year": 2019,
+  "test": "ENEM",
+  "area": "linguagens",
+  "difficulty": 5,
+  "images": [],
+  "contextId": "enem_2019_linguagens_q15_ctx1",
+  "contextIds": null,
+  "language": null
+}

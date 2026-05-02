@@ -1,0 +1,24 @@
+{
+  "number": 22,
+  "text": "Com apuro formal, o poema tece um conjunto semântico que metaforiza a atitude feminina de",
+  "alternatives": {
+    "a": "tenacidade transformada em brandura.",
+    "b": "obstinação traduzida em isolamento.",
+    "c": "inércia provocada pelo desejo platônico.",
+    "d": "irreverência cultivada de forma cautelosa.",
+    "e": "desconfiança consumada pela intolerância."
+  },
+  "answer": "a",
+  "tags": [
+    "interpretação de texto",
+    "literatura brasileira"
+  ],
+  "year": 2019,
+  "test": "ENEM",
+  "area": "linguagens",
+  "difficulty": 7,
+  "images": [],
+  "contextId": "enem_2019_linguagens_ctx22",
+  "contextIds": null,
+  "language": null
+}

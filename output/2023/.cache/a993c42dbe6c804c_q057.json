@@ -1,0 +1,23 @@
+{
+  "number": 57,
+  "text": "Quem se mete pelo caminho do pedido de perdão deve aceitar medir-se com a possibilidade de enfrentar o imperdoável. É com o preço dessas reservas que a grandeza do perdão se manifesta.",
+  "alternatives": {
+    "a": "rejeição particular amparada pelo desejo de poder",
+    "b": "decisão subjetiva determinada pela vontade divina",
+    "c": "liberdade mitigada pela predestinação do espírito",
+    "d": "escolhas humanas definidas pelo conhecimento em questão",
+    "e": "relações interpessoais mediadas pela autonomia do indivíduo"
+  },
+  "answer": "e",
+  "tags": [
+    "ética",
+    "filosofia"
+  ],
+  "year": 2023,
+  "test": "ENEM",
+  "area": "humanas",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

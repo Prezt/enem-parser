@@ -1,0 +1,24 @@
+{
+  "number": 157,
+  "text": "A expressão algébrica que descreve S(q) em função de q é",
+  "alternatives": {
+    "a": "S(q) = 675 + 12q",
+    "b": "S(q) = 325 + 12q",
+    "c": "S(q) = 675 + 7q",
+    "d": "S(q) = {625 + 5q, se q ≤ 50; 925 + 7q, se q > 50}",
+    "e": "S(q) = {625 + 5q, se q ≤ 50; 575 + 7q, se q > 50}"
+  },
+  "answer": "annulled",
+  "tags": [
+    "matemática",
+    "função",
+    "função por partes"
+  ],
+  "year": 2022,
+  "test": "ENEM",
+  "area": "math",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

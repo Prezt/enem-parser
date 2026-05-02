@@ -1,0 +1,24 @@
+{
+  "number": 33,
+  "text": "Os gêneros textuais podem ser caracterizados, dentre outros fatores, por seus objetivos. Esse fragmento é um(a)",
+  "alternatives": {
+    "a": "reportagem, pois busca convencer o interlocutor da tese defendida ao longo do texto.",
+    "b": "resumo, pois promove o contato rápido do leitor com uma informação desconhecida.",
+    "c": "sinopse, pois sintetiza as informações relevantes de uma obra de modo impessoal.",
+    "d": "instrução, pois ensina algo por meio de explicações sobre uma obra específica.",
+    "e": "resenha, pois apresenta uma produção intelectual de forma crítica."
+  },
+  "answer": "e",
+  "tags": [
+    "gêneros textuais",
+    "interpretação de texto"
+  ],
+  "year": 2018,
+  "test": "ENEM",
+  "area": "linguagens",
+  "difficulty": 5,
+  "images": [],
+  "contextId": "enem_2018_linguagens_ctx33",
+  "contextIds": null,
+  "language": null
+}

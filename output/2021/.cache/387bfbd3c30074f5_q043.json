@@ -1,0 +1,28 @@
+{
+  "number": 43,
+  "text": "O TATA CONTOU SOBRE O CALUNGA, MAR QUE NÃO ACABA. LONGE DAQUI... NANA, SE A GENTE BEBER A NSANGA E ENFRENTAR O CALUNGA, PODEMOS FICAR JUNTOS LA NA OUTRA TERRA. ...LONGE DISSO TUDO [Figura: imagem com texto distorcido e símbolos] [Figura: imagem com texto distorcido e símbolos]",
+  "alternatives": {
+    "a": "su",
+    "b": "re",
+    "c": "representar o abatimento diante da desumanidade",
+    "d": "ac",
+    "e": "W"
+  },
+  "answer": "d",
+  "tags": [
+    "interpretação de texto",
+    "literatura brasileira",
+    "linguística e variação linguística"
+  ],
+  "year": 2021,
+  "test": "ENEM",
+  "area": "linguagens",
+  "difficulty": 5,
+  "images": [
+    "figuras/q043_2021_fig1.png",
+    "figuras/q043_2021_fig2.png"
+  ],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

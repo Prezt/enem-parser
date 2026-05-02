@@ -1,0 +1,23 @@
+{
+  "number": 87,
+  "text": "Macrocefalia urbana pode ser entendida como massiva concentração das atividades econômicas em algumas metrópoles que propicia o desencadeament de processos descompassados: redirecionamento convergência de fluxos migratórios, déficit no númer de empregos, ocupação desordenada de determinada regiões da cidade e estigmatização de estratos sociais que comprometem substancialmente a segurança públic urbana. O processo de concentração espacial apresentado foi estimulado por qual fator geográfico?",
+  "alternatives": {
+    "a": "Limitação da área ocupada",
+    "b": "Êxodo da população do campo",
+    "c": "Ampliação do risco habitacional",
+    "d": "Deficiência do transporte alternativo",
+    "e": "Crescimento da taxa de fecundidade"
+  },
+  "answer": "b",
+  "tags": [
+    "urbanismo",
+    "geografia"
+  ],
+  "year": 2022,
+  "test": "ENEM",
+  "area": "humanas",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

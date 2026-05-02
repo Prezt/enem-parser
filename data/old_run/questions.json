@@ -1,0 +1,630 @@
+[
+  {
+    "number": 91,
+    "text": "B 136 A",
+    "contextIds": [],
+    "alternatives": {
+      "b": "136 A"
+    },
+    "images": [],
+    "tags": [],
+    "year": 2024,
+    "area": "matematica",
+    "test": "ENEM",
+    "answer": null
+  },
+  {
+    "number": 92,
+    "text": "C 137 B",
+    "contextIds": [],
+    "alternatives": {
+      "c": "137 B"
+    },
+    "images": [],
+    "tags": [],
+    "year": 2024,
+    "area": "matematica",
+    "test": "ENEM",
+    "answer": null
+  },
+  {
+    "number": 93,
+    "text": "E 138 B",
+    "contextIds": [],
+    "alternatives": {
+      "e": "138 B"
+    },
+    "images": [],
+    "tags": [],
+    "year": 2024,
+    "area": "matematica",
+    "test": "ENEM",
+    "answer": null
+  },
+  {
+    "number": 94,
+    "text": "",
+    "contextIds": [],
+    "alternatives": {
+      "a": "139 A"
+    },
+    "images": [],
+    "tags": [],
+    "year": 2024,
+    "area": "matematica",
+    "test": "ENEM",
+    "answer": null
+  },
+  {
+    "number": 95,
+    "text": "",
+    "contextIds": [],
+    "alternatives": {
+      "a": "140 B"
+    },
+    "images": [],
+    "tags": [],
+    "year": 2024,
+    "area": "matematica",
+    "test": "ENEM",
+    "answer": null
+  },
+  {
+    "number": 96,
+    "text": "C 141 B",
+    "contextIds": [],
+    "alternatives": {
+      "c": "141 B"
+    },
+    "images": [],
+    "tags": [],
+    "year": 2024,
+    "area": "matematica",
+    "test": "ENEM",
+    "answer": null
+  },
+  {
+    "number": 97,
+    "text": "D 142 A",
+    "contextIds": [],
+    "alternatives": {
+      "d": "142 A"
+    },
+    "images": [],
+    "tags": [],
+    "year": 2024,
+    "area": "matematica",
+    "test": "ENEM",
+    "answer": null
+  },
+  {
+    "number": 98,
+    "text": "E 143 D",
+    "contextIds": [],
+    "alternatives": {
+      "e": "143 D"
+    },
+    "images": [],
+    "tags": [],
+    "year": 2024,
+    "area": "matematica",
+    "test": "ENEM",
+    "answer": null
+  },
+  {
+    "number": 99,
+    "text": "D 144 D",
+    "contextIds": [],
+    "alternatives": {
+      "d": "144 D"
+    },
+    "images": [],
+    "tags": [],
+    "year": 2024,
+    "area": "matematica",
+    "test": "ENEM",
+    "answer": null
+  },
+  {
+    "number": 100,
+    "text": "C 145 D",
+    "contextIds": [],
+    "alternatives": {
+      "c": "145 D"
+    },
+    "images": [],
+    "tags": [],
+    "year": 2024,
+    "area": "matematica",
+    "test": "ENEM",
+    "answer": null
+  },
+  {
+    "number": 101,
+    "text": "",
+    "contextIds": [],
+    "alternatives": {
+      "a": "146 B"
+    },
+    "images": [],
+    "tags": [],
+    "year": 2024,
+    "area": "matematica",
+    "test": "ENEM",
+    "answer": null
+  },
+  {
+    "number": 102,
+    "text": "",
+    "contextIds": [],
+    "alternatives": {
+      "a": "147 B"
+    },
+    "images": [],
+    "tags": [],
+    "year": 2024,
+    "area": "matematica",
+    "test": "ENEM",
+    "answer": null
+  },
+  {
+    "number": 103,
+    "text": "E 148 C",
+    "contextIds": [],
+    "alternatives": {
+      "e": "148 C"
+    },
+    "images": [],
+    "tags": [],
+    "year": 2024,
+    "area": "matematica",
+    "test": "ENEM",
+    "answer": null
+  },
+  {
+    "number": 104,
+    "text": "D 149 E",
+    "contextIds": [],
+    "alternatives": {
+      "d": "149 E"
+    },
+    "images": [],
+    "tags": [],
+    "year": 2024,
+    "area": "matematica",
+    "test": "ENEM",
+    "answer": null
+  },
+  {
+    "number": 105,
+    "text": "D 150 C",
+    "contextIds": [],
+    "alternatives": {
+      "d": "150 C"
+    },
+    "images": [],
+    "tags": [],
+    "year": 2024,
+    "area": "matematica",
+    "test": "ENEM",
+    "answer": null
+  },
+  {
+    "number": 106,
+    "text": "D 151 E",
+    "contextIds": [],
+    "alternatives": {
+      "d": "151 E"
+    },
+    "images": [],
+    "tags": [],
+    "year": 2024,
+    "area": "matematica",
+    "test": "ENEM",
+    "answer": null
+  },
+  {
+    "number": 107,
+    "text": "E 152 A",
+    "contextIds": [],
+    "alternatives": {
+      "e": "152 A"
+    },
+    "images": [],
+    "tags": [],
+    "year": 2024,
+    "area": "matematica",
+    "test": "ENEM",
+    "answer": null
+  },
+  {
+    "number": 108,
+    "text": "B 153 D",
+    "contextIds": [],
+    "alternatives": {
+      "b": "153 D"
+    },
+    "images": [],
+    "tags": [],
+    "year": 2024,
+    "area": "matematica",
+    "test": "ENEM",
+    "answer": null
+  },
+  {
+    "number": 109,
+    "text": "B 154 C",
+    "contextIds": [],
+    "alternatives": {
+      "b": "154 C"
+    },
+    "images": [],
+    "tags": [],
+    "year": 2024,
+    "area": "matematica",
+    "test": "ENEM",
+    "answer": null
+  },
+  {
+    "number": 110,
+    "text": "D 155 E",
+    "contextIds": [],
+    "alternatives": {
+      "d": "155 E"
+    },
+    "images": [],
+    "tags": [],
+    "year": 2024,
+    "area": "matematica",
+    "test": "ENEM",
+    "answer": null
+  },
+  {
+    "number": 111,
+    "text": "D 156 B",
+    "contextIds": [],
+    "alternatives": {
+      "d": "156 B"
+    },
+    "images": [],
+    "tags": [],
+    "year": 2024,
+    "area": "matematica",
+    "test": "ENEM",
+    "answer": null
+  },
+  {
+    "number": 112,
+    "text": "B 157 C",
+    "contextIds": [],
+    "alternatives": {
+      "b": "157 C"
+    },
+    "images": [],
+    "tags": [],
+    "year": 2024,
+    "area": "matematica",
+    "test": "ENEM",
+    "answer": null
+  },
+  {
+    "number": 113,
+    "text": "E 158 C",
+    "contextIds": [],
+    "alternatives": {
+      "e": "158 C"
+    },
+    "images": [],
+    "tags": [],
+    "year": 2024,
+    "area": "matematica",
+    "test": "ENEM",
+    "answer": null
+  },
+  {
+    "number": 114,
+    "text": "C 159 C",
+    "contextIds": [],
+    "alternatives": {
+      "c": "159 C"
+    },
+    "images": [],
+    "tags": [],
+    "year": 2024,
+    "area": "matematica",
+    "test": "ENEM",
+    "answer": null
+  },
+  {
+    "number": 115,
+    "text": "C 160 D",
+    "contextIds": [],
+    "alternatives": {
+      "c": "160 D"
+    },
+    "images": [],
+    "tags": [],
+    "year": 2024,
+    "area": "matematica",
+    "test": "ENEM",
+    "answer": null
+  },
+  {
+    "number": 116,
+    "text": "",
+    "contextIds": [],
+    "alternatives": {
+      "a": "161 B"
+    },
+    "images": [],
+    "tags": [],
+    "year": 2024,
+    "area": "matematica",
+    "test": "ENEM",
+    "answer": null
+  },
+  {
+    "number": 117,
+    "text": "E 162 A",
+    "contextIds": [],
+    "alternatives": {
+      "e": "162 A"
+    },
+    "images": [],
+    "tags": [],
+    "year": 2024,
+    "area": "matematica",
+    "test": "ENEM",
+    "answer": null
+  },
+  {
+    "number": 118,
+    "text": "D 163 D",
+    "contextIds": [],
+    "alternatives": {
+      "d": "163 D"
+    },
+    "images": [],
+    "tags": [],
+    "year": 2024,
+    "area": "matematica",
+    "test": "ENEM",
+    "answer": null
+  },
+  {
+    "number": 119,
+    "text": "B 164 C",
+    "contextIds": [],
+    "alternatives": {
+      "b": "164 C"
+    },
+    "images": [],
+    "tags": [],
+    "year": 2024,
+    "area": "matematica",
+    "test": "ENEM",
+    "answer": null
+  },
+  {
+    "number": 120,
+    "text": "B 165 B",
+    "contextIds": [],
+    "alternatives": {
+      "b": "165 B"
+    },
+    "images": [],
+    "tags": [],
+    "year": 2024,
+    "area": "matematica",
+    "test": "ENEM",
+    "answer": null
+  },
+  {
+    "number": 121,
+    "text": "",
+    "contextIds": [],
+    "alternatives": {
+      "a": "166 E"
+    },
+    "images": [],
+    "tags": [],
+    "year": 2024,
+    "area": "matematica",
+    "test": "ENEM",
+    "answer": null
+  },
+  {
+    "number": 122,
+    "text": "",
+    "contextIds": [],
+    "alternatives": {
+      "a": "167 D"
+    },
+    "images": [],
+    "tags": [],
+    "year": 2024,
+    "area": "matematica",
+    "test": "ENEM",
+    "answer": null
+  },
+  {
+    "number": 123,
+    "text": "",
+    "contextIds": [],
+    "alternatives": {
+      "a": "168 A"
+    },
+    "images": [],
+    "tags": [],
+    "year": 2024,
+    "area": "matematica",
+    "test": "ENEM",
+    "answer": null
+  },
+  {
+    "number": 124,
+    "text": "C 169 E",
+    "contextIds": [],
+    "alternatives": {
+      "c": "169 E"
+    },
+    "images": [],
+    "tags": [],
+    "year": 2024,
+    "area": "matematica",
+    "test": "ENEM",
+    "answer": null
+  },
+  {
+    "number": 125,
+    "text": "C 170 C",
+    "contextIds": [],
+    "alternatives": {
+      "c": "170 C"
+    },
+    "images": [],
+    "tags": [],
+    "year": 2024,
+    "area": "matematica",
+    "test": "ENEM",
+    "answer": null
+  },
+  {
+    "number": 126,
+    "text": "",
+    "contextIds": [],
+    "alternatives": {
+      "a": "171 A"
+    },
+    "images": [],
+    "tags": [],
+    "year": 2024,
+    "area": "matematica",
+    "test": "ENEM",
+    "answer": null
+  },
+  {
+    "number": 127,
+    "text": "E 172 D",
+    "contextIds": [],
+    "alternatives": {
+      "e": "172 D"
+    },
+    "images": [],
+    "tags": [],
+    "year": 2024,
+    "area": "matematica",
+    "test": "ENEM",
+    "answer": null
+  },
+  {
+    "number": 128,
+    "text": "E 173 A",
+    "contextIds": [],
+    "alternatives": {
+      "e": "173 A"
+    },
+    "images": [],
+    "tags": [],
+    "year": 2024,
+    "area": "matematica",
+    "test": "ENEM",
+    "answer": null
+  },
+  {
+    "number": 129,
+    "text": "Anulado 174 C",
+    "contextIds": [],
+    "alternatives": {},
+    "images": [],
+    "tags": [],
+    "year": 2024,
+    "area": "matematica",
+    "test": "ENEM",
+    "answer": null
+  },
+  {
+    "number": 130,
+    "text": "C 175 D",
+    "contextIds": [],
+    "alternatives": {
+      "c": "175 D"
+    },
+    "images": [],
+    "tags": [],
+    "year": 2024,
+    "area": "matematica",
+    "test": "ENEM",
+    "answer": null
+  },
+  {
+    "number": 131,
+    "text": "B 176 B",
+    "contextIds": [],
+    "alternatives": {
+      "b": "176 B"
+    },
+    "images": [],
+    "tags": [],
+    "year": 2024,
+    "area": "matematica",
+    "test": "ENEM",
+    "answer": null
+  },
+  {
+    "number": 132,
+    "text": "B 177 C",
+    "contextIds": [],
+    "alternatives": {
+      "b": "177 C"
+    },
+    "images": [],
+    "tags": [],
+    "year": 2024,
+    "area": "matematica",
+    "test": "ENEM",
+    "answer": null
+  },
+  {
+    "number": 133,
+    "text": "C 178 E",
+    "contextIds": [],
+    "alternatives": {
+      "c": "178 E"
+    },
+    "images": [],
+    "tags": [],
+    "year": 2024,
+    "area": "matematica",
+    "test": "ENEM",
+    "answer": null
+  },
+  {
+    "number": 134,
+    "text": "E 179 C",
+    "contextIds": [],
+    "alternatives": {
+      "e": "179 C"
+    },
+    "images": [],
+    "tags": [],
+    "year": 2024,
+    "area": "matematica",
+    "test": "ENEM",
+    "answer": null
+  },
+  {
+    "number": 135,
+    "text": "D 180 E",
+    "contextIds": [],
+    "alternatives": {
+      "d": "180 E"
+    },
+    "images": [],
+    "tags": [],
+    "year": 2024,
+    "area": "matematica",
+    "test": "ENEM",
+    "answer": null
+  }
+]

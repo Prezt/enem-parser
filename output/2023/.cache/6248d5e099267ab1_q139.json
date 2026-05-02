@@ -1,0 +1,23 @@
+{
+  "number": 139,
+  "text": "O gerente de uma fábrica pretende comparar a evolução das vendas dos produtos I e II. Após a verificação, para os meses de abril a junho, são apresentadas as seguintes informações: Vendas Produto em abril (unidade) l 80 ll 190 O gerente estava decidido a cessar a produção do produto II se o número de unidades vendidas do produto I superassem as do produto II. Suponha que a variação na quantidade de unidades vendidas seja constante no período representado na tabela. Em qual mês o produto II parou de ser produzido?",
+  "alternatives": {
+    "a": "Junho.",
+    "b": "Julho.",
+    "c": "Agosto.",
+    "d": "Setembro.",
+    "e": "Outubro."
+  },
+  "answer": "d",
+  "tags": [
+    "estatística",
+    "tabelas"
+  ],
+  "year": 2023,
+  "test": "ENEM",
+  "area": "math",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

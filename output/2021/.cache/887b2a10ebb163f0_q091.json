@@ -1,0 +1,24 @@
+{
+  "number": 91,
+  "text": "A tabela apresenta a composição de uma solução nutritiva de referência e de uma solução nutritiva preparada para o cultivo hidropônico de alface. A solução de referência possui pH entre 5,5 e 6,5, sendo adequada para o desenvolvimento da planta. A solução preparada apresenta pH = 4,3, o que pode prejudicar o desenvolvimento das plantas, pois causa a precipitação de alguns nutrientes e aumenta a toxidez de outros. Para corrigir o pH dessa solução preparada e aproximá-lo ao da solução de referência, qual substância deveria ser adicionada?",
+  "alternatives": {
+    "a": "ácido fosfórico, H₃PO₄",
+    "b": "sulfato de cálcio, CaSO₄",
+    "c": "óxido de alumínio, Al₂O₃",
+    "d": "nitrato de potássio, KNO₃",
+    "e": "hidróxido de potássio, KOH"
+  },
+  "answer": "e",
+  "tags": [
+    "química geral e inorgânica",
+    "estequiometria"
+  ],
+  "year": 2021,
+  "test": "ENEM",
+  "area": "nature",
+  "difficulty": 6,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

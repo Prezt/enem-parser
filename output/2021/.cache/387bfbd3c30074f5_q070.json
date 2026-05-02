@@ -1,0 +1,24 @@
+{
+  "number": 70,
+  "text": "O texto apresenta informações sobre tecnologias indígenas relacionadas ao processamento de alimentos. Com base nas características descritas, qual é a principal vantagem dessa tecnologia?",
+  "alternatives": {
+    "a": "Aumentar a durabilidade dos alimentos através da fermentação controlada.",
+    "b": "Facilitar o transporte de alimentos frescos por longas distâncias.",
+    "c": "Reduzir o tempo de cozimento dos alimentos duros.",
+    "d": "Permitir o armazenamento de alimentos em clima tropical.",
+    "e": "Garantir a eliminação completa de patógenos prejudiciais."
+  },
+  "answer": "c",
+  "tags": [
+    "história da cultura e arte",
+    "meio ambiente e sustentabilidade"
+  ],
+  "year": 2021,
+  "test": "ENEM",
+  "area": "humanas",
+  "difficulty": 5,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

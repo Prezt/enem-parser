@@ -1,0 +1,23 @@
+{
+  "number": 94,
+  "text": "O descarte dos conjuntos (1) e (2) resultará, espectivamente, em",
+  "alternatives": {
+    "a": "liberação de gás tóxico e reação oxidativa forte.",
+    "b": "reação oxidativa forte e liberação de gás tóxico.",
+    "c": "formação de sais tóxicos e reação oxidativa forte.",
+    "d": "liberação de gás tóxico e liberação de gás oxidante.",
+    "e": "formação de sais tóxicos e liberação de gás oxidante."
+  },
+  "answer": "a",
+  "tags": [
+    "química",
+    "segurança"
+  ],
+  "year": 2022,
+  "test": "ENEM",
+  "area": "nature",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

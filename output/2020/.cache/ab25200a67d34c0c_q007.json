@@ -1,0 +1,24 @@
+{
+  "number": 7,
+  "text": "A frase, título do filme, reproduz uma variedade linguística recorrente na fala de muitos brasileiros. Essa estrutura caracteriza-se pelo(a)",
+  "alternatives": {
+    "a": "uso de uma marcação temporal.",
+    "b": "imprecisão do referente de pessoa.",
+    "c": "organização interrogativa da frase.",
+    "d": "utilização de um verbo de ação.",
+    "e": "apagamento de uma preposição."
+  },
+  "answer": "e",
+  "tags": [
+    "linguística e variação linguística",
+    "interpretação de texto"
+  ],
+  "year": 2020,
+  "test": "ENEM",
+  "area": "linguagens",
+  "difficulty": 6,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

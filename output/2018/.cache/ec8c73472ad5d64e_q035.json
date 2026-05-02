@@ -1,0 +1,24 @@
+{
+  "number": 35,
+  "text": "No processo de elaboração do poema, a autora confere o eu lírico uma identidade que aqui representa a",
+  "alternatives": {
+    "a": "hipocrisia do discurso alicerçado sobre o senso comum.",
+    "b": "mudança de paradigmas de imagem atribuídos à mulher.",
+    "c": "tentativa de estabelecer preceitos da psicologia feminina.",
+    "d": "importância da correlação entre ações e efeitos causados.",
+    "e": "valorização da sensibilidade como característica de gênero."
+  },
+  "answer": "a",
+  "tags": [
+    "interpretação de texto",
+    "literatura brasileira"
+  ],
+  "year": 2018,
+  "test": "ENEM",
+  "area": "linguagens",
+  "difficulty": 6,
+  "images": [],
+  "contextId": "enem_2018_linguagens_35_ctx1",
+  "contextIds": null,
+  "language": null
+}

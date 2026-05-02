@@ -1,0 +1,24 @@
+{
+  "number": 167,
+  "text": "Um povoado com 100 habitantes está passando por uma seca prolongada e precisa construir um reservatório para armazenar água. Esse reservatório é um cilindro circular reto, cuja base tenha 5 metros de diâmetro interno, e atender à demanda de água da população. Sabe-se que o consumo médio diário por habitante é de 165 litros. O reservatório é abastecido por um poço e tem uma vazão de entrada de 0,5 metro cúbico por hora durante 8 horas consecutivas. No oitavo dia, o reservatório vazio é preenchido. Considerando que o consumo médio diário por habitante é de 165 litros, determine a altura interna mínima do reservatório. Nas condições apresentadas, o reservatório deverá ser construído com uma altura interna mínima, em metro, igual a",
+  "alternatives": {
+    "a": "1,12",
+    "b": "3,10",
+    "c": "4,35",
+    "d": "4,48",
+    "e": "5,60"
+  },
+  "answer": "d",
+  "tags": [
+    "geometria espacial",
+    "matemática financeira"
+  ],
+  "year": 2021,
+  "test": "ENEM",
+  "area": "math",
+  "difficulty": 6,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

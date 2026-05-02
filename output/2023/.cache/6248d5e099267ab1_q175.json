@@ -1,0 +1,23 @@
+{
+  "number": 175,
+  "text": "O metrô de um município oferece dois tipos de tíquete em cartelas, cada qual com nove tíquetes da mesma cor. Uma cartela de tíquetes vermelhos são vendidas por R$ 3,468. Duas cartelas de tíquetes azuis e uma cartela de tíquetes vermelhos custam juntas R$ 9,30. Sabe-se que o preço de um tíquete azul menos o preço de um tíquete vermelho é igual ao preço de um tíquete vermelho mais cinco centavos. Qual o preço, em real, de uma cartela de tíquetes vermelhos?",
+  "alternatives": {
+    "a": "4,68",
+    "b": "6,30",
+    "c": "9,30",
+    "d": "10,50",
+    "e": "10,65"
+  },
+  "answer": "b",
+  "tags": [
+    "álgebra",
+    "equações"
+  ],
+  "year": 2023,
+  "test": "ENEM",
+  "area": "math",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

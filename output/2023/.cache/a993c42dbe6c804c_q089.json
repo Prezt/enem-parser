@@ -1,0 +1,26 @@
+{
+  "number": 89,
+  "text": "Simulação de mudança da temperatura média anual em relação ao aquecimento global [Figura: gráfico de simulação] e pluviosidade média anual em relação ao aquecimento global. Qual medida é capaz de minimizar as mudanças apresentadas?",
+  "alternatives": {
+    "a": "Expandir o transporte marítimo.",
+    "b": "Incentivar os fluxos migratórios.",
+    "c": "Monitorar as atividades vulcânicas.",
+    "d": "Controlar as emissões de carbono.",
+    "e": "Priorizar a utilização de termoelétricas."
+  },
+  "answer": "d",
+  "tags": [
+    "clima",
+    "medio-ambiente",
+    "poluicao"
+  ],
+  "year": 2023,
+  "test": "ENEM",
+  "area": "humanas",
+  "images": [
+    "figuras/q089_2023_fig1.png"
+  ],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

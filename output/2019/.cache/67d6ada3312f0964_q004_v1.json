@@ -1,0 +1,25 @@
+{
+  "number": 4,
+  "text": "A gastronomia é uma das formas de expressão cultural de um povo. Nesse poema, ao personificar as empanadas, o escritor chileno Antrix",
+  "alternatives": {
+    "a": "enaltece esse prato da culinária hispânica.",
+    "b": "descreve algumas etapas de preparação dessa receita.",
+    "c": "destaca a importância do vinho na alimentação hispânica.",
+    "d": "resgata o papel histórico desse alimento em tempos de fome.",
+    "e": "evidencia a relevância de alguns condimentos na cozinha hispânica."
+  },
+  "answer": "b",
+  "tags": [
+    "interpretação de texto",
+    "literatura mundial",
+    "gêneros textuais"
+  ],
+  "year": 2019,
+  "test": "ENEM",
+  "area": "linguagens",
+  "difficulty": 5,
+  "images": [],
+  "contextId": "enem_2019_linguagens_ctx1",
+  "contextIds": null,
+  "language": "es"
+}

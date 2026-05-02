@@ -1,0 +1,25 @@
+{
+  "number": 118,
+  "text": "[Figura]",
+  "alternatives": {
+    "a": "I",
+    "b": "II",
+    "c": "III",
+    "d": "IV",
+    "e": "V"
+  },
+  "answer": "d",
+  "tags": [
+    "química",
+    "odontologia"
+  ],
+  "year": 2024,
+  "test": "ENEM",
+  "area": "nature",
+  "images": [
+    "figuras/q118_2024_fig1.png"
+  ],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

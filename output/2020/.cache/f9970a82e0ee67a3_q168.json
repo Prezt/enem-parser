@@ -1,0 +1,24 @@
+{
+  "number": 168,
+  "text": "Num recipiente com a forma de paralelepíped reto-retângulo, colocou-se água até a altura de 8 cm um objeto, que ficou flutuando na superfície da água. Para retirar o objeto de dentro do recipiente, a altura da coluna de água deve ser de, pelo menos, 15 cm. Para a coluna de água chegar até essa altura, é necessário colocar dentro do recipiente bolinhas de volume igual a 6 cm³ cada, que ficarão totalmente submersas. O número mínimo de bolinhas necessárias para que se possa retirar o objeto que flutua na água, seguindo as instruções dadas, é de",
+  "alternatives": {
+    "a": "14",
+    "b": "16",
+    "c": "18",
+    "d": "30",
+    "e": "34"
+  },
+  "answer": "a",
+  "tags": [
+    "geometria espacial",
+    "aritmética e números"
+  ],
+  "year": 2020,
+  "test": "ENEM",
+  "area": "math",
+  "difficulty": 6,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

@@ -1,0 +1,24 @@
+{
+  "number": 20,
+  "text": "Que tal transformar a internet em palco para a dança?\n\n[Figura: texto sobre dança digital e miniaturas]\n\nO criador mencionado no texto é considerado inovador por",
+  "alternatives": {
+    "a": "adotar uma perspectiva conceitual como contraposição ao recurso tecnológico",
+    "b": "expandir as possibilidades de dança ao incorporar elementos da web",
+    "c": "privilegiar movimentos gerados por computação em detrimento da dança convencional",
+    "d": "utilizar a internet como ferramenta de divulgação de danças tradicionais",
+    "e": "questionar a relevância das apresentações de dança no espaço físico"
+  },
+  "answer": "d",
+  "tags": [
+    "interpretação de texto",
+    "comunicação e mídia"
+  ],
+  "year": 2021,
+  "test": "ENEM",
+  "area": "linguagens",
+  "difficulty": 6,
+  "images": [],
+  "contextId": "enem_2021_linguagens_ctx1",
+  "contextIds": null,
+  "language": null
+}

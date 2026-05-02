@@ -1,0 +1,24 @@
+{
+  "number": 5,
+  "text": "No texto, no qual é narrada a visita à casa de uma personagem, a expressão \"entrar con pies de plomo\" é utilizada para se referir ao(à)",
+  "alternatives": {
+    "a": "determinação para conduzir discussões pessoais.",
+    "b": "insensibilidade para lidar com temas do passado.",
+    "c": "discrição para administrar questões financeiras.",
+    "d": "disposição para resolver problemas familiares.",
+    "e": "cuidado para tratar de assuntos íntimos."
+  },
+  "answer": "c",
+  "tags": [
+    "interpretação de texto",
+    "língua espanhola"
+  ],
+  "year": 2020,
+  "test": "ENEM",
+  "area": "linguagens",
+  "difficulty": 5,
+  "images": [],
+  "contextId": "enem_2020_linguagens_es_q5_ctx1",
+  "contextIds": null,
+  "language": "es"
+}

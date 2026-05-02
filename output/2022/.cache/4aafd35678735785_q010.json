@@ -1,0 +1,23 @@
+{
+  "number": 10,
+  "text": "Segundo os autores citados no texto, a expansão d\npossibilidades no campo das manifestações artística\npromovida pela internet pode pôr em risco o(a)",
+  "alternatives": {
+    "a": "sucesso dos artistas.",
+    "b": "valorização dos suportes.",
+    "c": "proteção da produção estética.",
+    "d": "modo de distribuição de obras.",
+    "e": "compartilhamento das obras artísticas."
+  },
+  "answer": "c",
+  "tags": [
+    "tecnologia",
+    "arte"
+  ],
+  "year": 2022,
+  "test": "ENEM",
+  "area": "linguagens",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

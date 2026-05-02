@@ -1,0 +1,23 @@
+{
+  "number": 101,
+  "text": "Muitas mulheres sofrem com desconfortos nos dias que antecedem a menstruação, a chamada tensão pré-menstrual. Entre outros sintomas, podem ocorrer alterações de humor. Atualmente, acredita-se que os sintomas são resultado da queda na concentração do neurotransmissor serotonina, que, por sua vez, está relacionado com a diminuição na produção dos hormônios ovarianos estrógeno e progesterona, observada nesta fase do ciclo feminino.",
+  "alternatives": {
+    "a": "regressão do corpo lúteo ovariano.",
+    "b": "diminuição na produção de ocitocina.",
+    "c": "liberação do gameta feminino na ovulação.",
+    "d": "aumento nos níveis dos hormônios LH e FSH.",
+    "e": "elevação nos níveis sorológicos de adrenalina."
+  },
+  "answer": "a",
+  "tags": [
+    "fisiologia",
+    "ciclo menstrual"
+  ],
+  "year": 2023,
+  "test": "ENEM",
+  "area": "nature",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

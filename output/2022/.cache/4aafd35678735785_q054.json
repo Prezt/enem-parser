@@ -1,0 +1,25 @@
+{
+  "number": 54,
+  "text": "[Figura] Os caixeiros do comércio a retalho do Rio de Janeiro estiveram entre as primeiras categorias de trabalhadores a se organizar em associações e a exigir a intervenção dos poderes públicos na mediação de suas lutas por direitos. Na década de 1880, os caixeiros participaram da arena política e ganharam as ruas com vários outros como os republicanos e os abolicionistas.",
+  "alternatives": {
+    "a": "manutenção das regras patronais",
+    "b": "desprendimento das ideias liberais",
+    "c": "fortalecimento dos contratos laborais",
+    "d": "consolidação das estruturas sindicais",
+    "e": "contestação dos princípios monárquicos"
+  },
+  "answer": "e",
+  "tags": [
+    "história",
+    "trabalhismo"
+  ],
+  "year": 2022,
+  "test": "ENEM",
+  "area": "humanas",
+  "images": [
+    "figuras/q054_2022_fig1.png"
+  ],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

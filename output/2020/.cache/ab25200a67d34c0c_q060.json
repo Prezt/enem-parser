@@ -1,0 +1,24 @@
+{
+  "number": 60,
+  "text": "O texto descreve a experiência do personagem de Tolstoi diante de um aspecto incontornável de nossas vidas. Esse aspecto foi um tema central na tradição filosófica",
+  "alternatives": {
+    "a": "marxista, no contexto do materialismo histórico.",
+    "b": "logicista, no propósito de entendimento dos fatos.",
+    "c": "utilitarista, no sentido da racionalidade das ações.",
+    "d": "pós-modernista, na discussão da fluidez das relações.",
+    "e": "existencialista, na questão do reconhecimento de si."
+  },
+  "answer": "e",
+  "tags": [
+    "filosofia moderna e contemporânea",
+    "literatura brasileira"
+  ],
+  "year": 2020,
+  "test": "ENEM",
+  "area": "humanas",
+  "difficulty": 6,
+  "images": [],
+  "contextId": "enem_2020_humanas_ctx1",
+  "contextIds": null,
+  "language": null
+}

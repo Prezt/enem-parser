@@ -1,0 +1,23 @@
+{
+  "number": 36,
+  "text": "Essa notícia, além de cumprir sua função informativa, assume o papel de",
+  "alternatives": {
+    "a": "fiscalizar as ações de saúde e saneamento da cidade.",
+    "b": "defender os serviços gratuitos de atendimento à população.",
+    "c": "conscientizar a população sobre grave problema de saúde pública.",
+    "d": "propor campanhas para a ampliação de acesso aos serviços públicos.",
+    "e": "responsabilizar os agentes públicos pela demora na tomada de decisões."
+  },
+  "answer": "c",
+  "tags": [
+    "notícias",
+    "saúde pública"
+  ],
+  "year": 2022,
+  "test": "ENEM",
+  "area": "linguagens",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

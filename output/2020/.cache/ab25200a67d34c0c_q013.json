@@ -1,0 +1,24 @@
+{
+  "number": 13,
+  "text": "A inter-relação entre tecnologia e sociedade tem estimulado a criação de aplicativos. Nesse texto, isso é percebido pelo desenvolvimento de aplicativos para",
+  "alternatives": {
+    "a": "organização de eventos de competições esportivas.",
+    "b": "agendamento de viagens para eventos de esporte amador.",
+    "c": "mapeamento dos interesses dos praticantes acerca dos esportes.",
+    "d": "identificação da escassez de espaços para a vivência dos esportes.",
+    "e": "formação de grupos em comunidades virtuais para a prática esportiva."
+  },
+  "answer": "e",
+  "tags": [
+    "interpretação de texto",
+    "comunicação e mídia"
+  ],
+  "year": 2020,
+  "test": "ENEM",
+  "area": "linguagens",
+  "difficulty": 5,
+  "images": [],
+  "contextId": "enem_2020_linguagens_q13_ctx1",
+  "contextIds": null,
+  "language": null
+}

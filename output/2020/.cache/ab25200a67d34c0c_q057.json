@@ -1,0 +1,24 @@
+{
+  "number": 57,
+  "text": "Tomando o texto como parâmetro, qual tendência contemporânea impulsiona a formulação de estratégias mais abrangentes por parte do Estado americano?",
+  "alternatives": {
+    "a": "Erradicação dos conflitos em territórios.",
+    "b": "Propagação de organizações em redes.",
+    "c": "Eliminação das diferenças regionais.",
+    "d": "Ampliação de modelo democrático.",
+    "e": "Projeção da diplomacia mundial."
+  },
+  "answer": "b",
+  "tags": [
+    "geopolítica e relações internacionais",
+    "história contemporânea"
+  ],
+  "year": 2020,
+  "test": "ENEM",
+  "area": "humanas",
+  "difficulty": 6,
+  "images": [],
+  "contextId": "enem_2020_humanas_57_ctx1",
+  "contextIds": null,
+  "language": null
+}

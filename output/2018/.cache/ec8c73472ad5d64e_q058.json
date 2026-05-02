@@ -1,0 +1,24 @@
+{
+  "number": 58,
+  "text": "Em um momento de radicalização política, a retórica no discurso do presidente João Goulart, proferido no comício da Central do Brasil, buscava justificar a necessidade de",
+  "alternatives": {
+    "a": "conter a abertura econômica para conseguir a adesão das elites.",
+    "b": "impedir a ingerência externa para garantir a conservação de direitos.",
+    "c": "regulamentar os meios de comunicação para coibir os partidos de oposição.",
+    "d": "aprovar os projetos reformistas para atender à mobilização de setores trabalhistas.",
+    "e": "incrementar o processo de desestatização para diminuir a pressão da opinião pública."
+  },
+  "answer": "d",
+  "tags": [
+    "história do brasil república",
+    "política e direitos humanos"
+  ],
+  "year": 2018,
+  "test": "ENEM",
+  "area": "humanas",
+  "difficulty": 6,
+  "images": [],
+  "contextId": "enem_2018_humanas_ctx1",
+  "contextIds": null,
+  "language": null
+}

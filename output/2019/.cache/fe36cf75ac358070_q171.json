@@ -1,0 +1,24 @@
+{
+  "number": 171,
+  "text": "Uma empresa confecciona e comercializa um brinquedo formado por uma locomotiva, pintada na cor preta, mais 12 vagões de iguais formato e tamanho numerados de 1 a 12. Dos 12 vagões, 4 são pintados na cor vermelha, 3 na cor azul, 3 na cor verde e 2 na cor amarela. O trem é montado utilizando-se uma locomotiva e 12 vagões, ordenados crescentemente segundo sua numeração, conforme ilustrado na figura.\n\n1 2 3 4 5 6 7 8 9 10 11 12\n\nDe acordo com as possíveis variações nas colorações dos vagões, a quantidade de trens que podem ser montados, expressa por meio de combinações, é dada por",
+  "alternatives": {
+    "a": "C₁₂⁴ · C₁₂³ · C₁₂³ · C₁₂²",
+    "b": "C₁₂⁴ · C₈³ · C₅³ · C₂²",
+    "c": "C₁₂⁴ · C₈³ · C₅² · C₃³",
+    "d": "C₁₂⁴ · C₁₂³ · C₁₂² · C₁₂²",
+    "e": "C₁₂⁴ · C₁₂⁴ · C₁₂³ · C₁₂²"
+  },
+  "answer": "e",
+  "tags": [
+    "análise combinatória",
+    "aritmética e números"
+  ],
+  "year": 2019,
+  "test": "ENEM",
+  "area": "math",
+  "difficulty": 6,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

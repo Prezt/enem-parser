@@ -1,0 +1,23 @@
+{
+  "number": 112,
+  "text": "Muitos smartphones e tablets não precisam mais de teclas, uma vez que todos os comandos podem ser dados ao se pressionar a própria tela. Inicialmente essa tecnologia foi proporcionada por meio das telas resistivas, formadas basicamente por duas camadas de material condutor transparente que não se encostam até que alguém as pressione, modificando a resistência total do circuito de acordo com o ponto onde ocorre o toque. A imagem é uma simplificação do circuito formado pelas placas, em que A e B representam pontos onde o circuito pode ser fechado por meio do toque.\n\nQual é a resistência equivalente no circuito provocada por um toque que fecha o circuito no ponto A?",
+  "alternatives": {
+    "a": "1,3 kΩ",
+    "b": "4,0 kΩ",
+    "c": "6,0 kΩ",
+    "d": "6,7 kΩ",
+    "e": "12,0 kΩ"
+  },
+  "answer": "c",
+  "tags": [
+    "eletricidade e magnetismo"
+  ],
+  "year": 2018,
+  "test": "ENEM",
+  "area": "nature",
+  "difficulty": 6,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

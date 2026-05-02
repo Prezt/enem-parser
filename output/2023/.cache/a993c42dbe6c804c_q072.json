@@ -1,0 +1,26 @@
+{
+  "number": 72,
+  "text": "Os textos apresentam perspectivas da nova corrida espacial que revelam, respectivamente: [Figura]",
+  "alternatives": {
+    "a": "Dependência e progresso.",
+    "b": "Expectativa e desconfiança.",
+    "c": "Angústia e adaptação.",
+    "d": "Pioneirismo e retrocesso.",
+    "e": "Receio e civilidade."
+  },
+  "answer": "b",
+  "tags": [
+    "corrida espacial",
+    "tecnologia",
+    "perspectivas"
+  ],
+  "year": 2023,
+  "test": "ENEM",
+  "area": "humanas",
+  "images": [
+    "figuras/q072_2023_fig1.png"
+  ],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

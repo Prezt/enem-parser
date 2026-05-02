@@ -1,0 +1,30 @@
+{
+  "number": 168,
+  "text": "Projetistas de uma fábrica de amortecedores realizam uma série de experimentos que produziram oscilações semelhantes ao comportamento do gráfico de uma senoide. Cada experimento teve duração de 20 minutos, sendo os 9 primeiros minutos em superfície que simula uma rodovia asfaltada e os 11 minutos restantes em superfície que simula uma estrada de chão batido. Para os amortecedores serem aprovados no experimento, exige-se que as amplitudes das ondas oscilatórias, em cada tipo de superfície, sejam constantes e, ainda, que a amplitude da oscilação do amortecedor no asfalto seja menor do que sua amplitude da oscilação na estrada de chão. [Figura: gráfico de oscilações] [Gráfico - amplitudes das ondas] [Infográfico - comparação de superfícies] [Esquema - experimento com amortecedores] [Figura: resultados]",
+  "alternatives": {
+    "a": "A amplitude da oscilação no asfalto é igual à amplitude na estrada de chão.",
+    "b": "O gráfico mostra uma amplitude constante em todas as superfícies.",
+    "c": "As amplitudes das ondas oscilatórias são maiores na estrada de chão do que no asfalto.",
+    "d": "A amplitude da oscilação no asfalto é menor do que a amplitude na estrada de chão.",
+    "e": "O experimento não exige amplitudes constantes em todas as superfícies."
+  },
+  "answer": "a",
+  "tags": [
+    "matemática",
+    "física",
+    "oscilações"
+  ],
+  "year": 2024,
+  "test": "ENEM",
+  "area": "math",
+  "images": [
+    "figuras/q168_2024_fig1.png",
+    "figuras/q168_2024_fig2.png",
+    "figuras/q168_2024_fig3.png",
+    "figuras/q168_2024_fig4.png",
+    "figuras/q168_2024_fig5.png"
+  ],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

@@ -1,0 +1,23 @@
+{
+  "number": 81,
+  "text": "Com base nos trechos do decreto, as finalidades do órgão criado permitiram ao governo promover o(a)",
+  "alternatives": {
+    "a": "diversificação da opinião pública.",
+    "b": "mercantilização da cultura popular.",
+    "c": "controle das organizações sindicais.",
+    "d": "cerceamento da liberdade de expressão.",
+    "e": "privatização dos meios de comunicação."
+  },
+  "answer": "d",
+  "tags": [
+    "história",
+    "política"
+  ],
+  "year": 2022,
+  "test": "ENEM",
+  "area": "humanas",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

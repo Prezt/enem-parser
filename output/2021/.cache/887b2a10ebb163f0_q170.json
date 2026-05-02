@@ -1,0 +1,24 @@
+{
+  "number": 170,
+  "text": "Uma pessoa comprou uma caneca para tomar sopa. Sabe-se que 1 cm³ = 1 mL e que o topo da caneca é uma circunferência de diâmetro (D) medindo 10 cm, a base é um círculo de diâmetro (d) medindo 8 cm. A altura (h) dessa caneca mede 12 cm (distância entre o centro das circunferências do topo e da base).\nUtilize 3 como aproximação para π.\nQual é a capacidade volumétrica, em mililitro, dessa caneca?",
+  "alternatives": {
+    "a": "216",
+    "b": "408",
+    "c": "792",
+    "d": "2196",
+    "e": "2928"
+  },
+  "answer": "c",
+  "tags": [
+    "geometria espacial",
+    "aritmética e números"
+  ],
+  "year": 2021,
+  "test": "ENEM",
+  "area": "math",
+  "difficulty": 6,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

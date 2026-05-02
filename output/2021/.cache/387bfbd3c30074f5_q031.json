@@ -1,0 +1,25 @@
+{
+  "number": 31,
+  "text": "O texto narra a história do skate no Brasil, relatando que a modalidade surgiu como atividade de lazer nas regiões litorâneas na década de 1960. O engenheiro Frank Nasworthy desenvolveu, em 1972, rodas de poliuretano que impulsionaram enormemente a prática, levando ao surgimento de campeonatos, marcas e lojas especializadas. Com o tempo, o esporte ganhou reconhecimento global e social.\n\nDe acordo com o texto, diversos fatores históricos",
+  "alternatives": {
+    "a": "contribuíram para a democratização do skate.",
+    "b": "evidenciaram as demandas corporativas dos skatistas.",
+    "c": "definiram a carreira de skatistas profissionais.",
+    "d": "permitiram que a prática social do skate substituísse o surfe.",
+    "e": "indicaram a autonomia dos praticantes de skate em relação às instituições esportivas."
+  },
+  "answer": "a",
+  "tags": [
+    "interpretação de texto",
+    "cultura e identidade",
+    "gêneros textuais"
+  ],
+  "year": 2021,
+  "test": "ENEM",
+  "area": "linguagens",
+  "difficulty": 5,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

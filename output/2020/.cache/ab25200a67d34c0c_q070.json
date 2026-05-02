@@ -1,0 +1,24 @@
+{
+  "number": 70,
+  "text": "O acontecimento histórico mencionado no texto de Salústio, datado de I a.C., manteve correspondência com processo de",
+  "alternatives": {
+    "a": "demarcação de terras públicas.",
+    "b": "imposição da escravidão por dívidas.",
+    "c": "restrição da cidadania por parentesco.",
+    "d": "restauração de instituições ancestrais.",
+    "e": "expansão das fronteiras extrapeninsulares."
+  },
+  "answer": "e",
+  "tags": [
+    "história antiga e medieval",
+    "história contemporânea"
+  ],
+  "year": 2020,
+  "test": "ENEM",
+  "area": "humanas",
+  "difficulty": 6,
+  "images": [],
+  "contextId": "enem_2020_humanas_q70_ctx1",
+  "contextIds": null,
+  "language": null
+}

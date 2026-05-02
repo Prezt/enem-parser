@@ -1,0 +1,26 @@
+{
+  "number": 124,
+  "text": "Utilizando-se um mesmo meio nutritivo, três gêneros acterianos diferentes foram submetidos ao cultivo em ubos de ensaio. Após certo período de crescimento da cultura bacteriana em condições físico-químicas ideais, observou-se que o padrão de distribuição das células (representadas por pontos na [Figura: distribuição celular] e [Gráfico - metabolismo energético]) ao longo dos tubos era diferente em cada um dos casos.",
+  "alternatives": {
+    "a": "anaeróbio facultativo, anaeróbio estrito e aeróbio estrito",
+    "b": "anaeróbio facultativo, aeróbio estrito e anaeróbio estrito",
+    "c": "aeróbio estrito, anaeróbio estrito e anaeróbio facultativo",
+    "d": "anaeróbio estrito, aeróbio estrito e anaeróbio facultativo",
+    "e": "aeróbio estrito, anaeróbio facultativo e anaeróbio estrito"
+  },
+  "answer": "c",
+  "tags": [
+    "bacteriologia",
+    "metabolismo energético"
+  ],
+  "year": 2024,
+  "test": "ENEM",
+  "area": "nature",
+  "images": [
+    "figuras/q124_2024_fig1.png",
+    "figuras/q124_2024_fig2.png"
+  ],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

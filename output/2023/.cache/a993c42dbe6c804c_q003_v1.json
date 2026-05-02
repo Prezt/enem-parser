@@ -1,0 +1,23 @@
+{
+  "number": 3,
+  "text": "Nesse poema, o eu poético enaltece a",
+  "alternatives": {
+    "a": "característica amistosa do povo espanhol.",
+    "b": "beleza das paisagens naturais da Espanha.",
+    "c": "variedade de pratos na gastronomia espanhola.",
+    "d": "relação entre os sentidos do paladar e do olfato ngastronomia.",
+    "e": "gastronomia como representação da identidad cultural de um povo."
+  },
+  "answer": "d",
+  "tags": [
+    "poesia",
+    "cultura"
+  ],
+  "year": 2023,
+  "test": "ENEM",
+  "area": "linguagens",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

@@ -1,0 +1,23 @@
+{
+  "number": 96,
+  "text": "Existe no comércio um produto antimofo constituído por ma embalagem com tampa perfurada contendo cloreto e cálcio anidro, CaCl₂. Uma vez aberto o lacre, essa substância absorve a umidade ambiente, transformando-se m cloreto de cálcio di-hidratado, CaCl₂⋅2H₂O. Considere a massa molar da água igual a 18 g mol⁻¹, e a massa molar do cloreto de cálcio anidro igual a 111 g mol⁻¹. Na hidratação da substância presente no antimofo, o anho percentual, em massa, é mais próximo de",
+  "alternatives": {
+    "a": "14%",
+    "b": "16%",
+    "c": "24%",
+    "d": "32%",
+    "e": "75%"
+  },
+  "answer": "d",
+  "tags": [
+    "química",
+    "hidratação"
+  ],
+  "year": 2023,
+  "test": "ENEM",
+  "area": "nature",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

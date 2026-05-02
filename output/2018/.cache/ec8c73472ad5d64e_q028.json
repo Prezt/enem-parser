@@ -1,0 +1,24 @@
+{
+  "number": 28,
+  "text": "Nessa campanha, a principal estratégia para convencer o leitor a fazer a reciclagem do lixo é a utilização da linguagem não verbal como argumento para",
+  "alternatives": {
+    "a": "reaproveitamento de material.",
+    "b": "facilidade na separação do lixo.",
+    "c": "melhoria da condição do catador.",
+    "d": "preservação de recursos naturais.",
+    "e": "geração de renda para o trabalhador."
+  },
+  "answer": "a",
+  "tags": [
+    "interpretação de texto",
+    "comunicação e mídia"
+  ],
+  "year": 2018,
+  "test": "ENEM",
+  "area": "linguagens",
+  "difficulty": 5,
+  "images": [],
+  "contextId": "enem_2018_linguagens_ctx1",
+  "contextIds": null,
+  "language": null
+}

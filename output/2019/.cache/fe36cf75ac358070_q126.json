@@ -1,0 +1,23 @@
+{
+  "number": 126,
+  "text": "Uma casa tem um cabo elétrico mal dimensionado de resistência igual a 10 Ω, que a conecta à rede elétrica de 120 V. Nessa casa, cinco lâmpadas, de resistência igual a 200 Ω, estão conectadas ao mesmo circuito que uma televisão de resistência igual a 50 Ω, conforme ilustrado no esquema. A televisão funciona apenas com tensão entre 90 V e 130 V. O número máximo de lâmpadas que podem ser ligadas sem que a televisão pare de funcionar é:",
+  "alternatives": {
+    "a": "1",
+    "b": "2",
+    "c": "3",
+    "d": "4",
+    "e": "5"
+  },
+  "answer": "b",
+  "tags": [
+    "eletricidade e magnetismo"
+  ],
+  "year": 2019,
+  "test": "ENEM",
+  "area": "nature",
+  "difficulty": 7,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

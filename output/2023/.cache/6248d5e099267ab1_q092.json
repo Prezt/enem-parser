@@ -1,0 +1,23 @@
+{
+  "number": 92,
+  "text": "Os mais antigos cozinhavam o feijão na panela de ferro fim de acabar com a palidez de seus filhos. Alguns chegavam até a colocar um prego enferrujado nesse cozimento par liberar o ferro contido nele. Sabe-se que esse elemento pode ser encontrado na sua forma metálica ou iônica sendo essencial para a manutenção da vida humana. As estratégias citadas eram utilizadas com o objetivo de",
+  "alternatives": {
+    "a": "tratar a diarreia.",
+    "b": "prevenir a anemia.",
+    "c": "evitar as verminoses.",
+    "d": "remediar o raquitismo.",
+    "e": "combater a febre amarela."
+  },
+  "answer": "b",
+  "tags": [
+    "nutrição",
+    "elementos químicos"
+  ],
+  "year": 2023,
+  "test": "ENEM",
+  "area": "nature",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

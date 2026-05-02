@@ -1,0 +1,24 @@
+{
+  "number": 75,
+  "text": "O texto apresenta informações sobre práticas de cura e conhecimentos médicos. Com base no contexto, qual é a principal característica dos curandeiros mencionados?",
+  "alternatives": {
+    "a": "Eram versados nas artes de curar, tendo aprendido através de formação acadêmica formal.",
+    "b": "Aprenderam a maioria de seus conhecimentos de forma prática e empírica.",
+    "c": "Possuíam formação científica reconhecida pelas instituições de saúde.",
+    "d": "Transmitiam seus conhecimentos exclusivamente através de documentos escritos.",
+    "e": "Utilizavam apenas plantas medicinais sem qualquer base de conhecimento sistemático."
+  },
+  "answer": "e",
+  "tags": [
+    "história moderna",
+    "história da cultura e arte"
+  ],
+  "year": 2021,
+  "test": "ENEM",
+  "area": "humanas",
+  "difficulty": 5,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

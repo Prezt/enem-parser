@@ -1,0 +1,25 @@
+{
+  "number": 54,
+  "text": "Dificilmente passa-se uma noite sem que algum sitiante tenha seu celeiro ou sua pilha de cereais destruídos pelo fogo. Vários trabalhadores não diretamente envolvidos nos ataques pareciam apoiá-los, como se vê neste depoimento ao The Times: \"deixa queimar, pena que não foi a casa\"; \"podemos nos aquecer agora\"; \"nós só queríamos algumas batatas, há um fogo ótimo para cozinhá-las\". A revolta descrita no texto, ocorrida na Inglaterra no século XIX, foi uma reação ao seguinte processo socioespacial:",
+  "alternatives": {
+    "a": "Restrição da propriedade privada.",
+    "b": "Expropriação das terras comunais.",
+    "c": "Imposição da estatização fundiária.",
+    "d": "Redução da produção monocultora.",
+    "e": "Proibição das atividades artesanais."
+  },
+  "answer": "b",
+  "tags": [
+    "história moderna",
+    "geopolítica e território",
+    "história da cultura e arte"
+  ],
+  "year": 2019,
+  "test": "ENEM",
+  "area": "humanas",
+  "difficulty": 6,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

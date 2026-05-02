@@ -1,0 +1,23 @@
+{
+  "number": 155,
+  "text": "Um proprietário pretende instalar um sensor de presença para a proteção de seu imóvel. O sensor deverá detectar movimentos de objetos e pessoas numa determinada região plana. A figura ilustra a vista superior da área de cobertura (setor circular em azul) de um sensor colocado no ponto S. Essa área depende da medida do ângulo α, em graus, e do raio R, em metros. Ao aumentar o ângulo α ou o raio R aumenta-se a área de cobertura do sensor. Entretanto, quanto maior essa área, maior o preço do sensor.\n\nPara esse fim, há cinco tipos de sensores disponíveis no mercado, cada um com as seguintes características:\n• tipo I: α = 15° e R = 20 m;\n• tipo II: α = 30° e R = 22 m;\n• tipo III: α = 40° e R = 12 m;\n• tipo IV: α = 60° e R = 16 m;\n• tipo V: α = 90° e R = 10 m.\nEsse proprietário pretende adquirir um desses sensores que seja capaz de cobrir, no mínimo, uma área de medida 20 m², com o menor preço possível.",
+  "alternatives": {
+    "a": "I",
+    "b": "II",
+    "c": "III",
+    "d": "IV",
+    "e": "V"
+  },
+  "answer": "e",
+  "tags": [
+    "área de setor circular",
+    "geometria plana"
+  ],
+  "year": 2024,
+  "test": "ENEM",
+  "area": "math",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

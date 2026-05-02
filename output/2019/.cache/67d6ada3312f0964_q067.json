@@ -1,0 +1,27 @@
+{
+  "number": 67,
+  "text": "Os textos abordam um questionamento da construção da modernidade que defende um modelo",
+  "alternatives": {
+    "a": "centrado na razão humana.",
+    "b": "baseado na explicação mitológica.",
+    "c": "fundamentado na ordenação imanentista.",
+    "d": "focado na legitimação contratualista.",
+    "e": "configurado na percepção etnocêntrica."
+  },
+  "answer": "a",
+  "tags": [
+    "filosofia moderna e contemporânea",
+    "epistemologia e lógica"
+  ],
+  "year": 2019,
+  "test": "ENEM",
+  "area": "humanas",
+  "difficulty": 6,
+  "images": [],
+  "contextId": null,
+  "contextIds": [
+    "enem_2019_humanas_ctx1",
+    "enem_2019_humanas_ctx2"
+  ],
+  "language": null
+}

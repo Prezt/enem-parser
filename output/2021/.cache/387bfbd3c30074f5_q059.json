@@ -1,0 +1,24 @@
+{
+  "number": 59,
+  "text": "O texto apresenta uma discussão sobre a formação e desenvolvimento de determinado fenômeno geográfico. Com base nas informações contidas no trecho, qual das alternativas melhor caracteriza o processo descrito?",
+  "alternatives": {
+    "a": "Constitui pela transformação direta de materiais vulcânicos",
+    "b": "Resulta da ação contínua de agentes erosivos sobre rochas",
+    "c": "Forma-se exclusivamente em ambientes marinhos profundos",
+    "d": "Desenvolve-se através de processos de sedimentação e compactação",
+    "e": "Origina-se apenas em regiões com clima tropical úmido"
+  },
+  "answer": "b",
+  "tags": [
+    "geografia física e geologia",
+    "meio ambiente e sustentabilidade"
+  ],
+  "year": 2021,
+  "test": "ENEM",
+  "area": "humanas",
+  "difficulty": 5,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

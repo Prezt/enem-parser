@@ -1,0 +1,23 @@
+{
+  "number": 14,
+  "text": "O Texto II exemplifica o que se afirma no Texto I, na medida em que defende a ideia de que as escolhas lexicais são resultantes de um",
+  "alternatives": {
+    "a": "expediente próprio do sistema linguístico que nos apresenta diferentes possibilidades para traduzir estados de coisas.",
+    "b": "ato inventivo de nomear novas realidades que surgem diante de uma comunidade de falantes de uma língua.",
+    "c": "mecanismo de apropriação de formas linguísticas que estão no acervo da formação do idioma nacional.",
+    "d": "processo de incorporação de preconceitos que são recorrentes na história de uma sociedade.",
+    "e": "recurso de expressão marcado pela objetividade que se requer na comunicação diária."
+  },
+  "answer": "d",
+  "tags": [
+    "linguística",
+    "sociedade"
+  ],
+  "year": 2022,
+  "test": "ENEM",
+  "area": "linguagens",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

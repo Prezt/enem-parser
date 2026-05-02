@@ -1,0 +1,24 @@
+{
+  "number": 99,
+  "text": "A cada safra, a quantidade de café beneficiado é igual à quantidade de resíduos gerados pelo seu beneficiamento. O resíduo pode ser utilizado como fertilizante, pois contém cerca de 6,5% de pectina (um polissacarídeo), aproximadamente 25% de açúcares fermentáveis (frutose, sacarose e galactose), bem como resíduos de alcaloides (compostos aminados) que não foram extraídos no processo. Esse resíduo contribui para a fertilidade do solo, pois",
+  "alternatives": {
+    "a": "possibilita a reciclagem de carbono e nitrogênio.",
+    "b": "promove o deslocamento do alumínio, que é tóxico.",
+    "c": "melhora a compactação do solo por causa da presença de pectina.",
+    "d": "eleva o pH do solo em função da degradação dos componentes do resíduo.",
+    "e": "apresenta efeitos inibidores de crescimento para a maioria das espécies vegetais pela cafeína."
+  },
+  "answer": "a",
+  "tags": [
+    "ecologia",
+    "biotecnologia"
+  ],
+  "year": 2019,
+  "test": "ENEM",
+  "area": "nature",
+  "difficulty": 6,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

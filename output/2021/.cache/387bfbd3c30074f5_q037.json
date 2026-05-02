@@ -1,0 +1,25 @@
+{
+  "number": 37,
+  "text": "A letra da música apresenta elementos que remetem ao contexto sociocultural brasileiro. Qual é a principal crítica social presente na canção?",
+  "alternatives": {
+    "a": "A valorização excessiva do carnaval como única forma de expressão cultural.",
+    "b": "A importância de manter o comportamento adequado em todas as circunstâncias sociais.",
+    "c": "A restrição da liberdade de expressão cultural pela imposição de normas de conduta.",
+    "d": "A falta de diálogo entre gerações sobre tradições populares.",
+    "e": "A necessidade de educação formal para ascensão social."
+  },
+  "answer": "a",
+  "tags": [
+    "interpretação de texto",
+    "literatura brasileira",
+    "cultura e identidade"
+  ],
+  "year": 2021,
+  "test": "ENEM",
+  "area": "linguagens",
+  "difficulty": 6,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

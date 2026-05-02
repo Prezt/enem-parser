@@ -1,0 +1,23 @@
+{
+  "number": 120,
+  "text": "Em uma aula prática de bioquímica, para medir a atividade enzimática em ensaios independentes, nas mesmas condições, variando a temperatura. A reação produz água e oxigênio. Os diferentes resultados dos ensaios justificam-se pelo(...)",
+  "alternatives": {
+    "a": "variação do pH do meio",
+    "b": "aumento da energia de ativação",
+    "c": "consumo da enzima durante o ensaio",
+    "d": "diminuição da concentração do substrato",
+    "e": "modificação da estrutura tridimensional da enzima"
+  },
+  "answer": "e",
+  "tags": [
+    "bioquímica",
+    "enzimas"
+  ],
+  "year": 2022,
+  "test": "ENEM",
+  "area": "nature",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

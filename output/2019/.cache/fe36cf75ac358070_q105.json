@@ -1,0 +1,24 @@
+{
+  "number": 105,
+  "text": "Um teste de laboratório permite identificar alguns cátions metálicos ao introduzir uma pequena quantidade do material de interesse em uma chama de bico de Bunsen para, em seguida, observar a cor da luz emitida. A cor observada é proveniente da emissão de radiação eletromagnética ao ocorrer a",
+  "alternatives": {
+    "a": "mudança da fase sólida para a fase líquida do elemento metálico.",
+    "b": "combustão dos cátions metálicos provocada pelas moléculas de oxigênio da atmosfera.",
+    "c": "diminuição da energia cinética dos elétrons em uma mesma órbita na eletrosfera atômica.",
+    "d": "transição eletrônica de um nível mais externo para outro mais interno na eletrosfera atômica.",
+    "e": "promoção dos elétrons que se encontram no estado fundamental de energia para níveis mais energéticos."
+  },
+  "answer": "d",
+  "tags": [
+    "química geral e inorgânica",
+    "física moderna"
+  ],
+  "year": 2019,
+  "test": "ENEM",
+  "area": "nature",
+  "difficulty": 6,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

@@ -1,0 +1,24 @@
+{
+  "number": 39,
+  "text": "No Hino à Bandeira, a descrição é um recurso utilizado para exaltar o símbolo nacional na medida em que",
+  "alternatives": {
+    "a": "remete a um momento futuro.",
+    "b": "promove a união dos cidadãos.",
+    "c": "valoriza os seus elementos.",
+    "d": "emprega termos religiosos.",
+    "e": "recorre à sua história."
+  },
+  "answer": "c",
+  "tags": [
+    "interpretação de texto",
+    "literatura brasileira"
+  ],
+  "year": 2020,
+  "test": "ENEM",
+  "area": "linguagens",
+  "difficulty": 5,
+  "images": [],
+  "contextId": "enem_2020_linguagens_39_ctx1",
+  "contextIds": null,
+  "language": null
+}

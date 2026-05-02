@@ -1,0 +1,25 @@
+{
+  "number": 28,
+  "text": "[Figura] O movimento de recuperação da língua patxôhã assume m caráter identitário peculiar na medida em que",
+  "alternatives": {
+    "a": "denuncia o processo de perseguição histórica sofrida pelos povos indígenas.",
+    "b": "conjuga o ato de resistência étnica à preservação da memória cultural.",
+    "c": "associa a preservação linguística ao campo da pesquisa acadêmica.",
+    "d": "estimula o retorno de povos indígenas a suas terras de origem.",
+    "e": "aumenta o número de línguas indígenas faladas no Brasil."
+  },
+  "answer": "b",
+  "tags": [
+    "língua",
+    "cultura"
+  ],
+  "year": 2022,
+  "test": "ENEM",
+  "area": "linguagens",
+  "images": [
+    "figuras/q028_2022_fig1.png"
+  ],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

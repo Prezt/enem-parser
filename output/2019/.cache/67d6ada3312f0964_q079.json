@@ -1,0 +1,24 @@
+{
+  "number": 79,
+  "text": "Nas cidades-estado da Antiguidade Clássica, a proporção de cidadãos descrita no texto é explicada pela adoção do seguinte critério para a participação política:",
+  "alternatives": {
+    "a": "Controle da terra.",
+    "b": "Liberdade de culto.",
+    "c": "Igualdade de gênero.",
+    "d": "Exclusão dos militares.",
+    "e": "Exigência da alfabetização."
+  },
+  "answer": "a",
+  "tags": [
+    "história antiga e medieval",
+    "ética e política"
+  ],
+  "year": 2019,
+  "test": "ENEM",
+  "area": "humanas",
+  "difficulty": 5,
+  "images": [],
+  "contextId": "enem_2019_humanas_79_ctx1",
+  "contextIds": null,
+  "language": null
+}

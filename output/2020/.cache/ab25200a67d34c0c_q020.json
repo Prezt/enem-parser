@@ -1,0 +1,24 @@
+{
+  "number": 20,
+  "text": "De acordo com o texto, é possível identificar \"empreendedor de palco\" por",
+  "alternatives": {
+    "a": "livros por ele indicados.",
+    "b": "suas habilidades em língua inglesa.",
+    "c": "experiências por ele compartilhadas.",
+    "d": "padrões de linguagem por ele utilizados.",
+    "e": "preços acessíveis de seus treinamentos."
+  },
+  "answer": "d",
+  "tags": [
+    "interpretação de texto",
+    "linguística e variação linguística"
+  ],
+  "year": 2020,
+  "test": "ENEM",
+  "area": "linguagens",
+  "difficulty": 4,
+  "images": [],
+  "contextId": "enem_2020_linguagens_q20",
+  "contextIds": null,
+  "language": null
+}

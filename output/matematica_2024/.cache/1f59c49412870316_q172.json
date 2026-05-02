@@ -1,0 +1,25 @@
+{
+  "number": 172,
+  "text": "Um aeroporto disponibiliza o serviço de transporte gr[Esquema - esquema dos ônibus e câmeras]partem simultaneamente, de hora em hora, de terminais diferentes partes do trecho, conforme o esquema. O alcance de cada uma das cinco câmeras é: 1 • câmera I: do percurso; 5 3 • câmera II: do percurso; 10 1 • câmera III: do percurso; 10 1 • câmera IV: do percurso; 10 3 • câmera V: do percurso. Em determinado horário, o ônibus A parte do terminal 1 com velocidade constante de 250 m/min; enquanto o ônibus B, que parte do terminal 2, realiza o percurso total com velocidade constante de 150 m/min. Qual câmera registra o momento em que os ônibus A e B se encontram?",
+  "alternatives": {
+    "a": "I",
+    "b": "II",
+    "c": "III",
+    "d": "IV",
+    "e": "V"
+  },
+  "answer": "d",
+  "tags": [
+    "geometria",
+    "razões e proporções"
+  ],
+  "year": 2024,
+  "test": "ENEM",
+  "area": "math",
+  "images": [
+    "figuras/q172_2024_fig1.png"
+  ],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

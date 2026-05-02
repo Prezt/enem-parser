@@ -1,0 +1,25 @@
+{
+  "number": 98,
+  "text": "Corredores ecológicos visam mitigar os efeitos da fragmentação dos ecossistemas promovendo a ligação entre diferentes áreas, com o objetivo de proporcionar deslocamento de animais, a dispersão de sementes e aumento da cobertura vegetal. São instituídos com base em informações como estudos sobre o deslocamento de espécies, sua área de vida (área necessária para suprimento de suas necessidades vitais e reprodutivas) e a distribuição de suas populações. Nessa estratégia, a recuperação da biodiversidade é efetiva porque",
+  "alternatives": {
+    "a": "propicia o fluxo gênico.",
+    "b": "intensifica o manejo de espécies.",
+    "c": "amplia o processo de ocupação humana.",
+    "d": "aumenta o número de indivíduos nas populações.",
+    "e": "favorece a formação de ilhas de proteção integral."
+  },
+  "answer": "a",
+  "tags": [
+    "ecologia",
+    "genética e hereditariedade",
+    "evolução"
+  ],
+  "year": 2018,
+  "test": "ENEM",
+  "area": "nature",
+  "difficulty": 6,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

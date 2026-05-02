@@ -1,0 +1,25 @@
+{
+  "number": 62,
+  "text": "As práticas descritas no texto são incompatíveis com a dinâmica de uma sociedade laica e democrática porque",
+  "alternatives": {
+    "a": "asseguram as expressões multiculturais.",
+    "b": "promovem a diversidade de etnias.",
+    "c": "falseiam os dogmas teológicos.",
+    "d": "estimulam os rituais sincréticos.",
+    "e": "restringem a liberdade de credo."
+  },
+  "answer": "e",
+  "tags": [
+    "direitos humanos e cidadania",
+    "sociologia e estrutura social",
+    "ética e política"
+  ],
+  "year": 2019,
+  "test": "ENEM",
+  "area": "humanas",
+  "difficulty": 6,
+  "images": [],
+  "contextId": "enem_2019_humanas_ctx1",
+  "contextIds": null,
+  "language": null
+}

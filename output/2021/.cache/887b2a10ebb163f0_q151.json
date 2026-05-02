@@ -1,0 +1,24 @@
+{
+  "number": 151,
+  "text": "Um casal está planejando comprar um apartamento de dois quartos num bairro de uma cidade e consultou a página de uma corretora de imóveis, encontrando 05 apartamentos de dois quartos à venda no bairro desejado. Eles usaram um aplicativo da corretora para filtrar os imóveis de acordo com suas necessidades. A corretora tem uma lista com todos os apartamentos de dois quartos à venda no bairro naquele período. O gráfico apresenta a distribuição dos preços de venda dos apartamentos dessa lista (em mil reais), publicados em sua página. A corretora afirma que 80% dos apartamentos de dois quartos nesse bairro, publicados em sua página, têm preço de venda inferior a 550 mil reais. A quantidade total de apartamentos de dois quartos nesse bairro, publicados na página da corretora, é representada pela Distribuição dos preços apresentada em um gráfico de barras. Qual é o valor de p (em mil reais), tal que 80% dos apartamentos dessa lista têm preço inferior a p?",
+  "alternatives": {
+    "a": "600",
+    "b": "700",
+    "c": "800",
+    "d": "900",
+    "e": "1 000"
+  },
+  "answer": "c",
+  "tags": [
+    "estatística",
+    "análise combinatória"
+  ],
+  "year": 2021,
+  "test": "ENEM",
+  "area": "math",
+  "difficulty": 5,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

@@ -1,0 +1,23 @@
+{
+  "number": 134,
+  "text": "O ensaio de micronúcleos é um teste de avaliação de genotoxicidade que associa a presença de micronúcleo (pequenos núcleos que aparecem próximo aos núcleos das células) com lesões genéticas. Os micronúcleos são fragmentos de DNA encapsulados, provenientes do fus mitótico durante a divisão celular.",
+  "alternatives": {
+    "a": "nucléolos",
+    "b": "lisossomos",
+    "c": "ribossomos",
+    "d": "mitocôndrias",
+    "e": "cromossomos"
+  },
+  "answer": "e",
+  "tags": [
+    "genotoxicidade",
+    "micronúcleos"
+  ],
+  "year": 2023,
+  "test": "ENEM",
+  "area": "nature",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

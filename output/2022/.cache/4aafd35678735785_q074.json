@@ -1,0 +1,29 @@
+{
+  "number": 74,
+  "text": "[Figura] Uma característica regional que justifica o maior potencial anual médio para o aproveitamento de energia solar é a reduzida [Figura]",
+  "alternatives": {
+    "a": "declividade do relevo.",
+    "b": "extensão longitudinal.",
+    "c": "nebulosidade atmosférica.",
+    "d": "irregularidade pluviométrica.",
+    "e": "influência da continentalidade."
+  },
+  "answer": "c",
+  "tags": [
+    "energia solar",
+    "geografia"
+  ],
+  "year": 2022,
+  "test": "ENEM",
+  "area": "humanas",
+  "images": [
+    "figuras/q074_2022_fig1.png",
+    "figuras/q074_2022_fig2.png",
+    "figuras/q074_2022_fig3.png",
+    "figuras/q074_2022_fig4.png",
+    "figuras/q074_2022_fig5.png"
+  ],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

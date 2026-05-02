@@ -1,0 +1,23 @@
+{
+  "number": 150,
+  "text": "Em jogos de voleibol, um saque é invalidado se a bola tingir o teto do ginásio onde ocorre o jogo. Um jogador da equipe tem um saque que atinge uma grande altura. Seu recorde foi quando a batida do saque se iniciou a maior altura de 1,5 m do piso da quadra, e a trajetória da bola foi descrita pela parábola y = -2/3x^2 + 7x, em que y representa a altura da bola em relação ao eixo (das abscissas) que está localizado a 1,5 m do piso da quadra. Suponha que em todas as partidas algum saque desse jogador atinja a mesma altura do seu recorde.",
+  "alternatives": {
+    "a": "apenas no ginásio I.",
+    "b": "apenas nos ginásios I e II.",
+    "c": "apenas nos ginásios I, II e III.",
+    "d": "apenas nos ginásios I, II, III e IV.",
+    "e": "em todos os ginásios."
+  },
+  "answer": "d",
+  "tags": [
+    "parábola",
+    "equação de segundo grau"
+  ],
+  "year": 2022,
+  "test": "ENEM",
+  "area": "math",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

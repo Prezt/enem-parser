@@ -1,0 +1,24 @@
+{
+  "number": 38,
+  "text": "Nesse texto, busca-se seduzir o leitor por meio da exploração de uma voz externa sobre a identidade histórica do povo português. O trecho que evidencia esse procedimento argumentativo é",
+  "alternatives": {
+    "a": "\"Que linda a 'antiga, muy nobre, sempre leal e invicta' cidade do Porto!\".",
+    "b": "\"'Encantei-me', diriam eles... pelas belas paisagens, construções históricas com lindas fachadas [...]\".",
+    "c": "\"Os tripeiros, sinônimo de portuenses, têm orgulho de sua cidade [...]\".",
+    "d": "\"E valorizam tudo o que há de bom ali, como 'a melhor estrada para se dirigir do mundo' [...]\".",
+    "e": "\"Pois na manhã do 25 de abril, dia da Revolução dos Cravos, resolvemos conhecer a tal maravilha\"."
+  },
+  "answer": "a",
+  "tags": [
+    "interpretação de texto",
+    "gêneros textuais"
+  ],
+  "year": 2020,
+  "test": "ENEM",
+  "area": "linguagens",
+  "difficulty": 6,
+  "images": [],
+  "contextId": "enem_2020_linguagens_38_ctx1",
+  "contextIds": null,
+  "language": null
+}

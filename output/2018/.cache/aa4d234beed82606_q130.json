@@ -1,0 +1,24 @@
+{
+  "number": 130,
+  "text": "O grafeno é uma forma alotrópica do carbono constituído por uma folha planar (arranjo bidimensional) de átomos de carbono compactados e com a espessura de apenas um átomo. Sua estrutura é hexagonal. Nesse arranjo, os átomos de carbono possuem hibridação",
+  "alternatives": {
+    "a": "sp de geometria linear",
+    "b": "sp² de geometria trigonal planar",
+    "c": "sp² alternados com carbonos com hibridação sp de geometria linear",
+    "d": "sp³d de geometria planar",
+    "e": "sp³d² com geometria hexagonal planar"
+  },
+  "answer": "b",
+  "tags": [
+    "química geral e inorgânica",
+    "química orgânica"
+  ],
+  "year": 2018,
+  "test": "ENEM",
+  "area": "nature",
+  "difficulty": 6,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

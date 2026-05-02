@@ -1,0 +1,23 @@
+{
+  "number": 123,
+  "text": "Após a substituição descrita, o que aconteceria aos planetas do Sistema Solar?",
+  "alternatives": {
+    "a": "Eles se moveriam em órbitas espirais, aproximando-se sucessivamente do Buraco Negro.",
+    "b": "Eles oscilariam aleatoriamente em torno de suas órbitas elípticas originais.",
+    "c": "Eles se moveriam em direção ao centro do Buraco Negro.",
+    "d": "Eles passariam a precessionar mais rapidamente.",
+    "e": "Eles manteriam suas órbitas inalteradas."
+  },
+  "answer": "e",
+  "tags": [
+    "Buraco Negro",
+    "Física"
+  ],
+  "year": 2022,
+  "test": "ENEM",
+  "area": "nature",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

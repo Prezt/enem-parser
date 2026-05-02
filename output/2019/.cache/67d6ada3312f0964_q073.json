@@ -1,0 +1,24 @@
+{
+  "number": 73,
+  "text": "Com o objetivo de se fortalecer, a instituição mencionada no texto adotou as práticas descritas, que consistem em",
+  "alternatives": {
+    "a": "promoção de atos ecumênicos.",
+    "b": "fomento de orientações bíblicas.",
+    "c": "apropriação de cerimônias seculares.",
+    "d": "retomada de ensinamentos apostólicos.",
+    "e": "ressignificação de rituais fundamentalistas."
+  },
+  "answer": "c",
+  "tags": [
+    "história moderna",
+    "cultura e identidade"
+  ],
+  "year": 2019,
+  "test": "ENEM",
+  "area": "humanas",
+  "difficulty": 6,
+  "images": [],
+  "contextId": "enem_2019_humanas_ctx73",
+  "contextIds": null,
+  "language": null
+}

@@ -1,0 +1,23 @@
+{
+  "number": 173,
+  "text": "Entre maratonistas, um parâmetro utilizado é o de economia de corrida (EC). O valor desse parâmetro é calculado pela razão entre o consumo de oxigênio, em mililitro (mL) por minuto (min), e a massa, em quilograma (kg), do atleta correndo a uma velocidade constante. Disponível em: www.treinamentoonline.com.br. Acesso em: 23 out. 2019 (adaptado). Um maratonista, visando melhorar sua performance, auxiliado por um médico, mensura o seu consumo de oxigênio por minuto a velocidade constante. Com base nesse consumo e na massa do atleta, o médico calcula o EC do atleta. A unidade de medida da grandeza descrita pelo parâmetro EC é",
+  "alternatives": {
+    "a": "mL ⋅ kg",
+    "b": "min ⋅ kg",
+    "c": "kg",
+    "d": "mL",
+    "e": "min"
+  },
+  "answer": "b",
+  "tags": [
+    "unidades-de-medida",
+    "razao-e-proporcao"
+  ],
+  "year": 2023,
+  "test": "ENEM",
+  "area": "math",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

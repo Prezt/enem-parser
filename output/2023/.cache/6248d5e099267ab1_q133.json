@@ -1,0 +1,26 @@
+{
+  "number": 133,
+  "text": "O descarte de detergentes comuns nos esgoto domésticos ocasiona a formação de uma camada [Figura: espuma que impede a entrada de oxigênio na água] que impede a entrada de oxigênio na água. Os microrganismos que vivem nessas águas não são capazes de quebrar moléculas ramificadas ocorrendo assim um desequilíbrio ambiental nos rios A fórmula a seguir representa a estrutura química de um tensoativo presente na composição de um detergente não biodegradável. O S O + –  O Na Tensoativo não biodegradável Qual modificação química na estrutura desse tensoativo tornaria um detergente biodegradável?",
+  "alternatives": {
+    "a": "Retirar a parte polar da molécula.",
+    "b": "Eliminar as insaturações do anel aromático.",
+    "c": "Trocar o grupo aniônico por um grupo neutro.",
+    "d": "Alterar o grupo aniônico por um grupo catiônico.",
+    "e": "Modificar a cadeia carbônica para cadeia normal."
+  },
+  "answer": "e",
+  "tags": [
+    "ambiente",
+    "química"
+  ],
+  "year": 2023,
+  "test": "ENEM",
+  "area": "nature",
+  "images": [
+    "figuras/q133_2023_fig1.png",
+    "figuras/q133_2023_fig2.png"
+  ],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

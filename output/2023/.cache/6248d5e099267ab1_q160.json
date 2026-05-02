@@ -1,0 +1,23 @@
+{
+  "number": 160,
+  "text": "Ao realizar o cadastro em um aplicativo de investimentos, oi solicitado ao usuário que criasse uma senha, sendo ermitido o uso somente dos seguintes caracteres: • algarismos de 0 a 9; • 26 letras minúsculas do alfabeto; • 26 letras maiúsculas do alfabeto; • 6 caracteres especiais !, @, #, $, , &. Três tipos de estruturas para senha foram apresentadas o usuário: • tipo I: formada por quaisquer quatro caracteres distintos, escolhidos dentre os permitidos; • tipo II: formada por cinco caracteres distintos, iniciando por três letras, seguidas por um algarismo e, ao final, um caractere especial; • tipo III: formada por seis caracteres distintos, iniciando por duas letras, seguidas por dois algarismos e, ao final, dois caracteres especiais. Considere p ,  p  e  p as probabilidades de se escobrirem ao acaso, na primeira tentativa, as senhas os tipos I, II e III, respectivamente. Nessas condições, o tipo de senha que apresenta a menor probabilidade de ser descoberta ao acaso, na rimeira tentativa, é o",
+  "alternatives": {
+    "a": "tipo I, pois p < p < p . 1 2 3",
+    "b": "tipo I, pois tem menor quantidade de caracteres.",
+    "c": "tipo II, pois tem maior quantidade de letras.",
+    "d": "tipo III, pois p < p < p . 3 2 1",
+    "e": "tipo III, pois tem maior quantidade de caracteres."
+  },
+  "answer": "a",
+  "tags": [
+    "probabilidade",
+    "senha"
+  ],
+  "year": 2023,
+  "test": "ENEM",
+  "area": "math",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

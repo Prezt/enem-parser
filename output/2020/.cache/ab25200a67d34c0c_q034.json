@@ -1,0 +1,24 @@
+{
+  "number": 34,
+  "text": "As significações afetivas engendradas no fragmento pressupõem o reconhecimento da",
+  "alternatives": {
+    "a": "perspectiva infantil assumida pela voz narrativa.",
+    "b": "suspensão da linearidade temporal da narração.",
+    "c": "tentativa de materializar lembranças da infância.",
+    "d": "incidência da memória sobre as imagens narradas.",
+    "e": "alternância entre impressões subjetivas e relatos factuais."
+  },
+  "answer": "a",
+  "tags": [
+    "interpretação de texto",
+    "literatura brasileira"
+  ],
+  "year": 2020,
+  "test": "ENEM",
+  "area": "linguagens",
+  "difficulty": 6,
+  "images": [],
+  "contextId": "enem_2020_linguagens_ctx34",
+  "contextIds": null,
+  "language": null
+}

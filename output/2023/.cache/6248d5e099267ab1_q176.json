@@ -1,0 +1,23 @@
+{
+  "number": 176,
+  "text": "Os números figurados pentagonais provavelmente foram introduzidos pelos pitagóricos por volta do século V a.C. As figuras ilustram como obter os seis primeiros deles, sendo os demais obtidos seguindo o mesmo padrão geométrico.\n1 5 12 22\n35 51\nO oitavo número pentagonal é",
+  "alternatives": {
+    "a": "59",
+    "b": "83",
+    "c": "86",
+    "d": "89",
+    "e": "92"
+  },
+  "answer": "e",
+  "tags": [
+    "números figurados",
+    "padrão geométrico"
+  ],
+  "year": 2023,
+  "test": "ENEM",
+  "area": "math",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

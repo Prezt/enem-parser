@@ -1,0 +1,24 @@
+{
+  "number": 124,
+  "text": "O petróleo é uma fonte de energia de baixo custo de larga utilização como matéria-prima para uma grande variedade de produtos. É um óleo formado de várias substâncias de origem orgânica, em sua maioria hidrocarbonetos de diferentes massas molares. São utilizadas técnicas de separação para obtenção dos componentes comercializáveis do petróleo. Além disso, para aumentar a quantidade de frações comercializáveis, otimizando o produto de origem fóssil, utiliza-se o processo de craqueamento. O que ocorre nesse processo?",
+  "alternatives": {
+    "a": "Transformação das frações do petróleo em outras moléculas menores.",
+    "b": "Reação de óxido-redução com transferência de elétrons entre as moléculas.",
+    "c": "Solubilização das frações do petróleo com a utilização de diferentes solventes.",
+    "d": "Decantação das moléculas com diferentes massas molares pelo uso de centrífugas.",
+    "e": "Separação dos diferentes componentes do petróleo em função de suas temperaturas de ebulição."
+  },
+  "answer": "a",
+  "tags": [
+    "química geral e inorgânica",
+    "química orgânica"
+  ],
+  "year": 2018,
+  "test": "ENEM",
+  "area": "nature",
+  "difficulty": 5,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

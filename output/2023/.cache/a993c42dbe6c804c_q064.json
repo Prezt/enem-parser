@@ -1,0 +1,23 @@
+{
+  "number": 64,
+  "text": "Txai Suruí, liderança da Juventude Indígena, profere seu discurso na abertura da COP-26. “O clima está esquentando, os animais estão esaparecendo, os rios estão morrendo e nossas lantações não florescem como no passado. A Terra está alando: ela nos diz que não temos mais tempo.” VICK, M. Quais são as conquistas do movimento indígena na COP-26 . Disponível em: www.nexojornal.com.br. Acesso em: 10 nov. 2021 (adaptado). O discurso da líder indígena explicita um problema global elacionado ao(à)",
+  "alternatives": {
+    "a": "manejo tradicional",
+    "b": "reciclagem residual",
+    "c": "consumo consciente",
+    "d": "exploração predatória",
+    "e": "reaproveitamento energético"
+  },
+  "answer": "d",
+  "tags": [
+    "meio ambiente",
+    "sociedade"
+  ],
+  "year": 2023,
+  "test": "ENEM",
+  "area": "humanas",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

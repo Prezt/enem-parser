@@ -1,0 +1,24 @@
+{
+  "number": 67,
+  "text": "Qual era a importância da paisagem nas sociedades medievais?",
+  "alternatives": {
+    "a": "Correção dos métodos preventivos e das regras",
+    "b": "Conversão da devastação em oportunidade econômica",
+    "c": "Proporcionar recursos para subsistência",
+    "d": "Influência na organização política",
+    "e": "Desenvolvimento de técnicas agrícolas"
+  },
+  "answer": "e",
+  "tags": [
+    "história medieval",
+    "história moderna"
+  ],
+  "year": 2021,
+  "test": "ENEM",
+  "area": "humanas",
+  "difficulty": 5,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

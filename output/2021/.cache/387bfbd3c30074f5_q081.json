@@ -1,0 +1,24 @@
+{
+  "number": 81,
+  "text": "O texto apresenta ideias do Manifesto dos Pioneiros da Educação Nova de 1932. Com base nas propostas educacionais expostas, qual era o objetivo principal dessa reforma educacional?",
+  "alternatives": {
+    "a": "Manter a educação restrita às elites sociais, preservando a hierarquia tradicional.",
+    "b": "Recrutar talentos em todos os grupos sociais para desenvolver as capacidades individuais.",
+    "c": "Implementar um sistema educacional único e uniforme para toda a população.",
+    "d": "Preparar os alunos exclusivamente para o mercado de trabalho industrial.",
+    "e": "Eliminar completamente a influência religiosa nas instituições escolares brasileiras."
+  },
+  "answer": "b",
+  "tags": [
+    "história do brasil república",
+    "filosofia e política"
+  ],
+  "year": 2021,
+  "test": "ENEM",
+  "area": "humanas",
+  "difficulty": 6,
+  "images": [],
+  "contextId": "enem_2021_humanas_ctx1",
+  "contextIds": null,
+  "language": null
+}

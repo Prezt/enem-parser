@@ -1,0 +1,24 @@
+{
+  "number": 33,
+  "text": "De acordo com o texto, qual é a última etapa necessária para a conclusão da produção do livro?",
+  "alternatives": {
+    "a": "A realização de pesquisa sobre o tema a ser abordado.",
+    "b": "A edição e colorização digital dos desenhos feitos à tinta.",
+    "c": "A seleção e elaboração de um roteiro com as informações.",
+    "d": "A disponibilização do material na internet para consulta.",
+    "e": "A leitura da obra pelo público."
+  },
+  "answer": "a",
+  "tags": [
+    "interpretação de texto",
+    "gêneros textuais"
+  ],
+  "year": 2021,
+  "test": "ENEM",
+  "area": "linguagens",
+  "difficulty": 3,
+  "images": [],
+  "contextId": "enem_2021_linguagens_q33_ctx1",
+  "contextIds": null,
+  "language": null
+}

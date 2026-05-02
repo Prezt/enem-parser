@@ -1,0 +1,24 @@
+{
+  "number": 30,
+  "text": "A Nova Califórnia, de Lima Barreto, apresenta um protagonista que corrige constantemente a fala dos outros. Com base no fragmento apresentado, qual é a atitude do autor em relação a essa prática de correção linguística?",
+  "alternatives": {
+    "a": "A contestar o ensino de regras em detrimento do uso natural da língua.",
+    "b": "A criticar a falta de habilidade dos falantes em aplicar as regras gramaticais.",
+    "c": "A adotar uma perspectiva complacente em relação aos erros linguísticos cometidos.",
+    "d": "A defender a necessidade absoluta de se corrigir toda e qualquer inadequação linguística.",
+    "e": "A demonstrar que a correção constante é essencial para o aperfeiçoamento intelectual dos indivíduos."
+  },
+  "answer": "e",
+  "tags": [
+    "literatura brasileira",
+    "interpretação de texto"
+  ],
+  "year": 2021,
+  "test": "ENEM",
+  "area": "linguagens",
+  "difficulty": 6,
+  "images": [],
+  "contextId": "enem_2021_linguagens_ctx1",
+  "contextIds": null,
+  "language": null
+}

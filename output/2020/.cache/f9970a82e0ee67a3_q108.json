@@ -1,0 +1,25 @@
+{
+  "number": 108,
+  "text": "Na indústria farmacêutica, é muito comum o emprego de substâncias de revestimento em medicamentos de uso oral, pois trazem uma série de benefícios como alteração do sabor em medicamentos que tenham gosto ruim, melhoria da assimilação do composto, entre outras ações. Alguns compostos poliméricos à base do polissacarídeo celulose são utilizados para garantir que o fármaco somente seja liberado quando em contato com soluções aquosas cujo pH se encontre próximo da faixa da neutralidade. Qual é a finalidade do uso desse revestimento à base de celulose?",
+  "alternatives": {
+    "a": "Diminuir a absorção do princípio ativo no intestino.",
+    "b": "Impedir que o fármaco seja solubilizado no intestino.",
+    "c": "Garantir que o fármaco não seja afetado pelas secreções gástricas.",
+    "d": "Permitir a liberação do princípio ativo pela ação da amilases salivares.",
+    "e": "Facilitar a liberação do fármaco pela ação dos sais biliares sobre o revestimento."
+  },
+  "answer": "c",
+  "tags": [
+    "química geral e inorgânica",
+    "fisiologia humana",
+    "biotecnologia"
+  ],
+  "year": 2020,
+  "test": "ENEM",
+  "area": "nature",
+  "difficulty": 6,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

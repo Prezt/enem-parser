@@ -1,0 +1,23 @@
+{
+  "number": 122,
+  "text": "Visando a melhoria estética de um veículo, vendedor de uma loja sugere ao consumidor que ele troque as rodas de seu automóvel de aro 15 polegadas para aro 17 polegadas, o que corresponde a um diâmetro maior do conjunto roda e pneu. Duas consequências provocadas por essa troca de aro são:",
+  "alternatives": {
+    "a": "Elevar a posição do centro de massa do veículo, tornando-o mais instável e aumentar a velocidade do automóvel em relação à indicada no velocímetro.",
+    "b": "Abaixar a posição do centro de massa do veículo, tornando-o mais instável e diminuir a velocidade do automóvel em relação à indicada no velocímetro.",
+    "c": "Elevar a posição do centro de massa do veículo, tornando-o mais estável e aumentar a velocidade do automóvel em relação à indicada no velocímetro.",
+    "d": "Abaixar a posição do centro de massa do veículo, tornando-o mais estável e diminuir a velocidade do automóvel em relação à indicada no velocímetro.",
+    "e": "Elevar a posição do centro de massa do veículo, tornando-o mais estável e diminuir a velocidade do automóvel em relação à indicada no velocímetro."
+  },
+  "answer": "a",
+  "tags": [
+    "mecânica newtoniana"
+  ],
+  "year": 2018,
+  "test": "ENEM",
+  "area": "nature",
+  "difficulty": 5,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

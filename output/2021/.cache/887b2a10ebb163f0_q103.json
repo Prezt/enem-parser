@@ -1,0 +1,26 @@
+{
+  "number": 103,
+  "text": "Um técnico analisou um lote de analgésico e realizou os seguintes testes: [Figura: estrutura do ácido acetilsalicílico e testes químicos]. O lote foi reprovado porque a quantidade de ácido acetilsalicílico estava abaixo do especificado. O teste que permitiu reprovar o lote de analgésicos foi o de número",
+  "alternatives": {
+    "a": "1",
+    "b": "2",
+    "c": "3",
+    "d": "4",
+    "e": "5"
+  },
+  "answer": "e",
+  "tags": [
+    "química geral e inorgânica",
+    "análise qualitativa"
+  ],
+  "year": 2021,
+  "test": "ENEM",
+  "area": "nature",
+  "difficulty": 6,
+  "images": [
+    "figuras/q103_2021_fig1.png"
+  ],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

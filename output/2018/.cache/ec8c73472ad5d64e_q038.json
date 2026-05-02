@@ -1,0 +1,25 @@
+{
+  "number": 38,
+  "text": "Num texto narrativo, a sequência dos fatos contribui para progressão temática. No fragmento, esse processo é indicado pela",
+  "alternatives": {
+    "a": "alternância das pessoas do discurso que determinam o foco narrativo.",
+    "b": "utilização de formas verbais que marcam tempos narrativos variados.",
+    "c": "indeterminação dos sujeitos de ações que caracterizam os eventos narrados.",
+    "d": "justaposição de frases que relacionam semanticamente os acontecimentos narrados.",
+    "e": "recorrência de expressões adverbiais que organizam temporalmente a narrativa."
+  },
+  "answer": "b",
+  "tags": [
+    "interpretação de texto",
+    "gêneros textuais",
+    "linguística e variação linguística"
+  ],
+  "year": 2018,
+  "test": "ENEM",
+  "area": "linguagens",
+  "difficulty": 6,
+  "images": [],
+  "contextId": "enem_2018_linguagens_38_ctx1",
+  "contextIds": null,
+  "language": null
+}

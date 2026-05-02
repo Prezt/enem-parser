@@ -1,0 +1,25 @@
+{
+  "number": 144,
+  "text": "Para obter um sólido de revolução (rotação de 360 ° m torno de um eixo fixo), uma professora realizou as eguintes etapas: • recortou o trapézio retângulo PQRS de um material rígido; • afixou o lado PS do trapézio em uma vareta fixa retilínea (eixo de rotação); • girou o trapézio 360 ° em torno da vareta e obteve um sólido de revolução. Observe a figura que apresenta o trapézio afixado na areta e o sentido de giro. [Figura: trapézio retângulo PQRS afixado na vareta com o sentido de giro]",
+  "alternatives": {
+    "a": "cone.",
+    "b": "cilindro.",
+    "c": "pirâmide.",
+    "d": "tronco de cone.",
+    "e": "tronco de pirâmide."
+  },
+  "answer": "d",
+  "tags": [
+    "geometria",
+    "solidos-de-revolucao"
+  ],
+  "year": 2024,
+  "test": "ENEM",
+  "area": "math",
+  "images": [
+    "figuras/q144_2024_fig1.png"
+  ],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

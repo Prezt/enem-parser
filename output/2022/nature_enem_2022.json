@@ -1,0 +1,920 @@
+[
+  {
+    "number": 91,
+    "text": "A figura ilustra esquematicamente um processo de remediação de solos contaminados com tricloroeteno (TCE), um agente desengraxante. Em razão de vazamentos de tanques de estocagem ou de manejos inadequados de resíduos industriais, ele se encontra presente em águas subterrâneas, nas quais forma uma fase líquida densa não aquosa (DNAPL) que se deposita no fundo do aquífero. Essa tecnologia de descontaminação emprega o íon persulfato (SO₄²⁻), que é convertido no radical •SO₄ por minerais que contêm Fe(III). O esquema representa de forma simplificada mecanismo de ação química sobre o TCE e a formação dos produtos de degradação.",
+    "alternatives": {
+      "a": "oxirredução",
+      "b": "substituição",
+      "c": "precipitação",
+      "d": "desidratação",
+      "e": "neutralização"
+    },
+    "images": [],
+    "tags": [
+      "química",
+      "ambiente"
+    ],
+    "year": 2022,
+    "test": "ENEM",
+    "area": "nature",
+    "answer": "a"
+  },
+  {
+    "number": 92,
+    "text": "De acordo com a Organização Mundial da Saúde, a filariose e a leishmaniose são consideradas doença tropicais infecciosas e constituem uma preocupação para a saúde pública por ser alto o índice de mortalidade elas associado. Uma medida profilática comum a essas duas doenças é o(a)",
+    "alternatives": {
+      "a": "incineração do lixo orgânico",
+      "b": "construção de rede de esgoto",
+      "c": "uso de vermífugo pela população",
+      "d": "controle das populações dos vetores",
+      "e": "consumo de carnes vermelhas bem cozidas"
+    },
+    "images": [],
+    "tags": [
+      "saúde pública",
+      "doenças tropicais"
+    ],
+    "year": 2022,
+    "test": "ENEM",
+    "area": "nature",
+    "answer": "d"
+  },
+  {
+    "number": 93,
+    "text": "Considere que cada usina apresente potência igual a 75 MW, com o parque totalizando uma potência instalada de 150 MW. Considere ainda que a radiância solar média é de 1 500 W/m² e que a eficiência dos painéis é de 20%. Nessas condições, a área total dos painéis solares que compõem o Parque Solar Lapa é mais próxima de:",
+    "alternatives": {
+      "a": "1 000 000 m²",
+      "b": "500 000 m²",
+      "c": "250 000 m²",
+      "d": "100 000 m²",
+      "e": "20 000 m²"
+    },
+    "images": [],
+    "tags": [
+      "energia renovável",
+      "física"
+    ],
+    "year": 2022,
+    "test": "ENEM",
+    "area": "nature",
+    "answer": "b"
+  },
+  {
+    "number": 94,
+    "text": "O descarte dos conjuntos (1) e (2) resultará, espectivamente, em",
+    "alternatives": {
+      "a": "liberação de gás tóxico e reação oxidativa forte.",
+      "b": "reação oxidativa forte e liberação de gás tóxico.",
+      "c": "formação de sais tóxicos e reação oxidativa forte.",
+      "d": "liberação de gás tóxico e liberação de gás oxidante.",
+      "e": "formação de sais tóxicos e liberação de gás oxidante."
+    },
+    "images": [],
+    "tags": [
+      "química",
+      "segurança"
+    ],
+    "year": 2022,
+    "test": "ENEM",
+    "area": "nature",
+    "answer": "a"
+  },
+  {
+    "number": 95,
+    "text": "O físico Hans C. Oersted observou que um fio transportando corrente elétrica produz um campo magnético. A presença de uma bússola de um fio conduzindo corrente elétrica foi verificada ao aproximar uma bússola em pontos equidistantes do fio. Em cada ponto, a configuração da bússola será:",
+    "alternatives": {
+      "a": "A",
+      "b": "B",
+      "c": "C",
+      "d": "",
+      "e": ""
+    },
+    "images": [],
+    "tags": [
+      "física",
+      "magnetismo"
+    ],
+    "year": 2022,
+    "test": "ENEM",
+    "area": "nature",
+    "answer": "d"
+  },
+  {
+    "number": 96,
+    "text": "Qual associação de baterias foi responsável pelo acidente?",
+    "alternatives": {
+      "a": "- - + + A",
+      "b": "- - + + B",
+      "c": "- + - + C",
+      "d": "- - + + D",
+      "e": "+ A E\nB"
+    },
+    "images": [],
+    "tags": [
+      "física",
+      "eletricidade"
+    ],
+    "year": 2022,
+    "test": "ENEM",
+    "area": "nature",
+    "answer": "a"
+  },
+  {
+    "number": 97,
+    "text": "Considerando a diferença de massa mencionada entre os dois isótopos, que tipo de procedimento alternativo ao da fusão pode ser empregado para tal finalidade?",
+    "alternatives": {
+      "a": "Peneiração",
+      "b": "Centrifugação",
+      "c": "Extração por solvente",
+      "d": "Destilação fracionada",
+      "e": "Separação magnética"
+    },
+    "images": [],
+    "tags": [
+      "química",
+      "energia nuclear"
+    ],
+    "year": 2022,
+    "test": "ENEM",
+    "area": "nature",
+    "answer": "b"
+  },
+  {
+    "number": 98,
+    "text": "O sucesso dessa terapia advém do fato de que o produto avorecerá a",
+    "alternatives": {
+      "a": "correção do código genético para a tradução da proteína.",
+      "b": "alteração do RNA ribossômico ligado à síntese da proteína.",
+      "c": "produção de mutações benéficas para a correção do problema.",
+      "d": "liberação imediata da proteína normal na região ocular humana.",
+      "e": "expressão do gene responsável pela produção da enzima normal."
+    },
+    "images": [],
+    "tags": [
+      "genética",
+      "terapia gênica"
+    ],
+    "year": 2022,
+    "test": "ENEM",
+    "area": "nature",
+    "answer": "e"
+  },
+  {
+    "number": 99,
+    "text": "A extinção de espécies é uma ameaça real que afeta diversas regiões do país. A introdução de espécie exóticas pode ser considerada um fator maximizado desse processo. Casos como o dessa árvore podem provocar a redução da biodiversidade, pois elas",
+    "alternatives": {
+      "a": "ocupam áreas de vegetação nativa e substituem parcialmente a flora original.",
+      "b": "estimulam a competição por seus frutos entre animais típicos da região e eliminam as espécies perdedoras",
+      "c": "alteram os nichos e aumentam o número de possibilidades de relações entre os seres vivos daquele ambiente.",
+      "d": "apresentam alta taxa de reprodução e se mantêm com um número de indivíduos superior à capacidade suporte do ambiente.",
+      "e": "diminuem a relação de competição entre os polinizadores e facilitam a ação de dispersores das sementes de espécies nativas."
+    },
+    "images": [],
+    "tags": [
+      "biodiversidade",
+      "espécies exóticas"
+    ],
+    "year": 2022,
+    "test": "ENEM",
+    "area": "nature",
+    "answer": "a"
+  },
+  {
+    "number": 100,
+    "text": "Em um dia de calor intenso, dois colegas estão brincando com a água da mangueira. Um deles quer saber até que altura o jato de água alcança, a partir da saída de água, quando a mangueira está posicionada totalmente na direção vertical. O outro colega propõe então o seguinte experimento: eles posicionarem a saída de água da mangueira na direção horizontal, a 1 m de altura em relação ao chão, e então medirem a distância horizontal entre a mangueira e o local onde a água atinge o chão. A medida dessa distância foi de 3 m e a partir disso eles calcularam o alcance vertical do jato de água.",
+    "alternatives": {
+      "a": "1,50 m",
+      "b": "2,25 m",
+      "c": "4,00 m",
+      "d": "4,50 m",
+      "e": "5,00 m"
+    },
+    "images": [],
+    "tags": [
+      "física",
+      "mecânica"
+    ],
+    "year": 2022,
+    "test": "ENEM",
+    "area": "nature",
+    "answer": "b"
+  },
+  {
+    "number": 101,
+    "text": "Pretende-se escolher o tipo de cana-de-açúcar que onterá o maior teor de sacarose 10 horas após o corte que, consequentemente, produzirá a maior quantidade e etanol por fermentação. Considere que existe uma edução de aproximadamente 50% da concentração - 1 e sacarose nesse tempo, para cada 1,0 mg L de microrganismos presentes na cana-de-açúcar.",
+    "alternatives": {
+      "a": "RB72",
+      "b": "RB84",
+      "c": "RB92",
+      "d": "SP79",
+      "e": "SP80"
+    },
+    "images": [],
+    "tags": [
+      "biologia",
+      "fermentação"
+    ],
+    "year": 2022,
+    "test": "ENEM",
+    "area": "nature",
+    "answer": "c"
+  },
+  {
+    "number": 102,
+    "text": "Entre as diversas técnicas para diagnóstico da ovid-19, destaca-se o teste genético. Considerando as iferentes variantes e cargas virais, um exemplo é a PCR, eação efetuada por uma enzima do tipo polimerase. Essa técnica permite identificar, com confiabilidade, o material genético do SARS-CoV-2, um vírus de RNA. Para comprovação da infecção por esse coronavírus, são oletadas amostras de secreções do indivíduo. Uma etapa ue antecede a reação de PCR precisa ser realizada para ermitir a amplificação do material genético do vírus. Essa etapa deve ser realizada para",
+    "alternatives": {
+      "a": "concentrar o RNA viral para otimizar a técnica.",
+      "b": "identificar nas amostras anticorpos anti-SARS-CoV-2.",
+      "c": "proliferar o vírus em culturas, aumentando a carga viral.",
+      "d": "purificar ácidos nucleicos virais, facilitando a ação da enzima.",
+      "e": "obter moléculas de cDNA viral por meio da transcrição reversa."
+    },
+    "images": [],
+    "tags": [
+      "biologia",
+      "virologia"
+    ],
+    "year": 2022,
+    "test": "ENEM",
+    "area": "nature",
+    "answer": "e"
+  },
+  {
+    "number": 103,
+    "text": "Tribologia é o estudo da interação entre duas superfícies em contato, como desgaste e atrito, sendo de extrema importância na avaliação de diferentes produtos e de bens de consumo em geral. Para testar a conformidade de uma muleta, realiza-se um ensaio tribológico, pressionando-a verticalmente contra o piso com uma força F, conforme ilustra a imagem, em que CM representa o centro de massa da muleta. Mantendo-se a força F paralela à muleta, varia-se lentamente o ângulo entre a muleta e a vertical, até o máximo ângulo imediatamente anterior ao de escorregamento denominado ângulo crítico. Esse ângulo também pode ser calculado a partir da identificação dos pontos de aplicação da direção e do sentido das forças peso P, normal N e atrito estático f.",
+    "alternatives": {
+      "a": "A",
+      "b": "B",
+      "c": "C",
+      "d": "D",
+      "e": "E"
+    },
+    "images": [],
+    "tags": [
+      "tribologia",
+      "física"
+    ],
+    "year": 2022,
+    "test": "ENEM",
+    "area": "nature",
+    "answer": "e"
+  },
+  {
+    "number": 104,
+    "text": "Diversas substâncias são empregadas com a intenção de incrementar o desempenho esportivo de atletas de alto nível. O chamado doping sanguíneo, por exemplo pela utilização da eritropoietina, é proibido pelas principais federações de esportes no mundo. A eritropoietina é um hormônio produzido pelos rins e fígado e sua principal ação é regular o processo de eritropoiese. Seu uso administrado intravenosamente em quantidades superiores àquelas presentes naturalmente no organismo permite que indivíduo aumente a sua capacidade de realização de exercícios físicos.",
+    "alternatives": {
+      "a": "frequência cardíaca",
+      "b": "capacidade pulmonar",
+      "c": "massa muscular do indivíduo",
+      "d": "atividade anaeróbica da musculatura",
+      "e": "taxa de transporte de oxigênio pelo sangue"
+    },
+    "images": [],
+    "tags": [
+      "biologia",
+      "fisiologia"
+    ],
+    "year": 2022,
+    "test": "ENEM",
+    "area": "nature",
+    "answer": "e"
+  },
+  {
+    "number": 105,
+    "text": "Em um autódromo, os carros podem derrapar em uma curva e bater na parede de proteção. Para diminuição do impacto de uma batida, pode-se colocar na parede uma barreira de pneus, isso faz com que a colisão seja mais demorada e o carro retorne com velocidade reduzida. Outra opção é colocar uma barreira de blocos de um material que se deforma, tornando-a tão demorada quanto a colisão com os pneus, mas que não permite a volta do carro após a colisão. Comparando as duas situações, como ficam a força média exercida sobre o carro e a energia mecânica dissipada?",
+    "alternatives": {
+      "a": "A força é maior na colisão com a barreira de pneus, a energia dissipada é maior na colisão com a barreira de blocos.",
+      "b": "A força é maior na colisão com a barreira de blocos, a energia dissipada é maior na colisão com a barreira de pneus.",
+      "c": "A força é maior na colisão com a barreira de blocos, a energia dissipada é a mesma nas duas situações.",
+      "d": "A força é maior na colisão com a barreira de pneus, a energia dissipada é maior na colisão com a barreira de pneus.",
+      "e": "A força é maior na colisão com a barreira de blocos, a energia dissipada é maior na colisão com a barreira de blocos."
+    },
+    "images": [],
+    "tags": [
+      "física",
+      "dinâmica"
+    ],
+    "year": 2022,
+    "test": "ENEM",
+    "area": "nature",
+    "answer": "a"
+  },
+  {
+    "number": 106,
+    "text": "A penicilamina é um medicamento de uso oral tilitizado no tratamento de várias doenças. Esse composto é excretado na urina, cujo pH se situa entre e 7. Sabe-se que p K  = −log  K . Qual estrutura derivada da penicilamina é redominantemente encontrada na urina?",
+    "alternatives": {
+      "a": "- C C\nS COO A\nNH CH 2 3",
+      "b": "- C C\nS COOH B\nNH CH 2 3",
+      "c": "− H S C C\nCOO C\n+ CH\nNH 3 3",
+      "d": "- C C\nS COOH D\n+ CH\nNH 3 3",
+      "e": "H S C C COOH E\n+ CH\nNH 3 3"
+    },
+    "images": [],
+    "tags": [
+      "química",
+      "medicina"
+    ],
+    "year": 2022,
+    "test": "ENEM",
+    "area": "nature",
+    "answer": "c"
+  },
+  {
+    "number": 107,
+    "text": "A biomassa celulósica pode ser utilizada para a prod que os polissacarídeos sejam convertidos em mon e ácido, conforme mostra o esquema: Nessa conversão de polissacarídeos, a função do íon H",
+    "alternatives": {
+      "a": "dissolver os reagentes.",
+      "b": "deslocar o equilíbrio químico.",
+      "c": "aumentar a velocidade da reação.",
+      "d": "mudar a constante de equilíbrio da reação.",
+      "e": "formar ligações de hidrogênio com o polissacarídeo"
+    },
+    "images": [],
+    "tags": [
+      "biomassa",
+      "polissacarídeos",
+      "química"
+    ],
+    "year": 2022,
+    "test": "ENEM",
+    "area": "nature",
+    "answer": "c"
+  },
+  {
+    "number": 108,
+    "text": "A concentração de ácido tartárico no vinho analisado é mais próxima de:",
+    "alternatives": {
+      "a": "1,8 g L⁻¹",
+      "b": "2,4 g L⁻¹",
+      "c": "3,6 g L⁻¹",
+      "d": "4,8 g L⁻¹",
+      "e": "9,6 g L⁻¹"
+    },
+    "images": [],
+    "tags": [
+      "química",
+      "titulação"
+    ],
+    "year": 2022,
+    "test": "ENEM",
+    "area": "nature",
+    "answer": "b"
+  },
+  {
+    "number": 109,
+    "text": "O elemento iodo (I) tem função biológica e é acumulad na tireoide. Nos acidentes nucleares de Chernobyl Fukushima, ocorreu a liberação para a atmosfera do radioisótopo I-131, responsável por enfermidades nas pessoas que foram expostas a ele. O decaimento de uma massa de 12 microgramas do isótopo I foi monitorada por 14 dias, conforme o quadro. Após o período de 40 dias, a massa residual deste isótopo é mais próxima de",
+    "alternatives": {
+      "a": "2,4 µg.",
+      "b": "1,5 µg.",
+      "c": "0,8 µg.",
+      "d": "0,4 µg.",
+      "e": "0,2 µg."
+    },
+    "images": [],
+    "tags": [
+      "radioatividade",
+      "química"
+    ],
+    "year": 2022,
+    "test": "ENEM",
+    "area": "nature",
+    "answer": "d"
+  },
+  {
+    "number": 110,
+    "text": "Os padrões descritos evidenciam que",
+    "alternatives": {
+      "a": "as fêmeas influenciam o comportamento dos machos.",
+      "b": "o cuidado parental é necessário para o desenvolvimento.",
+      "c": "o grau de evolução determina o comportamento reprodutivo.",
+      "d": "o sucesso reprodutivo pode ser garantido por estratégias diferentes.",
+      "e": "o ambiente induz modificação na produção do número de gametas femininos."
+    },
+    "images": [],
+    "tags": [
+      "anfíbios",
+      "reprodução",
+      "evolução"
+    ],
+    "year": 2022,
+    "test": "ENEM",
+    "area": "nature",
+    "answer": "d"
+  },
+  {
+    "number": 111,
+    "text": "Próximo a que região se situa a residência onde as placas foram instaladas?",
+    "alternatives": {
+      "a": "Trópico de Capricórnio.",
+      "b": "Trópico de Câncer.",
+      "c": "Polo Norte.",
+      "d": "Polo Sul.",
+      "e": "Equador."
+    },
+    "images": [],
+    "tags": [
+      "geografia",
+      "física"
+    ],
+    "year": 2022,
+    "test": "ENEM",
+    "area": "nature",
+    "answer": "a"
+  },
+  {
+    "number": 112,
+    "text": "Um pai faz um balanço utilizando dois segmentos paralelos e iguais da mesma corda para fixar uma tábua em uma barra horizontal. Por segurança, opta por um tipo de corda cuja tensão de ruptura seja 25% superior à tensão máxima calculada nas seguintes condições: O ângulo máximo atingido pelo balanço em relação à vertical é igual a 90°; Os filhos utilizarão o balanço até que tenham uma massa de 24 kg. Além disso, ele aproxima o movimento do balanço para o movimento circular uniforme, considera que a aceleração da gravidade é igual a 10 m/s² e despreza forças dissipativas. Qual é a tensão de ruptura da corda escolhida?",
+    "alternatives": {
+      "a": "120 N",
+      "b": "300 N",
+      "c": "360 N",
+      "d": "450 N",
+      "e": "900 N"
+    },
+    "images": [],
+    "tags": [
+      "física",
+      "mecânica"
+    ],
+    "year": 2022,
+    "test": "ENEM",
+    "area": "nature",
+    "answer": "d"
+  },
+  {
+    "number": 113,
+    "text": "A nanotecnologia é responsável pelo aprimoramento de diversos materiais, incluindo os que são impactados com a presença de poluentes e da umidade na atmosfera causadores de corrosão. Uma forma de garantir a durabilidade da estrutura metálica e a sua resistência à umidade consiste na deposição de filmes finos nanocerâmicos à base de zircônia (ZrO₂) e alumina (Al₂O₃) sobre a superfície do objeto que se deseja proteger. Essa nanotecnologia aplicada na proteção contra corrosão se baseia no(a)",
+    "alternatives": {
+      "a": "proteção catódica, que utiliza um metal fortemente redutor.",
+      "b": "uso de metais de sacrifício, que se oxidam no lugar do ferro.",
+      "c": "passivação do ferro, que fica revestido pelo seu próprio óxido.",
+      "d": "efeito de barreira, que impede o contato com o agente oxidante.",
+      "e": "galvanização, que usa outros metais de menor potencial de redução."
+    },
+    "images": [],
+    "tags": [
+      "nanotecnologia",
+      "corrosão"
+    ],
+    "year": 2022,
+    "test": "ENEM",
+    "area": "nature",
+    "answer": "d"
+  },
+  {
+    "number": 114,
+    "text": "As células da epiderme da folha da Tradescantia allida purpurea, uma herbácea popularmente conhecida omo trapoeraba-roxa, contém um vacúolo onde se ncontra um pigmento que dá a coloração arroxeada a sse tecido. Em um experimento, um corte da epiderme e uma folha da trapoeraba-roxa foi imerso em ambiente ipotônico e, logo em seguida, foi colocado em uma âmina e observado em microscópio óptico. Durante a observação desse corte, foi possível identificar o(a)",
+    "alternatives": {
+      "a": "acúmulo do solvente com fragmentação da organela",
+      "b": "rompimento da membrana celular com liberação do citosol",
+      "c": "aumento do vacúolo com diluição do pigmento no seu interior",
+      "d": "quebra da parede celular com extravasamento do pigmento",
+      "e": "murchamento da célula com expulsão do pigmento do vacúolo"
+    },
+    "images": [],
+    "tags": [
+      "biologia",
+      "células"
+    ],
+    "year": 2022,
+    "test": "ENEM",
+    "area": "nature",
+    "answer": "c"
+  },
+  {
+    "number": 115,
+    "text": "A razão entre as variações de temperatura nas áreas concretada e alagada é mais próxima de",
+    "alternatives": {
+      "a": "1,0.",
+      "b": "2,1.",
+      "c": "2,5.",
+      "d": "5,3.",
+      "e": "13,1."
+    },
+    "images": [],
+    "tags": [
+      "clima",
+      "física"
+    ],
+    "year": 2022,
+    "test": "ENEM",
+    "area": "nature",
+    "answer": "b"
+  },
+  {
+    "number": 116,
+    "text": "O manual de uma ducha elétrica informa que seus três níveis de aquecimento (morno, quente e superquente) apresentam as seguintes variações de temperatura da água em função de sua vazão: Utiliza-se um disjuntor para proteger o circuito dessa ducha contra sobrecargas elétricas em qualquer nível de aquecimento. Por padrão, o disjuntor é especificado pelo múltiplo de 5 A imediatamente superior à corrente máxima do circuito. Considere que a ducha deve ser ligada em 220 V e que toda a energia dissipada através da resistência do chuveiro e convertida em energia térmica transferida para a água, que apresenta calor específico de 4,2 J/g°C e densidade de 1 000 g/L. O disjuntor adequado para a proteção dessa ducha é especificado por:",
+    "alternatives": {
+      "a": "60 A",
+      "b": "30 A",
+      "c": "20 A",
+      "d": "10 A",
+      "e": "5 A"
+    },
+    "images": [],
+    "tags": [
+      "física",
+      "eletricidade"
+    ],
+    "year": 2022,
+    "test": "ENEM",
+    "area": "nature",
+    "answer": "b"
+  },
+  {
+    "number": 117,
+    "text": "Um grupo de alunos realizou um experimento para observar algumas propriedades dos ácidos, adicionando um pedaço de mármore (CaCO₃) a uma solução aquosa de ácido clorídrico (HCl), observando a liberação de um gás e o aumento da temperatura. O gás obtido no experimento é o:",
+    "alternatives": {
+      "a": "H₂",
+      "b": "O₂",
+      "c": "CO₂",
+      "d": "CO",
+      "e": "Cl₂"
+    },
+    "images": [],
+    "tags": [
+      "química",
+      "propriedades dos ácidos"
+    ],
+    "year": 2022,
+    "test": "ENEM",
+    "area": "nature",
+    "answer": "c"
+  },
+  {
+    "number": 118,
+    "text": "Com base nas informações do texto, qual é o hormônio ujas concentrações estão representadas na figura?",
+    "alternatives": {
+      "a": "Estrogênio.",
+      "b": "Feromônio.",
+      "c": "Testosterona.",
+      "d": "Somatotrofina.",
+      "e": "Hormônio folículo estimulante."
+    },
+    "images": [],
+    "tags": [
+      "biologia",
+      "hormônios"
+    ],
+    "year": 2022,
+    "test": "ENEM",
+    "area": "nature",
+    "answer": "c"
+  },
+  {
+    "number": 119,
+    "text": "Uma lanterna funciona com três pilhas de resistência. Se as pilhas estiverem posicionadas corretamente, devem acender a lâmpada imediatamente. A posição correta gera uma f.e.m. (força eletromotriz) de 1 V. Com esse equívoco de inverter a posição de uma das pilhas, qual é a intensidade de corrente que circula no circuito?",
+    "alternatives": {
+      "a": "0,25 A",
+      "b": "0,33 A",
+      "c": "0,75 A",
+      "d": "1,00 A",
+      "e": "1,33 A"
+    },
+    "images": [],
+    "tags": [
+      "física",
+      "eletricidade"
+    ],
+    "year": 2022,
+    "test": "ENEM",
+    "area": "nature",
+    "answer": "a"
+  },
+  {
+    "number": 120,
+    "text": "Em uma aula prática de bioquímica, para medir a atividade enzimática em ensaios independentes, nas mesmas condições, variando a temperatura. A reação produz água e oxigênio. Os diferentes resultados dos ensaios justificam-se pelo(...)",
+    "alternatives": {
+      "a": "variação do pH do meio",
+      "b": "aumento da energia de ativação",
+      "c": "consumo da enzima durante o ensaio",
+      "d": "diminuição da concentração do substrato",
+      "e": "modificação da estrutura tridimensional da enzima"
+    },
+    "images": [],
+    "tags": [
+      "bioquímica",
+      "enzimas"
+    ],
+    "year": 2022,
+    "test": "ENEM",
+    "area": "nature",
+    "answer": "e"
+  },
+  {
+    "number": 121,
+    "text": "Qual dos antimicrobianos deve ser utilizado para curar uma infecção causada por um fungo sem afetar as bactérias da microbiota normal do organismo?",
+    "alternatives": {
+      "a": "Une-se aos ribossomos",
+      "b": "Une-se aos microtúbulos",
+      "c": "Une-se aos fosfolipídeos da membrana plasmática",
+      "d": "Interfere na síntese de timina",
+      "e": "Interfere na síntese de uracil"
+    },
+    "images": [],
+    "tags": [
+      "antimicrobianos",
+      "microbiologia"
+    ],
+    "year": 2022,
+    "test": "ENEM",
+    "area": "nature",
+    "answer": "b"
+  },
+  {
+    "number": 122,
+    "text": "Esse novo medicamento apresenta potencial aplicação para",
+    "alternatives": {
+      "a": "impedir a formação de trombos, típicos em alguns casos de acidente vascular cerebral.",
+      "b": "tratar consequências da anemia profunda, em razão da perda de grande volume de sangue.",
+      "c": "evitar a manifestação de urticárias, comumente relacionadas a processos alérgicos.",
+      "d": "reduzir o inchaço dos linfonodos, parte da resposta imunitária de diferentes infecções.",
+      "e": "regular a oscilação da pressão arterial, características dos quadros de hipertensão."
+    },
+    "images": [],
+    "tags": [
+      "biologia",
+      "farmacologia"
+    ],
+    "year": 2022,
+    "test": "ENEM",
+    "area": "nature",
+    "answer": "a"
+  },
+  {
+    "number": 123,
+    "text": "Após a substituição descrita, o que aconteceria aos planetas do Sistema Solar?",
+    "alternatives": {
+      "a": "Eles se moveriam em órbitas espirais, aproximando-se sucessivamente do Buraco Negro.",
+      "b": "Eles oscilariam aleatoriamente em torno de suas órbitas elípticas originais.",
+      "c": "Eles se moveriam em direção ao centro do Buraco Negro.",
+      "d": "Eles passariam a precessionar mais rapidamente.",
+      "e": "Eles manteriam suas órbitas inalteradas."
+    },
+    "images": [],
+    "tags": [
+      "Buraco Negro",
+      "Física"
+    ],
+    "year": 2022,
+    "test": "ENEM",
+    "area": "nature",
+    "answer": "e"
+  },
+  {
+    "number": 124,
+    "text": "O grande risco envolvido no emprego indiscriminado dessa substância deve-se à sua ação química como",
+    "alternatives": {
+      "a": "catalisador.",
+      "b": "oxidante.",
+      "c": "redutor.",
+      "d": "ácido.",
+      "e": "base."
+    },
+    "images": [],
+    "tags": [
+      "química",
+      "toxicidade"
+    ],
+    "year": 2022,
+    "test": "ENEM",
+    "area": "nature",
+    "answer": "b"
+  },
+  {
+    "number": 125,
+    "text": "[Figura: representação do mosaicismo em função da inativação aleatória de um dos cromossomos X]",
+    "alternatives": {
+      "a": "pleiotropia.",
+      "b": "mutação gênica.",
+      "c": "interação gênica.",
+      "d": "penetrância incompleta.",
+      "e": "expressividade variável."
+    },
+    "images": [
+      "figuras/q125_2022_fig1.png"
+    ],
+    "tags": [
+      "genética",
+      "mosaicismo"
+    ],
+    "year": 2022,
+    "test": "ENEM",
+    "area": "nature",
+    "answer": "e"
+  },
+  {
+    "number": 126,
+    "text": "[Figura - Ilustração do processo de tratamento da água]",
+    "alternatives": {
+      "a": "Coagulação.",
+      "b": "Decantação.",
+      "c": "Filtração.",
+      "d": "Desinfecção.",
+      "e": "Fluoretação."
+    },
+    "images": [
+      "figuras/q126_2022_fig1.png"
+    ],
+    "tags": [
+      "água",
+      "tratamento de água"
+    ],
+    "year": 2022,
+    "test": "ENEM",
+    "area": "nature",
+    "answer": "b"
+  },
+  {
+    "number": 127,
+    "text": "[Figura - ilustração da célula] Em qual etapa do metabolismo energético celular a termogenina interfere?",
+    "alternatives": {
+      "a": "Glicólise.",
+      "b": "Fermentação lática.",
+      "c": "Ciclo do ácido cítrico.",
+      "d": "Oxidação do piruvato.",
+      "e": "Fosforilação oxidativa."
+    },
+    "images": [
+      "figuras/q127_2022_fig1.png"
+    ],
+    "tags": [
+      "metabolismo",
+      "biologia celular"
+    ],
+    "year": 2022,
+    "test": "ENEM",
+    "area": "nature",
+    "answer": "e"
+  },
+  {
+    "number": 128,
+    "text": "Nesse teste, a ordenação das rotas indicadas pelo aplicativo será:",
+    "alternatives": {
+      "a": "1, 2, 3.",
+      "b": "1, 3, 2.",
+      "c": "2, 1, 3.",
+      "d": "3, 1, 2.",
+      "e": "3, 2, 1."
+    },
+    "answer": "a",
+    "tags": [
+      "física",
+      "circuitos elétricos",
+      "lei de Ohm"
+    ],
+    "year": 2022,
+    "test": "ENEM",
+    "area": "nature",
+    "images": [],
+    "contextId": null,
+    "contextIds": null,
+    "language": null
+  },
+  {
+    "number": 129,
+    "text": "[Esquema - ciclo do nitrogênio] A chuva ácida interfere no ciclo do nitrogênio, principalmente, por proporcionar uma diminuição do pH do solo e da atmosfera, alterando a concentração dos compostos presentes nesse ciclo. Em um solo de menor pH, será favorecida a formação de:",
+    "alternatives": {
+      "a": "N 2",
+      "b": "NH 3",
+      "c": "NH 4 +",
+      "d": "NO 2 −",
+      "e": "NO 3"
+    },
+    "images": [
+      "figuras/q129_2022_fig1.png"
+    ],
+    "tags": [
+      "Ciclo do nitrogênio",
+      "Ecologia"
+    ],
+    "year": 2022,
+    "test": "ENEM",
+    "area": "nature",
+    "answer": "c"
+  },
+  {
+    "number": 130,
+    "text": "Um animal que tem bastonetes mais sensíveis irá",
+    "alternatives": {
+      "a": "apresentar daltonismo.",
+      "b": "perceber cores fora do espectro do visível.",
+      "c": "enxergar bem em ambientes mal iluminados.",
+      "d": "necessitar de mais luminosidade para enxergar.",
+      "e": "fazer uma pequena distinção de cores em ambientes iluminados."
+    },
+    "images": [],
+    "tags": [
+      "visão",
+      "física"
+    ],
+    "year": 2022,
+    "test": "ENEM",
+    "area": "nature",
+    "answer": "c"
+  },
+  {
+    "number": 131,
+    "text": "De modo geral, a palavra “aromático” invoca associações com plantas e frutas que apresentam um odor agradável e foram isolados de óleos essenciais. Com o tempo, foi se descobrindo que vários deles continham uma unidade estrutural em comum. Essa característica tornou-se parte da definição química do que nos seus cheiros, como as substâncias benzaldeído, salicilato de metila, vanilina e eugenol.",
+    "alternatives": {
+      "a": "ramificações",
+      "b": "insaturações",
+      "c": "anel benzênico",
+      "d": "átomos de oxigênio",
+      "e": "carbonos assimétricos"
+    },
+    "images": [],
+    "tags": [
+      "química",
+      "estrutura molecular"
+    ],
+    "year": 2022,
+    "test": "ENEM",
+    "area": "nature",
+    "answer": "c"
+  },
+  {
+    "number": 132,
+    "text": "Os resultados de um ensaio clínico randomizado na dengue nas áreas que receberam o mosquito Aedes aegypti tratado com bactéria Wolbachia, iniciativa da Fiocruz, confirmaram uma redução de 77% dos casos de dengue. Trata-se da mesma tecnologia utilizada no combate à dengue consiste em?",
+    "alternatives": {
+      "a": "predação do vírus pela bactéria.",
+      "b": "esterilização de mosquitos infectados.",
+      "c": "alteração no genótipo do mosquito pela bactéria.",
+      "d": "competição do vírus e da bactéria no hospedeiro.",
+      "e": "inserção de material genético do vírus na bactéria."
+    },
+    "images": [],
+    "tags": [
+      "biologia",
+      "ensaio clínico"
+    ],
+    "year": 2022,
+    "test": "ENEM",
+    "area": "nature",
+    "answer": "d"
+  },
+  {
+    "number": 133,
+    "text": "[Figura] O protozoário Trypanosoma cruzi, causador da doença de Chagas, pode ser a nova arma da medicina contra o câncer. Pesquisadores brasileiros conseguiram criar uma vacina contra a doença usando uma variação do protozoário incapaz de desencadear a patologia (não patogênico). Para isso, realizaram uma modificação genética criando um T. cruzi capaz de produzir também moléculas fabricadas pelas células tumorais. Quando o organismo inicia o combate ao protozoário, entra em contato também com a molécula tumoral, que passa a ser vista também pelo sistema imune como um indicador das células do protozoário. Depois de induzidas as defesas, estas passam a destruir todas as células com a molécula tumoral, como se lutassem apenas contra o protozoário. Qual o mecanismo utilizado no experimento para enganar as células de defesa, fazendo com que ataquem o tumor?",
+    "alternatives": {
+      "a": "Autoimunidade",
+      "b": "Hipersensibilidade",
+      "c": "Ativação da resposta inata",
+      "d": "Apresentação de antígeno específico",
+      "e": "Desencadeamento de processo anti-inflamatório"
+    },
+    "images": [
+      "figuras/q133_2022_fig1.png"
+    ],
+    "tags": [
+      "biologia",
+      "medicina"
+    ],
+    "year": 2022,
+    "test": "ENEM",
+    "area": "nature",
+    "answer": "d"
+  },
+  {
+    "number": 134,
+    "text": "A distância L, em metro, entre o barco e a geleira é mais róxima de",
+    "alternatives": {
+      "a": "339 000.",
+      "b": "78 900.",
+      "c": "14 400.",
+      "d": "5 240.",
+      "e": "100."
+    },
+    "images": [],
+    "tags": [
+      "física",
+      "som"
+    ],
+    "year": 2022,
+    "test": "ENEM",
+    "area": "nature",
+    "answer": "d"
+  },
+  {
+    "number": 135,
+    "text": "[Figura: garrafas plásticas PET com água e cloro fixadas ao telhado]",
+    "alternatives": {
+      "a": "Difração.",
+      "b": "Absorção.",
+      "c": "Polarização.",
+      "d": "Reflexão.",
+      "e": "Refração."
+    },
+    "images": [
+      "figuras/q135_2022_fig1.png"
+    ],
+    "tags": [
+      "fenômeno óptico",
+      "refração"
+    ],
+    "year": 2022,
+    "test": "ENEM",
+    "area": "nature",
+    "answer": "e"
+  }
+]

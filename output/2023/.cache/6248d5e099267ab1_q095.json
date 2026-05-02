@@ -1,0 +1,24 @@
+{
+  "number": 95,
+  "text": "As aves apresentam dois tipos de músculos em seus orpos: vermelhos e brancos. Aves migratórias como garças, ansos e patos selvagens têm os músculos vermelhos bem esenvolvidos, com ampla rede de vasos sanguíneos. Nas viagens por grandes distâncias, tais músculos são undamentais, pois favorecem o(a)",
+  "alternatives": {
+    "a": "execução de manobras",
+    "b": "metabolismo corpóreo elevado",
+    "c": "manutenção da aerodinâmica",
+    "d": "deslocamento a grandes velocidades",
+    "e": "capacidade de voo em grandes altitudes"
+  },
+  "answer": "b",
+  "tags": [
+    "aves",
+    "músculos",
+    "biologia"
+  ],
+  "year": 2023,
+  "test": "ENEM",
+  "area": "nature",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

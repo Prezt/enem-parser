@@ -1,0 +1,27 @@
+{
+  "number": 13,
+  "text": "O segundo texto, que propõe uma reflexão sobre o primeiro acerca do impacto de mudanças no estilo de vida na saúde, apresenta uma visão",
+  "alternatives": {
+    "a": "medicalizada, que relaciona a prática de exercícios físicos por qualquer indivíduo à promoção da saúde.",
+    "b": "ampliada, que considera aspectos sociais intervenientes na prática de exercícios no cotidiano.",
+    "c": "crítica, que associa a interferência das tarefas de casa ao sedentarismo do indivíduo.",
+    "d": "focalizada, que atribui ao indivíduo a responsabilidade pela prevenção de doenças.",
+    "e": "geracional, que preconiza a representação do culto à jovialidade."
+  },
+  "answer": "b",
+  "tags": [
+    "interpretação de texto",
+    "linguística e variação linguística"
+  ],
+  "year": 2018,
+  "test": "ENEM",
+  "area": "linguagens",
+  "difficulty": 6,
+  "images": [],
+  "contextId": null,
+  "contextIds": [
+    "enem_2018_linguagens_ctx1",
+    "enem_2018_linguagens_ctx2"
+  ],
+  "language": null
+}

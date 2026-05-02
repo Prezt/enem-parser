@@ -1,0 +1,24 @@
+{
+  "number": 146,
+  "text": "Um zootecnista selecionou uma amostra de coelhos e deseja estimar a massa média desses animais. Ele sabe que a massa de cada coelho está relacionada ao tipo de alimentação e ao tempo de vida do animal. O zootecnista constatou que nessa amostra todos os coelhos foram criados nas mesmas condições e com a mesma idade e três meses. Para essa amostra, o zootecnista calculou o coeficiente de variação (CV) que é uma medida de variabilidade relativa dada pela expressão CV = s/x, em que s representa o desvio padrão e x a média das massas dos coelhos que compõem a amostra. Examinando essa amostra, o zootecnista constatou que o coeficiente de variação das massas dos coelhos que foram alimentados com a ração A foi igual a 8%. Além disso, constatou que a média das massas dos coelhos dessa amostra foi de 6,0 kg e o desvio padrão foi de 0,48 kg. Se a média da massa dos coelhos da amostra, em quilograma, for superior a qual valor?",
+  "alternatives": {
+    "a": "5,0",
+    "b": "9,5",
+    "c": "10,0",
+    "d": "10,5",
+    "e": "15,0"
+  },
+  "answer": "e",
+  "tags": [
+    "estatística",
+    "matemática financeira"
+  ],
+  "year": 2021,
+  "test": "ENEM",
+  "area": "math",
+  "difficulty": 6,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

@@ -1,0 +1,23 @@
+{
+  "number": 154,
+  "text": "Contratos de vários serviços disponíveis na internet apresentam uma quantidade excessiva de informações. Isso faz com que o tempo necessário para a leitura desses contratos possa ser longo. O quadro apresenta uma amostra do tempo considerado necessário para a leitura completa do contrato de alguns serviços digitais. Tipo de serviço Tempo necessário para a leitura completa do contrato (em minutos) A 36 B 17 C 27 D 13 E 13 F 13 O tempo médio, em minutos, necessário para a leitura completa de um contrato de serviço dentre os listados no quadro é, com uma casa decimal, aproximadamente",
+  "alternatives": {
+    "a": "13,0.",
+    "b": "15,0.",
+    "c": "19,8.",
+    "d": "20,0.",
+    "e": "23,3."
+  },
+  "answer": "c",
+  "tags": [
+    "estatística",
+    "média"
+  ],
+  "year": 2024,
+  "test": "ENEM",
+  "area": "math",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

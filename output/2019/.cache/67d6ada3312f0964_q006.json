@@ -1,0 +1,25 @@
+{
+  "number": 6,
+  "text": "Pela análise do conteúdo, constata-se que essa campanha publicitária tem como função social",
+  "alternatives": {
+    "a": "propagar a imagem positiva do Ministério Público.",
+    "b": "conscientizar a população que direito implicam deveres.",
+    "c": "coibir violações de direitos humanos nos meio de comunicação.",
+    "d": "divulgar políticas sociais que combatem a intolerância e o preconceito.",
+    "e": "instruir as pessoas sobre a forma correta de expressão nas redes sociais."
+  },
+  "answer": "b",
+  "tags": [
+    "interpretação de texto",
+    "comunicação e mídia",
+    "direitos humanos e cidadania"
+  ],
+  "year": 2019,
+  "test": "ENEM",
+  "area": "linguagens",
+  "difficulty": 4,
+  "images": [],
+  "contextId": "enem_2019_linguagens_q6_ctx1",
+  "contextIds": null,
+  "language": null
+}

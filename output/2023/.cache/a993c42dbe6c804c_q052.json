@@ -1,0 +1,24 @@
+{
+  "number": 52,
+  "text": "Com base no conceito de ética pedagógica presente nos textos, os educandos tornam-se responsáveis pela",
+  "alternatives": {
+    "a": "participação sociopolítica.",
+    "b": "definição estético-cultural.",
+    "c": "competição econômica local.",
+    "d": "manutenção do sistema escolar.",
+    "e": "capacitação de mobilidade individual."
+  },
+  "answer": "a",
+  "tags": [
+    "ética",
+    "pedagogia",
+    "sociologia"
+  ],
+  "year": 2023,
+  "test": "ENEM",
+  "area": "humanas",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

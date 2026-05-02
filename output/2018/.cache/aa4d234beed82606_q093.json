@@ -1,0 +1,24 @@
+{
+  "number": 93,
+  "text": "Em 1938 o arqueólogo alemão Wilhelm König, diretor do Museu Nacional do Iraque, encontrou um objeto estranho na coleção da instituição, que poderia ter sido usado como uma pilha, similar às utilizadas em nossos dias. A suposta pilha, datada de cerca de 200 a.C., é constituída de um pequeno vaso de barro (argila) no qual foram instalados um tubo de cobre, uma barra de ferro (aparentemente corroída por ácido) e uma tampa de betume (asfalto), conforme ilustrado. Considere os potenciais-padrão de redução: E° (Fe²⁺|Fe) = −0,44 V; E° (H⁺|H₂) = 0,00 V; e E° (Cu²⁺|Cu) = +0,34 V.\n\nNessa suposta pilha, qual dos componentes atuaria como cátodo?",
+  "alternatives": {
+    "a": "A tampa de betume.",
+    "b": "O vestígio de ácido.",
+    "c": "A barra de ferro.",
+    "d": "O tubo de cobre.",
+    "e": "O vaso de barro."
+  },
+  "answer": "d",
+  "tags": [
+    "eletroquímica",
+    "química geral e inorgânica"
+  ],
+  "year": 2018,
+  "test": "ENEM",
+  "area": "nature",
+  "difficulty": 6,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

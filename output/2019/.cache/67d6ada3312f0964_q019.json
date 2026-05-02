@@ -1,0 +1,24 @@
+{
+  "number": 19,
+  "text": "Sobre o compartilhamento parental excessivo em mídias sociais, o texto destaca como impacto o(a)",
+  "alternatives": {
+    "a": "interferência das novas tecnologias na comunicação entre pais e filhos.",
+    "b": "desatenção dos pais em relação ao comportamento dos filhos na internet.",
+    "c": "distanciamento na relação entre pais e filhos provocado pelo uso das redes sociais.",
+    "d": "fortalecimento das redes de relações decorrente da troca de experiências entre as famílias.",
+    "e": "desrespeito à intimidade das crianças cujas imagens têm sido divulgadas nas redes sociais."
+  },
+  "answer": "e",
+  "tags": [
+    "interpretação de texto",
+    "comunicação e mídia"
+  ],
+  "year": 2019,
+  "test": "ENEM",
+  "area": "linguagens",
+  "difficulty": 4,
+  "images": [],
+  "contextId": "enem_2019_linguagens_q19_ctx1",
+  "contextIds": null,
+  "language": null
+}

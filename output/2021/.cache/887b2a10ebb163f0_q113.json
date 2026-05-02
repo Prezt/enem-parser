@@ -1,0 +1,23 @@
+{
+  "number": 113,
+  "text": "O ciclo do cobre é um experimento didático em que o cobre metálico é utilizado como reagente de partida.",
+  "alternatives": {
+    "a": "",
+    "b": "",
+    "c": "",
+    "d": "",
+    "e": ""
+  },
+  "answer": "e",
+  "tags": [
+    "química geral e inorgânica"
+  ],
+  "year": 2021,
+  "test": "ENEM",
+  "area": "nature",
+  "difficulty": 5,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

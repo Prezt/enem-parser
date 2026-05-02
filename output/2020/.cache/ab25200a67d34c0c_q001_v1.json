@@ -1,0 +1,24 @@
+{
+  "number": 1,
+  "text": "Rubén Blades é um compositor panamenho de canções socialmente engajadas. O título Pablo Pueblo, associado ao conteúdo da letra da canção, revela uma crítica social ao",
+  "alternatives": {
+    "a": "contrapor a individualidade de um sujeito a uma estrutura social marcada pela decepção na atuação política.",
+    "b": "demonstrar que o problema sofrido pelo indivíduo atinge toda a comunidade.",
+    "c": "relativizar a importância que se dá ao sofrimento individual em uma estrutura social baseada na exploração.",
+    "d": "descrever a vida de um sujeito que nunca resolve suas inquietações e, por isso, mantém-se silencioso.",
+    "e": "usar um apelido jocoso para designar a atuação de um indivíduo em seu próprio bairro."
+  },
+  "answer": "a",
+  "tags": [
+    "interpretação de texto",
+    "literatura mundial"
+  ],
+  "year": 2020,
+  "test": "ENEM",
+  "area": "linguagens",
+  "difficulty": 5,
+  "images": [],
+  "contextId": "enem_2020_linguagens_es_ctx1",
+  "contextIds": null,
+  "language": "es"
+}

@@ -1,0 +1,24 @@
+{
+  "number": 101,
+  "text": "O deserto é um bioma que se localiza em regiões de pouca umidade. A fauna é, predominantemente, composta por animais roedores, aves, répteis e artrópodes. Uma adaptação, associada a esse bioma, presente nos seres vivos dos grupos citados é o(a)",
+  "alternatives": {
+    "a": "existência de numerosas glândulas sudoríparas na epiderme.",
+    "b": "eliminação de excretas nitrogenadas de forma concentrada.",
+    "c": "desenvolvimento do embrião no interior de ovo com casca.",
+    "d": "capacidade de controlar a temperatura corporal.",
+    "e": "respiração realizada por pulmões foliáceos."
+  },
+  "answer": "b",
+  "tags": [
+    "ecologia",
+    "fisiologia humana"
+  ],
+  "year": 2018,
+  "test": "ENEM",
+  "area": "nature",
+  "difficulty": 4,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

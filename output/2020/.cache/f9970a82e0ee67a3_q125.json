@@ -1,0 +1,24 @@
+{
+  "number": 125,
+  "text": "Uma população encontra-se em equilíbrio genético quanto ao sistema ABO, em que 25% dos indivíduos pertencem ao grupo O e 16%, ao grupo A homozigotos. Considerando que: p = frequência de I^A; q = frequência de I^B; e r = frequência de i, espera-se encontrar:\n\n| Grupo | Genótipos | Frequências |\n|---|---|---|\n| A | I^A I^A e I^A i | p² + 2pr |\n| B | I^B I^B e I^B i | q² + 2qr |\n| AB | I^A I^B | 2pq |\n| O | ii | r² |\n\nA porcentagem de doadores compatíveis para alguém do grupo B nessa população deve ser de",
+  "alternatives": {
+    "a": "11%",
+    "b": "19%",
+    "c": "26%",
+    "d": "36%",
+    "e": "60%"
+  },
+  "answer": "d",
+  "tags": [
+    "genética e hereditariedade",
+    "equilíbrio Hardy-Weinberg"
+  ],
+  "year": 2020,
+  "test": "ENEM",
+  "area": "nature",
+  "difficulty": 6,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

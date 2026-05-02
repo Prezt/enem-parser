@@ -1,0 +1,24 @@
+{
+  "number": 46,
+  "text": "A simples vontade de checar mensagens do trabalho pós-expediente prejudica sua saúde — e a de sua família. Qual é a consequência dessa atitude?",
+  "alternatives": {
+    "a": "Melhora o desempenho profissional",
+    "b": "Reduz o estresse pessoal",
+    "c": "Prejudica a saúde e o bem-estar familiar",
+    "d": "Aumenta a produtividade",
+    "e": "Fortalece as relações interpessoais"
+  },
+  "answer": "b",
+  "tags": [
+    "cultura e identidade",
+    "direitos humanos e cidadania"
+  ],
+  "year": 2021,
+  "test": "ENEM",
+  "area": "humanas",
+  "difficulty": 5,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

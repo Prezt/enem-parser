@@ -1,0 +1,31 @@
+{
+  "number": 173,
+  "text": "Os guindastes são fundamentais em canteiros de obras, no manejo de materiais pesados como vigas de aço. A figura ilustra uma sequência de estágios em que um daste iça uma viga de aço que se encontra inicialmente no solo.\n\n[Figura: Sequência de três estágios mostrando um guindaste içando uma viga]\n\nNa figura, o ponto O representa a projeção ortogonal do cabo de aço sobre o plano do chão e este se mantém na vertical durante todo o movimento de içamento da viga que se inicia no tempo t = 0 (estágio 1) e finaliza no tempo t_f (estágio 3). Uma das extremidades da viga é içada verticalmente a partir do ponto O, enquanto que a outra extremidade desliza sobre o solo em direção ao ponto O. Considere que o cabo de aço utilizado pelo guindaste para içar a viga fique sempre na posição vertical. Na figura, o ponto M representa o ponto médio do segmento que representa a viga.\n\nO gráfico que descreve a distância do ponto M ao ponto O em função do tempo, entre t = 0 e t_f, é\n\n[Gráfico - opção A: Distância vs Tempo]\n[Gráfico - opção B: Distância vs Tempo]\n[Gráfico - opção C: Distância vs Tempo]\n[Gráfico - opção D: Distância vs Tempo]\n[Gráfico - opção E: Distância vs Tempo]",
+  "alternatives": {
+    "a": "[Gráfico mostrando decrescimento linear da distância]",
+    "b": "[Gráfico mostrando decrescimento não linear seguido de estabilização]",
+    "c": "[Gráfico mostrando decrescimento não linear da distância]",
+    "d": "[Gráfico mostrando aumento linear da distância]",
+    "e": "[Gráfico mostrando aumento seguido de decrescimento da distância]"
+  },
+  "answer": "a",
+  "tags": [
+    "geometria analítica",
+    "funções"
+  ],
+  "year": 2018,
+  "test": "ENEM",
+  "area": "math",
+  "difficulty": 6,
+  "images": [
+    "figuras/q173_2018_fig1.png",
+    "figuras/q173_2018_fig2.png",
+    "figuras/q173_2018_fig3.png",
+    "figuras/q173_2018_fig4.png",
+    "figuras/q173_2018_fig5.png",
+    "figuras/q173_2018_fig6.png"
+  ],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

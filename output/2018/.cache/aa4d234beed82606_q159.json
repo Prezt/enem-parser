@@ -1,0 +1,26 @@
+{
+  "number": 159,
+  "text": "Minecraft é um jogo virtual que pode auxiliar no desenvolvimento de conhecimentos relacionados a espaço e forma. É possível criar casas, edifícios, monumentos e até naves espaciais, tudo em escala real, através do empilhamento de cubinhos.\n\nUm jogador deseja construir um cubo com dimensões 4 × 4 × 4. Ele já empilhou alguns dos cubinhos necessários, conforme a figura.\n\n[Figura: representação do cubo 4×4×4 parcialmente preenchido]\n\nOs cubinhos que ainda faltam empilhar para finalizar a construção do cubo, juntos, formam uma peça única, capaz de completar a tarefa.\n\nO formato da peça capaz de completar o cubo 4 × 4 × 4 é:",
+  "alternatives": {
+    "a": "[Figura: alternativa A]",
+    "b": "[Figura: alternativa B]",
+    "c": "[Figura: alternativa C]",
+    "d": "[Figura: alternativa D]",
+    "e": "[Figura: alternativa E]"
+  },
+  "answer": "a",
+  "tags": [
+    "geometria espacial",
+    "análise combinatória"
+  ],
+  "year": 2018,
+  "test": "ENEM",
+  "area": "math",
+  "difficulty": 6,
+  "images": [
+    "figuras/q159_2018_fig1.png"
+  ],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

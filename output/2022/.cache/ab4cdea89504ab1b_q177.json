@@ -1,0 +1,23 @@
+{
+  "number": 177,
+  "text": "Uma pessoa precisa contratar um operário para azer um serviço em sua casa. Para isso, ela postou um núncio em uma rede social. Cinco pessoas responderam informando preços por hora trabalhada, gasto diário com transporte e tempo necessário para conclusão do serviço. Se a pessoa pretende gastar o mínimo possível com essa contratação, irá contratar o operário",
+  "alternatives": {
+    "a": "I.",
+    "b": "II.",
+    "c": "III.",
+    "d": "IV.",
+    "e": "V."
+  },
+  "answer": "a",
+  "tags": [
+    "matemática financeira",
+    "análise de dados"
+  ],
+  "year": 2022,
+  "test": "ENEM",
+  "area": "math",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

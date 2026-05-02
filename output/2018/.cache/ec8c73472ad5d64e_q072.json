@@ -1,0 +1,25 @@
+{
+  "number": 72,
+  "text": "O texto apresenta um novo olhar sobre a configuração da floresta Amazônica por romper com a ideia de",
+  "alternatives": {
+    "a": "primazia de saberes locais.",
+    "b": "ausência de ação antrópica.",
+    "c": "insuficiência de recursos naturais.",
+    "d": "necessidade de manejo ambiental.",
+    "e": "predominância de práticas agropecuárias."
+  },
+  "answer": "b",
+  "tags": [
+    "história contemporânea",
+    "meio ambiente e sustentabilidade",
+    "cultura e identidade"
+  ],
+  "year": 2018,
+  "test": "ENEM",
+  "area": "humanas",
+  "difficulty": 6,
+  "images": [],
+  "contextId": "enem_2018_humanas_ctx72",
+  "contextIds": null,
+  "language": null
+}

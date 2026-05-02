@@ -1,0 +1,24 @@
+{
+  "number": 24,
+  "text": "A frase 'Assim na terra como embaixo da terra' refere-se a qual conceito ou obra?",
+  "alternatives": {
+    "a": "",
+    "b": "",
+    "c": "",
+    "d": "",
+    "e": ""
+  },
+  "answer": "b",
+  "tags": [
+    "literatura brasileira",
+    "interpretação de texto"
+  ],
+  "year": 2021,
+  "test": "ENEM",
+  "area": "linguagens",
+  "difficulty": 5,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

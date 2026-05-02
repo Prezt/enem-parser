@@ -1,0 +1,23 @@
+{
+  "number": 31,
+  "text": "Os recursos composicionais que inserem a obra no chamado “Romance de 30” da literatura brasileira manifestam-se aqui no(a)",
+  "alternatives": {
+    "a": "desenho cru da realidade dramática dos retirantes",
+    "b": "indefinição dos espaços para efeito de generalização",
+    "c": "análise psicológica da reação dos personagens à seca",
+    "d": "engajamento político do narrador ante as desigualdades",
+    "e": "contemplação lírica da paisagem transformada em alegoria"
+  },
+  "answer": "a",
+  "tags": [
+    "literatura",
+    "romance"
+  ],
+  "year": 2022,
+  "test": "ENEM",
+  "area": "linguagens",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

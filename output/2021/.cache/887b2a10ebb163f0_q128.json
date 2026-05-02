@@ -1,0 +1,24 @@
+{
+  "number": 128,
+  "text": "Após realizar um percurso de 110 km, um motorista pretende recarregar as baterias de seu carro elétrico, que tem um desempenho médio de 5,0 km/kWh, usando um carregador que fornece uma potência de 2 kW. Qual é a energia elétrica, em kWh, utilizada nesse percurso?",
+  "alternatives": {
+    "a": "0,005",
+    "b": "0,125",
+    "c": "2,5",
+    "d": "5,0",
+    "e": "8,0"
+  },
+  "answer": "d",
+  "tags": [
+    "física moderna",
+    "eletricidade e magnetismo"
+  ],
+  "year": 2021,
+  "test": "ENEM",
+  "area": "nature",
+  "difficulty": 5,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

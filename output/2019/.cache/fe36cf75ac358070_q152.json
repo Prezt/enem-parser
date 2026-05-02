@@ -1,0 +1,24 @@
+{
+  "number": 152,
+  "text": "Para contratar três máquinas que farão o reparo de vias rurais de um município, a prefeitura elaborou um edital que, entre outras cláusulas, previa:\n  - Cada empresa interessada só pode cadastrar uma única máquina para concorrer ao edital;\n  - O total de recursos destinados para contratar o conjunto das três máquinas é de R$ 31 000,00;\n  - O valor a ser pago a cada empresa será inversamente proporcional à idade de uso da máquina cadastrada pela empresa para o presente edital.\nAs três empresas vencedoras do edital cadastraram máquinas com 2, 3 e 5 anos de idade de uso. Quanto receberá a empresa que cadastrou a máquina com maior idade de uso?",
+  "alternatives": {
+    "a": "R$ 3 100,00",
+    "b": "R$ 6 000,00",
+    "c": "R$ 6 200,00",
+    "d": "R$ 15 000,00",
+    "e": "R$ 15 500,00"
+  },
+  "answer": "b",
+  "tags": [
+    "matemática financeira",
+    "álgebra"
+  ],
+  "year": 2019,
+  "test": "ENEM",
+  "area": "math",
+  "difficulty": 5,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

@@ -1,0 +1,25 @@
+{
+  "number": 2,
+  "text": "Conforme o texto, qual é a principal característica do amuleto?",
+  "alternatives": {
+    "a": "Serve para proteger a casa e as janelas.",
+    "b": "Possui propriedades mágicas que trazem sorte.",
+    "c": "É um objeto antigo de grande valor histórico.",
+    "d": "Funciona como símbolo de identidade cultural.",
+    "e": "Atua como talismã espiritual de proteção pessoal."
+  },
+  "answer": "a",
+  "tags": [
+    "interpretação de texto",
+    "gêneros textuais",
+    "literatura mundial"
+  ],
+  "year": 2021,
+  "test": "ENEM",
+  "area": "linguagens",
+  "difficulty": 5,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": "en"
+}

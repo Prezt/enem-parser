@@ -1,0 +1,25 @@
+{
+  "number": 143,
+  "text": "No Brasil, o tempo necessário para um estudante realizar sua formação até a diplomação em um curso superior, considerando os 9 anos de ensino fundamental, os 3 anos do ensino médio e os 4 anos de graduação (tempo médio), é de 16 anos. No entanto, a realidade dos brasileiros mostra que o tempo médio de estudo de pessoas acima de 14 anos é ainda muito pequeno, conforme apresentado na tabela.\n\nConsidere que o incremento no tempo de estudo, a cada período, para essas pessoas, se mantenha constante até o ano 2050, e que se pretenda chegar ao patamar de 70% do tempo necessário à obtenção do curso superior dado anteriormente.\n\nO ano em que o tempo médio de estudo de pessoas acima de 14 anos atingirá o percentual pretendido será",
+  "alternatives": {
+    "a": "2018",
+    "b": "2023",
+    "c": "2031",
+    "d": "2035",
+    "e": "2043"
+  },
+  "answer": "d",
+  "tags": [
+    "aritmética e números",
+    "sequências e progressões",
+    "análise combinatória"
+  ],
+  "year": 2020,
+  "test": "ENEM",
+  "area": "math",
+  "difficulty": 6,
+  "images": [],
+  "contextId": "enem_2020_math_143_ctx1",
+  "contextIds": null,
+  "language": null
+}

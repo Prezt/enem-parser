@@ -1,0 +1,23 @@
+{
+  "number": 51,
+  "text": "Qual mudança estrutural é resultado da forma de organização econômica descrita no texto?",
+  "alternatives": {
+    "a": "Fabricação em série",
+    "b": "Ampliação de estoques",
+    "c": "Fragilização dos cartéis",
+    "d": "Padronização de mercadorias",
+    "e": "Desterritorialização da produção"
+  },
+  "answer": "e",
+  "tags": [
+    "sociedade",
+    "economia"
+  ],
+  "year": 2022,
+  "test": "ENEM",
+  "area": "humanas",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

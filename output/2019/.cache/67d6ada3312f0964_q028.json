@@ -1,0 +1,24 @@
+{
+  "number": 28,
+  "text": "Traçando a gênese simbólica de sua cidade, o narrador imprime ao texto um sentido estético fundamentado na",
+  "alternatives": {
+    "a": "excentricidade dos bairros cariocas de sua infância",
+    "b": "perspectiva caricata da paisagem de traços deteriorados",
+    "c": "importância dos fatos relacionados à história dos subúrbios",
+    "d": "diversidade dos tipos humanos identificados por seus hábitos",
+    "e": "experiência do cotidiano marcada pelas necessidades e urgências"
+  },
+  "answer": "b",
+  "tags": [
+    "interpretação de texto",
+    "literatura brasileira"
+  ],
+  "year": 2019,
+  "test": "ENEM",
+  "area": "linguagens",
+  "difficulty": 6,
+  "images": [],
+  "contextId": "enem_2019_linguagens_ctx28",
+  "contextIds": null,
+  "language": null
+}

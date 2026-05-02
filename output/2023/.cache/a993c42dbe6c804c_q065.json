@@ -1,0 +1,25 @@
+{
+  "number": 65,
+  "text": "[Figura: Lina Bo Bardi e o Museu de Arte de São Paulo] Nas reportagens publicadas sobre a inauguração do Museu de Arte de São Paulo, em 1947, quando ele ainda cupava um edifício na rua Sete de Abril, Lina Bo Bardi não foi mencionada nenhuma vez. A arquiteta era responsável pelo rojeto do museu que mudaria para sempre a posição de São Paulo no circuito mundial das artes. Mas não houve nenhum egistro disso. O louvor se concentrou em seu marido e arceiro profissional, o respeitado crítico de arte Pietro Maria Bardi. Passados 75 anos, a mulher então ignorada recebeu m Leão de Ouro póstumo, a maior homenagem da Bienal e Arquitetura de Veneza, e tem agora sua história contada m duas biografias de peso, que procuram destrinchar uma arreira marcada pela ousadia e pela contradição.",
+  "alternatives": {
+    "a": "equidade de gênero",
+    "b": "liberdade de expressão",
+    "c": "admissibilidade de voto",
+    "d": "igualdade de oportunidade",
+    "e": "reciprocidade de tratamento"
+  },
+  "answer": "a",
+  "tags": [
+    "sociedade",
+    "história"
+  ],
+  "year": 2023,
+  "test": "ENEM",
+  "area": "humanas",
+  "images": [
+    "figuras/q065_2023_fig1.png"
+  ],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

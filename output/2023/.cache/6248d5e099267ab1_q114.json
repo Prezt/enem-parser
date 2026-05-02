@@ -1,0 +1,23 @@
+{
+  "number": 114,
+  "text": "Uma equipe de segurança do transporte de uma empresa avalia o comportamento das tensões que aparecem em duas cordas, 1 e 2, usadas para prender uma carga de massa M = 200 kg na carroceria. Quando o caminhão parte do repouso, sua aceleração é constante e igual a 3 m/s² e, quando ele é freado bruscamente, sua frenagem é constante e igual a 5 m/s². Em ambas as situações, a carga encontra-se na iminência de movimento e o sentido do movimento do caminhão está indicado na figura. O coeficiente de atrito estático entre a caixa e o assoalho da carroceria é igual a 0,2. Considere a aceleração da gravidade igual a 10 m/s², as tensões iniciais nas cordas iguais a zero e as duas cordas ideais.",
+  "alternatives": {
+    "a": "aceleração: T₁ = 0 e T₂ = 200; frenagem: T₁ = 600 e T₂ = 0",
+    "b": "aceleração: T₁ = 0 e T₂ = 200; frenagem: T₁ = 1400 e T₂ = 0",
+    "c": "aceleração: T₁ = 0 e T₂ = 600; frenagem: T₁ = 600 e T₂ = 0",
+    "d": "aceleração: T₁ = 560 e T₂ = 0; frenagem: T₁ = 0 e T₂ = 960",
+    "e": "aceleração: T₁ = 640 e T₂ = 0; frenagem: T₁ = 0 e T₂ = 1040"
+  },
+  "answer": "a",
+  "tags": [
+    "física",
+    "dinâmica"
+  ],
+  "year": 2023,
+  "test": "ENEM",
+  "area": "nature",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

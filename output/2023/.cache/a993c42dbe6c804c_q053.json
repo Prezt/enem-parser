@@ -1,0 +1,23 @@
+{
+  "number": 53,
+  "text": "A Cordilheira do Himalaia tem mais de 50 milhões de nos, sendo classificada como a maior cordilheira do planeta. Originário da língua sânscrito, comum na região, seu nome uer dizer “morada da neve”. É possível encontrar nessa ordilheira as quinze maiores montanhas do mundo. Ao todo, xistem mais de cem picos, que contam com altitudes bem maiores que 7 000 m. O Everest, considerado o ponto mais lto da Terra, tem nada menos que 8 848 m de altitude, e continua crescendo, aproximadamente, 0,8 mm a cada ano. Disponível em: https://meioambiente.culturamix.com. Acesso em: 12 nov. 2021 (adaptado). Qual dinâmica natural é responsável pelo fenômeno apresentado?",
+  "alternatives": {
+    "a": "Derrame de lava vulcânica",
+    "b": "Encontro de placas tectônicas",
+    "c": "Ação do intemperismo químico",
+    "d": "Sedimentação de erosão eólica",
+    "e": "Derretimento de geleiras glaciais"
+  },
+  "answer": "b",
+  "tags": [
+    "geografia",
+    "dinâmica natural"
+  ],
+  "year": 2023,
+  "test": "ENEM",
+  "area": "humanas",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

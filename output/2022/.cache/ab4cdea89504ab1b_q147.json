@@ -1,0 +1,23 @@
+{
+  "number": 147,
+  "text": "Uma equipe de marketing digital foi contratada para aumentar as vendas de um produto ofertado em um site e comércio eletrônico. Para isso, elaborou um anúncio que, quando o cliente clica sobre ele, é direcionado para a página de vendas do produto. Esse anúncio foi divulgado em duas redes sociais, A e B, e foram obtidos os seguintes resultados: rede social A: o anúncio foi visualizado por 3 000 pessoas; 10% delas clicaram sobre o anúncio e foram redirecionadas para o site; 3% das que clicaram sobre o anúncio compraram o produto. O investimento feito para a publicação do anúncio nessa rede foi de R$ 100,00; rede social B: o anúncio foi visualizado por 1 000 pessoas; 30% delas clicaram sobre o anúncio e foram redirecionadas para o site; 2% das que clicaram sobre o anúncio compraram o produto. O investimento feito para a publicação do anúncio nessa rede foi de R$ 200,00. Por experiência, o pessoal da equipe de marketing considera que a quantidade de novas pessoas que verão anúncio é diretamente proporcional ao investimento realizado, e que a quantidade de pessoas que comprarão produto também se manterá proporcional à quantidade de pessoas que clicarão sobre o anúncio. O responsável pelo produto decidiu, então, investir mais R$ 300,00 em cada uma das duas redes sociais para a divulgação desse anúncio e obteve, de fato, o aumento proporcional esperado na quantidade de clientes que compraram esse produto. Para classificar o aumento obtido na quantidade (Q) de compradores desse produto, em consequência dessa segunda divulgação, em relação aos resultados observados na primeira divulgação, o responsável pelo produto adotou o seguinte critério: Q ≤ 60%: não satisfatório; 60% < Q ≤ 100%: regular; 100% < Q ≤ 150%: bom; 150% < Q ≤ 190%: muito bom; 190% < Q ≤ 200%: excelente. O aumento na quantidade de compradores, em consequência dessa segunda divulgação, em relação ao que foi registrado com a primeira divulgação, foi classificado como",
+  "alternatives": {
+    "a": "não satisfatório.",
+    "b": "regular.",
+    "c": "bom.",
+    "d": "muito bom.",
+    "e": "excelente."
+  },
+  "answer": "c",
+  "tags": [
+    "proporcionalidade",
+    "percentagem"
+  ],
+  "year": 2022,
+  "test": "ENEM",
+  "area": "math",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

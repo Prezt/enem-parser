@@ -1,0 +1,23 @@
+{
+  "number": 38,
+  "text": "Produzida no início do século XVII, a obra maneirista distingue-se pela",
+  "alternatives": {
+    "a": "representação da nudez masculina.",
+    "b": "distorção ao representar a figura humana.",
+    "c": "evocação de um fato da cultura clássica grega.",
+    "d": "presença do tema da morte como punição da família.",
+    "e": "utilização da perspectiva para integrar os diferentes planos."
+  },
+  "answer": "b",
+  "tags": [
+    "arte",
+    "literatura"
+  ],
+  "year": 2022,
+  "test": "ENEM",
+  "area": "linguagens",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

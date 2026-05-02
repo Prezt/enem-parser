@@ -1,0 +1,23 @@
+{
+  "number": 1,
+  "text": "Ao relatar suas vivências, o autor destaca o(a)",
+  "alternatives": {
+    "a": "qualidade da educação formal em Miami.",
+    "b": "prestígio da cultura cubana nos Estados Unidos.",
+    "c": "oportunidade de qualificação profissional em Miami.",
+    "d": "cenário da integração de cubanos nos Estados Unidos",
+    "e": "fortalecimento do elo familiar em comunidade estadunidenses."
+  },
+  "answer": "d",
+  "tags": [
+    "memórias",
+    "exílio"
+  ],
+  "year": 2022,
+  "test": "ENEM",
+  "area": "linguagens",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

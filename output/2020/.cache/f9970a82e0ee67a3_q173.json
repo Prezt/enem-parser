@@ -1,0 +1,26 @@
+{
+  "number": 173,
+  "text": "Um arquiteto projeta um pergolado com vãos de 30 cm de distância entre suas vigas, de modo que, no solstício de verão, a trajetória do sol durante o dia seja realizada num plano perpendicular à direção das vigas, e que o sol da tarde, no momento em que seus raios fizerem 30° com a posição a pino, gere a metade da luz que passa no pergolado ao meio-dia. [Figura: Pergolado com vigas paralelas espaçadas de 30 cm]\n\nPara atender à proposta do projeto elaborado pelo arquiteto, as vigas do pergolado devem ser construídas de maneira que a altura, em centímetro, seja a mais próxima possível de",
+  "alternatives": {
+    "a": "9",
+    "b": "15",
+    "c": "26",
+    "d": "52",
+    "e": "60"
+  },
+  "answer": "c",
+  "tags": [
+    "trigonometria",
+    "geometria plana"
+  ],
+  "year": 2020,
+  "test": "ENEM",
+  "area": "math",
+  "difficulty": 7,
+  "images": [
+    "figuras/q173_2020_fig1.png"
+  ],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

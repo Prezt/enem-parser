@@ -1,0 +1,23 @@
+{
+  "number": 7,
+  "text": "Os dois textos abordam a temática de animais de rua, porém, em relação ao Texto I, o Texto II",
+  "alternatives": {
+    "a": "problematiza a necessidade de adoção de animais sem lar.",
+    "b": "valida a troca afetiva entre os pets adotados e seus donos.",
+    "c": "reforça a importância da campanha de adoção de animais.",
+    "d": "exalta a natureza amigável de cães e de gatos.",
+    "e": "promove a campanha de adoção de animais."
+  },
+  "answer": "a",
+  "tags": [
+    "linguagens",
+    "leitura e interpretação"
+  ],
+  "year": 2022,
+  "test": "ENEM",
+  "area": "linguagens",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

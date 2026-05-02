@@ -1,0 +1,23 @@
+{
+  "number": 176,
+  "text": "O governo de um estado pretende realizar uma obra de infraestrutura para auxiliar na integração no processo de escoamento da produção agrícola de duas cidades. O projeto consiste na interligação direta das cidades A e B com a Rodovia 003, pela construção das Rodovias 001 e 002. Pretende-se que a distância percorrida entre as duas cidades, pelas Rodovias 001 e 002, passando pelo ponto de conexão, seja a menor possível. Dadas as exigências do projeto, qual das localizações sugeridas deve ser a escolhida para o ponto de conexão?",
+  "alternatives": {
+    "a": "A",
+    "b": "B",
+    "c": "C",
+    "d": "D",
+    "e": "E"
+  },
+  "answer": "d",
+  "tags": [
+    "geometria",
+    "distância"
+  ],
+  "year": 2022,
+  "test": "ENEM",
+  "area": "math",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

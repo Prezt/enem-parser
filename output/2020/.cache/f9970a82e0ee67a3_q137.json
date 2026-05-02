@@ -1,0 +1,26 @@
+{
+  "number": 137,
+  "text": "Uma empresa de ônibus utiliza um sistema de vendas de passagens que fornece a imagem de todos os assentos do ônibus, diferenciando os assentos já vendidos, por uma cor mais escura, dos assentos ainda disponíveis. A empresa monitora, permanentemente, o número de assentos já vendidos e compara-o com o número total de assentos do ônibus para avaliar a necessidade de alocação de veículos extras. Na imagem tem-se a informação dos assentos já vendidos e dos ainda disponíveis em um determinado instante. A razão entre o número de assentos já vendidos e o total de assentos desse ônibus, no instante considerado na imagem, é [Figura: diagrama de assentos do ônibus]",
+  "alternatives": {
+    "a": "16/42",
+    "b": "16/26",
+    "c": "26/42",
+    "d": "42/26",
+    "e": "42/16"
+  },
+  "answer": "a",
+  "tags": [
+    "aritmética e números",
+    "análise combinatória"
+  ],
+  "year": 2020,
+  "test": "ENEM",
+  "area": "math",
+  "difficulty": 2,
+  "images": [
+    "figuras/q137_2020_fig1.png"
+  ],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

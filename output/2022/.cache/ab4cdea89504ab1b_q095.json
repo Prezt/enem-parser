@@ -1,0 +1,23 @@
+{
+  "number": 95,
+  "text": "O físico Hans C. Oersted observou que um fio transportando corrente elétrica produz um campo magnético. A presença de uma bússola de um fio conduzindo corrente elétrica foi verificada ao aproximar uma bússola em pontos equidistantes do fio. Em cada ponto, a configuração da bússola será:",
+  "alternatives": {
+    "a": "A",
+    "b": "B",
+    "c": "C",
+    "d": "",
+    "e": ""
+  },
+  "answer": "d",
+  "tags": [
+    "física",
+    "magnetismo"
+  ],
+  "year": 2022,
+  "test": "ENEM",
+  "area": "nature",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

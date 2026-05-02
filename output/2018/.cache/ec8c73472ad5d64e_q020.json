@@ -1,0 +1,25 @@
+{
+  "number": 20,
+  "text": "A situação narrada revela uma tensão fundamentada na",
+  "alternatives": {
+    "a": "conflito com os interesses de poder.",
+    "b": "silêncio em nome do equilíbrio familiar.",
+    "c": "medo instaurado pelas ameaças de punição.",
+    "d": "choque imposto pela distância entre as gerações.",
+    "e": "apego aos protocolos de conduta segundo os gêneros."
+  },
+  "answer": "b",
+  "tags": [
+    "interpretação de texto",
+    "gêneros textuais",
+    "literatura brasileira"
+  ],
+  "year": 2018,
+  "test": "ENEM",
+  "area": "linguagens",
+  "difficulty": 6,
+  "images": [],
+  "contextId": "enem_2018_linguagens_ctx1",
+  "contextIds": null,
+  "language": null
+}

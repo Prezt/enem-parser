@@ -1,0 +1,24 @@
+{
+  "number": 73,
+  "text": "Como signatário da Declaração citada, o Brasil comprometeu-se com a elaboração de políticas públicas educacionais que contemplem a",
+  "alternatives": {
+    "a": "criação de privilégios.",
+    "b": "contenção dos gastos.",
+    "c": "pluralidade dos sujeitos.",
+    "d": "padronização do currículo.",
+    "e": "valorização da meritocracia."
+  },
+  "answer": "c",
+  "tags": [
+    "direitos humanos e cidadania",
+    "educação e políticas públicas"
+  ],
+  "year": 2020,
+  "test": "ENEM",
+  "area": "humanas",
+  "difficulty": 5,
+  "images": [],
+  "contextId": "enem_2020_humanas_73_ctx1",
+  "contextIds": null,
+  "language": null
+}

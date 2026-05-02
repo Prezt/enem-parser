@@ -1,0 +1,23 @@
+{
+  "number": 73,
+  "text": "Com base no texto, a fixação dessa data comemorativa nha por objetivo",
+  "alternatives": {
+    "a": "valorizar um sentimento burguês.",
+    "b": "afirmar uma identidade coletiva.",
+    "c": "edificar uma memória nacional.",
+    "d": "criar uma comunidade cívica.",
+    "e": "definir uma tradição popular."
+  },
+  "answer": "b",
+  "tags": [
+    "história",
+    "classe operária"
+  ],
+  "year": 2022,
+  "test": "ENEM",
+  "area": "humanas",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

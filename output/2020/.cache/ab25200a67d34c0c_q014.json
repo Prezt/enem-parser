@@ -1,0 +1,27 @@
+{
+  "number": 14,
+  "text": "A provocação desse grupo gera um debate em torno da obra de arte pelo(a)",
+  "alternatives": {
+    "a": "recusa a crenças, convicções, valores morais, estéticos e políticos na história moderna.",
+    "b": "frutífero arsenal de materiais e formas que se relacionam com os objetos construídos.",
+    "c": "economia e problemas financeiros gerados pela recessão que tiveram grande impacto no mercado.",
+    "d": "influência desse grupo junto aos estilos pós-modernos que surgiram nos anos 1990.",
+    "e": "interesse em produtos indesejáveis que revela uma consciência sustentável no mercado."
+  },
+  "answer": "b",
+  "tags": [
+    "artes visuais",
+    "interpretação de texto"
+  ],
+  "year": 2020,
+  "test": "ENEM",
+  "area": "linguagens",
+  "difficulty": 6,
+  "images": [],
+  "contextId": null,
+  "contextIds": [
+    "enem_2020_linguagens_ctx1",
+    "enem_2020_linguagens_ctx2"
+  ],
+  "language": null
+}

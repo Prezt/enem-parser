@@ -1,0 +1,25 @@
+{
+  "number": 144,
+  "text": "A foto mostra a construção de uma cisterna destinada ao armazenamento de água. Uma cisterna como essa, na forma de cilindro circular reto com 3 m² de área da base foi abastecida por um curso-d’água com vazão constante. O seu proprietário registrou a altura do nível da água no interior da cisterna durante o abastecimento em diferentes momentos de um mesmo dia, conforme o quadro.[Figura: Quadro com horários e níveis de água] Horário (h) Nível da água (m) 6:00 0,5 8:00 1,1 12:00 2,3 15:00 3,2 Disponível em: www.paraibamix.com. Acesso em: 3 dez. 201 Qual foi a vazão, em metro cúbico por hora, do curso-d’água que abasteceu a cisterna?",
+  "alternatives": {
+    "a": "0,3",
+    "b": "0,5",
+    "c": "0,9",
+    "d": "1,8",
+    "e": "2,7"
+  },
+  "answer": "c",
+  "tags": [
+    "geometria",
+    "matemática-aplicada"
+  ],
+  "year": 2023,
+  "test": "ENEM",
+  "area": "math",
+  "images": [
+    "figuras/q144_2023_fig1.png"
+  ],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

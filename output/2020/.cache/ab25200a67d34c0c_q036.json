@@ -1,0 +1,24 @@
+{
+  "number": 36,
+  "text": "De acordo com o texto, podemos identificar uma abordagem das lutas nas aulas de educação física quando o professor realiza uma proposta envolvendo",
+  "alternatives": {
+    "a": "contato corporal intenso entre o aluno e seu oponente",
+    "b": "contenda entre os alunos que se agridem fisicamente",
+    "c": "confronto corporal em que os vencedores são previamente identificados",
+    "d": "combate corporal intencional com ações regulamentadas entre os oponentes",
+    "e": "conflito resolvido pelos alunos por meio de regras previamente estabelecidas"
+  },
+  "answer": "d",
+  "tags": [
+    "interpretação de texto",
+    "linguística e variação linguística"
+  ],
+  "year": 2020,
+  "test": "ENEM",
+  "area": "linguagens",
+  "difficulty": 5,
+  "images": [],
+  "contextId": "enem_2020_linguagens_ctx1",
+  "contextIds": null,
+  "language": null
+}

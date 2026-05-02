@@ -1,0 +1,28 @@
+{
+  "number": 125,
+  "text": "As placas que indicam saída de emergência brilham no escuro, pois apresentam substâncias que fosforecem na cor amarelo-esverdeada após exposição à luz ambiente conforme [Figura: sulfeto de zinco]. Esse fenômeno ocorre pela presença do sulfeto de zinco (ZnS), dopado com prata ou cobre, na superfície da placa. [Gráfico - fosforecência] [Infográfico - transições eletrônicas] [Esquema - estrutura atômica]",
+  "alternatives": {
+    "a": "colisões interatômicas",
+    "b": "coloração dos átomos",
+    "c": "transições eletrônicas",
+    "d": "reações nucleares",
+    "e": "reflexão da luz"
+  },
+  "answer": "c",
+  "tags": [
+    "física",
+    "química"
+  ],
+  "year": 2024,
+  "test": "ENEM",
+  "area": "nature",
+  "images": [
+    "figuras/q125_2024_fig1.png",
+    "figuras/q125_2024_fig2.png",
+    "figuras/q125_2024_fig3.png",
+    "figuras/q125_2024_fig4.png"
+  ],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

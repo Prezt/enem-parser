@@ -1,0 +1,23 @@
+{
+  "number": 102,
+  "text": "Uma agricultora, com a intenção de comercializar milho recém-colhido, testou uma forma de preservar sabor adocicado do seu produto. O melhor resultado foi obtido quando ela imergiu as espigas em água fervente durante alguns minutos e, em seguida, em água gelada. Com esse procedimento, parte da glicose do milho não foi transformada em amido, mantendo o seu sabor adocicado. Utilizando esse procedimento, o sabor foi conservado porque houve",
+  "alternatives": {
+    "a": "desnaturação enzimática pela alta temperatura.",
+    "b": "conversão de nutrientes pela redução de temperatura",
+    "c": "degradação das reservas nutritivas pelo choque térmico",
+    "d": "impedimento da entrada de oxigênio pela fervura da água",
+    "e": "desidratação dos grãos por causa da alteração da temperatura."
+  },
+  "answer": "a",
+  "tags": [
+    "agricultura",
+    "química"
+  ],
+  "year": 2024,
+  "test": "ENEM",
+  "area": "nature",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

@@ -1,0 +1,24 @@
+{
+  "number": 144,
+  "text": "Em um aeroporto, os passageiros devem submeter suas bagagens a uma das cinco máquinas de raio-X disponíveis ao adentrarem a sala de embarque. Num dado instante, o tempo gasto por essas máquinas para escanear a bagagem de cada passageiro e o número de pessoas presentes em cada fila estão apresentados em um painel, como mostrado na figura.\n\n| Máquina 1 | Máquina 2 | Máquina 3 | Máquina 4 | Máquina 5 |\n|-----------|-----------|-----------|-----------|----------|\n| 35 segundos | 25 segundos | 22 segundos | 40 segundos | 20 segundos |\n| 5 pessoas | 6 pessoas | 7 pessoas | 4 pessoas | 8 pessoas |\n\nUm passageiro, ao chegar à sala de embarque desse aeroporto no instante indicado, visando esperar o menor tempo possível, deverá se dirigir à máquina",
+  "alternatives": {
+    "a": "1",
+    "b": "2",
+    "c": "3",
+    "d": "4",
+    "e": "5/35"
+  },
+  "answer": "b",
+  "tags": [
+    "aritmética e números",
+    "análise combinatória"
+  ],
+  "year": 2018,
+  "test": "ENEM",
+  "area": "math",
+  "difficulty": 3,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

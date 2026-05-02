@@ -1,0 +1,24 @@
+{
+  "number": 91,
+  "text": "O número de abelhas encontra-se em declínio em várias regiões do mundo, inclusive no Brasil, sendo que vários fatores contribuem para o colapso de suas colmeias. Nos Estados Unidos, bombas de semente de espécies vegetais nativas têm sido utilizadas para combater o desaparecimento desses insetos. Elas são pequenas bolinhas recheadas com sementes, adubo e argila. Quando são arremessadas e ficam expostas ao sol e à chuva, germinam até mesmo em solo pouco fértil.",
+  "alternatives": {
+    "a": "reduz sua predação",
+    "b": "reduz o uso de pesticidas",
+    "c": "reduz a competição por abrigo",
+    "d": "aumenta a oferta de alimento",
+    "e": "aumenta os locais de reprodução"
+  },
+  "answer": "d",
+  "tags": [
+    "abelhas",
+    "ambiente",
+    "preservação"
+  ],
+  "year": 2023,
+  "test": "ENEM",
+  "area": "nature",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

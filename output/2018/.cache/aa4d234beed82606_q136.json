@@ -1,0 +1,24 @@
+{
+  "number": 136,
+  "text": "A Transferência Eletrônica Disponível (TED) é um transação financeira de valores entre diferentes bancos. Um economista decide analisar os valores enviados por meio de TEDs entre cinco bancos (1, 2, 3, 4 e 5) durante um mês. Para isso, ele dispõe esses valores em uma matriz A = [a_ij], em que 1 ≤ i ≤ 5 e 1 ≤ j ≤ 5, e o elemento a_ij corresponde ao total proveniente das operações feitas via TED, em milhão de real, transferidos do banco i para o banco j durante o mês. Observe que os elementos a_ii = 0, uma vez que TED é uma transferência entre bancos distintos. Esta é a matriz obtida para essa análise:\n\n[Matriz A com 5 linhas e 5 colunas: linha 1: 0 2 2 ?, ?; linha 2: 0 0 2 1 0; linha 3: 1 2 0 1 1; linha 4: 0 2 2 0 0; linha 5: 3 0 1 1 0]\n\nCom base nessas informações, o banco que transferiu a maior quantia via TED é o banco",
+  "alternatives": {
+    "a": "1",
+    "b": "2",
+    "c": "3",
+    "d": "4",
+    "e": "5"
+  },
+  "answer": "a",
+  "tags": [
+    "álgebra",
+    "estatística"
+  ],
+  "year": 2018,
+  "test": "ENEM",
+  "area": "math",
+  "difficulty": 4,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

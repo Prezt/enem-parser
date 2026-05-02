@@ -1,0 +1,25 @@
+{
+  "number": 125,
+  "text": "[Figura: representação do mosaicismo em função da inativação aleatória de um dos cromossomos X]",
+  "alternatives": {
+    "a": "pleiotropia.",
+    "b": "mutação gênica.",
+    "c": "interação gênica.",
+    "d": "penetrância incompleta.",
+    "e": "expressividade variável."
+  },
+  "answer": "e",
+  "tags": [
+    "genética",
+    "mosaicismo"
+  ],
+  "year": 2022,
+  "test": "ENEM",
+  "area": "nature",
+  "images": [
+    "figuras/q125_2022_fig1.png"
+  ],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

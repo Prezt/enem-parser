@@ -1,0 +1,24 @@
+{
+  "number": 17,
+  "text": "Com base no texto, a relação entre saúde e estilos de vida",
+  "alternatives": {
+    "a": "constrói a ideia de que a mudança individual de hábitos promove a saúde.",
+    "b": "considera a homogeneidade da escolha de hábitos saudáveis pelos indivíduos.",
+    "c": "reforça a necessidade de solucionar os problemas de saúde da sociedade com a prática de exercícios.",
+    "d": "problematiza a organização social e seu impacto na mudança de hábitos dos indivíduos.",
+    "e": "reproduz a noção de que a melhoria da aptidão física pela prática de exercícios promove a saúde."
+  },
+  "answer": "d",
+  "tags": [
+    "interpretação de texto",
+    "sociologia e estrutura social"
+  ],
+  "year": 2020,
+  "test": "ENEM",
+  "area": "linguagens",
+  "difficulty": 6,
+  "images": [],
+  "contextId": "enem_2020_linguagens_ctx17",
+  "contextIds": null,
+  "language": null
+}

@@ -1,0 +1,24 @@
+{
+  "number": 34,
+  "text": "Considerando as informações no texto e aspectos históricos da formação da língua, a atual escrita dos meses do ano em português",
+  "alternatives": {
+    "a": "reflete a origem latina de nossa língua.",
+    "b": "decorre de uma língua falada no Egito antigo.",
+    "c": "tem como base um calendário criado por Cleópatra.",
+    "d": "segue a reformulação da norma da língua proposta por Júlio César.",
+    "e": "resulta da padronização do calendário antes da fundação de Roma."
+  },
+  "answer": "a",
+  "tags": [
+    "linguística e variação linguística",
+    "história moderna"
+  ],
+  "year": 2019,
+  "test": "ENEM",
+  "area": "linguagens",
+  "difficulty": 6,
+  "images": [],
+  "contextId": "enem_2019_linguagens_ctx1",
+  "contextIds": null,
+  "language": null
+}

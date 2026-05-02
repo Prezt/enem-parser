@@ -1,0 +1,24 @@
+{
+  "number": 170,
+  "text": "Em 2014 foi inaugurada a maior roda-gigante do mundo, a High Roller, situada em Las Vegas. A figura representa um esboço dessa roda-gigante, no qual o ponto A representa uma de suas cadeiras. A partir da posição indicada, em que o segmento OA se encontra paralelo ao plano do solo, rotaciona-se a High Roller no sentido anti-horário, em torno do ponto O. Sejam t o ângulo determinado pelo segmento OA em relação à sua posição inicial, e f a função que descreve a altura do ponto A, em relação ao solo, em função de t. Após duas voltas completas, f tem o seguinte gráfico: f (metro) com valores 68 e 88 no eixo vertical, e 0, π/2, 2π, 4π no eixo horizontal (t em radiano). A expressão da função altura é dada por",
+  "alternatives": {
+    "a": "f(t) = 80 sen(t) + 88",
+    "b": "f(t) = 80 cos(t) + 88",
+    "c": "f(t) = 88 cos(t) + 168",
+    "d": "f(t) = 168 sen(t) + 88 cos(t)",
+    "e": "f(t) = 88 sen(t) + 168 cos(t)"
+  },
+  "answer": "a",
+  "tags": [
+    "trigonometria",
+    "funções"
+  ],
+  "year": 2018,
+  "test": "ENEM",
+  "area": "math",
+  "difficulty": 6,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

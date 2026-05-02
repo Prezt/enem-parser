@@ -1,0 +1,26 @@
+{
+  "number": 113,
+  "text": "O esquema representa a ação de organismos no ciclo do nitrogênio e no ciclo do carbono. Os números correspondem a algumas etapas dos dois ciclos distintos [Esquema - representação da ação de organismos nos ciclos do nitrogênio e do carbono]",
+  "alternatives": {
+    "a": "1",
+    "b": "2",
+    "c": "3",
+    "d": "4",
+    "e": "5"
+  },
+  "answer": "e",
+  "tags": [
+    "metabolismo",
+    "procariontes",
+    "ciclo do nitrogênio"
+  ],
+  "year": 2024,
+  "test": "ENEM",
+  "area": "nature",
+  "images": [
+    "figuras/q113_2024_fig1.png"
+  ],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

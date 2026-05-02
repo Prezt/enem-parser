@@ -1,0 +1,24 @@
+{
+  "number": 156,
+  "text": "Uma mola está fixada em uma parede e uma massa m está presa à sua outra extremidade, em um sistema que oscila em movimento harmônico simples. A posição P(t) da massa m em relação ao ponto de equilíbrio é descrita por P(t) = A cos(ωt) ou P(t) = A sen(ωt), em que A > 0 é a amplitude de deslocamento máximo e ω é a frequência angular, que se relaciona com o período T pela fórmula ω = 2π/T. Considere a ausência de quaisquer forças dissipativas. Observando o gráfico do movimento, em que a posição P (em cm) é dada em função do tempo t (em segundo), determine a função que descreve a posição da massa m.",
+  "alternatives": {
+    "a": "3 cos(2t)",
+    "b": "3 sen(2t)",
+    "c": "−3 cos(2t)",
+    "d": "6 cos(2t)",
+    "e": "6 sen(2t)"
+  },
+  "answer": "a",
+  "tags": [
+    "funções",
+    "trigonometria"
+  ],
+  "year": 2021,
+  "test": "ENEM",
+  "area": "math",
+  "difficulty": 6,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

@@ -1,0 +1,23 @@
+{
+  "number": 152,
+  "text": "Em uma sala de cinema, para garantir que os espectadores vejam toda a imagem projetada na tela, a disposição das poltronas deve obedecer à norma técnica da Associação Brasileira de Normas Técnicas (ABNT), que faz as seguintes indicações: • Distância mínima ( D ) entre a tela de projeção e mínima, 60% da largura ( L ) da tela. • Distância máxima ( D ) entre a tela de projeção e máxima, duas vezes a largura ( L ) da tela, sendo aceitável uma distância menor. Para o espaçamento entre as fileiras de poltronas, deve-se considerar a distância de 1 metro entre os encostos das poltronas em duas fileiras consecutivas. Uma sala de cinema, cuja largura da tela mede 12 metros e que está montada em conformidade com as normas da ABNT e na posição a tela e todas as poltronas já instaladas, pretende-se ampliar essa sala, mantendo-se na mesma posição a tela e ampliando-se ao máximo a sala para os fundos (área de instalação de novas poltronas), respeitando-se o limite mínimo da distância máxima da norma da ABNT. A intenção é aumentar, a partir do momento em que as dimensões da sala permitirem, a quantidade de poltronas da sala, instalando-se novas unidades, iguais às já instaladas. Quantas fileiras de poltronas a sala comportará após essa ampliação?",
+  "alternatives": {
+    "a": "26",
+    "b": "27",
+    "c": "28",
+    "d": "29",
+    "e": "35"
+  },
+  "answer": "c",
+  "tags": [
+    "geometria",
+    "proporção"
+  ],
+  "year": 2022,
+  "test": "ENEM",
+  "area": "math",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

@@ -1,0 +1,23 @@
+{
+  "number": 79,
+  "text": "Ao descrever-se como patrimônio museológico, o objeto abordado no texto associa a sua história às...",
+  "alternatives": {
+    "a": "habilidades artísticas e culturais dos sujeitos.",
+    "b": "vocações religiosas e pedagógicas dos mestres.",
+    "c": "naturezas antropológica e etnográfica dos expositores.",
+    "d": "preservações arquitetônica e visual dos conservatórios.",
+    "e": "competências econômica e financeira dos comerciantes."
+  },
+  "answer": "a",
+  "tags": [
+    "patrimônio",
+    "museu"
+  ],
+  "year": 2022,
+  "test": "ENEM",
+  "area": "humanas",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

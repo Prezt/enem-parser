@@ -1,0 +1,26 @@
+{
+  "number": 178,
+  "text": "Um comerciante, que vende somente pastel, refrigerante em lata e caldo de cana em copos, fez um levantamento das vendas realizadas durante a semana. O resultado e levantamento está apresentado no gráfico. [Gráfico - Vendas na última semana com dias da semana e quantidades de pastel, refrigerante em lata e caldo de cana]\n\nEle estima que venderá, em cada dia da próxima semana, uma quantidade de refrigerante em lata igual à soma das quantidades de refrigerante em lata e caldo de cana em copos vendidas no respectivo dia da última semana. Quanto aos pastéis, estima vender, a cada dia da próxima semana, uma quantidade igual à quantidade de refrigerante em lata que prevê vender em tal dia. Já a o número de caldo de cana em copos, estima que as vendas diárias serão iguais às da última semana.\n\nSegundo essas estimativas, a quantidade a mais de pastel que esse comerciante deve vender na próxima semana é",
+  "alternatives": {
+    "a": "20",
+    "b": "27",
+    "c": "44",
+    "d": "55",
+    "e": "71"
+  },
+  "answer": "b",
+  "tags": [
+    "aritmética e números",
+    "análise combinatória"
+  ],
+  "year": 2019,
+  "test": "ENEM",
+  "area": "math",
+  "difficulty": 5,
+  "images": [
+    "figuras/q178_2019_fig1.png"
+  ],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

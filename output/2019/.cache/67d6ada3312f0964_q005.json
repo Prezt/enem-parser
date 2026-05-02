@@ -1,0 +1,27 @@
+{
+  "number": 5,
+  "text": "No cartum, o estudante faz uma pergunta usando \"turn this thing on\" por\n\n[Figura: Cartum com dois estudantes em uma biblioteca]",
+  "alternatives": {
+    "a": "suspeitar que o colega está com seu material por engano.",
+    "b": "duvidar que o colega possa se tornar um bom aluno.",
+    "c": "desconfiar que o livro levado é de outra matéria.",
+    "d": "entender como desligada a postura do colega.",
+    "e": "desconhecer como usar um livro impresso."
+  },
+  "answer": "e",
+  "tags": [
+    "interpretação de texto",
+    "comunicação e mídia",
+    "língua inglesa"
+  ],
+  "year": 2019,
+  "test": "ENEM",
+  "area": "linguagens",
+  "difficulty": 6,
+  "images": [],
+  "contextId": null,
+  "contextIds": [
+    "enem_2019_linguagens_es_ctx1"
+  ],
+  "language": "es"
+}

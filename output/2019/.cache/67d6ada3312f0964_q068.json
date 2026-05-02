@@ -1,0 +1,25 @@
+{
+  "number": 68,
+  "text": "No texto, as estratégias territoriais dos grupos de remanescentes de quilombo visam garantir:",
+  "alternatives": {
+    "a": "Perdão de dívidas fiscais.",
+    "b": "Reserva de mercado local.",
+    "c": "Inserção econômica regional.",
+    "d": "Protecionismo comercial tarifário.",
+    "e": "Benefícios assistenciais públicos."
+  },
+  "answer": "c",
+  "tags": [
+    "geopolítica e território",
+    "sociologia e estrutura social",
+    "cultura e identidade"
+  ],
+  "year": 2019,
+  "test": "ENEM",
+  "area": "humanas",
+  "difficulty": 6,
+  "images": [],
+  "contextId": "enem_2019_humanas_68_ctx1",
+  "contextIds": null,
+  "language": null
+}

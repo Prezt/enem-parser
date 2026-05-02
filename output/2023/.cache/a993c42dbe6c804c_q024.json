@@ -1,0 +1,26 @@
+{
+  "number": 24,
+  "text": "[Figura] A Defensoria não para! Disque 180 Em tempos de isolamento social por conta da pandemia de covid-19, a Defensoria Pública alerta para o aumento da violência contra a mulher! Não se cale! Denuncie!",
+  "alternatives": {
+    "a": "divulgar o canal telefônico de atendimento a casos de violência contra a mulher.",
+    "b": "informar sobre a atuação de uma entidade defensora da mulher vítima de violência.",
+    "c": "evidenciar o trabalho da Defensoria Pública em relação ao problema do abuso contra a mulher.",
+    "d": "alertar a sociedade sobre o aumento da violência contra a mulher em decorrência do coronavírus.",
+    "e": "incentivar o público feminino a denunciar crimes de violência contra a mulher durante o período de isolamento."
+  },
+  "answer": "e",
+  "tags": [
+    "publicidade",
+    "violência",
+    "direitos humanos"
+  ],
+  "year": 2023,
+  "test": "ENEM",
+  "area": "linguagens",
+  "images": [
+    "figuras/q024_2023_fig1.png"
+  ],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

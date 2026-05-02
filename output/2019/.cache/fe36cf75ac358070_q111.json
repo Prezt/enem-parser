@@ -1,0 +1,23 @@
+{
+  "number": 111,
+  "text": "Em qualquer obra de construção civil é fundamental o uso de equipamentos de proteção individual, como capacetes. Por exemplo, a queda livre de um objeto contra um capacete pode durar até 0,5 s, resultando em uma desaceleração. Suponha que a aceleração gravitacional seja 10 m/s². A força impulsiva média gerada por esse impacto equivale a qual múltiplo do peso do objeto?",
+  "alternatives": {
+    "a": "2",
+    "b": "5",
+    "c": "10",
+    "d": "20",
+    "e": "50"
+  },
+  "answer": "a",
+  "tags": [
+    "mecânica newtoniana"
+  ],
+  "year": 2019,
+  "test": "ENEM",
+  "area": "nature",
+  "difficulty": 6,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

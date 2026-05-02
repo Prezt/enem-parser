@@ -1,0 +1,23 @@
+{
+  "number": 120,
+  "text": "O circuito com três lâmpadas incandescentes idênticas, representado na figura, consiste em uma associação mista de resistores. Cada lâmpada (L₁, L₂ e L₃) é associada, em paralelo, a um resistor de resistência R, formando um conjunto. Esses conjuntos são associados em série, tendo todas as lâmpadas o mesmo brilho quando ligadas à fonte de energia. Após vários dias em uso, apenas a lâmpada L₂ queima, enquanto as demais permanecem acesas. Em relação à situação em que todas as lâmpadas funcionam, após a queima de L₂, os brilhos das lâmpadas serão",
+  "alternatives": {
+    "a": "os mesmos.",
+    "b": "mais intensos.",
+    "c": "menos intensos.",
+    "d": "menos intenso para L₁ e o mesmo para L₃",
+    "e": "mais intenso para L₁ e menos intenso para L₃"
+  },
+  "answer": "c",
+  "tags": [
+    "física",
+    "eletricidade"
+  ],
+  "year": 2023,
+  "test": "ENEM",
+  "area": "nature",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

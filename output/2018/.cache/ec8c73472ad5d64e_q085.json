@@ -1,0 +1,24 @@
+{
+  "number": 85,
+  "text": "A decisão do califa Al-Mansur (754-775) de construir Bagdá nesse local orientou-se pela",
+  "alternatives": {
+    "a": "disponibilidade de rotas e terras férteis como base da dominação política.",
+    "b": "proximidade de áreas populosas como afirmação da superioridade bélica.",
+    "c": "submissão à hierarquia e à lei islâmica como controle do poder real.",
+    "d": "fuga da península arábica como afastamento dos conflitos sucessórios.",
+    "e": "ocupação de região fronteiriça como contenção do avanço mongol."
+  },
+  "answer": "a",
+  "tags": [
+    "história contemporânea",
+    "geopolítica e relações internacionais"
+  ],
+  "year": 2018,
+  "test": "ENEM",
+  "area": "humanas",
+  "difficulty": 5,
+  "images": [],
+  "contextId": "enem_2018_humanas_085_ctx1",
+  "contextIds": null,
+  "language": null
+}

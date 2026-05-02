@@ -1,0 +1,25 @@
+{
+  "number": 46,
+  "text": "Fotografia da avó bordada [Figura: descrição do bordado] SCARELI, G. A máquina de costura e os fios da memória. Revista Brasileira de Pesquisa (Auto)Biográfica , n. 18, maio-ago. 202",
+  "alternatives": {
+    "a": "percursos e roteiros turísticos.",
+    "b": "trajetos e movimentos holísticos.",
+    "c": "vivências e itinerários socioafetivos.",
+    "d": "fronteiras e demarcações territoriais.",
+    "e": "profissões e interesses econômicos."
+  },
+  "answer": "c",
+  "tags": [
+    "literatura",
+    "cultura"
+  ],
+  "year": 2023,
+  "test": "ENEM",
+  "area": "humanas",
+  "images": [
+    "figuras/q046_2023_fig1.png"
+  ],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

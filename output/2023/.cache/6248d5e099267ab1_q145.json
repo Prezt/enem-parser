@@ -1,0 +1,23 @@
+{
+  "number": 145,
+  "text": "Num certo momento de um jogo digital, a tela apresenta a imagem representada na figura. O ponto Q representa a posição de um jogador que está com a bola; os pontos Q2, Q3, Q4, Q5 e Q6 também indicam posições de jogadores da mesma equipe, e os pontos A e B indicam os dois pés da trave mais próxima deles. No momento da partida retratado, o jogador Q1 tem a posse da bola, que será passada para um dos outros jogadores das posições Qn, n ∈ {2, 3, 4, 5, 6}, cujo ângulo AQnB tenha a mesma medida do ângulo AQ1B.",
+  "alternatives": {
+    "a": "Q2",
+    "b": "Q3",
+    "c": "Q4",
+    "d": "Q5",
+    "e": "Q6"
+  },
+  "answer": "b",
+  "tags": [
+    "geometria",
+    "ângulos"
+  ],
+  "year": 2023,
+  "test": "ENEM",
+  "area": "math",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

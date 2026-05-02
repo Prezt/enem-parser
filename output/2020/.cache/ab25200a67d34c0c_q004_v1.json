@@ -1,0 +1,24 @@
+{
+  "number": 4,
+  "text": "Ao abordar a expropriação de territórios mexicanos pelos Estados Unidos, o eu lírico do poema revela um(a)",
+  "alternatives": {
+    "a": "rejeição da língua utilizada por seus antepassados.",
+    "b": "desejo de pertencimento ao espaço estadunidense.",
+    "c": "certeza de manutenção de suas tradições.",
+    "d": "reivindicação de um mundo unificado.",
+    "e": "sentimento de conflito de identidades."
+  },
+  "answer": "d",
+  "tags": [
+    "literatura mundial",
+    "interpretação de texto"
+  ],
+  "year": 2020,
+  "test": "ENEM",
+  "area": "linguagens",
+  "difficulty": 6,
+  "images": [],
+  "contextId": "enem_2020_linguagens_es_ctx1",
+  "contextIds": null,
+  "language": "es"
+}

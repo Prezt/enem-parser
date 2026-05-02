@@ -1,0 +1,25 @@
+{
+  "number": 104,
+  "text": "Algumas toneladas de medicamentos para uso humano e veterinário são produzidas por ano. Os fármacos são desenvolvidos para serem estáveis, mantendo suas propriedades químicas de forma a atender a um propósito terapêutico. Após o consumo de fármacos, parte de sua dosagem é excretada de forma inalterada, persistindo no meio ambiente. Em todo o mundo, antibióticos, hormônios, anestésicos, anti-inflamatórios, entre outros, são detectados em concentrações preocupantes no esgoto doméstico, em águas superficiais e de subsolo. Dessa forma, a ocorrência de fármacos residuais no meio ambiente pode apresentar efeitos adversos em organismos aquáticos e terrestres.\n\nQual ação minimiza a permanência desses contaminantes nos recursos hídricos?",
+  "alternatives": {
+    "a": "Utilização de esterco como fertilizante na agricultura",
+    "b": "Ampliação das redes de coleta de esgoto na zona urbana.",
+    "c": "Descarte dos medicamentos fora do prazo de validade em lixões.",
+    "d": "Desenvolvimento de novos processos nas estações de tratamento de efluentes.",
+    "e": "Reúso dos lodos provenientes das estações de tratamento de esgoto na agricultura."
+  },
+  "answer": "d",
+  "tags": [
+    "meio ambiente e sustentabilidade",
+    "química geral e inorgânica",
+    "ecologia"
+  ],
+  "year": 2019,
+  "test": "ENEM",
+  "area": "nature",
+  "difficulty": 6,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

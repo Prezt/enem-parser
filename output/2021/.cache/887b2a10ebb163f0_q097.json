@@ -1,0 +1,24 @@
+{
+  "number": 97,
+  "text": "Jogue a pia o óleo de cozinha usado pode contribuir para a poluição da água. Para evitar esse tipo de poluição, o descarte adequado do óleo é fundamental. Um modelo ideal de descarte, mas uma alternativa simples é a reutilização do óleo para a produção de sabão. Para isso, são necessários, além do próprio óleo, água e soda cáustica. A reação química responsável pela transformação do óleo vegetal em sabão e glicerol é denominada",
+  "alternatives": {
+    "a": "hidrólise",
+    "b": "neutralização",
+    "c": "saponificação",
+    "d": "esterificação",
+    "e": "transesterificação"
+  },
+  "answer": "e",
+  "tags": [
+    "química orgânica",
+    "estequiometria"
+  ],
+  "year": 2021,
+  "test": "ENEM",
+  "area": "nature",
+  "difficulty": 5,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

@@ -1,0 +1,28 @@
+{
+  "number": 12,
+  "text": "O Texto I exemplifica a obra de uma artista surda, que promove uma experiência de leitura inovadora, divulgada no Texto II. Independentemente de seus objetivos, ambos os textos",
+  "alternatives": {
+    "a": "incentivam a produção de roteiros compostos por imagens.",
+    "b": "colaboram para a valorização de enredos românticos.",
+    "c": "revelam o sucesso de um evento de cartunistas.",
+    "d": "contribuem com o processo de acessibilidade.",
+    "e": "questionam o padrão tradicional das HQ."
+  },
+  "answer": "d",
+  "tags": [
+    "interpretação de texto",
+    "gêneros textuais",
+    "comunicação e mídia"
+  ],
+  "year": 2019,
+  "test": "ENEM",
+  "area": "linguagens",
+  "difficulty": 6,
+  "images": [],
+  "contextId": null,
+  "contextIds": [
+    "enem_2019_linguagens_ctx1",
+    "enem_2019_linguagens_ctx2"
+  ],
+  "language": null
+}

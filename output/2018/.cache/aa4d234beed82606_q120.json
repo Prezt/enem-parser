@@ -1,0 +1,26 @@
+{
+  "number": 120,
+  "text": "Nos manuais de instalação de equipamentos de som há o alerta aos usuários para que observem a correta polaridade dos fios ao realizarem as conexões das caixas de som. As figuras ilustram o esquema de conexão das caixas de som de um equipamento de som mono, no qual os alto-falantes emitem as mesmas ondas. No primeiro caso, a ligação obedece às especificações do fabricante; no segundo mostra uma ligação na qual a polaridade está invertida.\n\n[Esquema - esquema de conexão de caixas de som com polaridade correta e invertida]\n\nO que ocorre com os alto-falantes E e D se forem conectados de acordo com o segundo esquema?",
+  "alternatives": {
+    "a": "O alto-falante E funciona normalmente e o D entra em curto-circuito e não emite som.",
+    "b": "O alto-falante E emite ondas sonoras com frequências ligeiramente diferentes do alto-falante D provocando o fenômeno de batimento.",
+    "c": "O alto-falante E emite ondas sonoras com frequências e fases diferentes do alto-falante D provocando o fenômeno conhecido como ruído.",
+    "d": "O alto-falante E emite ondas sonoras que apresentam um lapso de tempo em relação às emitidas pelo alto-falante D provocando o fenômeno de reverberação.",
+    "e": "O alto-falante E emite ondas sonoras em oposição de fase às emitidas pelo alto-falante D provocando o fenômeno de interferência destrutiva nos pontos equidistantes aos alto-falantes."
+  },
+  "answer": "e",
+  "tags": [
+    "ondulatória e acústica",
+    "eletricidade e magnetismo"
+  ],
+  "year": 2018,
+  "test": "ENEM",
+  "area": "nature",
+  "difficulty": 6,
+  "images": [
+    "figuras/q120_2018_fig1.png"
+  ],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

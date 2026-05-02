@@ -1,0 +1,26 @@
+{
+  "number": 51,
+  "text": "A dinâmica produtiva apresentada na imagem tem como",
+  "alternatives": {
+    "a": "separação pelo tipo de solo.",
+    "b": "exportação da colheita sazonal.",
+    "c": "priorização da tecnologia moderna.",
+    "d": "adequação pelo tempo da natureza.",
+    "e": "intensificação da atividade pecuária."
+  },
+  "answer": "d",
+  "tags": [
+    "geografia humana e urbana",
+    "meio ambiente e sustentabilidade"
+  ],
+  "year": 2020,
+  "test": "ENEM",
+  "area": "humanas",
+  "difficulty": 5,
+  "images": [
+    "[Figura: Zona de pastoreio e cultura do agreste com cronograma de plantio, crescimento, colheita de feijão, milho verde, milho seco e algodão]"
+  ],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

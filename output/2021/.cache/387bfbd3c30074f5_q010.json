@@ -1,0 +1,25 @@
+{
+  "number": 10,
+  "text": "De acordo com o texto, qual é a característica principal do filme Son of Saul?",
+  "alternatives": {
+    "a": "Retrata o horror do holocausto de forma intensa e original",
+    "b": "Utiliza técnicas de close em primeiro plano para aproximar o espectador",
+    "c": "Apresenta uma abordagem convencional e tradicional do tema",
+    "d": "Exige certa entrega do espectador por meio de uma via crucis visual",
+    "e": "Premia uma abordagem ousada e radical ao tratar do holocausto"
+  },
+  "answer": "e",
+  "tags": [
+    "interpretação de texto",
+    "gêneros textuais",
+    "comunicação e mídia"
+  ],
+  "year": 2021,
+  "test": "ENEM",
+  "area": "linguagens",
+  "difficulty": 5,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

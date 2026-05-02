@@ -1,0 +1,25 @@
+{
+  "number": 84,
+  "text": "[Figura] De que modo os textos sustentam a existência de um saber ancorado na sensibilidade?",
+  "alternatives": {
+    "a": "Admitindo o belo como fenômeno transcendental.",
+    "b": "Reafirmando a vivência estética como juízo de gosto.",
+    "c": "Considerando o olhar como experiência de conhecimento.",
+    "d": "Apontando as formas de expressão como auxiliares da razão.",
+    "e": "Estabelecendo a inteligência como implicação das representações."
+  },
+  "answer": "c",
+  "tags": [
+    "filosofia",
+    "arte"
+  ],
+  "year": 2022,
+  "test": "ENEM",
+  "area": "humanas",
+  "images": [
+    "figuras/q084_2022_fig1.png"
+  ],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

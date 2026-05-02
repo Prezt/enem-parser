@@ -1,0 +1,23 @@
+{
+  "number": 49,
+  "text": "A intensificação da ocupação urbana demonstrada afeta e forma imediata o(a)",
+  "alternatives": {
+    "a": "nível altimétrico.",
+    "b": "ciclo hidrológico.",
+    "c": "padrão climático.",
+    "d": "tectônica de placas.",
+    "e": "estrutura das rochas."
+  },
+  "answer": "b",
+  "tags": [
+    "urbanização",
+    "hidrologia"
+  ],
+  "year": 2022,
+  "test": "ENEM",
+  "area": "humanas",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

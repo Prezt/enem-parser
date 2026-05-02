@@ -1,0 +1,23 @@
+{
+  "number": 122,
+  "text": "Esse novo medicamento apresenta potencial aplicação para",
+  "alternatives": {
+    "a": "impedir a formação de trombos, típicos em alguns casos de acidente vascular cerebral.",
+    "b": "tratar consequências da anemia profunda, em razão da perda de grande volume de sangue.",
+    "c": "evitar a manifestação de urticárias, comumente relacionadas a processos alérgicos.",
+    "d": "reduzir o inchaço dos linfonodos, parte da resposta imunitária de diferentes infecções.",
+    "e": "regular a oscilação da pressão arterial, características dos quadros de hipertensão."
+  },
+  "answer": "a",
+  "tags": [
+    "biologia",
+    "farmacologia"
+  ],
+  "year": 2022,
+  "test": "ENEM",
+  "area": "nature",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

@@ -1,0 +1,23 @@
+{
+  "number": 3,
+  "text": "Nessa tirinha, o comportamento da mulher expressa",
+  "alternatives": {
+    "a": "A revolta com a falta de sorte.",
+    "b": "B gosto pela prática da leitura.",
+    "c": "C receio pelo futuro do casamento.",
+    "d": "D entusiasmo com os livros de terror.",
+    "e": "E rejeição ao novo tipo de residência."
+  },
+  "answer": "b",
+  "tags": [
+    "comportamento",
+    "tirinha"
+  ],
+  "year": 2022,
+  "test": "ENEM",
+  "area": "linguagens",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

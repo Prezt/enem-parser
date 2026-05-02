@@ -1,0 +1,25 @@
+{
+  "number": 63,
+  "text": "O processo de ressignificação do trabalho nas sociedades modernas teve início a partir do surgimento de uma nova mentalidade, influenciada pela",
+  "alternatives": {
+    "a": "reforma higienista, que combateu o caráter excessivo e insalubre do trabalho fabril.",
+    "b": "Reforma Protestante, que expressou a importância das atividades laborais no mundo secularizado.",
+    "c": "força do sindicalismo, que emergiu no esteio do anarquismo reivindicando direitos trabalhistas.",
+    "d": "participação das mulheres em movimentos sociais, defendendo o direito ao trabalho.",
+    "e": "visão do catolicismo, que, desde a Idade Média, defendia a dignidade do trabalho e do lucro."
+  },
+  "answer": "b",
+  "tags": [
+    "história moderna",
+    "filosofia moderna e contemporânea",
+    "sociologia e estrutura social"
+  ],
+  "year": 2020,
+  "test": "ENEM",
+  "area": "humanas",
+  "difficulty": 6,
+  "images": [],
+  "contextId": "enem_2020_humanas_ctx63",
+  "contextIds": null,
+  "language": null
+}

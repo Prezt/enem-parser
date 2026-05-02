@@ -1,0 +1,23 @@
+{
+  "number": 62,
+  "text": "A necessidade de negociação diplomática para viabilizar o acordo tarifário mencionado é explicada pela seguinte característica do Mercosul:",
+  "alternatives": {
+    "a": "Limitação da circulação financeira.",
+    "b": "Padronização da política monetária.",
+    "c": "Funcionamento da união aduaneira.",
+    "d": "Dependência da exportação agrícola.",
+    "e": "Equivalência da legislação trabalhista."
+  },
+  "answer": "c",
+  "tags": [
+    "Mercosul",
+    "Economia"
+  ],
+  "year": 2022,
+  "test": "ENEM",
+  "area": "humanas",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

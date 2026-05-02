@@ -1,0 +1,27 @@
+{
+  "number": 33,
+  "text": "Considerando-se a função que os cartazes colados em postes normalmente exercem nas ruas das cidades grandes, esse texto evidencia a",
+  "alternatives": {
+    "a": "disseminação da arte poética em um veículo não convencional.",
+    "b": "manutenção da expectativa das pessoas ao andarem pelas ruas.",
+    "c": "necessidade de exposição de poemas pequenos em diferentes suportes.",
+    "d": "característica corriqueira do suporte lambe-lambe muito comum nas ruas.",
+    "e": "exposição da beleza escondida das esquinas da cidade de Belo Horizonte."
+  },
+  "answer": "a",
+  "tags": [
+    "interpretação de texto",
+    "gêneros textuais"
+  ],
+  "year": 2020,
+  "test": "ENEM",
+  "area": "linguagens",
+  "difficulty": 6,
+  "images": [],
+  "contextId": null,
+  "contextIds": [
+    "enem_2020_linguagens_q33_ctx1",
+    "enem_2020_linguagens_q33_ctx2"
+  ],
+  "language": null
+}

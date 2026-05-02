@@ -1,0 +1,24 @@
+{
+  "number": 114,
+  "text": "Um dos exames clínicos mais tradicionais para medir a atividade do sistema nervoso é o teste do reflexo patelar. Nesse teste, o médico percute o tendão da rótula do paciente, o qual responde com uma contração involuntária do músculo da coxa. A resposta a esse estímulo é caracterizada pelo levantamento da perna em que o estímulo foi aplicado. Qual estrutura do sistema nervoso é responsável pela coordenação dessa resposta?",
+  "alternatives": {
+    "a": "Ponte",
+    "b": "Medula",
+    "c": "Cerebelo",
+    "d": "Hipotálamo",
+    "e": "Córtex pré-frontal"
+  },
+  "answer": "b",
+  "tags": [
+    "fisiologia humana",
+    "sistema nervoso"
+  ],
+  "year": 2021,
+  "test": "ENEM",
+  "area": "nature",
+  "difficulty": 3,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

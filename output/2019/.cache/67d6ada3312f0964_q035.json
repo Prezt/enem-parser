@@ -1,0 +1,24 @@
+{
+  "number": 35,
+  "text": "No Brasil, a disseminação de uma expectativa de corpo com base na estética da magreza é bastante grande e apresenta uma enorme repercussão, especialmente se considerada do ponto de vista da realização pessoal. Em pesquisa feita na cidade de São Paulo, aparecem os percentuais de 90% entre as mulheres pesquisadas que se dizem preocupadas com seu peso corporal, sendo que 95% se sentem insatisfeitas com \"seu próprio corpo\". A preocupação excessiva com o \"peso\" corporal pode provocar o desenvolvimento de distúrbios associados diretamente à imagem do corpo, tais como",
+  "alternatives": {
+    "a": "anorexia e bulimia.",
+    "b": "ortorexia e vigorexia.",
+    "c": "ansiedade e depressão.",
+    "d": "sobrepeso e fobia social.",
+    "e": "sedentarismo e obesidade."
+  },
+  "answer": "a",
+  "tags": [
+    "interpretação de texto",
+    "cultura e identidade"
+  ],
+  "year": 2019,
+  "test": "ENEM",
+  "area": "linguagens",
+  "difficulty": 4,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

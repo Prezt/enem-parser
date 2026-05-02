@@ -1,0 +1,24 @@
+{
+  "number": 5,
+  "text": "O texto apresenta uma cena de filme. Qual é a principal característica dessa cena?",
+  "alternatives": {
+    "a": "A apresentação de personagens em ambientes externos.",
+    "b": "A descrição detalhada de diálogos entre personagens.",
+    "c": "A narração de eventos que ocorrem durante o dia.",
+    "d": "A crítica sobre a qualidade cinematográfica.",
+    "e": "A exploração de temas relacionados a museus."
+  },
+  "answer": "b",
+  "tags": [
+    "interpretação de texto",
+    "gêneros textuais"
+  ],
+  "year": 2021,
+  "test": "ENEM",
+  "area": "linguagens",
+  "difficulty": 5,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

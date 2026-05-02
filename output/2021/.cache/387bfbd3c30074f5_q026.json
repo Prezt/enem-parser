@@ -1,0 +1,21 @@
+{
+  "number": 26,
+  "text": "O texto apresentado contém passagens ilegíveis ou corrompidas. Não é possível extrair uma questão válida desta imagem.",
+  "alternatives": {
+    "a": "",
+    "b": "",
+    "c": "",
+    "d": "",
+    "e": ""
+  },
+  "answer": "d",
+  "tags": [],
+  "year": 2021,
+  "test": "ENEM",
+  "area": "linguagens",
+  "difficulty": 5,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

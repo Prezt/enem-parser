@@ -1,0 +1,24 @@
+{
+  "number": 162,
+  "text": "O Sistema Métrico Decimal é o mais utilizado atualmente para medir comprimentos e distâncias. Em algumas atividades, porém, é possível observar a utilização de diferentes unidades de medida. Um exemplo disso pode ser observado no quadro.\n\n  - Polegada: 2,54 centímetros\n  - Jarda: 3 pés\n  - Jarda: 0,9144 metro\n\nAssim, um pé, em polegada, equivale a",
+  "alternatives": {
+    "a": "0,1200",
+    "b": "0,3048",
+    "c": "1,0800",
+    "d": "12,0000",
+    "e": "36,0000"
+  },
+  "answer": "d",
+  "tags": [
+    "aritmética e números",
+    "matemática financeira"
+  ],
+  "year": 2019,
+  "test": "ENEM",
+  "area": "math",
+  "difficulty": 3,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

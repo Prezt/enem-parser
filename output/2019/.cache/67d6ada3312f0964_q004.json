@@ -1,0 +1,24 @@
+{
+  "number": 4,
+  "text": "Valores culturais de um povo revelam sua forma de ser, agir e pensar. Na concepção da autora, as diferentes formas de educar crianças nos Estados Unidos confirmam que as crianças",
+  "alternatives": {
+    "a": "temem quem as amedronta.",
+    "b": "aprendem com o que vivem.",
+    "c": "amam aqueles que as aceitam.",
+    "d": "são gentis quando respeitadas.",
+    "e": "ridicularizam quem as intimida."
+  },
+  "answer": "b",
+  "tags": [
+    "interpretação de texto",
+    "língua inglesa"
+  ],
+  "year": 2019,
+  "test": "ENEM",
+  "area": "linguagens",
+  "difficulty": 3,
+  "images": [],
+  "contextId": "enem_2019_linguagens_en_ctx1",
+  "contextIds": null,
+  "language": "en"
+}

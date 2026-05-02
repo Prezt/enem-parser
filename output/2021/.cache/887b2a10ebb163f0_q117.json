@@ -1,0 +1,24 @@
+{
+  "number": 117,
+  "text": "O biocombustível a que se refere o texto é o",
+  "alternatives": {
+    "a": "etanol",
+    "b": "biogás",
+    "c": "butano",
+    "d": "metanol",
+    "e": "biodiesel"
+  },
+  "answer": "b",
+  "tags": [
+    "química geral e inorgânica",
+    "meio ambiente e sustentabilidade"
+  ],
+  "year": 2021,
+  "test": "ENEM",
+  "area": "nature",
+  "difficulty": 5,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

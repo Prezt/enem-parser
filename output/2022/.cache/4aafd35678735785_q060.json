@@ -1,0 +1,23 @@
+{
+  "number": 60,
+  "text": "Contrariando a visão prevalente sobre o impacto econômico nas relações humanas, o texto revela que os celulares podem desempenhar uma função",
+  "alternatives": {
+    "a": "recreativa, promovendo o lazer em redes integradas.",
+    "b": "social, estimulando a reciprocidade por meios digitais.",
+    "c": "laboral, convertendo o desenvolvedor em usuário final.",
+    "d": "comercial, direcionando a escolha por produtos industrializados.",
+    "e": "cognitiva, favorecendo a aprendizagem pelas ferramentas virtuais."
+  },
+  "answer": "b",
+  "tags": [
+    "tecnologia",
+    "sociedade"
+  ],
+  "year": 2022,
+  "test": "ENEM",
+  "area": "humanas",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

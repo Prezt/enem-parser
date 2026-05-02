@@ -1,0 +1,23 @@
+{
+  "number": 158,
+  "text": "Ao analisar os dados de uma epidemia em uma cidade, um modelo matemático foi usado para prever o número de pessoas infectadas a cada mês, ao longo de um ano. O tempo t é variável natural, variando de 1 a 12, que representa os meses do ano. Para tentar diminuir o número de infectados no próximo período, a propaganda oficial sobre os cuidados com a epidemia foi intensificada em diferentes períodos de intensificação das propagandas. A sugestão dos peritos é que seja escolhida a proposta que corresponde ao mês em que, segundo o modelo, há a maior quantidade de infectados.",
+  "alternatives": {
+    "a": "I.",
+    "b": "II.",
+    "c": "III.",
+    "d": "IV.",
+    "e": "V."
+  },
+  "answer": "c",
+  "tags": [
+    "epidemiologia",
+    "modelagem matemática"
+  ],
+  "year": 2022,
+  "test": "ENEM",
+  "area": "math",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

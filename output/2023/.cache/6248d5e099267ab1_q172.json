@@ -1,0 +1,23 @@
+{
+  "number": 172,
+  "text": "Sejam a, b e c as medidas dos lados de um triângulo retângulo, tendo a como medida da hipotenusa. Esses valores a, b e c são, respectivamente, os diâmetros dos círculos C1, C2 e C3, como apresentados na figura. [Figura] Um professor de matemática era conhecedor dessa construção e, confraternizando com dois amigos em uma pizzaria onde são vendidas pizzas somente em formato de círculo, lançou um desafio: mesmo sem usar um instrumento de medição, poderia afirmar com certeza se a área do círculo correspondente à pizza que ele pedisse era maior, igual ou menor do que a soma das áreas das pizzas dos dois amigos. Assim, foram pedidas três pizzas. O professor as dividiu ao meio e formou um triângulo com os diâmetros das pizzas, conforme indicado na figura.",
+  "alternatives": {
+    "a": "0° < a < 90°",
+    "b": "a = 90°",
+    "c": "90° < a < 180°",
+    "d": "a = 180°",
+    "e": "180° < a < 360°"
+  },
+  "answer": "c",
+  "tags": [
+    "triângulo retângulo",
+    "área de círculos"
+  ],
+  "year": 2023,
+  "test": "ENEM",
+  "area": "math",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

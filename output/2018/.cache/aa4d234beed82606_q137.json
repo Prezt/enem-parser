@@ -1,0 +1,24 @@
+{
+  "number": 137,
+  "text": "Um contrato de empréstimo prevê que quando uma parcela é paga de forma antecipada, conceder-se-á uma redução de juros de acordo com o período de antecipação. Nesse caso, paga-se o valor presente, que é o valor naquele momento, de uma quantia que deveria ser paga em uma data futura. Um valor presente P submetido a juros compostos com taxa i, por um período de tempo n, produz um valor futuro V determinado pela fórmula V = P · (1 + i)^n. Em um contrato de empréstimo com sessenta parcelas fixas mensais, de R$ 820,00, a uma taxa de juros de 1,32% ao mês, junto com a trigésima parcela será paga antecipadamente uma outra parcela, desde que o desconto seja superior a 25% do valor da parcela. Utilize 0,2877 como aproximação para ln(4/3) e 0,0131 como aproximação para ln(1,0132). A primeira das parcelas que poderá ser antecipada junto com a 30ª é a",
+  "alternatives": {
+    "a": "56",
+    "b": "55",
+    "c": "52",
+    "d": "51",
+    "e": "45"
+  },
+  "answer": "c",
+  "tags": [
+    "matemática financeira",
+    "álgebra"
+  ],
+  "year": 2018,
+  "test": "ENEM",
+  "area": "math",
+  "difficulty": 7,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

@@ -1,0 +1,25 @@
+{
+  "number": 3,
+  "text": "O escritor nigeriano Chinua Achebe traz uma reflexão sobre a situação dos refugiados em um cenário pós-guerra civil em seu país. Essa reflexão é construída no poema por meio da representação de uma mãe, explorando a(s)",
+  "alternatives": {
+    "a": "demonstração de orgulho por não precisar pedir doações.",
+    "b": "descrições artísticas detalhadas de uma obra conhecida.",
+    "c": "aceitação de um diagnóstico de doença terminal do filho.",
+    "d": "consternação ao visitar o túmulo do filho recém-falecido.",
+    "e": "impressões sensoriais experimentadas no ambiente."
+  },
+  "answer": "e",
+  "tags": [
+    "interpretação de texto",
+    "literatura mundial",
+    "gêneros textuais"
+  ],
+  "year": 2020,
+  "test": "ENEM",
+  "area": "linguagens",
+  "difficulty": 6,
+  "images": [],
+  "contextId": "enem_2020_linguagens_ctx1",
+  "contextIds": null,
+  "language": "en"
+}

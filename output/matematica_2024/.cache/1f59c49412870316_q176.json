@@ -1,0 +1,26 @@
+{
+  "number": 176,
+  "text": "As receitas anuais obtidas por uma indústria no período e 2014 a 2021, em milhão de reais, foram registradas, por [Gráfico - evolução das receitas] pontos. Nele, também está representada a [Figura - reta de tendência]. Essa reta pode ser utilizada para estimar as receitas dos anos seguintes.",
+  "alternatives": {
+    "a": "7",
+    "b": "8",
+    "c": "9",
+    "d": "10",
+    "e": "11"
+  },
+  "answer": "b",
+  "tags": [
+    "estatística",
+    "tendência"
+  ],
+  "year": 2024,
+  "test": "ENEM",
+  "area": "math",
+  "images": [
+    "figuras/q176_2024_fig1.png",
+    "figuras/q176_2024_fig2.png"
+  ],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

@@ -1,0 +1,24 @@
+{
+  "number": 55,
+  "text": "No processo de Independência do Brasil, o caso mencionado é emblemático porque evidencia a",
+  "alternatives": {
+    "a": "rigidez hierárquica da estrutura social.",
+    "b": "inserção feminina nos ofícios militares.",
+    "c": "adesão pública dos imigrantes portugueses.",
+    "d": "flexibilidade administrativa do governo imperial.",
+    "e": "receptividade metropolitana aos ideais emancipatórios."
+  },
+  "answer": "a",
+  "tags": [
+    "história do brasil império",
+    "direitos humanos e cidadania"
+  ],
+  "year": 2019,
+  "test": "ENEM",
+  "area": "humanas",
+  "difficulty": 5,
+  "images": [],
+  "contextId": "enem_2019_humanas_q55_ctx1",
+  "contextIds": null,
+  "language": null
+}

@@ -1,0 +1,24 @@
+{
+  "number": 166,
+  "text": "O consumo de espumantes no Brasil tem aumentado nos últimos anos. Uma das etapas de seu processo de produção consiste no envasamento da bebida em garrafas semelhantes às da imagem. Nesse processo, a vazão do líquido no interior da garrafa é constante e cessa quando atinge o nível de envasamento.\n\nQual esboço de gráfico melhor representa a variação da altura do líquido em função do tempo, na garrafa indicada na imagem?",
+  "alternatives": {
+    "a": "altura versus tempo — curva crescente côncava",
+    "b": "altura versus tempo — reta crescente",
+    "c": "altura versus tempo — curva crescente convexa",
+    "d": "altura versus tempo — curva crescente que muda de concavidade",
+    "e": "altura versus tempo — reta horizontal"
+  },
+  "answer": "b",
+  "tags": [
+    "funções",
+    "geometria plana"
+  ],
+  "year": 2020,
+  "test": "ENEM",
+  "area": "math",
+  "difficulty": 6,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

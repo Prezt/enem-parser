@@ -1,0 +1,25 @@
+{
+  "number": 70,
+  "text": "No cemitério, a sociedade religiosa encarregada do funeral, aterrorizada, apressou a cerimônia de tal forma que a mãe de Herzog perdeu o momento em que o caixão do filho começou a ser coberto pela terra. Quatro jornalistas que estavam presos no DOI chegaram para assistir ao sepultamento. Um se afastara, chorando. Dizia:  Eles matam e eles matam! Não pergunte nada. Não podemos dizer nada. Eles matam mesmo. Falava-se baixo. Ouviram-se dois curtos discursos. O primeiro, da atriz Ruth Escobar: Até quando vamos suportar tanta violência? Até quando vamos continuar enterrando nossos mortos em silêncio? No segundo, Audálio Dantas recitou o  Navio negreiro , de Castro Alves: Senhor Deus dos desgraçados / Dizei-me Vós, Senhor Deus / Se é mentira, se é verdade, / Tanto horror perante os céus. [Figura: contexto histórico-político] O acontecimento descrito no texto, ocorrido em meados dos anos 1970, atesta a seguinte característica do regime político-institucional vigente:",
+  "alternatives": {
+    "a": "Incorporação da estética popular para justificar o ideia de integração nacional.",
+    "b": "Afirmação da estratégia psicossocial para favorecer o objetivo de propaganda cívica.",
+    "c": "Institucionalização de mecanismos repressivos para eliminar os focos de resistência.",
+    "d": "Adoção de cerimoniais públicos para controlar as manifestações de grupos opositores.",
+    "e": "Estatização de meios de comunicação para selecionar a divulgação de atos governamentais."
+  },
+  "answer": "c",
+  "tags": [
+    "história",
+    "política"
+  ],
+  "year": 2023,
+  "test": "ENEM",
+  "area": "humanas",
+  "images": [
+    "figuras/q070_2023_fig1.png"
+  ],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

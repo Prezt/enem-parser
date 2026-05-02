@@ -1,0 +1,24 @@
+{
+  "number": 1,
+  "text": "Ao discutir sobre a influência de animais de estimação no bem-estar do ser humano, a autora, a fim de fortalecer seus argumentos, utiliza palavras e expressões como research, a growing number of research e several studies com o objetivo de",
+  "alternatives": {
+    "a": "mostrar que animais de estimação ajudam na cura de doenças como alergias e asma.",
+    "b": "convencer sobre os benefícios da adoção de animais de estimação para a saúde.",
+    "c": "fornecer dados sobre os impactos de animais de estimação nas relações amorosas.",
+    "d": "explicar como o contato com animais de estimação pode prevenir ataques cardíacos.",
+    "e": "esclarecer sobre o modo como idosos devem se relacionar com animais de estimação."
+  },
+  "answer": "b",
+  "tags": [
+    "interpretação de texto",
+    "língua inglesa"
+  ],
+  "year": 2019,
+  "test": "ENEM",
+  "area": "linguagens",
+  "difficulty": 5,
+  "images": [],
+  "contextId": "enem_2019_linguagens_ctx1",
+  "contextIds": null,
+  "language": "en"
+}

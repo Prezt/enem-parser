@@ -1,0 +1,24 @@
+{
+  "number": 10,
+  "text": "Na literatura de temática negra produzida no Brasil é recorrente a presença de elementos que traduzem experiências históricas de preconceito e violência. No poema, essa vivência revela que o eu lírico",
+  "alternatives": {
+    "a": "incorpora seletivamente o discurso do seu opressor.",
+    "b": "submete-se à discriminação como meio de fortalecimento.",
+    "c": "engaja-se na denúncia do passado de opressão e injustiças.",
+    "d": "sofre uma perda de identidade e de noção de pertencimento.",
+    "e": "acredita esporadicamente na utopia de uma sociedade igualitária."
+  },
+  "answer": "a",
+  "tags": [
+    "interpretação de texto",
+    "literatura brasileira"
+  ],
+  "year": 2018,
+  "test": "ENEM",
+  "area": "linguagens",
+  "difficulty": 6,
+  "images": [],
+  "contextId": "enem_2018_linguagens_10_ctx1",
+  "contextIds": null,
+  "language": null
+}

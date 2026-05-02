@@ -1,0 +1,24 @@
+{
+  "number": 29,
+  "text": "No contexto das novas tecnologias de informação e comunicação, a circulação de saberes depende da",
+  "alternatives": {
+    "a": "otimização do tempo.",
+    "b": "confiabilidade dos sites.",
+    "c": "contribuição dos usuários.",
+    "d": "quantidade de informação.",
+    "e": "colaboração de intelectuais."
+  },
+  "answer": "c",
+  "tags": [
+    "interpretação de texto",
+    "comunicação e mídia"
+  ],
+  "year": 2019,
+  "test": "ENEM",
+  "area": "linguagens",
+  "difficulty": 5,
+  "images": [],
+  "contextId": "enem_2019_linguagens_ctx1",
+  "contextIds": null,
+  "language": null
+}

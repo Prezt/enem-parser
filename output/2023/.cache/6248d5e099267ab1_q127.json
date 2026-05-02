@@ -1,0 +1,23 @@
+{
+  "number": 127,
+  "text": "Toxicidade\nA produção de ATP depende do gradiente de prótons provenientes da oxidação do NADH em NAD+, percorrem Fe3+ a Fe2+. O oxigênio atua como aceptor final desses altamente tóxica que tem grande afinidade pelo Fe3+. Qu Fe3+ da citocromo c oxidase, impedindo a sua conversão",
+  "alternatives": {
+    "a": "ATP.",
+    "b": "água.",
+    "c": "NADH.",
+    "d": "dióxido de carbono.",
+    "e": "citocromo c oxidase."
+  },
+  "answer": "c",
+  "tags": [
+    "biologia",
+    "química"
+  ],
+  "year": 2023,
+  "test": "ENEM",
+  "area": "nature",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

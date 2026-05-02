@@ -1,0 +1,24 @@
+{
+  "number": 5,
+  "text": "O romance 1984 descreve os perigos de um Estado totalitário. A ideia evidenciada nessa passagem é que o controle do Estado se dá por meio do(a)",
+  "alternatives": {
+    "a": "boicote a ideais libertários.",
+    "b": "veto ao culto das tradições.",
+    "c": "poder sobre memórias e registros.",
+    "d": "censura a produções orais e escritas.",
+    "e": "manipulação de pensamentos individuais."
+  },
+  "answer": "c",
+  "tags": [
+    "literatura mundial",
+    "interpretação de texto"
+  ],
+  "year": 2018,
+  "test": "ENEM",
+  "area": "linguagens",
+  "difficulty": 5,
+  "images": [],
+  "contextId": "enem_2018_linguagens_ctx1",
+  "contextIds": null,
+  "language": "en"
+}

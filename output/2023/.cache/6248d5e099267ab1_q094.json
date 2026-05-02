@@ -1,0 +1,24 @@
+{
+  "number": 94,
+  "text": "Em uma indústria, o controle da dureza da água é importante quando ela é utilizada em caldeiras, uma vez que sais pouco solúveis, formados a partir de sulfatos e arbonatos, podem acumular-se no interior das tubulações, ausando obstruções. Para avaliar a água utilizada nessa indústria, foram realizados testes de qualidade que consideraram os seguintes parâmetros: Teste Parâmetro medido 1 Cálcio 2 Cloreto 3 Turbidez 4 Coliformes totais 5 Sólidos sedimentáveis Qual teste deve ser considerado para controlar a formação desse tipo de obstrução de tubulações?",
+  "alternatives": {
+    "a": "1",
+    "b": "2",
+    "c": "3",
+    "d": "4",
+    "e": "5"
+  },
+  "answer": "a",
+  "tags": [
+    "indústria",
+    "água dura",
+    "controle de qualidade"
+  ],
+  "year": 2023,
+  "test": "ENEM",
+  "area": "nature",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

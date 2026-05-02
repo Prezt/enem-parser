@@ -1,0 +1,24 @@
+{
+  "number": 50,
+  "text": "[CONTEÚDO ILEGÍVEL - OCR SEVERAMENTE CORROMPIDO]",
+  "alternatives": {
+    "a": "[ILEGÍVEL]",
+    "b": "[ILEGÍVEL]",
+    "c": "[ILEGÍVEL]",
+    "d": "[ILEGÍVEL]",
+    "e": "[ILEGÍVEL]"
+  },
+  "answer": "b",
+  "tags": [],
+  "year": 2021,
+  "test": "ENEM",
+  "area": "humanas",
+  "difficulty": 5,
+  "images": [],
+  "contextId": null,
+  "contextIds": [
+    "enem_2021_humanas_ctx1",
+    "enem_2021_humanas_ctx2"
+  ],
+  "language": null
+}

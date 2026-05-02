@@ -1,0 +1,24 @@
+{
+  "number": 149,
+  "text": "O slogan \"Se beber não dirija\", muito utilizado em campanhas publicitárias no Brasil, chama a atenção para o grave problema da ingestão de bebida alcoólica por motoristas e suas consequências para o trânsito. A gravidade desse problema pode ser percebida observando como o assunto é tratado pelo Código de Trânsito Brasileiro. Em 2013, a quantidade máxima de álcool permitida no sangue do condutor de um veículo, que já era pequena, foi reduzida, e o valor da multa para motoristas alcoolizados foi aumentado. Em consequência dessas mudanças, observou-se queda no número de acidentes registrados em uma suposta rodovia nos anos que se seguiram às mudanças implantadas em 2013, conforme dados no quadro.\n\nAno: 2013, 2014, 2015\nNúmero total de acidentes: 1050, 900, 850\n\nSuponha que a tendência de redução no número de acidentes nessa rodovia para os anos subsequentes seja igual à redução absoluta observada de 2014 para 2015. Com base na situação apresentada, o número de acidentes esperados nessa rodovia em 2018 foi de",
+  "alternatives": {
+    "a": "150",
+    "b": "450",
+    "c": "550",
+    "d": "700",
+    "e": "800"
+  },
+  "answer": "d",
+  "tags": [
+    "aritmética e números",
+    "sequências e progressões"
+  ],
+  "year": 2019,
+  "test": "ENEM",
+  "area": "math",
+  "difficulty": 4,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

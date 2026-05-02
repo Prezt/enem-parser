@@ -1,0 +1,26 @@
+{
+  "number": 138,
+  "text": "Para abrir a porta de uma empresa, cada funcionário deve cadastrar uma senha utilizando um teclado lfanumérico como o representado na [Figura]. Por exemplo: a tecla que contém o número 2 traz as etras correlacionadas A, B e C. Cada toque nessa tecla mostra, sequencialmente, os seguintes caracteres: 2, A, B C. Para os próximos toques, essa sequência se repete. As demais teclas funcionam da mesma maneira. As senhas a serem cadastradas pelos funcionários evem conter 5 caracteres, sendo 2 algarismos distintos eguidos de 3 letras diferentes, nessa ordem. Um funcionário á cadastrar a sua primeira senha, podendo escolher entre s teclas que apresentam os números 1, 2, 5, 7 e 0 e as espectivas letras correlacionadas, quando houver. O número de possibilidades diferentes que esse uncionário tem para cadastrar sua senha é",
+  "alternatives": {
+    "a": "11 520.",
+    "b": "14 400.",
+    "c": "18 000.",
+    "d": "312 000.",
+    "e": "390 000."
+  },
+  "answer": "b",
+  "tags": [
+    "probabilidade",
+    "combinatória"
+  ],
+  "year": 2024,
+  "test": "ENEM",
+  "area": "math",
+  "images": [
+    "figuras/q138_2024_fig1.png",
+    "figuras/q138_2024_fig2.png"
+  ],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

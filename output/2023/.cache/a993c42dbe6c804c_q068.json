@@ -1,0 +1,23 @@
+{
+  "number": 68,
+  "text": "O masseiro, a mulher, e quatro filhos, dormindo numa apera de quatro paredes de caixão, coberta de zinco. A água do mangue, na maré cheia, ia dentro de casa. Os maruins de noite encalombavam o corpo dos meninos. O mangue tinha ocasião que fedia, e os urubus faziam onto por ali atrás dos petiscos. Perto da rua lavavam ouro de boi, pele de bode para o curtume de um espanhol. Morria peixe envenenado, e quando a maré secava, os rubus enchiam o papo, ciscavam a lama, passeando anzeiros pelas biqueiras dos mocambos no Recife. RÊGO, J. L. O moleque Ricardo . Rio de Janeiro: J. Olympio, 1966 (adaptado). A aglomeração urbana representada no texto resulta em",
+  "alternatives": {
+    "a": "conservação do meio rural",
+    "b": "crescimento da vegetação ciliar",
+    "c": "interferência do espaço geográfico",
+    "d": "equilíbrio do ambiente das cidades",
+    "e": "controle da proliferação dos animais"
+  },
+  "answer": "c",
+  "tags": [
+    "urbanização",
+    "ambiente urbano"
+  ],
+  "year": 2023,
+  "test": "ENEM",
+  "area": "humanas",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

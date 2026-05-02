@@ -1,0 +1,23 @@
+{
+  "number": 124,
+  "text": "O grande risco envolvido no emprego indiscriminado dessa substância deve-se à sua ação química como",
+  "alternatives": {
+    "a": "catalisador.",
+    "b": "oxidante.",
+    "c": "redutor.",
+    "d": "ácido.",
+    "e": "base."
+  },
+  "answer": "b",
+  "tags": [
+    "química",
+    "toxicidade"
+  ],
+  "year": 2022,
+  "test": "ENEM",
+  "area": "nature",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

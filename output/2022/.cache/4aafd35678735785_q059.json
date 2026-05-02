@@ -1,0 +1,23 @@
+{
+  "number": 59,
+  "text": "Em 2003, teve início o Programa de Aquisição de Alimentos e, com ele, várias mudanças na perspectiva dos mercados institucionais. Trata-se do primeiro programa e compras públicas com uma orientação exclusiva para a agricultura familiar, articulando-a explicitamente com a segurança alimentar e nutricional.",
+  "alternatives": {
+    "a": "Inovação tecnológica",
+    "b": "Reestruturação fundiária",
+    "c": "Comercialização garantida",
+    "d": "Eliminação no custo do frete",
+    "e": "Negociação na bolsa de valores"
+  },
+  "answer": "c",
+  "tags": [
+    "agricultura familiar",
+    "políticas públicas"
+  ],
+  "year": 2022,
+  "test": "ENEM",
+  "area": "humanas",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

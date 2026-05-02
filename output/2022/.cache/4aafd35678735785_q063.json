@@ -1,0 +1,23 @@
+{
+  "number": 63,
+  "text": "Na conjuntura histórica destacada no texto, o dever de gir em face da situação de crise apresentada pertencia à urisdição",
+  "alternatives": {
+    "a": "da nobreza, proveniente da obrigação de proteção ao campesinato livre.",
+    "b": "da realeza, decorrente do conceito de governo subjacente à monarquia cristã.",
+    "c": "dos mosteiros, resultante do caráter fraternal afirmado nas regras monásticas.",
+    "d": "dos bispados, consequente da participação dos clérigos nos assuntos comunitários.",
+    "e": "das corporações, procedente do padrão assistencialista previsto nas normas estatutárias."
+  },
+  "answer": "b",
+  "tags": [
+    "história",
+    "idade média"
+  ],
+  "year": 2022,
+  "test": "ENEM",
+  "area": "humanas",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

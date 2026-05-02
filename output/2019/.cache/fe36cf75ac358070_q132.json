@@ -1,0 +1,24 @@
+{
+  "number": 132,
+  "text": "A maioria das pessoas fica com a visão embaçada ao abrir os olhos debaixo d'água. Mas há uma exceção: o povo moken, que habita a costa da Tailândia. Essa característica se deve principalmente à adaptabilidade do olho e à plasticidade do cérebro, o que significa que você também, com algum treinamento, poderia enxergar relativamente bem debaixo d'água. Estudos mostraram que as pupilas de olhos de indivíduos moken sofrem redução significativa debaixo d'água, o que faz com que os raios luminosos incidam quase paralelamente ao eixo óptico da pupila. A acuidade visual associada à redução das pupilas é fisicamente explicada pela diminuição de qual fenômeno?",
+  "alternatives": {
+    "a": "da intensidade luminosa incidente na retina.",
+    "b": "da difração dos feixes luminosos que atravessam a pupila.",
+    "c": "da intensidade dos feixes luminosos em uma direção por polarização.",
+    "d": "do desvio dos feixes luminosos refratados no interior do olho.",
+    "e": "das reflexões dos feixes luminosos no interior do olho."
+  },
+  "answer": "d",
+  "tags": [
+    "óptica",
+    "fisiologia humana"
+  ],
+  "year": 2019,
+  "test": "ENEM",
+  "area": "nature",
+  "difficulty": 6,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

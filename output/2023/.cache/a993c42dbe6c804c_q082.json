@@ -1,0 +1,24 @@
+{
+  "number": 82,
+  "text": "Os vapores cruzavam os mares transportando pessoas, mercadorias e ideias, e ainda carregavam a mal postal, repleta de mensagens. Múltiplas histórias escritas atravessavam o oceano buscando por notícias de filhos, pais, irmãos, maridos e esposas, noivos e noivas. As missivas traziam boas e más novas, comunicavam alegremente nascimentos e casamentos, também doenças e mortes enviavam declarações de amor e fidelidade, fotos de família encaminhavam conselhos de velhos, pedidos de ajuda e dinheiro; expediam cartas bancárias e de chamada. Essa literatura epistolar possibilitava a transmissão e reconstrução das tradições. Os deslocamentos tornaram-se um dos mais potentes produtores de escritura ao longo da história.",
+  "alternatives": {
+    "a": "disputa ideológica entre a comunidade de estrangeiros e a de nativos",
+    "b": "circularidade cultural entre a sociedade de partida e a de acolhimento",
+    "c": "controle doutrinário das narrativas do cotidiano de origem e de destino",
+    "d": "fiscalização política dos fluxos de populações do Novo e do Velho Mundo",
+    "e": "monitoramento social dos grupos de trabalhadores da cidade e do campo"
+  },
+  "answer": "b",
+  "tags": [
+    "correspondência",
+    "imigração",
+    "cultura"
+  ],
+  "year": 2023,
+  "test": "ENEM",
+  "area": "humanas",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

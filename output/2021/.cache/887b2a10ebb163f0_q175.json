@@ -1,0 +1,24 @@
+{
+  "number": 175,
+  "text": "Brinquedos encontrados em praças e parques públicos apresentam estruturas geométricas tridimensionais. Uma empresa foi contratada para desenvolver uma nova forma de brinquedo. A proposta apresentada pela empresa foi de uma estrutura formada apenas por hastes metálicas, conectadas umas às outras. A figura representa uma estrutura desse tipo. Essa estrutura é formada por dois blocos. O bloco de cima é uma pirâmide quadrangular regular, e o bloco de baixo é um cubo. Essa pirâmide está apoiada sobre uma das suas faces, que é comum ao topo do cubo. A estrutura total do brinquedo é formada pela união da pirâmide com o cubo. Utilize 1,7 como aproximação para √3. De acordo com as especificações do desenho, quantos e quais são os polígonos que formam a estrutura?",
+  "alternatives": {
+    "a": "12 trapézios isósceles e 12 quadrados",
+    "b": "24 trapézios isósceles e 12 quadrados",
+    "c": "12 paralelogramos e 12 quadrados",
+    "d": "8 trapézios isósceles e 12 quadrados",
+    "e": "12 trapézios escalenos e 12 retângulos"
+  },
+  "answer": "a",
+  "tags": [
+    "geometria espacial",
+    "análise combinatória"
+  ],
+  "year": 2021,
+  "test": "ENEM",
+  "area": "math",
+  "difficulty": 6,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

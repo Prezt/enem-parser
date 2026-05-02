@@ -1,0 +1,24 @@
+{
+  "number": 58,
+  "text": "Nesse texto, o filósofo cristão Agostinho de Hipona sustenta que a punição divina tem como fundamento o(a)",
+  "alternatives": {
+    "a": "desvio da postura celibatária.",
+    "b": "insuficiência da autonomia moral.",
+    "c": "afastamento das ações de desapego.",
+    "d": "distanciamento das práticas de sacrifício.",
+    "e": "violação dos preceitos do Velho Testamento."
+  },
+  "answer": "b",
+  "tags": [
+    "filosofia antiga e medieval",
+    "ética e política"
+  ],
+  "year": 2019,
+  "test": "ENEM",
+  "area": "humanas",
+  "difficulty": 6,
+  "images": [],
+  "contextId": "enem_2019_humanas_58_ctx1",
+  "contextIds": null,
+  "language": null
+}

@@ -1,0 +1,26 @@
+{
+  "number": 30,
+  "text": "Essa campanha de conscientização sobre o assédio sofrido pelas mulheres nas ruas constrói-se pela combinação da linguagem verbal e não verbal. [Figura: mulher com nariz e boca cobertos por lenço] A imagem da mulher com o nariz e a boca cobertos por um lenço é a representação não verbal do(a)",
+  "alternatives": {
+    "a": "silêncio imposto às mulheres, que não podem denunciar o assédio sofrido.",
+    "b": "metáfora de que as mulheres precisam defender-se do assédio masculino.",
+    "c": "constrangimento pelo qual passam as mulheres e sua tentativa de esconderem-se.",
+    "d": "necessidade que as mulheres têm de passarem despercebidas para evitar o assédio.",
+    "e": "incapacidade de as mulheres protegerem-se da agressão verbal dos assediadores."
+  },
+  "answer": "b",
+  "tags": [
+    "interpretação de texto",
+    "comunicação e mídia"
+  ],
+  "year": 2020,
+  "test": "ENEM",
+  "area": "linguagens",
+  "difficulty": 5,
+  "images": [
+    "figuras/q030_2020_fig1.png"
+  ],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

@@ -1,0 +1,23 @@
+{
+  "number": 3,
+  "text": "En los suburbios de La Habana, llaman al amigo m tierra o m sangre. En Caracas, el amigo es m pana o m llave: pana, por panadería, la fuente del buen pan para las hambres del alma; y llave por... — Llave, por llave — dice Mario Benedetti. Y me cuenta que cuando vivía e Buenos Aires, en los tiempos del terror, él llevaba cinc llaves ajenas en su llavero: cinco llaves, de cinco casas de cinco amigos: las llaves que lo salvaron.",
+  "alternatives": {
+    "a": "A das peculiaridades dos subúrbios hispano-americanos",
+    "b": "B da força da conexão espiritual entre os amigos.",
+    "c": "C do papel da amizade em diferentes contextos.",
+    "d": "D do hábito de reunir amigos em torno da mesa.",
+    "e": "E dos graus de intimidade entre os amigos."
+  },
+  "answer": "b",
+  "tags": [
+    "amizade",
+    "cultura"
+  ],
+  "year": 2022,
+  "test": "ENEM",
+  "area": "linguagens",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

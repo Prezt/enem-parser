@@ -1,0 +1,23 @@
+{
+  "number": 151,
+  "text": "Um investidor iniciante observou o gráfico que apresenta a evolução dos valores de duas criptomoedas A e B em relação ao tempo. Durante horas consecutivas, esses valores foram observados em nove instantes, representados por hora exatas. Em quantos desses instantes a criptomoeda A estava mais valorizada do que a criptomoeda B?",
+  "alternatives": {
+    "a": "3",
+    "b": "4",
+    "c": "6",
+    "d": "7",
+    "e": "9"
+  },
+  "answer": "b",
+  "tags": [
+    "gráficos",
+    "matemática financeira"
+  ],
+  "year": 2023,
+  "test": "ENEM",
+  "area": "math",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

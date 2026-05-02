@@ -1,0 +1,923 @@
+[
+  {
+    "number": 91,
+    "text": "O número de abelhas encontra-se em declínio em várias regiões do mundo, inclusive no Brasil, sendo que vários fatores contribuem para o colapso de suas colmeias. Nos Estados Unidos, bombas de semente de espécies vegetais nativas têm sido utilizadas para combater o desaparecimento desses insetos. Elas são pequenas bolinhas recheadas com sementes, adubo e argila. Quando são arremessadas e ficam expostas ao sol e à chuva, germinam até mesmo em solo pouco fértil.",
+    "alternatives": {
+      "a": "reduz sua predação",
+      "b": "reduz o uso de pesticidas",
+      "c": "reduz a competição por abrigo",
+      "d": "aumenta a oferta de alimento",
+      "e": "aumenta os locais de reprodução"
+    },
+    "images": [],
+    "tags": [
+      "abelhas",
+      "ambiente",
+      "preservação"
+    ],
+    "year": 2023,
+    "test": "ENEM",
+    "area": "nature",
+    "answer": "d"
+  },
+  {
+    "number": 92,
+    "text": "Os mais antigos cozinhavam o feijão na panela de ferro fim de acabar com a palidez de seus filhos. Alguns chegavam até a colocar um prego enferrujado nesse cozimento par liberar o ferro contido nele. Sabe-se que esse elemento pode ser encontrado na sua forma metálica ou iônica sendo essencial para a manutenção da vida humana. As estratégias citadas eram utilizadas com o objetivo de",
+    "alternatives": {
+      "a": "tratar a diarreia.",
+      "b": "prevenir a anemia.",
+      "c": "evitar as verminoses.",
+      "d": "remediar o raquitismo.",
+      "e": "combater a febre amarela."
+    },
+    "images": [],
+    "tags": [
+      "nutrição",
+      "elementos químicos"
+    ],
+    "year": 2023,
+    "test": "ENEM",
+    "area": "nature",
+    "answer": "b"
+  },
+  {
+    "number": 93,
+    "text": "A utilização de tecnologia nuclear é um tema bastante controverso, por causa do risco de acidentes graves, como aqueles ocorridos em Chernobyl (1986), Goiânia (1987) e Fukushima (2011). Apesar das muitas desvantagens, como a geração de resíduos tóxicos, a descontaminação ambiental dispendiosa em caso de acidentes e a utilização em armas nucleares, a geração de energia nuclear apresenta vantagens em comparação a outras fontes de energia. A geração dessa energia tem como característica:",
+    "alternatives": {
+      "a": "Formar resíduos facilmente recicláveis.",
+      "b": "Promover o aumento do desmatamento.",
+      "c": "Contribuir para a produção de chuva ácida.",
+      "d": "Emitir gases tóxicos que são lançados no ambiente",
+      "e": "Produzir calor sem o consumo de combustíveis fósseis"
+    },
+    "images": [],
+    "tags": [
+      "energia nuclear",
+      "desvantagens"
+    ],
+    "year": 2023,
+    "test": "ENEM",
+    "area": "nature",
+    "answer": "e"
+  },
+  {
+    "number": 94,
+    "text": "Em uma indústria, o controle da dureza da água é importante quando ela é utilizada em caldeiras, uma vez que sais pouco solúveis, formados a partir de sulfatos e arbonatos, podem acumular-se no interior das tubulações, ausando obstruções. Para avaliar a água utilizada nessa indústria, foram realizados testes de qualidade que consideraram os seguintes parâmetros: Teste Parâmetro medido 1 Cálcio 2 Cloreto 3 Turbidez 4 Coliformes totais 5 Sólidos sedimentáveis Qual teste deve ser considerado para controlar a formação desse tipo de obstrução de tubulações?",
+    "alternatives": {
+      "a": "1",
+      "b": "2",
+      "c": "3",
+      "d": "4",
+      "e": "5"
+    },
+    "images": [],
+    "tags": [
+      "indústria",
+      "água dura",
+      "controle de qualidade"
+    ],
+    "year": 2023,
+    "test": "ENEM",
+    "area": "nature",
+    "answer": "a"
+  },
+  {
+    "number": 95,
+    "text": "As aves apresentam dois tipos de músculos em seus orpos: vermelhos e brancos. Aves migratórias como garças, ansos e patos selvagens têm os músculos vermelhos bem esenvolvidos, com ampla rede de vasos sanguíneos. Nas viagens por grandes distâncias, tais músculos são undamentais, pois favorecem o(a)",
+    "alternatives": {
+      "a": "execução de manobras",
+      "b": "metabolismo corpóreo elevado",
+      "c": "manutenção da aerodinâmica",
+      "d": "deslocamento a grandes velocidades",
+      "e": "capacidade de voo em grandes altitudes"
+    },
+    "images": [],
+    "tags": [
+      "aves",
+      "músculos",
+      "biologia"
+    ],
+    "year": 2023,
+    "test": "ENEM",
+    "area": "nature",
+    "answer": "b"
+  },
+  {
+    "number": 96,
+    "text": "Existe no comércio um produto antimofo constituído por ma embalagem com tampa perfurada contendo cloreto e cálcio anidro, CaCl₂. Uma vez aberto o lacre, essa substância absorve a umidade ambiente, transformando-se m cloreto de cálcio di-hidratado, CaCl₂⋅2H₂O. Considere a massa molar da água igual a 18 g mol⁻¹, e a massa molar do cloreto de cálcio anidro igual a 111 g mol⁻¹. Na hidratação da substância presente no antimofo, o anho percentual, em massa, é mais próximo de",
+    "alternatives": {
+      "a": "14%",
+      "b": "16%",
+      "c": "24%",
+      "d": "32%",
+      "e": "75%"
+    },
+    "images": [],
+    "tags": [
+      "química",
+      "hidratação"
+    ],
+    "year": 2023,
+    "test": "ENEM",
+    "area": "nature",
+    "answer": "d"
+  },
+  {
+    "number": 97,
+    "text": "Um garoto comprou vários abacates na feira, mas descobriu que eles não estavam maduros o suficiente para serem consumidos. Sua mãe recomendou que ele colocasse os abacates em um recipiente fechado pois isso aceleraria seu amadurecimento. Com certeza, o garoto realizou esta experiência: colocou alguns abacates no recipiente e deixou os demais em uma fruteira aberta. Surpreendendo-se, ele percebeu que os frutos que estavam no recipiente fechado amadureceram mais rapidamente.",
+    "alternatives": {
+      "a": "acúmulo de gás etileno",
+      "b": "redução da umidade do ar",
+      "c": "aumento da concentração de CO2",
+      "d": "diminuição da intensidade luminosa",
+      "e": "isolamento do contato com O2 atmosférico"
+    },
+    "images": [],
+    "tags": [
+      "frutas",
+      "amadurecimento",
+      "química"
+    ],
+    "year": 2023,
+    "test": "ENEM",
+    "area": "nature",
+    "answer": "a"
+  },
+  {
+    "number": 98,
+    "text": "Há muito tempo são conhecidas espécies desses lesmas-do-mar com uma capacidade ímpar: guardam parte da maquinaria das células das algas que consomem — os cloroplastos — e mantê-los funcionais dentro das suas próprias células, obtendo assim parte do seu alimento. Investigadores portugueses descobriram que essas lesmas-do-mar podem ser mais eficientes nesse processo do que as próprias algas que consomem.",
+    "alternatives": {
+      "a": "ácidos nucleicos",
+      "b": "carboidratos",
+      "c": "proteínas",
+      "d": "vitaminas",
+      "e": "lipídios"
+    },
+    "images": [],
+    "tags": [
+      "biologia",
+      "cloroplastos"
+    ],
+    "year": 2023,
+    "test": "ENEM",
+    "area": "nature",
+    "answer": "b"
+  },
+  {
+    "number": 99,
+    "text": "A leishmaniose visceral é uma zoonose causada por m protozoário do gênero Leishmania que é encontrado em versos tecidos. Ela é transmitida ao homem de forma indireta, por vetores do ambiente doméstico. O cão é considerado um importante hospedeiro desse protozoário, odendo ou não apresentar os sintomas da doença, como erda de peso, anemia, ferimentos na pele, diarreia, onjuntivite e insuficiência renal. Em uma região que ofre com alta incidência dessa doença, uma campanha o centro de zoonoses buscou verificar a presença desse rotozoário nos cães para tentar controlar a doença. Em qual material biológico dos cães a presença desse rotozoário representa risco de transmissão dessa zoonose?",
+    "alternatives": {
+      "a": "Urina.",
+      "b": "Saliva.",
+      "c": "Fezes.",
+      "d": "Sangue.",
+      "e": "Secreção ocular."
+    },
+    "images": [],
+    "tags": [
+      "leishmaniose",
+      "zoonose",
+      "protozoário"
+    ],
+    "year": 2023,
+    "test": "ENEM",
+    "area": "nature",
+    "answer": "d"
+  },
+  {
+    "number": 100,
+    "text": "Um professor lança uma esfera verticalmente para\nima, a qual retorna, depois de alguns segundos, ao ponto\nde lançamento. Em seguida, lista em um quadro todas as\nossibilidades para as grandezas cinemáticas.\nGrandeza cinemática Módulo Sentido\nPara cima\nv   ≠  0\nVelocidade Para baixo\nv   =  0 Indefi nido*\nPara cima\na   ≠  0\nAceleração Para baixo\na   =  0 Indefi nido*\nGrandezas com módulo nulo não têm sentido definido.\nEle solicita aos alunos que analisem as grandezas\ncinemáticas no instante em que a esfera atinge a altura\nmáxima, escolhendo uma combinação para os módulos\nsentidos da velocidade e da aceleração.",
+    "alternatives": {
+      "a": "v   =  0 e  a   ≠  0 para cima",
+      "b": "v   ≠  0 para cima e  a   =  0",
+      "c": "v   =  0 e  a   ≠  0 para baixo",
+      "d": "v   ≠  0 para cima e  a   ≠  0 para cima",
+      "e": "v   ≠  0 para baixo e  a   ≠  0 para baixo"
+    },
+    "images": [],
+    "tags": [
+      "física",
+      "cinemática"
+    ],
+    "year": 2023,
+    "test": "ENEM",
+    "area": "nature",
+    "answer": "c"
+  },
+  {
+    "number": 101,
+    "text": "Muitas mulheres sofrem com desconfortos nos dias que antecedem a menstruação, a chamada tensão pré-menstrual. Entre outros sintomas, podem ocorrer alterações de humor. Atualmente, acredita-se que os sintomas são resultado da queda na concentração do neurotransmissor serotonina, que, por sua vez, está relacionado com a diminuição na produção dos hormônios ovarianos estrógeno e progesterona, observada nesta fase do ciclo feminino.",
+    "alternatives": {
+      "a": "regressão do corpo lúteo ovariano.",
+      "b": "diminuição na produção de ocitocina.",
+      "c": "liberação do gameta feminino na ovulação.",
+      "d": "aumento nos níveis dos hormônios LH e FSH.",
+      "e": "elevação nos níveis sorológicos de adrenalina."
+    },
+    "images": [],
+    "tags": [
+      "fisiologia",
+      "ciclo menstrual"
+    ],
+    "year": 2023,
+    "test": "ENEM",
+    "area": "nature",
+    "answer": "a"
+  },
+  {
+    "number": 102,
+    "text": "As cetonas fazem parte de famílias olfativas encontrada em muitos alimentos. A molécula de hexan-3-ona é um exemplo desses compostos voláteis responsáveis pelo aroma, podendo ser obtida por processos energéticos realizados em meio ácido, na presença de oxidantes como permanganato de potássio.\n\nPara se produzir esse composto volátil em laboratório deve-se oxidar a molécula de",
+    "alternatives": {
+      "a": "hexanal.",
+      "b": "hexan-1-ol.",
+      "c": "hexan-3-ol.",
+      "d": "hex-1-en-1-ol.",
+      "e": "ácido hexanoico."
+    },
+    "images": [],
+    "tags": [
+      "química",
+      "organometalica"
+    ],
+    "year": 2023,
+    "test": "ENEM",
+    "area": "nature",
+    "answer": "c"
+  },
+  {
+    "number": 103,
+    "text": "Durante a evolução das plantas, ocorreu uma transição do ambiente aquático para o ambiente terrestre graças ao surgimento de algumas estruturas que as tornaram independentes da água. Esse fato permitiu maior dispersão desse grupo de seres vivos, sendo possível observá-lo em diferentes ambientes na atualidade. Qual estrutura possibilitou a independência da água para a fecundação dos seres vivos citados acima?",
+    "alternatives": {
+      "a": "Fruto",
+      "b": "Esporo",
+      "c": "Semente",
+      "d": "Tubo polínico",
+      "e": "Vaso condutor"
+    },
+    "images": [],
+    "tags": [
+      "evolução",
+      "plantas"
+    ],
+    "year": 2023,
+    "test": "ENEM",
+    "area": "nature",
+    "answer": "d"
+  },
+  {
+    "number": 104,
+    "text": "O vidro contendo alumínio em sua composição é m excelente material para acondicionar medicamentos suplementos, porque pode ser esterilizado por quecimento. No entanto, quando o medicamento u suplemento contém substâncias que se ligam ortemente ao íon desse metal, a dissolução do lumínio é promovida em função do deslocamento o equilíbrio químico estabelecido entre a espécie mobilizada no vidro e a espécie em solução. Por essa azão, recomenda-se que suplementos de nutrição de ecém-nascidos contendo gluconato de cálcio sejam condicionados em embalagens plásticas, e não nesse po de vidro.",
+    "alternatives": {
+      "a": "vidro do frasco for translúcido",
+      "b": "concentração de gluconato de cálcio for alta",
+      "c": "frasco de vidro apresentar uma maior espessura",
+      "d": "vidro for previamente esterilizado em altas temperaturas",
+      "e": "reação do alumínio com gluconato de cálcio for endotérmica"
+    },
+    "images": [],
+    "tags": [
+      "química",
+      "material"
+    ],
+    "year": 2023,
+    "test": "ENEM",
+    "area": "nature",
+    "answer": "b"
+  },
+  {
+    "number": 105,
+    "text": "Barbatimão é o nome popular de uma árvore cuja asca é utilizada para fins medicinais. Essa casca é onstituída principalmente de dois tecidos vegetais: eriderme e floema. A extração da casca tem levado à morte muitos indivíduos dessa espécie, quando o corte etira um anel completo ao longo da circunferência do tronco. Aqueles que têm parte da casca retirada sem ompletar essa circunferência podem sobreviver.",
+    "alternatives": {
+      "a": "fotossíntese",
+      "b": "transpiração",
+      "c": "troca de gases",
+      "d": "formação de brotos",
+      "e": "nutrição das raízes"
+    },
+    "images": [],
+    "tags": [
+      "botânica",
+      "anatomia vegetal"
+    ],
+    "year": 2023,
+    "test": "ENEM",
+    "area": "nature",
+    "answer": "e"
+  },
+  {
+    "number": 106,
+    "text": "A tecnologia de vacinas de RNA mensageiro (RNAm) é investigada há anos. Avanços científicos em genética molecular permitiram desenvolver uma vacina para controle da pandemia da covid-19 causada pelo vírus do RNA SARS-CoV-2. A vacina de RNAm tem sequência de genes do vírus. Entretanto, por ser muito instável, o RNAm deve ser recoberto por uma capa de lipídios que evita sua degradação e favorece sua ação. Dessa forma, o RNAm desempenhará sua função específica atuando no mesmo compartimento celular de sempre.",
+    "alternatives": {
+      "a": "estimulação de leucócitos induzida pela capa lipídica contendo RNAm.",
+      "b": "atuação do RNAm como sequestrador do vírus para o meio extracelular.",
+      "c": "tradução do RNAm em proteína viral, desencadeando a resposta antigênica.",
+      "d": "competição entre o RNAm vacinal e o RNA viral pelos sítios dos ribossomos.",
+      "e": "incorporação do RNAm viral ao genoma do hospedeiro gerando novo fenótipo."
+    },
+    "images": [],
+    "tags": [
+      "vacinas",
+      "genética molecular"
+    ],
+    "year": 2023,
+    "test": "ENEM",
+    "area": "nature",
+    "answer": "c"
+  },
+  {
+    "number": 107,
+    "text": "Na fertilização in vitro, espermatozoides são adicionados aos gametas femininos retirados de uma mulher. Após período de incubação, a fecundação é favorecida pela ação de enzimas. Em um procedimento realizado, observou-se que nenhum dos gametas femininos foi fertilizado e posteriormente, verificou-se que havia sido adicionado equivocadamente, um coquetel de inibidores das enzimas da acrosoma, no lugar de um dos nutrientes constituintes do meio de cultura. O coquetel de inibidores impediu o(a)",
+    "alternatives": {
+      "a": "formação do pronúcleo masculino.",
+      "b": "início da divisão mitótica do zigoto.",
+      "c": "término da segunda divisão meiótica do ovócito.",
+      "d": "passagem do espermatozoide pela corona radiata zona pelúcida.",
+      "e": "fusão das membranas plasmáticas do ovócito e do espermatozoide."
+    },
+    "images": [],
+    "tags": [
+      "biologia",
+      "reprodução humana"
+    ],
+    "year": 2023,
+    "test": "ENEM",
+    "area": "nature",
+    "answer": "d"
+  },
+  {
+    "number": 108,
+    "text": "O fogão por indução funciona a partir do surgimento e uma corrente elétrica induzida no fundo da panela, om consequente transformação de energia elétrica m calor por efeito Joule. A principal vantagem desses ogões é a eficiência energética, que é substancialmente maior que a dos fogões convencionais.",
+    "alternatives": {
+      "a": "radiação",
+      "b": "condução",
+      "c": "campo elétrico variável",
+      "d": "campo magnético variável",
+      "e": "ressonância eletromagnética"
+    },
+    "images": [],
+    "tags": [
+      "física",
+      "energia"
+    ],
+    "year": 2023,
+    "test": "ENEM",
+    "area": "nature",
+    "answer": "d"
+  },
+  {
+    "number": 109,
+    "text": "Uma academia decide trocar gradualmente seus pares de musculação. Agora, os frequentadores que utilizam os aparelhos do tipo 1 podem também utilizar os aparelhos do tipo 2, representados na figura, para elevar cargas correspondentes às massas M e M com velocidade constante. A fim de que o exercício seja realizado com a mesma força F, os usuários devem ser orientados a respeito da relação entre as cargas nos dois pontos de aparelhos, já que as polias fixas apenas mudam a direção das forças, enquanto a polia móvel divide as forças. Em ambos os aparelhos, considere as cordas inextensíveis, as massas das polias e das cordas desprezíveis e que não há dissipação de energia.",
+    "alternatives": {
+      "a": "4",
+      "b": "2",
+      "c": "1",
+      "d": "2",
+      "e": "4"
+    },
+    "images": [],
+    "tags": [
+      "física",
+      "força"
+    ],
+    "year": 2023,
+    "test": "ENEM",
+    "area": "nature",
+    "answer": "d"
+  },
+  {
+    "number": 110,
+    "text": "Um assistente de laboratório precisou descartar sete frascos contendo solução de nitrato de mercúrio(I) que não foram utilizados em uma aula prática. Cada frasco continha 5,25 g de Hg (NO ) dissolvidos em água. Temendo a toxidez do mercúrio e sabendo que o Hg Cl tem solubilidade muito baixa, o assistente optou por retirar o mercúrio da solução por precipitação com cloreto de sódio (NaCl), conforme a equação química: Hg Cl (s) + 2 NaNO (aq). O assistente aumentou gradativamente a quantidade adicionada de NaCl e teve sua massa aferida. O assistente organizou os resultados na forma de um gráfico que correlaciona a massa de Hg Cl obtida com a massa de NaCl adicionada em cada frasco. A massa molar do Hg (NO ) é 525 g mol–1 e a do NaCl é 58 g mol–1.",
+    "alternatives": {
+      "a": "7\n6  (g) 2\n5 Cl 2\n4\n3\n2\n1\n0 Massa de Hg\n0,0 0,2 0,4 0,6 0,8 1,0 1,2 1,4\nMassa de NaCI (g)",
+      "b": "7\n6  (g) 2\n5 Cl 2\n4\n3\n2\n1\n0 Massa de Hg\n0,0 0,2 0,4 0,6 0,8 1,0 1,2 1,4\nMassa de NaCI (g)",
+      "c": "7\n6  (g) 2\n5 Cl 2\n4\n3\n2\n1\n0 Massa de Hg\n0,0 0,2 0,4 0,6 0,8 1,0 1,2 1,4\nMassa de NaCI (g)",
+      "d": "7\n6  (g) 2\n5 Cl 2\n4\n3 D\n2\n1\n0 Massa de Hg\n0,0 0,2 0,4 0,6 0,8 1,0 1,2 1,4\nMassa de NaCI (g)",
+      "e": "7\n6  (g) 2\n5 Cl 2\n4\n3\n2\n1\n0 Massa de Hg\n0,0 0,2 0,4 0,6 0,8 1,0 1,2 1,4\nMassa de NaCI (g)"
+    },
+    "images": [],
+    "tags": [
+      "química",
+      "equações químicas",
+      "precipitação"
+    ],
+    "year": 2023,
+    "test": "ENEM",
+    "area": "nature",
+    "answer": "b"
+  },
+  {
+    "number": 111,
+    "text": "[Figura: tirinha de Mauricio de Sousa] Na prática, à medida que se aumenta o comprimento do barbante...",
+    "alternatives": {
+      "a": "Altura.",
+      "b": "Período.",
+      "c": "Amplitude.",
+      "d": "Velocidade.",
+      "e": "Comprimento de onda."
+    },
+    "images": [
+      "figuras/q111_2023_fig1.png"
+    ],
+    "tags": [
+      "física",
+      "som"
+    ],
+    "year": 2023,
+    "test": "ENEM",
+    "area": "nature",
+    "answer": "c"
+  },
+  {
+    "number": 112,
+    "text": "Informações digitais — dados — são gravadas em microscópicas. A gravação e a leitura óptica dessas informa Quanto menores as dimensões dessas cavidades, mais da para a leitura de dados é o espalhamento da luz pelo efeito obstáculo com dimensões da ordem de seu comprimento com emissão em menores comprimentos de onda, possibi Em qual região espectral se situa o comprimento de ond em discos de uma mesma área?",
+    "alternatives": {
+      "a": "Violeta.",
+      "b": "Azul.",
+      "c": "Verde.",
+      "d": "Vermelho.",
+      "e": "Infravermelho."
+    },
+    "images": [],
+    "tags": [
+      "física",
+      "optica"
+    ],
+    "year": 2023,
+    "test": "ENEM",
+    "area": "nature",
+    "answer": "a"
+  },
+  {
+    "number": 113,
+    "text": "O bluetooth é uma tecnologia de comunicação sem fio entre eletrônicos de consumo. Ela permite que aparelhos e dispositivos se conectem uns aos outros. No padrão bluetooth, denominado de Classe 2, as antenas transmitem sinais de potência igual a 2,4 mW e possuem alcance máximo de 10 metros. Considere que essas antenas se comportam como fontes puntiformes que emitem ondas eletromagnéticas isotrópicas e que a intensidade do sinal é calculada pela potência por unidade de área. Considere 3 como valor aproximado para π. Para que o sinal de bluetooth seja detectado pelas antenas próximas, o valor mínimo de sua intensidade, em W/m², é mais próximo de",
+    "alternatives": {
+      "a": "-6 A   2,0 × 10^-6",
+      "b": "-5 B   2,0 × 10^-5",
+      "c": "-5 C   2,4 × 10^-5",
+      "d": "-3 D   2,4 × 10^-3",
+      "e": "-1 E   2,4 × 10^-1"
+    },
+    "images": [],
+    "tags": [
+      "tecnologia",
+      "comunicação sem fio"
+    ],
+    "year": 2023,
+    "test": "ENEM",
+    "area": "nature",
+    "answer": "a"
+  },
+  {
+    "number": 114,
+    "text": "Uma equipe de segurança do transporte de uma empresa avalia o comportamento das tensões que aparecem em duas cordas, 1 e 2, usadas para prender uma carga de massa M = 200 kg na carroceria. Quando o caminhão parte do repouso, sua aceleração é constante e igual a 3 m/s² e, quando ele é freado bruscamente, sua frenagem é constante e igual a 5 m/s². Em ambas as situações, a carga encontra-se na iminência de movimento e o sentido do movimento do caminhão está indicado na figura. O coeficiente de atrito estático entre a caixa e o assoalho da carroceria é igual a 0,2. Considere a aceleração da gravidade igual a 10 m/s², as tensões iniciais nas cordas iguais a zero e as duas cordas ideais.",
+    "alternatives": {
+      "a": "aceleração: T₁ = 0 e T₂ = 200; frenagem: T₁ = 600 e T₂ = 0",
+      "b": "aceleração: T₁ = 0 e T₂ = 200; frenagem: T₁ = 1400 e T₂ = 0",
+      "c": "aceleração: T₁ = 0 e T₂ = 600; frenagem: T₁ = 600 e T₂ = 0",
+      "d": "aceleração: T₁ = 560 e T₂ = 0; frenagem: T₁ = 0 e T₂ = 960",
+      "e": "aceleração: T₁ = 640 e T₂ = 0; frenagem: T₁ = 0 e T₂ = 1040"
+    },
+    "images": [],
+    "tags": [
+      "física",
+      "dinâmica"
+    ],
+    "year": 2023,
+    "test": "ENEM",
+    "area": "nature",
+    "answer": "a"
+  },
+  {
+    "number": 115,
+    "text": "A biorremediação designa tratamentos que usam organismos para reduzir a quantidade de substância tóxicas no ambiente ou degradá-las em substância não tóxicas ou de menor toxicidade. Uma planta aquática o aguapé, tem sido utilizada para a biorremediação d ambientes contaminados por metais tóxicos. Sabe-se que esses poluentes serão captados para dentro do corpo do vegetal.\n\nDentro do corpo do vegetal, esses contaminantes serão",
+    "alternatives": {
+      "a": "digeridos por enzimas.",
+      "b": "acumulados nos tecidos.",
+      "c": "eliminados pelos estômatos.",
+      "d": "metabolizados por glândulas.",
+      "e": "utilizados como fonte energética."
+    },
+    "images": [],
+    "tags": [
+      "biorremediação",
+      "ambiente",
+      "plantas"
+    ],
+    "year": 2023,
+    "test": "ENEM",
+    "area": "nature",
+    "answer": "b"
+  },
+  {
+    "number": 116,
+    "text": "O ciclo do nitrogênio é composto por várias etapas, conforme a figura, sendo cada uma desempenhada por um grupo específico de microrganismos. Gás nitrogênio\n1\n2\nDetritos Amônia\n5 3\nNitrito\n4\nNitrato\nSe o grupo dos microrganismos decompositores fosse exterminado, qual etapa não ocorreria?",
+    "alternatives": {
+      "a": "1",
+      "b": "2",
+      "c": "3",
+      "d": "4",
+      "e": "5"
+    },
+    "images": [],
+    "tags": [
+      "ciclo do nitrogênio",
+      "microrganismos",
+      "decomposição"
+    ],
+    "year": 2023,
+    "test": "ENEM",
+    "area": "nature",
+    "answer": "b"
+  },
+  {
+    "number": 117,
+    "text": "Os raios cósmicos são fontes de radiação ionizante potencialmente perigosas para o organismo humano. Para quantificar a dose de radiação recebida, utiliza-se sievert (Sv), definido como a unidade de energia recebida por unidade de massa. A exposição à radiação proveniente de raios cósmicos aumenta com a altitude, que pode representar um problema para as tripulações e aeronaves. Recentemente, foram realizadas medições curadas das doses de radiação ionizante para voos entre Rio de Janeiro e Roma. Os resultados têm indicado que a dose média de radiação recebida na fase de cruzeiro (que geralmente representa 80% do tempo total de voo) desse trecho intercontinental é 2 μSv/h. As normas internacionais para aviação civil limitam em 1 000 horas por ano o tempo de trabalho para as tripulações que atuem em voos intercontinentais. Considere que a dose de radiação ionizante para uma radiografia torácica é estimada em 0,2 mSv.",
+    "alternatives": {
+      "a": "8",
+      "b": "10",
+      "c": "80",
+      "d": "100",
+      "e": "1 000"
+    },
+    "images": [],
+    "tags": [
+      "radiação",
+      "avião",
+      "saúde"
+    ],
+    "year": 2023,
+    "test": "ENEM",
+    "area": "nature",
+    "answer": "a"
+  },
+  {
+    "number": 118,
+    "text": "A gasolina é uma mistura de hidrocarbonetos de cadeias saturadas contendo de 8 a 12 átomos de carbono. Além disso, a gasolina de alto desempenho deve conter elevados teores de hidrocarbonetos de cadeias ramificadas de forma a resistir à compressão e entrar em ignição apenas quando a vela aciona uma centelha elétrica no motor. No quadro, estão apresentados compostos que podem ser utilizados como combustíveis.\n\nComposto Nomenclatura\nI n-decano\nII n-heptano\nIII 2,2,4-trimetilpentano\nIV 3-etil-4-metilex-1-eno\nV 3-etil-2-metilpentan-1-ol\nEntre esses compostos, aquele que conferirá maior desempenho como combustível é o",
+    "alternatives": {
+      "a": "I.",
+      "b": "II.",
+      "c": "III.",
+      "d": "IV.",
+      "e": "V."
+    },
+    "images": [],
+    "tags": [
+      "combustíveis",
+      "hidrocarbonetos",
+      "gasolina"
+    ],
+    "year": 2023,
+    "test": "ENEM",
+    "area": "nature",
+    "answer": "c"
+  },
+  {
+    "number": 119,
+    "text": "Suponha um frasco metálico de um aerossol de capacidade igual a 100 mL, contendo 0,1 mol de produto gasoso à temperatura de 650 °C, no momento da explosão. Considere: R = 0,082 L ⋅ atm / (mol ⋅ K). A pressão, em atm, dentro do frasco, no momento da explosão, é mais próxima de",
+    "alternatives": {
+      "a": "756",
+      "b": "533",
+      "c": "76",
+      "d": "53",
+      "e": "13"
+    },
+    "images": [],
+    "tags": [
+      "física",
+      "química"
+    ],
+    "year": 2023,
+    "test": "ENEM",
+    "area": "nature",
+    "answer": "c"
+  },
+  {
+    "number": 120,
+    "text": "O circuito com três lâmpadas incandescentes idênticas, representado na figura, consiste em uma associação mista de resistores. Cada lâmpada (L₁, L₂ e L₃) é associada, em paralelo, a um resistor de resistência R, formando um conjunto. Esses conjuntos são associados em série, tendo todas as lâmpadas o mesmo brilho quando ligadas à fonte de energia. Após vários dias em uso, apenas a lâmpada L₂ queima, enquanto as demais permanecem acesas. Em relação à situação em que todas as lâmpadas funcionam, após a queima de L₂, os brilhos das lâmpadas serão",
+    "alternatives": {
+      "a": "os mesmos.",
+      "b": "mais intensos.",
+      "c": "menos intensos.",
+      "d": "menos intenso para L₁ e o mesmo para L₃",
+      "e": "mais intenso para L₁ e menos intenso para L₃"
+    },
+    "images": [],
+    "tags": [
+      "física",
+      "eletricidade"
+    ],
+    "year": 2023,
+    "test": "ENEM",
+    "area": "nature",
+    "answer": "c"
+  },
+  {
+    "number": 121,
+    "text": "Os solos amazônicos, ricos em silicato, não são apro... (continuation of the text as provided)",
+    "alternatives": {
+      "a": "potássio.",
+      "b": "cálcio.",
+      "c": "magnésio.",
+      "d": "zinco.",
+      "e": "ferro."
+    },
+    "images": [],
+    "tags": [
+      "solos",
+      "biocarvão",
+      "eletronegatividade"
+    ],
+    "year": 2023,
+    "test": "ENEM",
+    "area": "nature",
+    "answer": "a"
+  },
+  {
+    "number": 122,
+    "text": "Em uma indústria alimentícia, para produção de doce, utiliza-se um tacho de parede oca com uma entrada para vapor de água a 120 °C e uma saída para água líquida do tacho. O vapor de água transforma-se em líquido no interior do tacho, resultando na evaporação de água e concentração do produto. No processo de concentração do produto, é utilizada a energia proveniente do calor latente de condensação.",
+    "alternatives": {
+      "a": "somente do calor latente de vaporização",
+      "b": "somente do calor latente de condensação",
+      "c": "do calor sensível e do calor latente de vaporização",
+      "d": "do calor sensível e do calor latente de condensação",
+      "e": "do calor latente de condensação e do calor latente de vaporização"
+    },
+    "images": [],
+    "tags": [
+      "energia",
+      "calor",
+      "indústria alimentícia"
+    ],
+    "year": 2023,
+    "test": "ENEM",
+    "area": "nature",
+    "answer": "d"
+  },
+  {
+    "number": 123,
+    "text": "Entre os medicamentos mais comuns consumidos com ação anti-inflamatória e efeito analgésico, que é co a mistura com outro isômero óptico. A fórmula estrutural do ibuprofeno é dada como: Ibu Além do ibuprofeno, destacam-se também os princípios ativos para o alívio da dor: H N O O HO Fenacetina Parace Cl NH − Cl Na O O Diclofenaco sódico O princípio ativo que apresenta o mesmo tipo de isomer",
+    "alternatives": {
+      "a": "fenacetina.",
+      "b": "paracetamol.",
+      "c": "dipirona sódica.",
+      "d": "diclofenaco sódico.",
+      "e": "butilbrometo de escopolamina."
+    },
+    "images": [],
+    "tags": [
+      "medicamentos",
+      "química"
+    ],
+    "year": 2023,
+    "test": "ENEM",
+    "area": "nature",
+    "answer": "e"
+  },
+  {
+    "number": 124,
+    "text": "Uma concessionária é responsável por um trecho de 480 quilômetros de uma rodovia. Nesse trecho, foram construídas 10 praças de pedágio, onde funcionários realizam os pagamentos nas cabines de cobrança. Também existe o serviço automático, em que os veículos providos de um dispositivo passam por uma cancela, que se abre automaticamente, evitando filas e diminuindo o tempo médio para efetuar a passagem em uma cabine é de 3 minutos, e as velocidades máximas permitidas na rodovia são 100 km/h, para veículos leves, e 80 km/h, para veículos de grande porte. Considere um carro e um caminhão viajando, ambos com velocidades constantes e iguais às máximas permitidas, e que somente o caminhão tenha o serviço automático disponível. Comparado ao caminhão, quantos minutos a menos o carro leva para percorrer toda a rodovia?",
+    "alternatives": {
+      "a": "30",
+      "b": "42",
+      "c": "72",
+      "d": "288",
+      "e": "360"
+    },
+    "images": [],
+    "tags": [
+      "matemática",
+      "física"
+    ],
+    "year": 2023,
+    "test": "ENEM",
+    "area": "nature",
+    "answer": "b"
+  },
+  {
+    "number": 125,
+    "text": "A síndrome de Down é uma alteração genética associada à presença de três cromossomos 21 e não um par, como é normal. Isso ocorre quando um gameta possuidor de dois cromossomos 21 participa da formação do zigoto. Em 2008, no interior de São Paulo, uma dessas mulheres estéreis teve um filho. Sabendo disso, um jovem casal, ambos com essa síndrome, deseja ter um bebê por razões genéticas. O médico informa ao casal que, com relação aos cromossomos 21 do futuro filho, é possível que ele tenha:",
+    "alternatives": {
+      "a": "todos normais.",
+      "b": "todos tetrassômicos.",
+      "c": "apenas normais ou tetrassômicos.",
+      "d": "apenas trissômicos ou tetrassômicos.",
+      "e": "normais, trissômicos ou tetrassômicos."
+    },
+    "images": [],
+    "tags": [
+      "genética",
+      "síndrome de down"
+    ],
+    "year": 2023,
+    "test": "ENEM",
+    "area": "nature",
+    "answer": "e"
+  },
+  {
+    "number": 126,
+    "text": "Para que uma molécula dê origem a um medicamento farmacológica, deve ser capaz de atingir o local de ação. (onde o meio é fortemente ácido e há várias enzimas que podem degradar as membranas celulares e ser solúvel no plasma sanguíneo) formadas por cadeias carbônicas longas contendo pelo menos um grupo amônico, é sua conversão no cloridrato correspondente. Essa conversão pode ser representada pela reação R N + HCl 3. O aumento da eficiência de circulação do fármaco no sangue depende de seu(sua) ...",
+    "alternatives": {
+      "a": "basicidade.",
+      "b": "lipofilicidade.",
+      "c": "caráter iônico.",
+      "d": "cadeia carbônica.",
+      "e": "estado de oxidação."
+    },
+    "images": [],
+    "tags": [
+      "farmacologia",
+      "química"
+    ],
+    "year": 2023,
+    "test": "ENEM",
+    "area": "nature",
+    "answer": "c"
+  },
+  {
+    "number": 127,
+    "text": "Toxicidade\nA produção de ATP depende do gradiente de prótons provenientes da oxidação do NADH em NAD+, percorrem Fe3+ a Fe2+. O oxigênio atua como aceptor final desses altamente tóxica que tem grande afinidade pelo Fe3+. Qu Fe3+ da citocromo c oxidase, impedindo a sua conversão",
+    "alternatives": {
+      "a": "ATP.",
+      "b": "água.",
+      "c": "NADH.",
+      "d": "dióxido de carbono.",
+      "e": "citocromo c oxidase."
+    },
+    "images": [],
+    "tags": [
+      "biologia",
+      "química"
+    ],
+    "year": 2023,
+    "test": "ENEM",
+    "area": "nature",
+    "answer": "c"
+  },
+  {
+    "number": 128,
+    "text": "É comum em viagens de avião sermos solicitados desligar aparelhos cujo funcionamento envolva a emissão ou a recepção de ondas eletromagnéticas, como celulares. A justificativa dada para esse procedimento é, entre outras coisas, a necessidade de eliminar fontes de sinal eletromagnéticos que possam interferir nas comunicações via rádio, dos pilotos com a torre de controle. Essa interferência poderá ocorrer somente se as ondas emitidas pelo celular e as recebidas pelo rádio do avião",
+    "alternatives": {
+      "a": "forem ambas audíveis.",
+      "b": "tiverem a mesma potência.",
+      "c": "tiverem a mesma frequência.",
+      "d": "tiverem a mesma intensidade.",
+      "e": "propagarem-se com velocidades diferentes."
+    },
+    "images": [],
+    "tags": [
+      "física",
+      "ondas eletromagnéticas"
+    ],
+    "year": 2023,
+    "test": "ENEM",
+    "area": "nature",
+    "answer": "c"
+  },
+  {
+    "number": 129,
+    "text": "O Aldrin é um inseticida agrícola organoclorado sintético de baixa polaridade, cuja estrutura molecular simétrica, de fórmula C H Cl , está representada na figura. Introduzido na agricultura a partir da década de 1950, esse composto apresenta alta persistência no meio ambiente e acumulação nos organismos, sendo danoso para a saúde.\nUm pesquisador coletou fluidos biológicos de indivíduos de uma população contaminada por esse inseticida agrícola. Ele analisou amostras de saliva, sangue, lágrima, urina e leite quanto à presença dessa substância.\nEm qual dos fluidos o pesquisador provavelmente encontrará a maior concentração dessa substância?",
+    "alternatives": {
+      "a": "Saliva, por consequência da atividade de enzimas.",
+      "b": "Sangue, em função das hemácias e leucócitos.",
+      "c": "Lágrima, em razão da concentração de sais.",
+      "d": "Urina, pela presença de moléculas de ureia.",
+      "e": "Leite, por causa do alto teor de gorduras."
+    },
+    "images": [],
+    "tags": [
+      "inseticida",
+      "organoclorado",
+      "persistência ambiental"
+    ],
+    "year": 2023,
+    "test": "ENEM",
+    "area": "nature",
+    "answer": "e"
+  },
+  {
+    "number": 130,
+    "text": "Uma cafeteria adotou copos fabricados a partir e uma composição de 50% de plástico reciclado não iodegradável e 75% de casca de café. O copo é reutilizável retornável, pois o material, semelhante a uma cerâmica, uporta a lavagem. Embora ele seja comercializado por m preço considerado alto quando comparado ao de um opo de plástico descartável, essa cafeteria possibilita aos clietes retornarem o copo sujo e levarem o café quente ervido em outro copo já limpo e higienizado. O material esse copo oferece também o conforto de não esquentar a parte externa.",
+    "alternatives": {
+      "a": "Ter a durabilidade de uma cerâmica e ser totalmente biodegradável.",
+      "b": "Ser tão durável quanto uma cerâmica e ter alta condutividade térmica.",
+      "c": "Ser um mau condutor térmico e aumentar o resíduo biodegradável na natureza.",
+      "d": "Ter baixa condutividade térmica e reduzir o resíduo não biodegradável na natureza.",
+      "e": "Ter alta condutividade térmica e possibilitar a degradação do material no meio ambiente."
+    },
+    "images": [],
+    "tags": [
+      "reciclagem",
+      "sustentabilidade"
+    ],
+    "year": 2023,
+    "test": "ENEM",
+    "area": "nature",
+    "answer": "d"
+  },
+  {
+    "number": 131,
+    "text": "O consumo exagerado de refrigerantes é preocupante, pois contribui para o aumento de casos de obesidade e diabetes. Considere dois refrigerantes enlatados, um comum e um diet, e que ambos possuam a mesma quantidade de aditivos, exceto pela presença de açúcar. O refrigerante comum contém basicamente água carbonatada e grande quantidade de açúcar; já o refrigerante diet tem água carbonatada e adoçantes, cujas massas são muito pequenas.",
+    "alternatives": {
+      "a": "maior densidade",
+      "b": "menor viscosidade",
+      "c": "maior volume de gás dissolvido",
+      "d": "menor massa de solutos dissolvidos",
+      "e": "maior temperatura de congelamento"
+    },
+    "images": [],
+    "tags": [
+      "refrigerantes",
+      "química"
+    ],
+    "year": 2023,
+    "test": "ENEM",
+    "area": "nature",
+    "answer": "a"
+  },
+  {
+    "number": 132,
+    "text": "O manual de um automóvel alerta sobre os cuidados com a pressão dos pneus. Recomenda-se que a pressão seja verificada com o carro frio (à temperatura ambiente). Um motorista, desatento a essa informação, realizou uma viagem longa sobre o asfalto quente e, em seguida, verificou que a pressão P no interior dos pneus não era a recomendada pelo fabricante. Na ocasião, a temperatura dos pneus era T. Após um longo período em repouso, os pneus resfriaram-se, não há alteração no volume dos pneus e o ar dentro deles é considerado um gás perfeito (também denominado gás ideal). Durante o processo de resfriamento, os valores de pressão do ar no interior dos pneus em relação à temperatura (P × T) são representados pelo gráfico:",
+    "alternatives": {
+      "a": "(Pa)\nP 0\nA\nT T T (K) 0",
+      "b": "(Pa)\nP 0\nB\nT T T (K) 0",
+      "c": "(Pa)\nC\nP 0\nT T T (K) 0",
+      "d": "(Pa)\nD P 0\nT T T (K) 0",
+      "e": "(Pa)\nP 0\nE\nT T T (K) 0"
+    },
+    "images": [],
+    "tags": [
+      "física",
+      "gás perfeito"
+    ],
+    "year": 2023,
+    "test": "ENEM",
+    "area": "nature",
+    "answer": "e"
+  },
+  {
+    "number": 133,
+    "text": "O descarte de detergentes comuns nos esgoto domésticos ocasiona a formação de uma camada [Figura: espuma que impede a entrada de oxigênio na água] que impede a entrada de oxigênio na água. Os microrganismos que vivem nessas águas não são capazes de quebrar moléculas ramificadas ocorrendo assim um desequilíbrio ambiental nos rios A fórmula a seguir representa a estrutura química de um tensoativo presente na composição de um detergente não biodegradável. O S O + –  O Na Tensoativo não biodegradável Qual modificação química na estrutura desse tensoativo tornaria um detergente biodegradável?",
+    "alternatives": {
+      "a": "Retirar a parte polar da molécula.",
+      "b": "Eliminar as insaturações do anel aromático.",
+      "c": "Trocar o grupo aniônico por um grupo neutro.",
+      "d": "Alterar o grupo aniônico por um grupo catiônico.",
+      "e": "Modificar a cadeia carbônica para cadeia normal."
+    },
+    "images": [
+      "figuras/q133_2023_fig1.png",
+      "figuras/q133_2023_fig2.png"
+    ],
+    "tags": [
+      "ambiente",
+      "química"
+    ],
+    "year": 2023,
+    "test": "ENEM",
+    "area": "nature",
+    "answer": "e"
+  },
+  {
+    "number": 134,
+    "text": "O ensaio de micronúcleos é um teste de avaliação de genotoxicidade que associa a presença de micronúcleo (pequenos núcleos que aparecem próximo aos núcleos das células) com lesões genéticas. Os micronúcleos são fragmentos de DNA encapsulados, provenientes do fus mitótico durante a divisão celular.",
+    "alternatives": {
+      "a": "nucléolos",
+      "b": "lisossomos",
+      "c": "ribossomos",
+      "d": "mitocôndrias",
+      "e": "cromossomos"
+    },
+    "images": [],
+    "tags": [
+      "genotoxicidade",
+      "micronúcleos"
+    ],
+    "year": 2023,
+    "test": "ENEM",
+    "area": "nature",
+    "answer": "e"
+  },
+  {
+    "number": 135,
+    "text": "O petróleo é uma matéria-prima muito valiosa [Figura: esquema de camadas geológicas] métodos geofísicos são úteis na sua prospecção. É possível identificar a composição de materiais stratificados medindo-se a velocidade de propagação o som (onda mecânica) através deles. Considere que ma camada de 450 m de um líquido se encontra presa o subsolo entre duas camadas rochosas, conforme o esquema. Um pulso acústico (que gera uma vibração mecânica) é emitido a partir da superfície do solo, onde ão posteriormente recebidas duas vibrações refletidas ecos). A primeira corresponde à reflexão do pulso na interface superior do líquido com a camada rochosa. A segunda vibração deve-se à reflexão do pulso na interface inferior. O tempo entre a emissão do pulso e chegada do primeiro eco é de 0,5 s. O segundo eco hega 1,1 s após a emissão do pulso.",
+    "alternatives": {
+      "a": "270",
+      "b": "540",
+      "c": "818",
+      "d": "1 500",
+      "e": "1 800"
+    },
+    "images": [
+      "figuras/q135_2023_fig1.png",
+      "figuras/q135_2023_fig2.png"
+    ],
+    "tags": [
+      "geofísica",
+      "física"
+    ],
+    "year": 2023,
+    "test": "ENEM",
+    "area": "nature",
+    "answer": "d"
+  }
+]

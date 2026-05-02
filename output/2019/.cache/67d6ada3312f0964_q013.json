@@ -1,0 +1,24 @@
+{
+  "number": 13,
+  "text": "O fragmento da peça teatral de Oswald de Andrade ironiza a reação da sociedade brasileira dos anos 1930 diante de determinada vanguarda europeia. Nessa visão, atribui-se ao público leitor uma postura",
+  "alternatives": {
+    "a": "preconceituosa, ao evitar formas poéticas simplificadas.",
+    "b": "conservadora, ao optar por modelos consagrados.",
+    "c": "preciosista, ao preferir modelos literários eruditos.",
+    "d": "nacionalista, ao negar modelos estrangeiros.",
+    "e": "eclética, ao aceitar diversos estilos poéticos."
+  },
+  "answer": "b",
+  "tags": [
+    "literatura brasileira",
+    "interpretação de texto"
+  ],
+  "year": 2019,
+  "test": "ENEM",
+  "area": "linguagens",
+  "difficulty": 6,
+  "images": [],
+  "contextId": "enem_2019_linguagens_q13_ctx1",
+  "contextIds": null,
+  "language": null
+}

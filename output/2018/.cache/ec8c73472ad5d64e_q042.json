@@ -1,0 +1,25 @@
+{
+  "number": 42,
+  "text": "Publicado em 1979, o texto compartilha com outras obras da literatura brasileira escritas no período as marcas do contexto em que foi produzido, como a",
+  "alternatives": {
+    "a": "referência à censura e à opressão para alegorizar a falta de liberdade de expressão característica da época.",
+    "b": "valorização de situações do cotidiano para atenuar os sentimentos de revolta em relação ao governo instituído.",
+    "c": "utilização de metáforas e ironias para expressar um olhar crítico em relação à situação social e política do país.",
+    "d": "tendência realista para documentar com verossimilhança o drama da população brasileira durante o Regime Militar.",
+    "e": "sobreposição das manifestações populares pelo discurso oficial para destacar o autoritarismo do momento histórico."
+  },
+  "answer": "c",
+  "tags": [
+    "literatura brasileira",
+    "interpretação de texto",
+    "história do brasil república"
+  ],
+  "year": 2018,
+  "test": "ENEM",
+  "area": "linguagens",
+  "difficulty": 6,
+  "images": [],
+  "contextId": "enem_2018_linguagens_ctx1",
+  "contextIds": null,
+  "language": null
+}

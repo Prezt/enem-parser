@@ -1,0 +1,23 @@
+{
+  "number": 113,
+  "text": "O bluetooth é uma tecnologia de comunicação sem fio entre eletrônicos de consumo. Ela permite que aparelhos e dispositivos se conectem uns aos outros. No padrão bluetooth, denominado de Classe 2, as antenas transmitem sinais de potência igual a 2,4 mW e possuem alcance máximo de 10 metros. Considere que essas antenas se comportam como fontes puntiformes que emitem ondas eletromagnéticas isotrópicas e que a intensidade do sinal é calculada pela potência por unidade de área. Considere 3 como valor aproximado para π. Para que o sinal de bluetooth seja detectado pelas antenas próximas, o valor mínimo de sua intensidade, em W/m², é mais próximo de",
+  "alternatives": {
+    "a": "-6 A   2,0 × 10^-6",
+    "b": "-5 B   2,0 × 10^-5",
+    "c": "-5 C   2,4 × 10^-5",
+    "d": "-3 D   2,4 × 10^-3",
+    "e": "-1 E   2,4 × 10^-1"
+  },
+  "answer": "a",
+  "tags": [
+    "tecnologia",
+    "comunicação sem fio"
+  ],
+  "year": 2023,
+  "test": "ENEM",
+  "area": "nature",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

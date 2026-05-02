@@ -1,0 +1,24 @@
+{
+  "number": 46,
+  "text": "No Segundo Congresso Internacional de Ciência Geográficas, em 1875, a que compareceram presidente da República, o governador de Paris e o presidente da Assembleia, o discurso inaugural do almirante La Roucière-Le Noury expôs a atitude predominante no encontro: \"Cavalheiros, a Providência nos ditou a obrigação de conhecer e conquistar a terra. Essa ordem suprema é um dos deveres imperativos inscritos em nossas inteligências e nossas atividades. A geografia, essa ciência que inspira tão bela devoção e em cujo nome foram sacrificadas tantas vítimas, tornou-se a filosofia da terra\".\nNo contexto histórico apresentado, a exaltação da ciência geográfica decorre do seu uso para o(a)",
+  "alternatives": {
+    "a": "preservação cultural dos territórios ocupados.",
+    "b": "formação humanitária da sociedade europeia.",
+    "c": "catalogação de dados úteis aos propósitos colonialistas.",
+    "d": "desenvolvimento de técnicas matemáticas de construção de cartas.",
+    "e": "consolidação do conhecimento topográfico com o campo acadêmico."
+  },
+  "answer": "c",
+  "tags": [
+    "história moderna",
+    "geopolítica e território"
+  ],
+  "year": 2018,
+  "test": "ENEM",
+  "area": "humanas",
+  "difficulty": 6,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

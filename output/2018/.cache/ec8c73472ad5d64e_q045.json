@@ -1,0 +1,27 @@
+{
+  "number": 45,
+  "text": "Os textos destacam a inovação artística proposta por Stephen Lund a partir do(a)",
+  "alternatives": {
+    "a": "deslocamento das tecnologias de suas funções habituais.",
+    "b": "perspectiva de funcionamento do dispositivo de GPS.",
+    "c": "ato de guiar sua bicicleta pelas ruas da cidade.",
+    "d": "análise dos problemas de mobilidade urbana.",
+    "e": "foco na promoção cultural da sua cidade."
+  },
+  "answer": "a",
+  "tags": [
+    "interpretação de texto",
+    "gêneros textuais"
+  ],
+  "year": 2018,
+  "test": "ENEM",
+  "area": "linguagens",
+  "difficulty": 5,
+  "images": [],
+  "contextId": null,
+  "contextIds": [
+    "enem_2018_linguagens_ctx1",
+    "enem_2018_linguagens_ctx2"
+  ],
+  "language": null
+}

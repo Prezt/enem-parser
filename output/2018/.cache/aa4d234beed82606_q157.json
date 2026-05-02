@@ -1,0 +1,24 @@
+{
+  "number": 157,
+  "text": "Um mapa é a representação reduzida e simplificada de uma localidade. Essa redução, que é feita com o uso de uma escala, mantém a proporção do espaço representado em relação ao espaço real. Certo mapa tem escala 1 : 58 000 000. Considere que, nesse mapa, o segmento de reta que liga o navio à marca do tesouro meça 7,6 cm. A medida real, em quilômetro, desse segmento de reta é",
+  "alternatives": {
+    "a": "4 408",
+    "b": "7 632",
+    "c": "44 080",
+    "d": "76 316",
+    "e": "440 800"
+  },
+  "answer": "a",
+  "tags": [
+    "matemática financeira",
+    "geometria analítica"
+  ],
+  "year": 2018,
+  "test": "ENEM",
+  "area": "math",
+  "difficulty": 3,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

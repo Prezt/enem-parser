@@ -1,0 +1,24 @@
+{
+  "number": 173,
+  "text": "Em um determinado ano, os computadores da receita federal detectaram como inconsistente 20% das declarações de imposto de renda que lhe foram entregues. Uma declaração é considerada inconsistente quando apresenta algum tipo de erro ou conflito nas informações prestadas. Sabe-se que 5% das declarações consideradas inconsistentes foram analisadas pelos auditores da receita federal, e que, destas, 20% foram consideradas fraudulentas. Constatou-se ainda que, dentre as declarações que não foram consideradas inconsistentes, 0,5% delas eram fraudulentas. Qual é a probabilidade de, nesse ano, a declaração de um contribuinte ter sido considerada fraudulenta sabendo que ela era inconsistente?",
+  "alternatives": {
+    "a": "0,0500",
+    "b": "0,1000",
+    "c": "0,1125",
+    "d": "0,3125",
+    "e": "0,5000"
+  },
+  "answer": "e",
+  "tags": [
+    "probabilidade",
+    "análise combinatória"
+  ],
+  "year": 2019,
+  "test": "ENEM",
+  "area": "math",
+  "difficulty": 6,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

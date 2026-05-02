@@ -1,0 +1,24 @@
+{
+  "number": 41,
+  "text": "Na construção do soneto, as cores representam um",
+  "alternatives": {
+    "a": "recurso estético que enaltece a figura do pavão",
+    "b": "símbolo de sentimentos e sensações do eu lírico",
+    "c": "elemento descritivo que caracteriza a natureza",
+    "d": "meio de expressão que comunica ao leitor mensagens cifradas",
+    "e": "elemento de ligação entre a forma e o conteúdo poético"
+  },
+  "answer": "d",
+  "tags": [
+    "interpretação de texto",
+    "literatura brasileira"
+  ],
+  "year": 2021,
+  "test": "ENEM",
+  "area": "linguagens",
+  "difficulty": 6,
+  "images": [],
+  "contextId": "enem_2021_linguagens_ctx41",
+  "contextIds": null,
+  "language": null
+}

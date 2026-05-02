@@ -1,0 +1,24 @@
+{
+  "number": 16,
+  "text": "Na apresentação da paisagem e da personagem, o narrador estabelece uma correlação de sentidos em que esses elementos se entrelaçam. Nesse processo, a condição humana configura-se",
+  "alternatives": {
+    "a": "amalgamada pelo processo comum de desertificação e de solidão.",
+    "b": "fortalecida pela adversidade extensiva à terra e aos seres vivos.",
+    "c": "redimensionada pela intensidade da luz e da exuberância local.",
+    "d": "imersa num drama existencial de identidade e de origem.",
+    "e": "imobilizada pela escassez e pela opressão do ambiente."
+  },
+  "answer": "a",
+  "tags": [
+    "interpretação de texto",
+    "literatura brasileira"
+  ],
+  "year": 2018,
+  "test": "ENEM",
+  "area": "linguagens",
+  "difficulty": 6,
+  "images": [],
+  "contextId": "enem_2018_linguagens_ctx1",
+  "contextIds": null,
+  "language": null
+}

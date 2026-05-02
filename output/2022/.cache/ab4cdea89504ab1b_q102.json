@@ -1,0 +1,23 @@
+{
+  "number": 102,
+  "text": "Entre as diversas técnicas para diagnóstico da ovid-19, destaca-se o teste genético. Considerando as iferentes variantes e cargas virais, um exemplo é a PCR, eação efetuada por uma enzima do tipo polimerase. Essa técnica permite identificar, com confiabilidade, o material genético do SARS-CoV-2, um vírus de RNA. Para comprovação da infecção por esse coronavírus, são oletadas amostras de secreções do indivíduo. Uma etapa ue antecede a reação de PCR precisa ser realizada para ermitir a amplificação do material genético do vírus. Essa etapa deve ser realizada para",
+  "alternatives": {
+    "a": "concentrar o RNA viral para otimizar a técnica.",
+    "b": "identificar nas amostras anticorpos anti-SARS-CoV-2.",
+    "c": "proliferar o vírus em culturas, aumentando a carga viral.",
+    "d": "purificar ácidos nucleicos virais, facilitando a ação da enzima.",
+    "e": "obter moléculas de cDNA viral por meio da transcrição reversa."
+  },
+  "answer": "e",
+  "tags": [
+    "biologia",
+    "virologia"
+  ],
+  "year": 2022,
+  "test": "ENEM",
+  "area": "nature",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

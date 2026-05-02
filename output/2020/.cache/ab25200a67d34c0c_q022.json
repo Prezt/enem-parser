@@ -1,0 +1,24 @@
+{
+  "number": 22,
+  "text": "Esse anúncio publicitário propõe soluções para um problema social recorrente, ao",
+  "alternatives": {
+    "a": "promover ações de conscientização para reduzir a violência de gênero em eventos esportivos.",
+    "b": "estimular o compartilhamento de políticas públicas sobre a igualdade de gênero no esporte.",
+    "c": "divulgar para a população as novas regras complementares para as torcidas de futebol.",
+    "d": "informar ao público masculino as consequências de condutas ofensivas.",
+    "e": "regulamentar normas de boa convivência nos estádios."
+  },
+  "answer": "a",
+  "tags": [
+    "interpretação de texto",
+    "comunicação e mídia"
+  ],
+  "year": 2020,
+  "test": "ENEM",
+  "area": "linguagens",
+  "difficulty": 5,
+  "images": [],
+  "contextId": "enem_2020_linguagens_q22_ctx1",
+  "contextIds": null,
+  "language": null
+}

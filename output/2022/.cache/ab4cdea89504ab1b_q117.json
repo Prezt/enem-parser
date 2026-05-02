@@ -1,0 +1,23 @@
+{
+  "number": 117,
+  "text": "Um grupo de alunos realizou um experimento para observar algumas propriedades dos ácidos, adicionando um pedaço de mármore (CaCO₃) a uma solução aquosa de ácido clorídrico (HCl), observando a liberação de um gás e o aumento da temperatura. O gás obtido no experimento é o:",
+  "alternatives": {
+    "a": "H₂",
+    "b": "O₂",
+    "c": "CO₂",
+    "d": "CO",
+    "e": "Cl₂"
+  },
+  "answer": "c",
+  "tags": [
+    "química",
+    "propriedades dos ácidos"
+  ],
+  "year": 2022,
+  "test": "ENEM",
+  "area": "nature",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

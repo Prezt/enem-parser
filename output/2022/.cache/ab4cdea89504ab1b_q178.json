@@ -1,0 +1,23 @@
+{
+  "number": 178,
+  "text": "Usando uma receita-base de massa, ela repara uma porção, com a qual produz 50 docinhos maciços de formato esférico, com 2 cm de diâmetro. Um cliente encomenda 150 desses docinhos, mas pede que cada um tenha formato esférico com 4 cm de diâmetro. A cozinheira pretende preparar o número exato de porções da receita-base de massa necessário para produzir os docinhos dessa encomenda. Quantas porções da receita-base de massa ela deve preparar para atender esse cliente?",
+  "alternatives": {
+    "a": "2",
+    "b": "3",
+    "c": "6",
+    "d": "12",
+    "e": "24"
+  },
+  "answer": "e",
+  "tags": [
+    "geometria",
+    "razão e proporção"
+  ],
+  "year": 2022,
+  "test": "ENEM",
+  "area": "math",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

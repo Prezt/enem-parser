@@ -1,0 +1,23 @@
+{
+  "number": 132,
+  "text": "O manual de um automóvel alerta sobre os cuidados com a pressão dos pneus. Recomenda-se que a pressão seja verificada com o carro frio (à temperatura ambiente). Um motorista, desatento a essa informação, realizou uma viagem longa sobre o asfalto quente e, em seguida, verificou que a pressão P no interior dos pneus não era a recomendada pelo fabricante. Na ocasião, a temperatura dos pneus era T. Após um longo período em repouso, os pneus resfriaram-se, não há alteração no volume dos pneus e o ar dentro deles é considerado um gás perfeito (também denominado gás ideal). Durante o processo de resfriamento, os valores de pressão do ar no interior dos pneus em relação à temperatura (P × T) são representados pelo gráfico:",
+  "alternatives": {
+    "a": "(Pa)\nP 0\nA\nT T T (K) 0",
+    "b": "(Pa)\nP 0\nB\nT T T (K) 0",
+    "c": "(Pa)\nC\nP 0\nT T T (K) 0",
+    "d": "(Pa)\nD P 0\nT T T (K) 0",
+    "e": "(Pa)\nP 0\nE\nT T T (K) 0"
+  },
+  "answer": "e",
+  "tags": [
+    "física",
+    "gás perfeito"
+  ],
+  "year": 2023,
+  "test": "ENEM",
+  "area": "nature",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

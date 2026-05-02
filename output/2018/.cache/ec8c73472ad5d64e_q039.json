@@ -1,0 +1,24 @@
+{
+  "number": 39,
+  "text": "Essa imagem ilustra a reação dos celíacos (pessoas sensíveis ao glúten) ao ler rótulos de alimentos sem glúten. Essas reações indicam que, em geral, os rótulos desses produtos",
+  "alternatives": {
+    "a": "trazem informações explícitas sobre a presença do glúten.",
+    "b": "oferecem várias opções de sabor para esses consumidores.",
+    "c": "classificam o produto como adequado para o consumidor celíaco.",
+    "d": "influenciam o consumo de alimentos especiais para esses consumidores.",
+    "e": "variam na forma de apresentação de informações relevantes para esse público."
+  },
+  "answer": "e",
+  "tags": [
+    "interpretação de texto",
+    "comunicação e mídia"
+  ],
+  "year": 2018,
+  "test": "ENEM",
+  "area": "linguagens",
+  "difficulty": 5,
+  "images": [],
+  "contextId": "enem_2018_linguagens_ctx39",
+  "contextIds": null,
+  "language": null
+}

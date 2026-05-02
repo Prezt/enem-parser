@@ -1,0 +1,23 @@
+{
+  "number": 61,
+  "text": "Por trás da “mágica” do Google Assistant de sua apacidade de interpretar 26 idiomas está uma enorme quipe de linguistas distribuídos globalmente, trabalhando omo subcontratados, que devem rotular tediosamente os ados de treinamento para que funcione. Eles ganham aixos salários e são rotineiramente forçados a trabalhar horas extras não remuneradas. A inteligência artificial não uncinha com um pozinho mágico. Ela funciona por meio e trabalhadores que treinam algoritmos incansavelmente té que eles automatizem seus próprios trabalhos. O texto critica a mudança tecnológica em razão da eguinte consequência:",
+  "alternatives": {
+    "a": "Diversificação da função.",
+    "b": "Mobilidade da população.",
+    "c": "Autonomia do empregado.",
+    "d": "Concentração da produção.",
+    "e": "Invisibilidade do profissional."
+  },
+  "answer": "e",
+  "tags": [
+    "tecnologia",
+    "trabalho"
+  ],
+  "year": 2023,
+  "test": "ENEM",
+  "area": "humanas",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

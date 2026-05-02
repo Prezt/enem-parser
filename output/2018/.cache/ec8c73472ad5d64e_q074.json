@@ -1,0 +1,26 @@
+{
+  "number": 74,
+  "text": "[Figura: imagem de cartilha escolar]\n\nEssa imagem foi impressa em cartilha escolar durante a vigência do Estado Novo com o intuito de",
+  "alternatives": {
+    "a": "destacar a sabedoria inata do líder governamental.",
+    "b": "atender a necessidade familiar de obediência infantil.",
+    "c": "promover o desenvolvimento consistente das atitudes solidárias.",
+    "d": "conquistar a aprovação política por meio do apelo carismático.",
+    "e": "estimular o interesse acadêmico por meio de exercícios intelectuais."
+  },
+  "answer": "d",
+  "tags": [
+    "história do brasil república",
+    "cultura e identidade"
+  ],
+  "year": 2018,
+  "test": "ENEM",
+  "area": "humanas",
+  "difficulty": 6,
+  "images": [
+    "figuras/q074_2018_fig1.png"
+  ],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

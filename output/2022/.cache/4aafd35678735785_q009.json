@@ -1,0 +1,23 @@
+{
+  "number": 9,
+  "text": "Para convencer o público-alvo sobre a necessidade de um trânsito mais seguro, essa peça publicitária apela para o(a)",
+  "alternatives": {
+    "a": "sentimento de culpa provocado no condutor causador de acidentes.",
+    "b": "dano psicológico causado nas vítimas da violência nas estradas.",
+    "c": "importância do monitoramento do trânsito pelas autoridades competentes.",
+    "d": "necessidade de punição a motoristas alcoolizados envolvidos em acidentes.",
+    "e": "sofrimento decorrente da perda de entes queridos em acidentes automobilísticos."
+  },
+  "answer": "a",
+  "tags": [
+    "publicidade",
+    "ética"
+  ],
+  "year": 2022,
+  "test": "ENEM",
+  "area": "linguagens",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

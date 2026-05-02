@@ -1,0 +1,23 @@
+{
+  "number": 66,
+  "text": "Considerando a realidade brasileira, os textos s aproximam ao apresentarem uma reflexão sobre o(a)",
+  "alternatives": {
+    "a": "recorrência da miséria.",
+    "b": "planejamento da saúde.",
+    "c": "superação da escassez.",
+    "d": "constância da economia.",
+    "e": "romantização da carência."
+  },
+  "answer": "a",
+  "tags": [
+    "sociedade",
+    "literatura"
+  ],
+  "year": 2023,
+  "test": "ENEM",
+  "area": "humanas",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

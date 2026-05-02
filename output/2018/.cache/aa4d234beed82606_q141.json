@@ -1,0 +1,24 @@
+{
+  "number": 141,
+  "text": "A prefeitura de um pequeno município do interior decide colocar postes para iluminação ao longo de uma estrada retilínea, que inicia em uma praça central e termina numa fazenda na zona rural. Como a praça já possui iluminação, o primeiro poste será colocado a 20 metros da praça, o segundo, a 100 metros, o terceiro, a 120 metros, e assim sucessivamente, mantendo-se sempre uma distância de vinte metros entre os postes, até que o último poste seja colocado a uma distância de 1 380 metros da praça. Se a prefeitura pode pagar, no máximo, R$ 8 000,00 por poste colocado, o maior valor que poderá gastar com a colocação desses postes é",
+  "alternatives": {
+    "a": "R$ 512 000,00",
+    "b": "R$ 520 000,00",
+    "c": "R$ 528 000,00",
+    "d": "R$ 552 000,00",
+    "e": "R$ 584 000,00"
+  },
+  "answer": "c",
+  "tags": [
+    "sequências e progressões",
+    "matemática financeira"
+  ],
+  "year": 2018,
+  "test": "ENEM",
+  "area": "math",
+  "difficulty": 5,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

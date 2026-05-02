@@ -1,0 +1,23 @@
+{
+  "number": 11,
+  "text": "[Texto severamente corrompido na extração - impossível reconstruir]",
+  "alternatives": {
+    "a": "[Ilegível]",
+    "b": "[Ilegível]",
+    "c": "[Ilegível]",
+    "d": "[Ilegível]",
+    "e": "[Ilegível]"
+  },
+  "answer": "a",
+  "tags": [
+    "interpretação de texto"
+  ],
+  "year": 2021,
+  "test": "ENEM",
+  "area": "linguagens",
+  "difficulty": 5,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

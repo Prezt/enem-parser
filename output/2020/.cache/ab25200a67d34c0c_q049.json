@@ -1,0 +1,24 @@
+{
+  "number": 49,
+  "text": "Os movimentos em prol da reforma agrária, que atuam com base no conceito de direito à propriedade apresentado no texto, propõem-se a",
+  "alternatives": {
+    "a": "reverter o processo de privatização fundiária.",
+    "b": "ressaltar a inviabilidade da produção latifundiária.",
+    "c": "defender a desapropriação dos espaços improdutivos.",
+    "d": "impedir a produção exportadora nas terras agricultáveis.",
+    "e": "coibir o funcionamento de empresas agroindustriais no campo."
+  },
+  "answer": "c",
+  "tags": [
+    "história do brasil república",
+    "direitos humanos e cidadania"
+  ],
+  "year": 2020,
+  "test": "ENEM",
+  "area": "humanas",
+  "difficulty": 6,
+  "images": [],
+  "contextId": "enem_2020_humanas_q49_ctx1",
+  "contextIds": null,
+  "language": null
+}

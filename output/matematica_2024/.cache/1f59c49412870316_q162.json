@@ -1,0 +1,25 @@
+{
+  "number": 162,
+  "text": "Uma imobiliária iniciou uma campanha de divulgação para promover a venda de apartamentos que podem ser pagos em 100 parcelas mensais. O valor da primeira delas é fixado no momento da compra, com o pagamento dessa primeira parcela. A partir da segunda parcela, o valor é determinado pela aplicação de um acréscimo percentual fixo ao valor da parcela anterior. Como atrativo, a imobiliária fará o pagamento de todas as parcelas correspondentes ao mês de aniversário do comprador. [Figura: gráfico que ilustra o financiamento] Um cliente, que faz aniversário no mês de maio, decidiu comprar um desses apartamentos por meio do financiamento oferecido pela imobiliária, e pretende escolher o mês mais adequado para realizar essa compra, de modo que o valor total dos pagamentos seja o menor possível. Qual é o mês que esse cliente deverá escolher para realizar a compra do apartamento?",
+  "alternatives": {
+    "a": "Fevereiro.",
+    "b": "Abril.",
+    "c": "Maio.",
+    "d": "Junho.",
+    "e": "Agosto."
+  },
+  "answer": "a",
+  "tags": [
+    "financiamento",
+    "sequência matemática"
+  ],
+  "year": 2024,
+  "test": "ENEM",
+  "area": "math",
+  "images": [
+    "figuras/q162_2024_fig1.png"
+  ],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

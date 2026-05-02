@@ -1,0 +1,23 @@
+{
+  "number": 114,
+  "text": "As células da epiderme da folha da Tradescantia allida purpurea, uma herbácea popularmente conhecida omo trapoeraba-roxa, contém um vacúolo onde se ncontra um pigmento que dá a coloração arroxeada a sse tecido. Em um experimento, um corte da epiderme e uma folha da trapoeraba-roxa foi imerso em ambiente ipotônico e, logo em seguida, foi colocado em uma âmina e observado em microscópio óptico. Durante a observação desse corte, foi possível identificar o(a)",
+  "alternatives": {
+    "a": "acúmulo do solvente com fragmentação da organela",
+    "b": "rompimento da membrana celular com liberação do citosol",
+    "c": "aumento do vacúolo com diluição do pigmento no seu interior",
+    "d": "quebra da parede celular com extravasamento do pigmento",
+    "e": "murchamento da célula com expulsão do pigmento do vacúolo"
+  },
+  "answer": "c",
+  "tags": [
+    "biologia",
+    "células"
+  ],
+  "year": 2022,
+  "test": "ENEM",
+  "area": "nature",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

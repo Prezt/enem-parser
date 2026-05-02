@@ -1,0 +1,26 @@
+{
+  "number": 165,
+  "text": "Para melhorar o fluxo de ônibus em uma avenida que tem dois semáforos, a prefeitura reduzirá o tempo em que cada sinal ficará vermelho, que atualmente é de [Figura: descrição do esquema dos semáforos] segundos a cada 60 segundos. Admita que o instante da chegada de um ônibus a cada semáforo é aleatório. O engenheiro de tráfego da prefeitura calculou a probabilidade de um ônibus encontrar cada um desses sinais vermelho, obtendo 15/60. A partir daí, estabeleceu uma mesma redução na quantidade do tempo, em segundos, em que cada sinal ficará vermelho, de maneira que a probabilidade de um ônibus encontrar ambos os sinais vermelhos numa mesma viagem seja igual a 4/100, considerando os eventos independentes. Para isso, a redução do tempo em que o sinal ficará vermelho, em segundos, estabelecida pelo engenheiro foi de",
+  "alternatives": {
+    "a": "1,35.",
+    "b": "3,00.",
+    "c": "9,00.",
+    "d": "12,60.",
+    "e": "13,80."
+  },
+  "answer": "b",
+  "tags": [
+    "probabilidade",
+    "tempo",
+    "trânsito"
+  ],
+  "year": 2024,
+  "test": "ENEM",
+  "area": "math",
+  "images": [
+    "figuras/q165_2024_fig1.png"
+  ],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

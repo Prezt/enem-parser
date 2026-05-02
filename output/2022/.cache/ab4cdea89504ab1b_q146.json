@@ -1,0 +1,23 @@
+{
+  "number": 146,
+  "text": "Um parque tem dois circuitos de tamanho diferentes para corridas. Um corredor treina ness parque e, no primeiro dia, inicia seu treino percorrend 3 voltas em torno do circuito maior e 2 voltas em torn do menor, perfazendo um total de 1 800 m. Em seguida dando continuidade a seu treino, corre mais 2 volta em torno do circuito maior e 1 volta em torno do meno percorrendo mais 1 100 m. No segundo dia, ele pretende percorrer 5 000 m nos circuitos do parque, fazendo um número inteiro de volta em torno deles e de modo que o número de voltas seja maior possível. A soma do número de voltas em torno dos dois circuitos no segundo dia, será",
+  "alternatives": {
+    "a": "10",
+    "b": "13",
+    "c": "14",
+    "d": "15",
+    "e": "16"
+  },
+  "answer": "e",
+  "tags": [
+    "matemática",
+    "equações"
+  ],
+  "year": 2022,
+  "test": "ENEM",
+  "area": "math",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

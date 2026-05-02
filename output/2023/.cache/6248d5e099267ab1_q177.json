@@ -1,0 +1,24 @@
+{
+  "number": 177,
+  "text": "A figura ilustra uma roda-gigante no exato instante em que a cadeira onde se encontra a pessoa P está no ponto mais alto dessa roda-gigante. Com o passar do tempo, à medida que a roda-gigante gira, com velocidade angular constante e no sentido horário, a altura da cadeira onde se encontra a pessoa P em relação ao solo, vai se alterando. O gráfico que melhor representa a variação dessa altura, função do tempo, contado a partir do instante em que a cadeira da pessoa P se encontra na posição mais alta da roda-gigante, é",
+  "alternatives": {
+    "a": "Altura em relação ao solo\n0 Tempo",
+    "b": "Altura em relação ao solo\n0 Tempo",
+    "c": "Altura em relação ao solo\n0 Tempo",
+    "d": "Altura em relação ao solo\n0 Tempo",
+    "e": "Altura em relação ao solo\n0 Tempo"
+  },
+  "answer": "a",
+  "tags": [
+    "rotação",
+    "gráficos",
+    "altura"
+  ],
+  "year": 2023,
+  "test": "ENEM",
+  "area": "math",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

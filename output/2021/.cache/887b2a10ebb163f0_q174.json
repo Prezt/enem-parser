@@ -1,0 +1,24 @@
+{
+  "number": 174,
+  "text": "Após consulta médica, um paciente deve seguir um tratamento com três medicamentos. O paciente, para adquirir os três medicamentos, faz um orçamento em três farmácias diferentes. Dessas farmácias, algumas oferecem descontos:\n• na compra de um medicamento qualquer na Farmácia 2, o paciente ganha 20% de desconto;\n• na compra dos dois primeiros medicamentos na Farmácia 1, o paciente ganha 10% de desconto em ambos os produtos, independentemente da compra do terceiro medicamento;\n• na compra dos 3 medicamentos na Farmácia 3, o paciente ganha 15% de desconto no valor total da compra.\nO paciente deseja efetuar a compra de modo a minimizar sua despesa com os medicamentos. De acordo com as informações fornecidas, o paciente deve comprar os medicamentos da seguinte forma:",
+  "alternatives": {
+    "a": "medicamento X na Farmácia 1, medicamento Y na Farmácia 2 e medicamento Z na Farmácia 3",
+    "b": "medicamento X na Farmácia 1, medicamento Y na Farmácia 2 e medicamento Z na Farmácia 1",
+    "c": "medicamento X na Farmácia 1, medicamento Y na Farmácia 3 e medicamento Z na Farmácia 1",
+    "d": "medicamento X na Farmácia 2, medicamento Y na Farmácia 3 e medicamento Z na Farmácia 1",
+    "e": "medicamento X na Farmácia 1, medicamento Y na Farmácia 3 e medicamento Z na Farmácia 1"
+  },
+  "answer": "c",
+  "tags": [
+    "matemática financeira",
+    "aritmética e números"
+  ],
+  "year": 2021,
+  "test": "ENEM",
+  "area": "math",
+  "difficulty": 6,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

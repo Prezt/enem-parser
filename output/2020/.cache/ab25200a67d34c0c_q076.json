@@ -1,0 +1,24 @@
+{
+  "number": 76,
+  "text": "O texto tematiza o papel desempenhado por uma norma na criação de um ambiente propício ao(à)",
+  "alternatives": {
+    "a": "emprego do trabalho escravo.",
+    "b": "consolidação dos valores burgueses.",
+    "c": "banimento das dissidências religiosas.",
+    "d": "contenção da identificação nacionalista.",
+    "e": "hierarquização dos agentes econômicos."
+  },
+  "answer": "b",
+  "tags": [
+    "história moderna",
+    "filosofia moderna e contemporânea"
+  ],
+  "year": 2020,
+  "test": "ENEM",
+  "area": "humanas",
+  "difficulty": 6,
+  "images": [],
+  "contextId": "enem_2020_humanas_76_ctx1",
+  "contextIds": null,
+  "language": null
+}

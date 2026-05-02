@@ -1,0 +1,26 @@
+{
+  "number": 174,
+  "text": "O fenômeno das manifestações populares de massa traz à discussão como estimar o número de pessoas presentes nesse tipo de evento. Uma metodologia usada no momento do ápice do evento é feita uma foto aérea da via pública principal na área ocupada, bem como das afluentesque apresentem aglomerações de pessoas. A foto é sobreposta por um mapa virtual das vias, ambos na mesma escala, fazendo-se um esboço geométrico da situação. Em seguida, subdivide-se o espaço total em trechos, quantificando a densidade, da seguinte forma:\n  - 4 pessoas por metro quadrado, se elas estiverem andando em uma ou mesma direção;\n  - 5 pessoas por metro quadrado, se elas estiverem movimentando sem deixar o local;\n  - 6 pessoas por metro quadrado, se elas estiverem paradas.\n\nÉ feito, então, o cálculo do total de pessoas, considerando os diversos trechos, e desconta-se daí 1 000 pessoas para cada carro de som fotografado.\n\nCom essa metodologia, procederam-se aos cálculos para estimar o número de participantes na manifestação cujo esboço geométrico é dado na figura. Há três trechos na via principal: MN, NO e OP, e um trecho numa via afluenteQR.\n\n[Figura: diagrama geométrico mostrando via principal com trechos MN (100m), NO (300m), OP (100m) e via afluenteQR (30m), com indicações de densidade de pessoas e carros de som]\n\nSegundo a metodologia descrita, o número estimado de pessoas presentes a essa manifestação foi igual a (considere as medidas dadas):",
+  "alternatives": {
+    "a": "110 000",
+    "b": "104 000",
+    "c": "93 000",
+    "d": "92 000",
+    "e": "87 000"
+  },
+  "answer": "b",
+  "tags": [
+    "aritmética e números",
+    "análise combinatória"
+  ],
+  "year": 2020,
+  "test": "ENEM",
+  "area": "math",
+  "difficulty": 6,
+  "images": [
+    "figuras/q174_2020_fig1.png"
+  ],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

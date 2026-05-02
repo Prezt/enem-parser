@@ -1,0 +1,27 @@
+{
+  "number": 68,
+  "text": "[Figura] A Marinha identifica, na voz de Thomas Barnett, uma mpla região potencialmente insubmissa ou simplesmente redutível às normas gerais de funcionamento promovidas elos Estados Unidos e sancionadas pelo Fundo Monetário Internacional, pela Organização Mundial do Comércio e pelo Banco Mundial. E não necessariamente or sua consciência rebelde, mas sim, em muitos casos, ela insubstancialidade de suas instituições estatais. [Figura] As preocupações do governo estadunidense expressas o texto e no mapa evidenciam uma estratégia para",
+  "alternatives": {
+    "a": "compartilhamento de inovações tecnológicas.",
+    "b": "promoção de independência financeira.",
+    "c": "incremento de intercâmbios culturais.",
+    "d": "ampliação de influência econômica.",
+    "e": "preservação de recursos naturais."
+  },
+  "answer": "d",
+  "tags": [
+    "geopolítica",
+    "economia internacional"
+  ],
+  "year": 2022,
+  "test": "ENEM",
+  "area": "humanas",
+  "images": [
+    "figuras/q068_2022_fig1.png",
+    "figuras/q068_2022_fig2.png",
+    "figuras/q068_2022_fig3.png"
+  ],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

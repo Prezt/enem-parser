@@ -1,0 +1,24 @@
+{
+  "number": 97,
+  "text": "Um garoto comprou vários abacates na feira, mas descobriu que eles não estavam maduros o suficiente para serem consumidos. Sua mãe recomendou que ele colocasse os abacates em um recipiente fechado pois isso aceleraria seu amadurecimento. Com certeza, o garoto realizou esta experiência: colocou alguns abacates no recipiente e deixou os demais em uma fruteira aberta. Surpreendendo-se, ele percebeu que os frutos que estavam no recipiente fechado amadureceram mais rapidamente.",
+  "alternatives": {
+    "a": "acúmulo de gás etileno",
+    "b": "redução da umidade do ar",
+    "c": "aumento da concentração de CO2",
+    "d": "diminuição da intensidade luminosa",
+    "e": "isolamento do contato com O2 atmosférico"
+  },
+  "answer": "a",
+  "tags": [
+    "frutas",
+    "amadurecimento",
+    "química"
+  ],
+  "year": 2023,
+  "test": "ENEM",
+  "area": "nature",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

@@ -1,0 +1,23 @@
+{
+  "number": 155,
+  "text": "Na planta baixa de um clube, a piscina é representada or um quadrado cuja área real mede 400 m². Ao redor essa piscina, será construída uma calçada, de largura onstante igual a 5 m.\n\n5 m Calçada\n5 m\nPiscina\n5 m\n5 m\nQual é a medida da área, em metro quadrado, ocupada ela calçada?",
+  "alternatives": {
+    "a": "1 000",
+    "b": "900",
+    "c": "600",
+    "d": "500",
+    "e": "400"
+  },
+  "answer": "d",
+  "tags": [
+    "área",
+    "geometria"
+  ],
+  "year": 2023,
+  "test": "ENEM",
+  "area": "math",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

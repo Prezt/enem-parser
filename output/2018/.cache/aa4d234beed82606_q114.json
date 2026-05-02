@@ -1,0 +1,24 @@
+{
+  "number": 114,
+  "text": "Por meio de reações químicas que envolvem carboidratos, lipídeos e proteínas, nossas células obtêm energia e produzem gás carbônico e água. A oxidação da glicose no organismo humano libera energia, conforme mostra a equação química, sendo que aproximadamente 30% dela é disponibilizada para atividade muscular.\n\nC₆H₁₂O₆(s) + 6O₂(g) → 6CO₂(g) + 6H₂O(l)      ΔHc = −2800 kJ·mol⁻¹\n\nConsidere as massas molares (em g·mol⁻¹): H = 1; C = 12; O = 16.\n\nNa oxidação de 1,0 grama de glicose, a energia obtida para atividade muscular, em quilojoule, é mais próxima de",
+  "alternatives": {
+    "a": "6,2",
+    "b": "15,6",
+    "c": "70,0",
+    "d": "622,2",
+    "e": "1120,0"
+  },
+  "answer": "a",
+  "tags": [
+    "termoquímica e cinética",
+    "estequiometria"
+  ],
+  "year": 2018,
+  "test": "ENEM",
+  "area": "nature",
+  "difficulty": 6,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

@@ -1,0 +1,23 @@
+{
+  "number": 156,
+  "text": "O professor de artes orientou seus estudantes a dobrar uma folha de papel em formato quadrado conforme ilustrado nas figuras 1 e 2, para obter o [Figura: Figura 3]. Em seguida, no papel dobrado da Figura 3, construir um arco de circunferência com centro no ponto R, sobre o segmento OM, sendo M o ponto médio do lado do quadrado original, de modo que OR = \\frac{1}{4}OM. Traçar um arco de circunferência e excluir a parte que contém RM O, obtendo [Figura: Figura 4]. Por último, recortar o papel ao longo do arco circular, obtendo o papel dobrado conforme [Figura: Figura 5]. Após desdobrado, a figura que os estudantes obterão será:",
+  "alternatives": {
+    "a": "A",
+    "b": "B",
+    "c": "C",
+    "d": "D",
+    "e": "E"
+  },
+  "answer": "c",
+  "tags": [
+    "Geometria",
+    "Figuras Planas"
+  ],
+  "year": 2022,
+  "test": "ENEM",
+  "area": "math",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

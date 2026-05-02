@@ -1,0 +1,21 @@
+{
+  "number": 173,
+  "text": "Texto corrompido/ilegível - impossível extrair conteúdo da questão.",
+  "alternatives": {
+    "a": "6",
+    "b": "8",
+    "c": "9",
+    "d": "15",
+    "e": "20"
+  },
+  "answer": "c",
+  "tags": [],
+  "year": 2021,
+  "test": "ENEM",
+  "area": "math",
+  "difficulty": 5,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

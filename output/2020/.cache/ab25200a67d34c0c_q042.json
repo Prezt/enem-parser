@@ -1,0 +1,24 @@
+{
+  "number": 42,
+  "text": "Pela sua interatividade, os exergames apresentam-se como possibilidade para estimular o(a)",
+  "alternatives": {
+    "a": "exercitação física, promovendo a saúde.",
+    "b": "vivência de exercícios físicos sistemáticos.",
+    "c": "envolvimento com atividades físicas ao longo da vida.",
+    "d": "jogo por meio de comandos fornecidos pelo videogame.",
+    "e": "disputa entre jogadores, contribuindo para o individualismo."
+  },
+  "answer": "a",
+  "tags": [
+    "interpretação de texto",
+    "comunicação e mídia"
+  ],
+  "year": 2020,
+  "test": "ENEM",
+  "area": "linguagens",
+  "difficulty": 4,
+  "images": [],
+  "contextId": "enem_2020_linguagens_42",
+  "contextIds": null,
+  "language": null
+}

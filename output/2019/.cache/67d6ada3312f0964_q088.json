@@ -1,0 +1,24 @@
+{
+  "number": 88,
+  "text": "O bônus demográfico é caracterizado pelo período em que, por causa da redução do número de filhos por mulher, a estrutura populacional fica favorável ao crescimento econômico. Isso acontece porque há proporcionalmente menos crianças na população, e o percentual de idosos ainda não é alto. A ação estatal que contribui para o aproveitamento do bônus demográfico é o estímulo à",
+  "alternatives": {
+    "a": "atração de imigrantes.",
+    "b": "elevação da carga tributária.",
+    "c": "qualificação da mão de obra.",
+    "d": "admissão de exilados políticos.",
+    "e": "concessão de aposentadorias."
+  },
+  "answer": "c",
+  "tags": [
+    "geografia humana e urbana",
+    "geopolítica e território"
+  ],
+  "year": 2019,
+  "test": "ENEM",
+  "area": "humanas",
+  "difficulty": 6,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

@@ -1,0 +1,24 @@
+{
+  "number": 167,
+  "text": "Em uma loja, o preço promocional de uma geladeira de R$ 1 000,00 para pagamento somente em dinheiro. Seu preço normal, fora da promoção, é 10% maior. Para agamento feito com o cartão de crédito da loja, é dado m desconto de 2% sobre o preço normal. Uma cliente decidiu comprar essa geladeira, optando pelo pagamento com o cartão de crédito da loja. Ela calculou que o valor a ser pago seria o preço promocional crescido de 8%. Ao ser informada pela loja do valor a pagar, segundo sua opção, percebeu uma diferença entre eu cálculo e o valor que lhe foi apresentado.",
+  "alternatives": {
+    "a": "R$ 2,00 menor",
+    "b": "R$ 100,00 menor",
+    "c": "R$ 200,00 menor",
+    "d": "R$ 42,00 maior",
+    "e": "R$ 80,00 maior"
+  },
+  "answer": "a",
+  "tags": [
+    "preço",
+    "desconto",
+    "matemática financeira"
+  ],
+  "year": 2022,
+  "test": "ENEM",
+  "area": "math",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

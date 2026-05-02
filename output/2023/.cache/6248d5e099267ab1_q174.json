@@ -1,0 +1,23 @@
+{
+  "number": 174,
+  "text": "Uma pessoa comprou um ingresso para o cinema e, com base em uma representação bidimensional do posicionamento das poltronas, conforme indicado na figura, subiu uma das escadas e parou na posição indicada pela letra E. A pessoa observou que, para encontrar sua poltrona, deveria passar por mais quatro fileiras na direção norte e olhar à sua direita. Nesse cinema, as poltronas são identificadas por um sistema de coordenadas em que a primeira posição representa o número da fileira e a segunda posição representa a letra correspondente à",
+  "alternatives": {
+    "a": "A6.",
+    "b": "B1.",
+    "c": "H1.",
+    "d": "H6.",
+    "e": "I6."
+  },
+  "answer": "e",
+  "tags": [
+    "geometria",
+    "coordenadas"
+  ],
+  "year": 2023,
+  "test": "ENEM",
+  "area": "math",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

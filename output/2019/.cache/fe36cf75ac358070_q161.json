@@ -1,0 +1,24 @@
+{
+  "number": 161,
+  "text": "Em uma fábrica de refrigerantes, é necessário que se faça periodicamente o controle no processo de engarrafamento para evitar que sejam envasadas garrafas fora da especificação do volume escrito no rótulo. Diariamente, durante 60 dias, foram anotadas as quantidades de garrafas fora dessas especificações. O resultado está apresentado no quadro:\n\n| Quantidade de garrafas fora das especificações por dia | Quantidade de dias |\n|---|---|\n| 0 | 52 |\n| 1 | 5 |\n| 2 | 2 |\n| 3 | 1 |\n\nA média diária de garrafas fora das especificações no período considerado é",
+  "alternatives": {
+    "a": "0,1",
+    "b": "0,2",
+    "c": "1,5",
+    "d": "2,0",
+    "e": "3,0"
+  },
+  "answer": "b",
+  "tags": [
+    "aritmética e números",
+    "estatística"
+  ],
+  "year": 2019,
+  "test": "ENEM",
+  "area": "math",
+  "difficulty": 3,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

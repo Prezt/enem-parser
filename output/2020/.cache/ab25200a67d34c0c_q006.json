@@ -1,0 +1,25 @@
+{
+  "number": 6,
+  "text": "Os processos de interação comunicativa preveem a presença ativa de múltiplos elementos da comunicação, entre os quais se destacam as funções da linguagem. Nesse fragmento, a função da linguagem predominante é",
+  "alternatives": {
+    "a": "emotiva, porque o poeta expõe os sentimentos de angústia que o levaram à criação poética.",
+    "b": "referencial, porque o texto informa sobre a origem do nome empregado em um famoso poema de Bandeira.",
+    "c": "metalinguística, porque o poeta tece comentários sobre a gênese e o processo de escrita de um de seus poemas.",
+    "d": "poética, porque o texto aborda os elementos estéticos de um dos poemas mais conhecidos de Bandeira.",
+    "e": "apelativa, porque o poeta tenta convencer os leitores sobre sua dificuldade de compor um poema."
+  },
+  "answer": "c",
+  "tags": [
+    "interpretação de texto",
+    "gêneros textuais",
+    "linguística e variação linguística"
+  ],
+  "year": 2020,
+  "test": "ENEM",
+  "area": "linguagens",
+  "difficulty": 6,
+  "images": [],
+  "contextId": "enem_2020_linguagens_ctx1",
+  "contextIds": null,
+  "language": null
+}

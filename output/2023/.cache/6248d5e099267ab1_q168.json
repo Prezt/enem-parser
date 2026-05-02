@@ -1,0 +1,23 @@
+{
+  "number": 168,
+  "text": "Em um colégio público, a admissão no primeiro ano s dá por sorteio. Neste ano há 55 candidatos, cujas inscrições são numeradas de 01 a 55. O sorteio de cada número de inscrição será realizado em etapas, utilizando-se duas urnas. Da primeira urna será sorteada uma bola, dentre bolas numeradas de 0 a 9, que representará o algarismo das unidades do número de inscrição a ser sorteado e, em seguida, da segunda urna, será sorteada uma bola para representar o algarismo das dezenas desse número. Depois do primeiro sorteio, e antes de se sortear o algarismo da dezenas, as bolas que estarão presentes na segunda urna serão apenas aquelas cujos números formam, com o algarismo já sorteado, um número de 01 a 55.",
+  "alternatives": {
+    "a": "A e",
+    "b": "B e",
+    "c": "C e",
+    "d": "D e",
+    "e": "E e"
+  },
+  "answer": "a",
+  "tags": [
+    "probabilidade",
+    "sorteio"
+  ],
+  "year": 2023,
+  "test": "ENEM",
+  "area": "math",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

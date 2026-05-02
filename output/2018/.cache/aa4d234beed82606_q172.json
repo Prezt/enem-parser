@@ -1,0 +1,24 @@
+{
+  "number": 172,
+  "text": "Na teoria das eleições, o Método de Borda sugere que, em vez de escolher um candidato, cada juiz deve criar um ranking de sua preferência para os concorrentes (isto é, criar uma lista com a ordem de classificação dos concorrentes). A este ranking é associada uma pontuação: um ponto para o último colocado no ranking, dois pontos para o penúltimo, três para o antepenúltimo, e assim sucessivamente. Ao final, soma-se a pontuação atribuída a cada concorrente por cada um dos juízes.\n\nEm uma escola houve um concurso de poesia no qual cinco alunos concorreram a um prêmio, sendo julgados por 25 juízes. Para a escolha da poesia vencedora foi utilizado o Método de Borda. Nos quadros, estão apresentados os rankings dos juízes e a frequência de cada ranking.\n\n[Tabela - Ranking com colocações de Ana, Bia, Caio, Dani e Edu nos rankings I, II, III e IV]\n[Tabela - Frequência dos rankings: I=4, II=9, III=7, IV=5]\n\nA poesia vencedora foi a de",
+  "alternatives": {
+    "a": "Edu",
+    "b": "Dani",
+    "c": "Caio",
+    "d": "Bia",
+    "e": "Ana"
+  },
+  "answer": "e",
+  "tags": [
+    "análise combinatória",
+    "estatística"
+  ],
+  "year": 2018,
+  "test": "ENEM",
+  "area": "math",
+  "difficulty": 6,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

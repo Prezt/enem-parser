@@ -1,0 +1,25 @@
+{
+  "number": 50,
+  "text": "Associado ao contexto migratório contemporâneo, o conceito de hospitalidade proposto pelo autor impõe a necessidade de",
+  "alternatives": {
+    "a": "anulação da diferença.",
+    "b": "cristalização da biografia.",
+    "c": "incorporação da alteridade.",
+    "d": "supressão da comunicação.",
+    "e": "verificação da proveniência."
+  },
+  "answer": "c",
+  "tags": [
+    "filosofia moderna e contemporânea",
+    "direitos humanos e cidadania",
+    "ética e política"
+  ],
+  "year": 2019,
+  "test": "ENEM",
+  "area": "humanas",
+  "difficulty": 6,
+  "images": [],
+  "contextId": "enem_2019_humanas_50_ctx1",
+  "contextIds": null,
+  "language": null
+}

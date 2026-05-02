@@ -1,0 +1,24 @@
+{
+  "number": 163,
+  "text": "O artigo 33 da lei brasileira sobre drogas prevê a pena de reclusão de 5 a 15 anos para qualquer pessoa que seja condenada por tráfico ilícito ou produção não autorizada de drogas. Entretanto, caso o condenado seja réu primário, com bons antecedentes criminais, essa pena pode sofrer uma redução de um sexto a dois terços. Suponha que um réu primário, com bons antecedentes criminais, foi condenado pelo artigo 33 da lei brasileira sobre drogas. Após o benefício da redução de pena, sua pena poderá variar de",
+  "alternatives": {
+    "a": "1 ano e 8 meses a 12 anos e 6 meses",
+    "b": "1 ano e 8 meses a 5 anos",
+    "c": "3 anos e 4 meses a 10 anos",
+    "d": "4 anos e 2 meses a 5 anos",
+    "e": "4 anos e 2 meses a 12 anos e 6 meses"
+  },
+  "answer": "annulled",
+  "tags": [
+    "aritmética e números",
+    "matemática financeira"
+  ],
+  "year": 2018,
+  "test": "ENEM",
+  "area": "math",
+  "difficulty": 5,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

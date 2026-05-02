@@ -1,0 +1,23 @@
+{
+  "number": 99,
+  "text": "A extinção de espécies é uma ameaça real que afeta diversas regiões do país. A introdução de espécie exóticas pode ser considerada um fator maximizado desse processo. Casos como o dessa árvore podem provocar a redução da biodiversidade, pois elas",
+  "alternatives": {
+    "a": "ocupam áreas de vegetação nativa e substituem parcialmente a flora original.",
+    "b": "estimulam a competição por seus frutos entre animais típicos da região e eliminam as espécies perdedoras",
+    "c": "alteram os nichos e aumentam o número de possibilidades de relações entre os seres vivos daquele ambiente.",
+    "d": "apresentam alta taxa de reprodução e se mantêm com um número de indivíduos superior à capacidade suporte do ambiente.",
+    "e": "diminuem a relação de competição entre os polinizadores e facilitam a ação de dispersores das sementes de espécies nativas."
+  },
+  "answer": "a",
+  "tags": [
+    "biodiversidade",
+    "espécies exóticas"
+  ],
+  "year": 2022,
+  "test": "ENEM",
+  "area": "nature",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

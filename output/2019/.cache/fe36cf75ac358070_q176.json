@@ -1,0 +1,24 @@
+{
+  "number": 176,
+  "text": "Para construir uma piscina, cuja área total da superfície interna é igual a 40 m², uma construtora apresentou o seguinte orçamento:\n  - R$ 10 000,00 pela elaboração do projeto;\n  - R$ 40 000,00 pelos custos fixos;\n  - R$ 2 500,00 por metro quadrado para construção da área interna da piscina.\n\nApós a apresentação do orçamento, essa empresa decidiu reduzir o valor de elaboração do projeto em 50%, mas recalculou o valor do metro quadrado para a construção da área interna da piscina, concluindo haver a necessidade de aumentá-lo em 25%. Além disso, a construtora pretende dar um desconto nos custos fixos de maneira que o novo valor do orçamento seja reduzido em 10% em relação ao total inicial.\n\nO percentual de desconto que a construtora deverá conceder nos custos fixos é de",
+  "alternatives": {
+    "a": "23,3%",
+    "b": "25,0%",
+    "c": "50,0%",
+    "d": "87,5%",
+    "e": "100,0%"
+  },
+  "answer": "d",
+  "tags": [
+    "aritmética e números",
+    "matemática financeira"
+  ],
+  "year": 2019,
+  "test": "ENEM",
+  "area": "math",
+  "difficulty": 6,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

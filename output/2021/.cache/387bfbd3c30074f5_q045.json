@@ -1,0 +1,25 @@
+{
+  "number": 45,
+  "text": "O texto narra a trajetória artística de Abel Ferreira, clarinetista e compositor do choro, celebrando aproximadamente 100 anos da realização do choro da Fazenda do Bom Retiro. Descrito como um gênio musical brasileiro, Abel Ferreira compôs cerca de 50 choros, incluindo \"Ingênuo\" (1958), transmitindo seu legado aos seus herdeiros musicais.\n\nFERRAZ, L. Disponível em: cartacapital.com.br, 2019 (adaptado).\n\nConsiderando-se o contexto da vida artística de Abel Ferreira, os argumentos trazidos pela autora do texto buscam",
+  "alternatives": {
+    "a": "atribuir o desconhecimento da obra de Abel Ferreira ao ensino de música nas escolas.",
+    "b": "reivindicar mais investimentos estatais para a preservação das tecnologias de informação e comunicação.",
+    "c": "destacar a relevância histórica e a riqueza estética do choro no cenário musical brasileiro.",
+    "d": "apresentar ao leitor dados biográficos pouco conhecidos que facilitam o acesso à obra.",
+    "e": "constatar a impopularidade do choro diante da preferência do público por músicas populares."
+  },
+  "answer": "c",
+  "tags": [
+    "interpretação de texto",
+    "cultura e identidade",
+    "música e dança"
+  ],
+  "year": 2021,
+  "test": "ENEM",
+  "area": "linguagens",
+  "difficulty": 5,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

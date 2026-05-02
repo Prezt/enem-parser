@@ -1,0 +1,24 @@
+{
+  "number": 53,
+  "text": "Os países mencionados no texto justificam sua pretensão com base na seguinte característica comum:",
+  "alternatives": {
+    "a": "Extensividade de área territorial.",
+    "b": "Protagonismo em escala regional.",
+    "c": "Investimento em tecnologia militar.",
+    "d": "Desenvolvimento de energia nuclear.",
+    "e": "Disponibilidade de recursos minerais."
+  },
+  "answer": "b",
+  "tags": [
+    "geopolítica e relações internacionais",
+    "geopolítica e território"
+  ],
+  "year": 2019,
+  "test": "ENEM",
+  "area": "humanas",
+  "difficulty": 6,
+  "images": [],
+  "contextId": "enem_2019_humanas_53_ctx1",
+  "contextIds": null,
+  "language": null
+}

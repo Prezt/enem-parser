@@ -1,0 +1,23 @@
+{
+  "number": 111,
+  "text": "A tecnologia redutora de ruído CR utilizada na produção de fones de ouvido baseia-se em qual fenômeno ondulatório?",
+  "alternatives": {
+    "a": "Absorção",
+    "b": "Interferência",
+    "c": "Polarização",
+    "d": "Reflexão",
+    "e": "Difração"
+  },
+  "answer": "b",
+  "tags": [
+    "ondulatória e acústica"
+  ],
+  "year": 2020,
+  "test": "ENEM",
+  "area": "nature",
+  "difficulty": 6,
+  "images": [],
+  "contextId": "enem_2020_nature_111_ctx1",
+  "contextIds": null,
+  "language": null
+}

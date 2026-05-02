@@ -1,0 +1,23 @@
+{
+  "number": 54,
+  "text": "Eu poderia concluir que a raiva é um pensamento, que star com raiva é pensar que alguém é detestável, e que sse pensamento, como todos os outros — assim como Descartes o mostrou —, não poderia residir em nenhum ragmento de matéria. A raiva seria, portanto, espírito. Porém, quando me volto para minha própria experiência a raiva, devo confessar que ela não estava fora do meu orpo, mas inexplicavelmente nele.",
+  "alternatives": {
+    "a": "apresentar uma visão dualista",
+    "b": "confirmar uma tese naturalista",
+    "c": "demonstrar uma premissa realista",
+    "d": "sustentar um argumento idealista",
+    "e": "defender uma posição intencionalista"
+  },
+  "answer": "a",
+  "tags": [
+    "filosofia",
+    "cartesianismo"
+  ],
+  "year": 2023,
+  "test": "ENEM",
+  "area": "humanas",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

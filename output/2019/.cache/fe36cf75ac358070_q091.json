@@ -1,0 +1,24 @@
+{
+  "number": 91,
+  "text": "Para realizar o desentupimento de tubulações de esgotos residenciais, é utilizada uma mistura sólida comercial que contém hidróxido de sódio (NaOH) e outra espécie química pulverizada. Quando é adicionada água a essa mistura, ocorre uma reação que libera gás hidrogênio e energia na forma de calor, aumentando a eficiência do processo de desentupimento. Considere os potenciais padrão de redução (E°) da água e de outras espécies em meio básico, expressos no quadro.\n\n[Tabela - Semirreações de redução e potenciais padrão]\n\n2 H₂O + 2 e⁻ → H₂ + 2 OH⁻ | E° = −0,83 V\nCo(OH)₂ + 2 e⁻ → Co + 2 OH⁻ | E° = −0,73 V\nCu(OH)₂ + 2 e⁻ → Cu + 2 OH⁻ | E° = −0,22 V\nPbO + H₂O + 2 e⁻ → Pb + 2 OH⁻ | E° = −0,58 V\nAl(OH)₄⁻ + 3 e⁻ → Al + 4 OH⁻ | E° = −2,33 V\nFe(OH)₂ + 2 e⁻ → Fe + 2 OH⁻ | E° = −0,88 V\n\nQual é a outra espécie que está presente na composição da mistura sólida comercial para aumentar sua eficiência?",
+  "alternatives": {
+    "a": "Al",
+    "b": "Co",
+    "c": "Cu(OH)₂",
+    "d": "Fe(OH)₂",
+    "e": "Pb"
+  },
+  "answer": "a",
+  "tags": [
+    "eletroquímica",
+    "termoquímica e cinética"
+  ],
+  "year": 2019,
+  "test": "ENEM",
+  "area": "nature",
+  "difficulty": 7,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

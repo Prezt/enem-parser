@@ -1,0 +1,24 @@
+{
+  "number": 33,
+  "text": "Reconhecido pela linguagem impressionista, Raul Pompeia desenvolveu-a na prosa poética, em que se observa a",
+  "alternatives": {
+    "a": "imprecisão no sentido dos vocábulos",
+    "b": "dramaticidade como elemento expressivo",
+    "c": "subjetividade em oposição à verossimilhança",
+    "d": "valorização da imagem com efeito persuasivo",
+    "e": "plasticidade verbal vinculada à cadência melódica"
+  },
+  "answer": "e",
+  "tags": [
+    "literatura brasileira",
+    "interpretação de texto"
+  ],
+  "year": 2019,
+  "test": "ENEM",
+  "area": "linguagens",
+  "difficulty": 6,
+  "images": [],
+  "contextId": "enem_2019_linguagens_ctx1",
+  "contextIds": null,
+  "language": null
+}

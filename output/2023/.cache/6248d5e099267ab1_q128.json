@@ -1,0 +1,23 @@
+{
+  "number": 128,
+  "text": "É comum em viagens de avião sermos solicitados desligar aparelhos cujo funcionamento envolva a emissão ou a recepção de ondas eletromagnéticas, como celulares. A justificativa dada para esse procedimento é, entre outras coisas, a necessidade de eliminar fontes de sinal eletromagnéticos que possam interferir nas comunicações via rádio, dos pilotos com a torre de controle. Essa interferência poderá ocorrer somente se as ondas emitidas pelo celular e as recebidas pelo rádio do avião",
+  "alternatives": {
+    "a": "forem ambas audíveis.",
+    "b": "tiverem a mesma potência.",
+    "c": "tiverem a mesma frequência.",
+    "d": "tiverem a mesma intensidade.",
+    "e": "propagarem-se com velocidades diferentes."
+  },
+  "answer": "c",
+  "tags": [
+    "física",
+    "ondas eletromagnéticas"
+  ],
+  "year": 2023,
+  "test": "ENEM",
+  "area": "nature",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

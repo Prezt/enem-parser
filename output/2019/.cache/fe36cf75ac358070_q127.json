@@ -1,0 +1,25 @@
+{
+  "number": 127,
+  "text": "O 2,4-dinitrofenol (DNP) é conhecido como desacoplador da cadeia de elétrons na mitocôndria e apresenta um efeito emagrecedor. Contudo, por ser perigoso e pela ocorrência de casos letais, seu uso como medicamento é proibido em diversos países, inclusive no Brasil. Na mitocôndria, essa substância captura, no espaço intermembranas, prótons (H+) provenientes da atividade das proteínas da cadeia respiratória, retornando-os à matriz mitocondrial. Assim, esses prótons não passam pelo transporte enzimático na membrana interna. O efeito emagrecedor desse composto está relacionado ao(à)",
+  "alternatives": {
+    "a": "obstrução da cadeia respiratória, resultando em maior consumo celular de ácidos graxos.",
+    "b": "bloqueio das reações do ciclo de Krebs, resultando em maior gasto celular de energia.",
+    "c": "diminuição da produção de acetil CoA, resultando em maior gasto celular de piruvato.",
+    "d": "inibição da glicólise, resultando em maior absorção celular da glicose sanguínea.",
+    "e": "redução da produção de ATP, resultando em maior gasto celular de nutrientes."
+  },
+  "answer": "e",
+  "tags": [
+    "citologia",
+    "fisiologia humana",
+    "química geral e inorgânica"
+  ],
+  "year": 2019,
+  "test": "ENEM",
+  "area": "nature",
+  "difficulty": 7,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

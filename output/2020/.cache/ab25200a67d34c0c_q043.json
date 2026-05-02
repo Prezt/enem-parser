@@ -1,0 +1,24 @@
+{
+  "number": 43,
+  "text": "O texto permite o desnudamento da sociedade ao relacionar as tecnologias de informação e comunicação com o(a)",
+  "alternatives": {
+    "a": "agilidade dos softwares.",
+    "b": "passar dos anos.",
+    "c": "linguagem.",
+    "d": "preconceito.",
+    "e": "educação."
+  },
+  "answer": "d",
+  "tags": [
+    "interpretação de texto",
+    "comunicação e mídia"
+  ],
+  "year": 2020,
+  "test": "ENEM",
+  "area": "linguagens",
+  "difficulty": 5,
+  "images": [],
+  "contextId": "enem_2020_linguagens_q43_ctx",
+  "contextIds": null,
+  "language": null
+}

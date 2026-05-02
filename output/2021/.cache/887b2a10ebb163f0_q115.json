@@ -1,0 +1,24 @@
+{
+  "number": 115,
+  "text": "Na montagem de uma cozinha para um restaurante, a escolha do material correto para as panelas é importante, pois a panela que conduz mais calor é capaz de cozinhar os alimentos mais rapidamente e, com isso, há economia de energia. A taxa de condução de calor através de um material é dada por Q/t = k A ΔT/d, em que Q é o calor conduzido, t é o tempo, k é a condutividade do material, A é a área, ΔT é a diferença de temperatura e d é a espessura do material. Em panelas com dois materiais em contato, a taxa total de condução de calor é dada por Q/t = A ΔT/(d₁/k₁ + d₂/k₂), em que d₁ e d₂ são as espessuras de cada material e k₁ e k₂ são suas respectivas condutividades. Considerando uma panela com fundo composto por três camadas de materiais diferentes — alumínio (k = 20 W/m·K), ferro (k = 8 W/m·K) e aço (k = 5 W/m·K) combinado com o cobre (k = 40 W/m·K). Todas as panelas têm a mesma espessura total e a mesma área de fundo. Avalie as seguintes combinações de camadas:\n  - Panela I: camada externa de alumínio, uma intermediária de ferro e outra interna de cobre, cada uma com 1/3 da espessura total;\n  - Panela II: 1/2 da espessura em cobre e 1/2 em aço, todas com a mesma espessura total e com a mesma área de fundo.\nA ordem crescente da mais econômica para a menos econômica é",
+  "alternatives": {
+    "a": "Panela I, Panela II, Panela III, Panela IV",
+    "b": "Panela II, Panela III, Panela I, Panela IV",
+    "c": "Panela I, Panela II, Panela IV, Panela III",
+    "d": "Panela II, Panela IV, Panela I, Panela III",
+    "e": "Panela IV, Panela II, Panela I, Panela III"
+  },
+  "answer": "b",
+  "tags": [
+    "termologia",
+    "análise e interpretação de dados"
+  ],
+  "year": 2021,
+  "test": "ENEM",
+  "area": "nature",
+  "difficulty": 7,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

@@ -1,0 +1,25 @@
+{
+  "number": 4,
+  "text": "Na região da Catalunha, Espanha, convivem duas línguas oficiais: o catalão e o espanhol. Além dessas, ensinam-se outras línguas nas escolas. De acordo com o texto, para administrar a variedade linguística nas aulas, é necessário",
+  "alternatives": {
+    "a": "ampliar o número de línguas ofertadas para enriquecer o conteúdo.",
+    "b": "divulgar o estudo de diferentes idiomas e culturas para atrair os estudantes.",
+    "c": "privilegiar o estudo de línguas maternas para valorizar os aspectos regionais.",
+    "d": "explorar as relações entre as línguas estudadas para promover a diversidade.",
+    "e": "debater as práticas sobre multilinguismo para formar melhor os professores de línguas."
+  },
+  "answer": "e",
+  "tags": [
+    "interpretação de texto",
+    "língua espanhola",
+    "linguística e variação linguística"
+  ],
+  "year": 2018,
+  "test": "ENEM",
+  "area": "linguagens",
+  "difficulty": 5,
+  "images": [],
+  "contextId": "enem_2018_linguagens_ctx1",
+  "contextIds": null,
+  "language": "es"
+}

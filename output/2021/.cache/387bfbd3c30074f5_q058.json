@@ -1,0 +1,25 @@
+{
+  "number": 58,
+  "text": "A cidade é um produto do trabalho humano, um artefato social, cultural e político. Nessa perspectiva, ela não é simplesmente um conjunto de edifícios, mas um espaço onde se materializam relações sociais, conflitos e contradições. O texto apresenta uma crítica sobre a mercantilização da cidade, onde pedaços da cidade são vendidos, no mercado, como mercadorias. Qual é a principal consequência dessa mercantilização para a estrutura urbana e para a vida social?",
+  "alternatives": {
+    "a": "A transformação da cidade em um produto de consumo que fragmenta o espaço urbano e reduz a vida social a transações comerciais.",
+    "b": "A destruição completa das relações sociais tradicionais e a eliminação de qualquer forma de organização comunitária.",
+    "c": "A concentração exclusiva do poder nas mãos dos empresários imobiliários e a exclusão total do Estado.",
+    "d": "A homogeneização total da cidade e a extinção de qualquer diferença cultural ou social entre seus habitantes.",
+    "e": "A manutenção de um espaço urbano igualitário onde todos têm acesso às mesmas oportunidades e recursos."
+  },
+  "answer": "e",
+  "tags": [
+    "filosofia moderna e contemporânea",
+    "sociologia e estrutura social",
+    "geopolítica e território"
+  ],
+  "year": 2021,
+  "test": "ENEM",
+  "area": "humanas",
+  "difficulty": 6,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

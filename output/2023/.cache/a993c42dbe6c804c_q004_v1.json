@@ -1,0 +1,23 @@
+{
+  "number": 4,
+  "text": "Nesse texto, a expressão “ cortina de humo ” revela que o manipulador",
+  "alternatives": {
+    "a": "amadurece tardiamente.",
+    "b": "busca mascarar a verdade.",
+    "c": "rejeita questionamentos alheios.",
+    "d": "aproxima-se de pessoas indefesas.",
+    "e": "faz-se presente de forma controladora."
+  },
+  "answer": "a",
+  "tags": [
+    "manipulação",
+    "linguagem"
+  ],
+  "year": 2023,
+  "test": "ENEM",
+  "area": "linguagens",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

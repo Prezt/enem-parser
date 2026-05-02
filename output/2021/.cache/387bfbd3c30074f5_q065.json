@@ -1,0 +1,24 @@
+{
+  "number": 65,
+  "text": "A situação da classe trabalhadora na Inglaterra",
+  "alternatives": {
+    "a": "era compatível com os princípios humanitários do capitalismo industrial",
+    "b": "gerou descontentamento que impulsionou movimentos de contestação social",
+    "c": "era ignorada pela intelectualidade da época",
+    "d": "não apresentava diferenças em relação às condições de trabalho medievais",
+    "e": "era defendida pelos pensadores socialistas como modelo ideal"
+  },
+  "answer": "a",
+  "tags": [
+    "história moderna",
+    "sociologia e estrutura social"
+  ],
+  "year": 2021,
+  "test": "ENEM",
+  "area": "humanas",
+  "difficulty": 5,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

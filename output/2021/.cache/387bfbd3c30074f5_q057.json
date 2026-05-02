@@ -1,0 +1,21 @@
+{
+  "number": 57,
+  "text": "Nos setores mais altamente desenvolvidos da sociedade contemporânea, o transplante de necessidade",
+  "alternatives": {
+    "a": "po",
+    "b": "in",
+    "c": "pr",
+    "d": "me",
+    "e": "re"
+  },
+  "answer": "d",
+  "tags": [],
+  "year": 2021,
+  "test": "ENEM",
+  "area": "humanas",
+  "difficulty": 5,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

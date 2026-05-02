@@ -1,0 +1,23 @@
+{
+  "number": 46,
+  "text": "No experimento descrito, a relação com a paisagem com a religiosidade permite que o sertanejo seja",
+  "alternatives": {
+    "a": "afeito à devoção ao aceitar destinos sacralizados.",
+    "b": "acostumado à pobreza ao admitir acasos naturais.",
+    "c": "habituado ao solo ao conhecer terrenos cultiváveis.",
+    "d": "íntimo à Caatinga ao interpretar condições ambientais",
+    "e": "próximo à vegetação ao identificar espécies arbustivas"
+  },
+  "answer": "d",
+  "tags": [
+    "cultura",
+    "religião"
+  ],
+  "year": 2022,
+  "test": "ENEM",
+  "area": "humanas",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

@@ -1,0 +1,23 @@
+{
+  "number": 106,
+  "text": "Slackline é um esporte no qual o atleta deve se equilibrar e executar manobras estando sobre uma fita esticada. Para a prática do esporte, as duas extremidades da fita são fixadas de forma que ela fique a alguns centímetros do solo. Quando uma atleta de massa igual a 80 kg está exatamente no meio da fita, essa se desloca verticalmente, formando um ângulo de 10° com a horizontal, como esquematizado na figura. Sabe-se que a aceleração da gravidade é igual a 10 m s⁻², cos(10°) = 0,98 e sen(10°) = 0,17. Qual é a força que a fita exerce em cada uma das árvores por causa da presença da atleta?",
+  "alternatives": {
+    "a": "4,0 × 10² N",
+    "b": "4,1 × 10² N",
+    "c": "8,0 × 10² N",
+    "d": "2,4 × 10³ N",
+    "e": "4,7 × 10³ N"
+  },
+  "answer": "d",
+  "tags": [
+    "mecânica newtoniana"
+  ],
+  "year": 2019,
+  "test": "ENEM",
+  "area": "nature",
+  "difficulty": 6,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

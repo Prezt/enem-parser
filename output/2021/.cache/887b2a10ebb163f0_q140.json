@@ -1,0 +1,24 @@
+{
+  "number": 140,
+  "text": "Uma grande rede de supermercados adota um sistema de comissão para seus representantes, considerando a média de faturamento mensal em um dado ano. Segundo esse sistema, o percentual de comissão varia conforme a média de faturamento mensal (M), conforme apresentado no quadro:\n\nComissão conforme a média de faturamento mensal (M):\n  - 0%: M < 2\n  - 5%: 2 ≤ M < 4\n  - 10%: 4 ≤ M < 5\n  - 15%: 5 ≤ M < 6\n  - 20%: M ≥ 6\n\nUm supermercado da rede obteve os seguintes faturamentos num dado ano:\n\nFaturamento mensal (em milhão de real) | Quantidade de meses\n  - 3,5: 3\n  - 2,5: 2\n  - 5: 2\n  - 3: 4\n  - 4,5: 1\n\nNas condições apresentadas, os representantes desse supermercado receberão uma comissão de qual percentual?",
+  "alternatives": {
+    "a": "0%",
+    "b": "5%",
+    "c": "10%",
+    "d": "15%",
+    "e": "20%"
+  },
+  "answer": "b",
+  "tags": [
+    "aritmética e números",
+    "estatística"
+  ],
+  "year": 2021,
+  "test": "ENEM",
+  "area": "math",
+  "difficulty": 5,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

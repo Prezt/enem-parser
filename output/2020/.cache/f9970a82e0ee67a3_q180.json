@@ -1,0 +1,24 @@
+{
+  "number": 180,
+  "text": "Com o objetivo de contratar uma empresa responsável pelo serviço de atendimento ao público, os executivos de uma agência bancária realizaram uma pesquisa de satisfação envolvendo cinco empresas especializadas nesse segmento. Os procedimentos analisados (com pesos que medem sua importância para a agência) e as respectivas notas que cada empresa recebeu estão organizados no quadro.\n\n| Procedimento | Peso | X | Y | Z | W | T |\n|---|---|---|---|---|---|---|\n| Rapidez no atendimento | 3 | 5 | 1 | 4 | 3 | 4 |\n| Clareza nas informações passadas aos clientes | 5 | 1 | 4 | 3 | 3 | 2 |\n| Cortesia no atendimento | 2 | 2 | 2 | 2 | 3 | 4 |\n\nA agência bancária contratará a empresa com a maior média ponderada das notas obtidas nos procedimentos analisados. Após a análise dos resultados da pesquisa de satisfação, os executivos da agência bancária contrataram a empresa",
+  "alternatives": {
+    "a": "X",
+    "b": "Y",
+    "c": "Z",
+    "d": "W",
+    "e": "T"
+  },
+  "answer": "c",
+  "tags": [
+    "estatística",
+    "matemática financeira"
+  ],
+  "year": 2020,
+  "test": "ENEM",
+  "area": "math",
+  "difficulty": 4,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

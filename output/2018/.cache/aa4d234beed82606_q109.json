@@ -1,0 +1,24 @@
+{
+  "number": 109,
+  "text": "A hidroxilamina (NH₂OH) é extremamente reativa em reações de substituição nucleofílica, justificando sua utilização em diversos processos. A reação de substituição nucleofílica entre o anidrido acético e a hidroxilamina está representada. O produto A é favorecido em relação ao B, por um fator de 10⁵. Em um estudo de possível substituição ao uso de hidroxilamina, foram testadas as moléculas numeradas de 1 a 5. Dentre as moléculas testadas, qual delas apresentou menor reatividade?",
+  "alternatives": {
+    "a": "1",
+    "b": "2",
+    "c": "3",
+    "d": "4",
+    "e": "5"
+  },
+  "answer": "d",
+  "tags": [
+    "química orgânica",
+    "química geral e inorgânica"
+  ],
+  "year": 2018,
+  "test": "ENEM",
+  "area": "nature",
+  "difficulty": 7,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

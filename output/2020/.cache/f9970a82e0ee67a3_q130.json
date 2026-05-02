@@ -1,0 +1,26 @@
+{
+  "number": 130,
+  "text": "Herschel, em 1880, começou a escrever sobre a convicção de que maneira os raios coloridos contribuem para o aquecimento solar. Em um experimento com um prisma, colocou termômetros nas diferentes posições e as leituras dos termômetros iluminados indicou um aumento de temperatura.\n\nPara verificar a hipótese de Herschel, um estudante monta um experimento com cinco recipientes contendo água, à mesma temperatura inicial, posicionados lado a lado (A, B, C, D e E) no interior de uma caixa. Uma fonte de luz branca na caixa, atravessa o prisma e incide sobre os recipientes. Aguarda um tempo e a afere em cada recipiente.\n\n[Figura: Prisma dispersando luz branca em espectro de cores sobre recipientes A, B, C, D, E]\n\nEm qual dos recipientes a água terá maior temperatura?",
+  "alternatives": {
+    "a": "A",
+    "b": "B",
+    "c": "C",
+    "d": "D",
+    "e": "E"
+  },
+  "answer": "a",
+  "tags": [
+    "óptica",
+    "termologia"
+  ],
+  "year": 2020,
+  "test": "ENEM",
+  "area": "nature",
+  "difficulty": 4,
+  "images": [
+    "figuras/q130_2020_fig1.png"
+  ],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

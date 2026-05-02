@@ -1,0 +1,24 @@
+{
+  "number": 135,
+  "text": "Quando se considera a extrema velocidade com que a luz se espalha por todos os lados e que, quando vêm de diferentes lugares, mesmo totalmente opostos, os raios luminosos se atravessam uns aos outros sem se atrapalharem, compreende-se que, quando vemos um objeto luminoso, isso não poderia ocorrer pelo transporte de uma matéria que venha do objeto até nós, como uma flecha ou bala atravessa o ar; pois certamente isso repugna bastante a essas duas propriedades da luz, principalmente a última.\n\nO texto contesta que concepção acerca do comportamento da luz?",
+  "alternatives": {
+    "a": "O entendimento de que a luz precisa de um meio de propagação, difundido pelos defensores da existência do éter.",
+    "b": "O modelo ondulatório para a luz, o qual considera a possibilidade de interferência entre feixes luminosos.",
+    "c": "O modelo corpuscular defendido por Newton, que descreve a luz como um feixe de partículas.",
+    "d": "A crença na velocidade infinita da luz, defendida pela maioria dos filósofos gregos.",
+    "e": "A ideia defendida pelos gregos de que a luz era produzida pelos olhos."
+  },
+  "answer": "c",
+  "tags": [
+    "óptica",
+    "história moderna"
+  ],
+  "year": 2019,
+  "test": "ENEM",
+  "area": "nature",
+  "difficulty": 6,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

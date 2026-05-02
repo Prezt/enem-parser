@@ -1,0 +1,24 @@
+{
+  "number": 55,
+  "text": "O texto indica que durante a Guerra Fria as relações internas em um mesmo bloco foram marcadas pelo(a)",
+  "alternatives": {
+    "a": "busca da neutralidade política.",
+    "b": "estímulo à competição comercial.",
+    "c": "subordinação à potência hegemônica.",
+    "d": "elasticidade das fronteiras geográficas.",
+    "e": "compartilhamento de pesquisas científicas."
+  },
+  "answer": "c",
+  "tags": [
+    "geopolítica e relações internacionais",
+    "história contemporânea"
+  ],
+  "year": 2018,
+  "test": "ENEM",
+  "area": "humanas",
+  "difficulty": 5,
+  "images": [],
+  "contextId": "enem_2018_humanas_055",
+  "contextIds": null,
+  "language": null
+}

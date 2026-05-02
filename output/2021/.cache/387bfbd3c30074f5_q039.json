@@ -1,0 +1,24 @@
+{
+  "number": 39,
+  "text": "Qual é a característica principal do \"falso moralista\" retratado no texto?",
+  "alternatives": {
+    "a": "Aceita o teatro de revista",
+    "b": "Bebe bem a noite inteira",
+    "c": "Pede dispensa para ir ao oculista",
+    "d": "Vai curar sua ressaca simplesmente",
+    "e": "É um verdadeiro sambista"
+  },
+  "answer": "a",
+  "tags": [
+    "interpretação de texto",
+    "literatura brasileira"
+  ],
+  "year": 2021,
+  "test": "ENEM",
+  "area": "linguagens",
+  "difficulty": 5,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

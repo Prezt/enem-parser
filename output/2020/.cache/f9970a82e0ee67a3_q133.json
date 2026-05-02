@@ -1,0 +1,24 @@
+{
+  "number": 133,
+  "text": "Há muitos mitos em relação a como se proteger de raios, cobrir espelhos e não pegar em facas, garfos e outros objetos metálicos, por exemplo. Mas, de fato, se houver uma tempestade com raios, alguns cuidados são importantes, como evitar ambientes abertos. Um bom abrigo para proteção é o interior de um automóvel, desde que este não seja conversível. Qual o motivo físico da proteção fornecida pelos automóveis, conforme citado no texto?",
+  "alternatives": {
+    "a": "Isolamento elétrico dos pneus.",
+    "b": "Efeito de para-raios da antena.",
+    "c": "Blindagem pela carcaça metálica.",
+    "d": "Escoamento da água pela lataria.",
+    "e": "Aterramento pelo fio terra da bateria."
+  },
+  "answer": "c",
+  "tags": [
+    "eletricidade e magnetismo",
+    "física moderna"
+  ],
+  "year": 2020,
+  "test": "ENEM",
+  "area": "nature",
+  "difficulty": 6,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

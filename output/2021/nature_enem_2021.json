@@ -1,0 +1,969 @@
+[
+  {
+    "number": 91,
+    "text": "A tabela apresenta a composição de uma solução nutritiva de referência e de uma solução nutritiva preparada para o cultivo hidropônico de alface. A solução de referência possui pH entre 5,5 e 6,5, sendo adequada para o desenvolvimento da planta. A solução preparada apresenta pH = 4,3, o que pode prejudicar o desenvolvimento das plantas, pois causa a precipitação de alguns nutrientes e aumenta a toxidez de outros. Para corrigir o pH dessa solução preparada e aproximá-lo ao da solução de referência, qual substância deveria ser adicionada?",
+    "alternatives": {
+      "a": "ácido fosfórico, H₃PO₄",
+      "b": "sulfato de cálcio, CaSO₄",
+      "c": "óxido de alumínio, Al₂O₃",
+      "d": "nitrato de potássio, KNO₃",
+      "e": "hidróxido de potássio, KOH"
+    },
+    "images": [],
+    "tags": [
+      "química geral e inorgânica",
+      "estequiometria"
+    ],
+    "difficulty": 6,
+    "year": 2021,
+    "test": "ENEM",
+    "area": "nature",
+    "answer": "e"
+  },
+  {
+    "number": 92,
+    "text": "O sino dos ventos é composto por várias barras metálicas de mesmo material e espessura, mas de comprimentos diferentes. Considere f₁ e v₁, respectivamente, como a frequência e a velocidade do som emitido pela barra de menor comprimento, e f₂ e v₂ as mesmas grandezas para o som emitido pela barra de maior comprimento. As relações entre as frequências fundamentais e entre as velocidades do som são:",
+    "alternatives": {
+      "a": "f₁ > f₂ e v₁ = v₂",
+      "b": "f₁ < f₂ e v₁ = v₂",
+      "c": "f₁ > f₂ e v₁ > v₂",
+      "d": "f₁ < f₂ e v₁ > v₂",
+      "e": "f₁ = f₂ e v₁ = v₂"
+    },
+    "images": [],
+    "tags": [
+      "ondulatória e acústica"
+    ],
+    "difficulty": 5,
+    "year": 2021,
+    "test": "ENEM",
+    "area": "nature",
+    "answer": "d"
+  },
+  {
+    "number": 93,
+    "text": "O polvo mimético apresenta padrões cromáticos e comportamentos muito curiosos. Frequentemente, muda de cor e forma para se camuflar ou se comunicar, imitando o padrão de alguns animais. As imagens 1, 3 e 5 apresentam polvos em seu habitat natural, e as imagens 2, 4 e 6 mostram o mesmo polvo imitando o padrão de outros organismos.\n\n[Figura: Sequência de 6 imagens mostrando polvo mimético em diferentes padrões]\n\nDo ponto de vista evolutivo, a capacidade apresentada se estabeleceu porque os polvos",
+    "alternatives": {
+      "a": "possuem os mesmos ancestrais dos animais que imitam, apresentando as mesmas características genéticas.",
+      "b": "passaram por mutações similares a esses organismos.",
+      "c": "observaram esses animais em seus nichos ecológicos.",
+      "d": "resultaram de convergência adaptativa com essas espécies.",
+      "e": "sobreviveram às pressões seletivas com esses comportamentos."
+    },
+    "images": [
+      "figuras/q093_2021_fig1.png"
+    ],
+    "tags": [
+      "evolução",
+      "ecologia",
+      "comportamento animal"
+    ],
+    "difficulty": 6,
+    "year": 2021,
+    "test": "ENEM",
+    "area": "nature",
+    "answer": "e"
+  },
+  {
+    "number": 94,
+    "text": "No jogo, dois competidores controlam os canhões A e B, disparando balas alternadamente com o objetivo de acertar o alvo inimigo. Os valores estimados para o módulo da velocidade inicial do disparo (υ₀) e para o ângulo de disparo (θ) são dados conforme necessário. Em determinado momento de uma partida, o competidor B deve disparar; ele sabe que a bala disparada anteriormente, com θ = 53°, passou tangenciando o ponto P. No jogo, υ₀ é igual a 10 m/s. Considere sen 53° = 0,8 e cos 53° = 0,6. Com base nas distâncias dadas e mantendo o último ângulo de disparo, qual deveria ser, aproximadamente, o menor valor de υ₀ que permitiria ao disparo efetuado por B atingir o alvo em A?",
+    "alternatives": {
+      "a": "30 m/s",
+      "b": "35 m/s",
+      "c": "40 m/s",
+      "d": "45 m/s",
+      "e": "50 m/s"
+    },
+    "images": [],
+    "tags": [
+      "mecânica newtoniana",
+      "trigonometria"
+    ],
+    "difficulty": 7,
+    "year": 2021,
+    "test": "ENEM",
+    "area": "nature",
+    "answer": "c"
+  },
+  {
+    "number": 95,
+    "text": "Os pesticidas organoclorados foram amplamente utilizados na agricultura do século XX, porém foram banidos em diversos países por apresentarem elevadas toxicidades e persistências no meio ambiente. Considere um pesticida organoclorado que, em condições normais de solo, apresenta meia-vida de 5 anos. Se uma quantidade inicial de 1 kg desse pesticida organoclorado for aplicada em uma cultura e que, em seguida, não haja nenhuma reaplicação, a massa do pesticida no decorrer de 35 anos será mais próxima de",
+    "alternatives": {
+      "a": "3,9 g",
+      "b": "31,2 g",
+      "c": "62,5 g",
+      "d": "125,0 g",
+      "e": "250,0 g"
+    },
+    "images": [],
+    "tags": [
+      "química geral e inorgânica",
+      "estequiometria"
+    ],
+    "difficulty": 6,
+    "year": 2021,
+    "test": "ENEM",
+    "area": "nature",
+    "answer": "a"
+  },
+  {
+    "number": 96,
+    "text": "A sequência de nucleotídeos do RNA mensageiro presentes em um gene de um fungo, constituída de sete códons, está escrita a seguir.\n1 2 3 4 5 6 7\nUUU CAA\n\nPesquisadores submeteram a sequência a mutações. Qual das alternativas apresenta a sequência de nucleotídeos após uma mutação que insira os códons de parada UAG e UAA?",
+    "alternatives": {
+      "a": "UUU CAA UAG UAA",
+      "b": "UUU CAA UAG UAA",
+      "c": "UUU CAA UAG UAA",
+      "d": "UUU CAA UAG UAA",
+      "e": "UUU CAA UAG UAA"
+    },
+    "images": [],
+    "tags": [
+      "genética e hereditariedade",
+      "biologia molecular"
+    ],
+    "difficulty": 5,
+    "year": 2021,
+    "test": "ENEM",
+    "area": "nature",
+    "answer": "b"
+  },
+  {
+    "number": 97,
+    "text": "Jogue a pia o óleo de cozinha usado pode contribuir para a poluição da água. Para evitar esse tipo de poluição, o descarte adequado do óleo é fundamental. Um modelo ideal de descarte, mas uma alternativa simples é a reutilização do óleo para a produção de sabão. Para isso, são necessários, além do próprio óleo, água e soda cáustica. A reação química responsável pela transformação do óleo vegetal em sabão e glicerol é denominada",
+    "alternatives": {
+      "a": "hidrólise",
+      "b": "neutralização",
+      "c": "saponificação",
+      "d": "esterificação",
+      "e": "transesterificação"
+    },
+    "images": [],
+    "tags": [
+      "química orgânica",
+      "estequiometria"
+    ],
+    "difficulty": 5,
+    "year": 2021,
+    "test": "ENEM",
+    "area": "nature",
+    "answer": "e"
+  },
+  {
+    "number": 98,
+    "text": "Durante o desenvolvimento embrionário humano, o coração passa por diferentes estágios até alcançar sua forma final. Em um desses estágios, o coração é constituído de duas câmaras (átrio e ventrículo únicos), semelhante ao coração de peixes atuais. Em outro estágio, apresenta três câmaras (dois átrios e um ventrículo), semelhante ao coração de anfíbios e répteis. Qual grupo de vertebrados possui uma estrutura cardíaca que impede completamente a mistura de sangue venoso com o arterial durante todo o ciclo cardíaco?",
+    "alternatives": {
+      "a": "mamíferos, porque possuem um septo interventricular completo que impede totalmente a mistura de sangue.",
+      "b": "répteis, porque a mistura de sangue é minimizada por um metabolismo lento.",
+      "c": "aves, porque possuem um septo completo que impede a mistura sanguínea.",
+      "d": "peixes, porque apresentam circulação simples, na qual todo o sangue passa pelo coração uma única vez antes de chegar aos tecidos.",
+      "e": "anfíbios, porque pressões diferenciais isolam temporalmente o sangue venoso do arterial."
+    },
+    "images": [],
+    "tags": [
+      "fisiologia humana",
+      "evolução",
+      "zoologia"
+    ],
+    "difficulty": 6,
+    "year": 2021,
+    "test": "ENEM",
+    "area": "nature",
+    "answer": "d"
+  },
+  {
+    "number": 99,
+    "text": "Ao cruzar a ilha de calor, a brisa marítima absorve energia térmica das superfícies quentes e transfere essa energia para a atmosfera. No processo de fortes chuvas no centro da cidade, a ilha de calor afasta as chuvas de regiões próximas. O diagrama apresenta os três subsistemas que trocam energia nesse fenômeno. Identifique os processos de transferência de calor: entre o Sol e a ilha de calor, e entre a ilha de calor e a brisa marítima.",
+    "alternatives": {
+      "a": "Radiação; condução",
+      "b": "Radiação; convecção",
+      "c": "Condução; convecção",
+      "d": "Convecção; radiação",
+      "e": "Convecção; condução"
+    },
+    "images": [],
+    "tags": [
+      "termologia",
+      "climatologia"
+    ],
+    "difficulty": 6,
+    "year": 2021,
+    "test": "ENEM",
+    "area": "nature",
+    "answer": "a"
+  },
+  {
+    "number": 100,
+    "text": "No seu estudo sobre a queda dos corpos, Aristóteles acreditava que se abandonarmos corpos leves e pesados de uma mesma altura, o mais pesado chegaria mais rápido ao solo. Essa ideia está apoiada em algo que parece ser baseado no senso comum.\n\nApós uma aula de física, dois colegas estavam discutindo sobre a queda dos corpos, e um tentava convencer o outro de sua ideia.\n\nColega A: \"O corpo mais pesado cai mais rápido que um menos pesado, quando largado de uma mesma altura. Eu provo, largando uma pedra e uma rolha. A pedra chega primeiro. Pronto! Tá provado!\".\n\nColega B: \"Espera aí. Peguei uma folha de papel, e ela caiu bem devagar. Depois peguei a mesma folha, amassadinha e deixei cair. Quando amassai, ela caiu mais rápido. Como isso é possível? Se era a mesma folha de papel, deveria cair do mesmo jeito. Tem que ter outra explicação!\".\n\nO aspecto físico comum que explica a diferença de comportamento na queda dos corpos, observada pelo colega B, está relacionado ao(a)",
+    "alternatives": {
+      "a": "peso dos corpos.",
+      "b": "resistência do ar.",
+      "c": "massa dos corpos.",
+      "d": "densidade dos corpos.",
+      "e": "volume dos corpos."
+    },
+    "images": [],
+    "tags": [
+      "mecânica newtoniana",
+      "fisiologia humana"
+    ],
+    "difficulty": 6,
+    "year": 2021,
+    "test": "ENEM",
+    "area": "nature",
+    "answer": "b"
+  },
+  {
+    "number": 101,
+    "text": "O melaço utilizado apresentou 50 kg de monossacarídeos na forma de glicose. O volume de etanol, em litro, obtido nesse processo é mais próximo de",
+    "alternatives": {
+      "a": "16",
+      "b": "20",
+      "c": "25",
+      "d": "64",
+      "e": "100"
+    },
+    "images": [],
+    "tags": [
+      "estequiometria",
+      "química geral e inorgânica"
+    ],
+    "difficulty": 6,
+    "year": 2021,
+    "test": "ENEM",
+    "area": "nature",
+    "answer": "c",
+    "contextId": "enem_2021_nature_ctx1"
+  },
+  {
+    "number": 102,
+    "text": "É possível ligar aparelhos elétricos de baixa corrente utilizando materiais comuns de laboratório no lugar das pilhas comerciais. [Esquema - célula galvânica com eletrodos de cobre e zinco em solução de sulfato]",
+    "alternatives": {
+      "a": "A",
+      "b": "B",
+      "c": "C",
+      "d": "D",
+      "e": "E"
+    },
+    "images": [
+      "figuras/q102_2021_fig1.png"
+    ],
+    "tags": [
+      "eletroquímica",
+      "química geral e inorgânica"
+    ],
+    "difficulty": 6,
+    "year": 2021,
+    "test": "ENEM",
+    "area": "nature",
+    "answer": "b"
+  },
+  {
+    "number": 103,
+    "text": "Um técnico analisou um lote de analgésico e realizou os seguintes testes: [Figura: estrutura do ácido acetilsalicílico e testes químicos]. O lote foi reprovado porque a quantidade de ácido acetilsalicílico estava abaixo do especificado. O teste que permitiu reprovar o lote de analgésicos foi o de número",
+    "alternatives": {
+      "a": "1",
+      "b": "2",
+      "c": "3",
+      "d": "4",
+      "e": "5"
+    },
+    "images": [
+      "figuras/q103_2021_fig1.png"
+    ],
+    "tags": [
+      "química geral e inorgânica",
+      "análise qualitativa"
+    ],
+    "difficulty": 6,
+    "year": 2021,
+    "test": "ENEM",
+    "area": "nature",
+    "answer": "e"
+  },
+  {
+    "number": 104,
+    "text": "O derramamento de produtos tóxicos nas águas do Rio Doce, ocorridos em 2015, ainda têm consequências para os organismos que habitam o Parque Nacional Marinho de Abrolhos localizado a mais de 1 000 quilômetros de distância. Concentrações mais elevadas dos compostos citados seriam encontradas em qual nível trófico?",
+    "alternatives": {
+      "a": "esponjas",
+      "b": "peixes carnívoros",
+      "c": "crustáceos",
+      "d": "peixes herbívoros",
+      "e": "algas macroscópicas"
+    },
+    "images": [],
+    "tags": [
+      "ecologia",
+      "biologia"
+    ],
+    "difficulty": 6,
+    "year": 2021,
+    "test": "ENEM",
+    "area": "nature",
+    "answer": "b"
+  },
+  {
+    "number": 105,
+    "text": "Duas esferas carregadas com cargas iguais estão presas nos extremos de uma haste rígida isolante na forma de haltere. O sistema se encontra em repouso e imerso em um campo magnético horizontal uniforme, da esquerda para a direita. A imagem apresenta o sistema em movimento de rotação em torno do seu centro de massa, com velocidades v nos sentidos opostos. Desprezando-se a gravidade, visto de cima, o diagrama esquemático das forças magnéticas que atuam no sistema, no momento inicial em que as velocidades são perpendiculares ao campo magnético, está representado em",
+    "alternatives": {
+      "a": "[Descrição da alternativa A - diagrama das forças]",
+      "b": "[Descrição da alternativa B - diagrama das forças]",
+      "c": "[Descrição da alternativa C - diagrama das forças]",
+      "d": "[Descrição da alternativa D - diagrama das forças]",
+      "e": "[Descrição da alternativa E - diagrama das forças]"
+    },
+    "images": [],
+    "tags": [
+      "eletricidade e magnetismo",
+      "mecânica newtoniana"
+    ],
+    "difficulty": 8,
+    "year": 2021,
+    "test": "ENEM",
+    "area": "nature",
+    "answer": "a"
+  },
+  {
+    "number": 106,
+    "text": "Na presença de luz, a bilirrubina é convertida em lumirrubina, que é excretada pela bile ou pela urina. A imagem ilustra o que ocorre com a bilirrubina quando exposta à luz.\n\n[Figura: Estrutura química da bilirrubina e lumirrubina com representação de isomeria]\n\nQual é o tipo de isomeria que ocorre na conversão de bilirrubina em lumirrubina?",
+    "alternatives": {
+      "a": "Ótico",
+      "b": "Funcional",
+      "c": "De cadeia",
+      "d": "De posição",
+      "e": "Geométrico"
+    },
+    "images": [
+      "figuras/q106_2021_fig1.png"
+    ],
+    "tags": [
+      "química orgânica",
+      "estequiometria"
+    ],
+    "difficulty": 6,
+    "year": 2021,
+    "test": "ENEM",
+    "area": "nature",
+    "answer": "c"
+  },
+  {
+    "number": 107,
+    "text": "Considerando o mesmo automóvel em duas versões, uma delas funcionando a álcool e outra, a gasolina, com os seguintes parâmetros:\n\nMotor a gasolina:\n  - Tempo de 0 a 100 km/h em 13 s\n  - Velocidade máxima 165 km/h\n\nMotor a álcool:\n  - Tempo de 0 a 100 km/h em 12,9 s\n  - Velocidade máxima 163 km/h\n\nQual das seguintes afirmações está correta?",
+    "alternatives": {
+      "a": "O motor a gasolina desenvolve maior potência.",
+      "b": "O motor a álcool desenvolve maior potência.",
+      "c": "O motor a gasolina possui maior potência.",
+      "d": "A potência desenvolvida é a mesma.",
+      "e": "O motor a álcool desenvolve a maior potência."
+    },
+    "images": [],
+    "tags": [
+      "física",
+      "mecânica newtoniana"
+    ],
+    "difficulty": 6,
+    "year": 2021,
+    "test": "ENEM",
+    "area": "nature",
+    "answer": "c"
+  },
+  {
+    "number": 108,
+    "text": "Considerando os versos da sextilha e as informações da tabela, a qual planeta o cordel faz referência?",
+    "alternatives": {
+      "a": "Mercúrio.",
+      "b": "Júpiter.",
+      "c": "Urano.",
+      "d": "Saturno.",
+      "e": "Netuno."
+    },
+    "images": [],
+    "tags": [
+      "gravitação e astronomia",
+      "interpretação de texto"
+    ],
+    "difficulty": 6,
+    "year": 2021,
+    "test": "ENEM",
+    "area": "nature",
+    "answer": "d",
+    "contextIds": [
+      "enem_2021_nature_ctx1",
+      "enem_2021_nature_ctx2"
+    ]
+  },
+  {
+    "number": 109,
+    "text": "A tabela apresenta as áreas e comprimentos de alguns fios. Considere que a resistividade elétrica é a mesma para todos os fios. Ordene a resistência elétrica dos fios em ordem crescente.",
+    "alternatives": {
+      "a": "R1 < R2 < R3 < R4",
+      "b": "R2 < R1 < R3 < R4",
+      "c": "R2 < R3 < R1 < R4",
+      "d": "R4 < R1 < R3 < R2",
+      "e": "R4 < R3 < R2 < R1"
+    },
+    "images": [],
+    "tags": [
+      "eletricidade e magnetismo"
+    ],
+    "difficulty": 6,
+    "year": 2021,
+    "test": "ENEM",
+    "area": "nature",
+    "answer": "c"
+  },
+  {
+    "number": 110,
+    "text": "Organismos autótrofos e heterótrofos realizam processos complementares que associam os ciclos do carbono e da energia. A matéria sintetizada por organismos autótrofos a partir da luz luminosa ou a partir de compostos inorgânicos é eventualmente degradado pelos organismos, resultando em fontes de carbono como metano ou gás carbônico. Parte do carbono pode ser incorporada em outros organismos e circulada pelos seres, com menor rendimento energético, produzindo compostos secundários (subprodutos) que podem funcionar como combustíveis ambientais. Qual dos processos biológicos a seguir é responsável pelo armazenamento de energia em moléculas que podem funcionar como combustíveis ambientais é a",
+    "alternatives": {
+      "a": "fotossíntese",
+      "b": "respiração aeróbica",
+      "c": "quimiossíntese",
+      "d": "fermentação anaeróbica",
+      "e": "quimiossíntese heterotrófica"
+    },
+    "images": [],
+    "tags": [
+      "biologia",
+      "ecologia"
+    ],
+    "difficulty": 6,
+    "year": 2021,
+    "test": "ENEM",
+    "area": "nature",
+    "answer": "b"
+  },
+  {
+    "number": 111,
+    "text": "Uma escola iniciou o processo educativo para a implantação de coleta seletiva de resíduos, implementando as seguintes ações:\n1) sensibilizar a comunidade escolar, desenvolvendo atividades em sala e extraclasse de maneira contínua;\n2) capacitar o pessoal responsável pela limpeza da escola quanto aos novos procedimentos adotados com a coleta seletiva; e\n3) distribuir coletores de materiais recicláveis para acondicionamento dos resíduos.\nQual ação ainda falta ser inserida no planejamento?",
+    "alternatives": {
+      "a": "Promover campanhas nas ruas dos bairros vizinhos para fortalecer a coleta seletiva.",
+      "b": "Firmar parceria com a prefeitura ou cooperativa de catadores para recolhimento dos materiais recicláveis.",
+      "c": "Julgar ambiental e socialmente a necessidade de coletores nas escolas a partir do descarte de resíduos na comunidade.",
+      "d": "Divulgar na rádio local, no jornal impresso e nas redes sociais que a escola está realizando a coleta seletiva.",
+      "e": "Colocar recipientes coletores de lixo reciclável fora da escola para atender à comunidade externa."
+    },
+    "images": [],
+    "tags": [
+      "ecologia",
+      "meio ambiente e sustentabilidade"
+    ],
+    "difficulty": 5,
+    "year": 2021,
+    "test": "ENEM",
+    "area": "nature",
+    "answer": "b"
+  },
+  {
+    "number": 112,
+    "text": "A consanguinidade é favorecida, proporcionando aparecimento de enfermidades, como o albinismo, defeitos cardíacos, entre outros. Separar os animais de forma adequada minimizaria a ocorrência desses problemas. Qual procedimento biotecnológico prévio é recomendado?",
+    "alternatives": {
+      "a": "Transgenia.",
+      "b": "Terapia gênica.",
+      "c": "Vacina de DNA.",
+      "d": "Clonagem terapêutica.",
+      "e": "Mapeamento genético."
+    },
+    "images": [],
+    "tags": [
+      "biotecnologia",
+      "genética e hereditariedade"
+    ],
+    "difficulty": 6,
+    "year": 2021,
+    "test": "ENEM",
+    "area": "nature",
+    "answer": "e"
+  },
+  {
+    "number": 113,
+    "text": "O ciclo do cobre é um experimento didático em que o cobre metálico é utilizado como reagente de partida.",
+    "alternatives": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": "",
+      "e": ""
+    },
+    "images": [],
+    "tags": [
+      "química geral e inorgânica"
+    ],
+    "difficulty": 5,
+    "year": 2021,
+    "test": "ENEM",
+    "area": "nature",
+    "answer": "e"
+  },
+  {
+    "number": 114,
+    "text": "Um dos exames clínicos mais tradicionais para medir a atividade do sistema nervoso é o teste do reflexo patelar. Nesse teste, o médico percute o tendão da rótula do paciente, o qual responde com uma contração involuntária do músculo da coxa. A resposta a esse estímulo é caracterizada pelo levantamento da perna em que o estímulo foi aplicado. Qual estrutura do sistema nervoso é responsável pela coordenação dessa resposta?",
+    "alternatives": {
+      "a": "Ponte",
+      "b": "Medula",
+      "c": "Cerebelo",
+      "d": "Hipotálamo",
+      "e": "Córtex pré-frontal"
+    },
+    "images": [],
+    "tags": [
+      "fisiologia humana",
+      "sistema nervoso"
+    ],
+    "difficulty": 3,
+    "year": 2021,
+    "test": "ENEM",
+    "area": "nature",
+    "answer": "b"
+  },
+  {
+    "number": 115,
+    "text": "Na montagem de uma cozinha para um restaurante, a escolha do material correto para as panelas é importante, pois a panela que conduz mais calor é capaz de cozinhar os alimentos mais rapidamente e, com isso, há economia de energia. A taxa de condução de calor através de um material é dada por Q/t = k A ΔT/d, em que Q é o calor conduzido, t é o tempo, k é a condutividade do material, A é a área, ΔT é a diferença de temperatura e d é a espessura do material. Em panelas com dois materiais em contato, a taxa total de condução de calor é dada por Q/t = A ΔT/(d₁/k₁ + d₂/k₂), em que d₁ e d₂ são as espessuras de cada material e k₁ e k₂ são suas respectivas condutividades. Considerando uma panela com fundo composto por três camadas de materiais diferentes — alumínio (k = 20 W/m·K), ferro (k = 8 W/m·K) e aço (k = 5 W/m·K) combinado com o cobre (k = 40 W/m·K). Todas as panelas têm a mesma espessura total e a mesma área de fundo. Avalie as seguintes combinações de camadas:\n  - Panela I: camada externa de alumínio, uma intermediária de ferro e outra interna de cobre, cada uma com 1/3 da espessura total;\n  - Panela II: 1/2 da espessura em cobre e 1/2 em aço, todas com a mesma espessura total e com a mesma área de fundo.\nA ordem crescente da mais econômica para a menos econômica é",
+    "alternatives": {
+      "a": "Panela I, Panela II, Panela III, Panela IV",
+      "b": "Panela II, Panela III, Panela I, Panela IV",
+      "c": "Panela I, Panela II, Panela IV, Panela III",
+      "d": "Panela II, Panela IV, Panela I, Panela III",
+      "e": "Panela IV, Panela II, Panela I, Panela III"
+    },
+    "images": [],
+    "tags": [
+      "termologia",
+      "análise e interpretação de dados"
+    ],
+    "difficulty": 7,
+    "year": 2021,
+    "test": "ENEM",
+    "area": "nature",
+    "answer": "b"
+  },
+  {
+    "number": 116,
+    "text": "As águas subterrâneas têm sido contaminadas pelo pesticida. [Figura: estruturas moleculares de compostos com cloro, nitrogênio e oxigênio] O teste positivo será observado com o pesticida",
+    "alternatives": {
+      "a": "I",
+      "b": "II",
+      "c": "III",
+      "d": "IV",
+      "e": "V"
+    },
+    "images": [
+      "figuras/q116_2021_fig1.png"
+    ],
+    "tags": [
+      "química geral e inorgânica",
+      "chemistry estrutura molecular"
+    ],
+    "difficulty": 5,
+    "year": 2021,
+    "test": "ENEM",
+    "area": "nature",
+    "answer": "c"
+  },
+  {
+    "number": 117,
+    "text": "O biocombustível a que se refere o texto é o",
+    "alternatives": {
+      "a": "etanol",
+      "b": "biogás",
+      "c": "butano",
+      "d": "metanol",
+      "e": "biodiesel"
+    },
+    "images": [],
+    "tags": [
+      "química geral e inorgânica",
+      "meio ambiente e sustentabilidade"
+    ],
+    "difficulty": 5,
+    "year": 2021,
+    "test": "ENEM",
+    "area": "nature",
+    "answer": "b"
+  },
+  {
+    "number": 118,
+    "text": "A forma de combate relatada tem como atividade o(a)",
+    "alternatives": {
+      "a": "morte do indivíduo adulto",
+      "b": "esterilização do macho transmissor",
+      "c": "comprometimento da metamorfose",
+      "d": "impedimento do desenvolvimento da larva",
+      "e": "repelência da forma transmissora da doença"
+    },
+    "images": [],
+    "tags": [
+      "biologia",
+      "microbiologia e imunologia"
+    ],
+    "difficulty": 5,
+    "year": 2021,
+    "test": "ENEM",
+    "area": "nature",
+    "answer": "d"
+  },
+  {
+    "number": 119,
+    "text": "Qual espécie corresponde ao objetivo proposto?",
+    "alternatives": {
+      "a": "1",
+      "b": "2",
+      "c": "3",
+      "d": "4",
+      "e": "5"
+    },
+    "images": [],
+    "tags": [
+      "botânica",
+      "citologia"
+    ],
+    "difficulty": 5,
+    "year": 2021,
+    "test": "ENEM",
+    "area": "nature",
+    "answer": "a"
+  },
+  {
+    "number": 120,
+    "text": "No outono, as folhas das árvores mudam de cor, de verde para tons de amarelo, castanho, laranja e vermelho. Esse fenômeno ocorre porque a degradação da clorofila expõe outros pigmentos presentes nas folhas. Um desses pigmentos, os carotenos, está presente em média quantidade, porém sua cor é mascarada pela clorofila durante a maior parte do ano. Em qual faixa do espectro visível os carotenos absorvem luz majoritariamente?",
+    "alternatives": {
+      "a": "Entre o violeta e o azul.",
+      "b": "Entre o azul e o verde.",
+      "c": "Entre o verde e o amarelo.",
+      "d": "Entre o amarelo e a laranja.",
+      "e": "Entre o laranja e o vermelho."
+    },
+    "images": [],
+    "tags": [
+      "biologia",
+      "botânica",
+      "fisiologia de plantas"
+    ],
+    "difficulty": 6,
+    "year": 2021,
+    "test": "ENEM",
+    "area": "nature",
+    "answer": "a"
+  },
+  {
+    "number": 121,
+    "text": "Entre 2014 e 2016, as regiões central e oeste da África sofreram uma grave epidemia de febre hemorrágica causada pelo vírus ebola, que se manifesta em até 21 dias após a infecção e cuja taxa de letalidade (enfermos que vão a óbito) pode chegar a 90%. Em regiões de clima tropical e subtropical, um outro vírus também pode causar febre hemorrágica: o vírus da dengue, que, embora tenha período de incubação menor (até 10 dias), apresenta taxa de letalidade abaixo de 1%.\n\nSegundo as informações do texto e aplicando princípios de evolução biológica às relações do tipo patógeno-hospedeiro, qual dos dois vírus infecta seres humanos há mais tempo?",
+    "alternatives": {
+      "a": "Dengue, pois o menor período de incubação reflete duração mais longa do processo de coevolução patógeno-hospedeiro.",
+      "b": "Ebola, pois o maior período de incubação reflete duração mais longa do processo de coevolução patógeno-hospedeiro.",
+      "c": "Ebola, cuja alta letalidade indica maior eficiência do vírus em parasitar seus hospedeiros, estabelecida ao longo de sua evolução.",
+      "d": "Ebola, cujos surtos epidêmicos concentram-se no continente africano, reconhecido como berço da origem evolutiva dos seres humanos.",
+      "e": "Dengue, que, embora tenha menor letalidade, indica maior eficiência do vírus em parasitar seus hospedeiros, estabelecida ao longo da coevolução patógeno-hospedeiro."
+    },
+    "images": [],
+    "tags": [
+      "evolução",
+      "microbiologia e imunologia",
+      "epidemiologia"
+    ],
+    "difficulty": 6,
+    "year": 2021,
+    "test": "ENEM",
+    "area": "nature",
+    "answer": "e"
+  },
+  {
+    "number": 122,
+    "text": "Qual é a função da caixa de gordura no sistema de tratamento de esgoto residencial?",
+    "alternatives": {
+      "a": "Reter os detritos da pia e cozinha, liberando água quase isenta de gordura.",
+      "b": "Receber o que vem dos banheiros e lavanderia, reunindo todo o esgoto residencial.",
+      "c": "Realizar o tratamento primário do esgoto através de processos químicos.",
+      "d": "Armazenar permanentemente os resíduos sólidos do esgoto residencial.",
+      "e": "Separar os gases produzidos durante a decomposição dos detritos."
+    },
+    "images": [],
+    "tags": [
+      "meio ambiente e sustentabilidade",
+      "fisiologia humana"
+    ],
+    "difficulty": 3,
+    "year": 2021,
+    "test": "ENEM",
+    "area": "nature",
+    "answer": "c"
+  },
+  {
+    "number": 123,
+    "text": "Como funciona a estação individual de tratamento de água?",
+    "alternatives": {
+      "a": "Cisternas",
+      "b": "Caixa de inspeção",
+      "c": "Tanque séptico",
+      "d": "Filtro biológico",
+      "e": "Tratamento com cloro"
+    },
+    "images": [],
+    "tags": [
+      "meio ambiente e sustentabilidade",
+      "fisiologia humana"
+    ],
+    "difficulty": 5,
+    "year": 2021,
+    "test": "ENEM",
+    "area": "nature",
+    "answer": "d"
+  },
+  {
+    "number": 124,
+    "text": "O emprego de células de combustível a hidrogênio apresenta diferentes tecnologias. A tecnologia testada mais adequada para o emprego em meio ácido é:",
+    "alternatives": {
+      "a": "AFC",
+      "b": "MSFC",
+      "c": "PEM",
+      "d": "PAFC",
+      "e": "SOFC"
+    },
+    "images": [],
+    "tags": [
+      "química geral e inorgânica",
+      "eletroquímica"
+    ],
+    "difficulty": 6,
+    "year": 2021,
+    "test": "ENEM",
+    "area": "nature",
+    "answer": "c"
+  },
+  {
+    "number": 125,
+    "text": "Qual é a tecnologia mais adequada ao transporte automotivo entre as células de combustível apresentadas?",
+    "alternatives": {
+      "a": "Célula de combustível com eletrólito de hidróxido de potássio aquoso",
+      "b": "Célula de combustível com eletrólito de carbonatos de lítio, sódio e potássio fundidos",
+      "c": "Célula de combustível com eletrólito de ácido fosfórico líquido",
+      "d": "Célula de combustível com eletrólito de membrana trocadora de prótons",
+      "e": "Célula de combustível com eletrólito de óxido sólido"
+    },
+    "images": [],
+    "tags": [
+      "Química geral e inorgânica",
+      "Eletroquímica"
+    ],
+    "difficulty": 6,
+    "year": 2021,
+    "test": "ENEM",
+    "area": "nature",
+    "answer": "b"
+  },
+  {
+    "number": 126,
+    "text": "Um garoto precisa montar um circuito que acenda três lâmpadas de cores diferentes, uma de cada vez, usando dois interruptores, como ilustrado, junto com seu símbolo de funcionamento.\n\n[Esquema - circuito com bateria, dois interruptores A e B, e três lâmpadas Verde, Vermelha e Azul]\n\n[Esquema - tabela de funcionamento dos interruptores mostrando estados de A e B para cada lâmpada]\n\nO garoto fez cinco circuitos elétricos usando os dois interruptores, mas apenas um satisfaz a sua necessidade. Esse circuito é representado por",
+    "alternatives": {
+      "a": "[Esquema - Circuito A com lâmpadas Verde, Azul, Vermelha e interruptores A, B em configuração específica]",
+      "b": "[Esquema - Circuito B com lâmpadas Verde, Vermelha, Azul e interruptores A, B em configuração específica]",
+      "c": "[Esquema - Circuito C com lâmpadas Verde, Vermelha, Azul e interruptores A, B em configuração específica]",
+      "d": "[Esquema - Circuito D com lâmpadas Verde, Azul, Vermelha e interruptores A, B em configuração específica]",
+      "e": "[Esquema - Circuito E com lâmpadas Verde, Vermelha, Azul e interruptores A, B em configuração específica]"
+    },
+    "images": [
+      "figuras/q126_2021_fig1.png",
+      "figuras/q126_2021_fig2.png"
+    ],
+    "tags": [
+      "eletricidade e magnetismo",
+      "análise de circuitos"
+    ],
+    "difficulty": 6,
+    "year": 2021,
+    "test": "ENEM",
+    "area": "nature",
+    "answer": "d"
+  },
+  {
+    "number": 127,
+    "text": "A alteração na dieta de animais que anteriormente tinham como base frutos e sementes provoca qual consequência para o tamanho das populações vegetais?",
+    "alternatives": {
+      "a": "Aumento exponencial das populações vegetais em todas as regiões.",
+      "b": "Redução proporcional ao tamanho das plantas.",
+      "c": "Maior diversidade de espécies vegetais nas mesmas áreas.",
+      "d": "Diminuição da quantidade de sementes por fruto.",
+      "e": "Redução das populações vegetais que passam a ocupar áreas mais restritas."
+    },
+    "images": [],
+    "tags": [
+      "ecologia",
+      "evolução"
+    ],
+    "difficulty": 6,
+    "year": 2021,
+    "test": "ENEM",
+    "area": "nature",
+    "answer": "c"
+  },
+  {
+    "number": 128,
+    "text": "Após realizar um percurso de 110 km, um motorista pretende recarregar as baterias de seu carro elétrico, que tem um desempenho médio de 5,0 km/kWh, usando um carregador que fornece uma potência de 2 kW. Qual é a energia elétrica, em kWh, utilizada nesse percurso?",
+    "alternatives": {
+      "a": "0,005",
+      "b": "0,125",
+      "c": "2,5",
+      "d": "5,0",
+      "e": "8,0"
+    },
+    "images": [],
+    "tags": [
+      "física moderna",
+      "eletricidade e magnetismo"
+    ],
+    "difficulty": 5,
+    "year": 2021,
+    "test": "ENEM",
+    "area": "nature",
+    "answer": "d"
+  },
+  {
+    "number": 129,
+    "text": "Nas angiospermas, além da fertilização da oosfera, existe uma segunda fertilização que resulta num tecido triploide.\n\nEssa segunda fertilização foi importante evolutivamente, pois viabilizou a formação de um tecido de",
+    "alternatives": {
+      "a": "nutrição para o fruto.",
+      "b": "reserva para o embrião.",
+      "c": "revestimento para a semente.",
+      "d": "proteção para o megagametófito.",
+      "e": "vascularização para a planta jovem."
+    },
+    "images": [],
+    "tags": [
+      "botânica",
+      "evolução",
+      "reprodução vegetal"
+    ],
+    "difficulty": 5,
+    "year": 2021,
+    "test": "ENEM",
+    "area": "nature",
+    "answer": "b"
+  },
+  {
+    "number": 130,
+    "text": "Com o objetivo de proporcionar aroma e sabor a diversos alimentos, a indústria alimentícia se utiliza de compostos orgânicos como as apresentadas no quadro. Qual dos aromas apresenta cadeia carbônica saturada?",
+    "alternatives": {
+      "a": "kiwi",
+      "b": "banana",
+      "c": "pêssego",
+      "d": "rum",
+      "e": "uva"
+    },
+    "images": [],
+    "tags": [
+      "química orgânica",
+      "química geral e inorgânica"
+    ],
+    "difficulty": 6,
+    "year": 2021,
+    "test": "ENEM",
+    "area": "nature",
+    "answer": "b",
+    "contextId": "enem_2021_nature_130_ctx1"
+  },
+  {
+    "number": 131,
+    "text": "O eletrocardiograma é um exame cardíaco que mede a atividade elétrica do coração. A imagem apresenta o resultado típico obtido em um paciente saudável, com a intensidade do sinal (V) em função do tempo (s). De acordo com o eletrocardiograma apresentado, qual foi o número de batimentos cardíacos por minuto desse paciente durante o exame?",
+    "alternatives": {
+      "a": "30",
+      "b": "60",
+      "c": "100",
+      "d": "120",
+      "e": "180"
+    },
+    "images": [],
+    "tags": [
+      "fisiologia humana",
+      "física moderna"
+    ],
+    "difficulty": 6,
+    "year": 2021,
+    "test": "ENEM",
+    "area": "nature",
+    "answer": "b"
+  },
+  {
+    "number": 132,
+    "text": "Essa é uma doença hereditária de caráter",
+    "alternatives": {
+      "a": "recessivo",
+      "b": "dominante",
+      "c": "codominante",
+      "d": "poligênico",
+      "e": "polialélico"
+    },
+    "images": [],
+    "tags": [
+      "genética e hereditariedade"
+    ],
+    "difficulty": 5,
+    "year": 2021,
+    "test": "ENEM",
+    "area": "nature",
+    "answer": "a"
+  },
+  {
+    "number": 133,
+    "text": "O quadro lista alguns dispositivos eletrônicos que necessitam de uma força eletromotriz para seu funcionamento. Considere que uma bateria é construída pela ligação em série de células galvânicas. Uma célula de zinco-carbono apresenta força eletromotriz de 0,54 V e uma célula de lítio apresenta força eletromotriz de 3,05 V. Essa bateria é adequada para o funcionamento de qual dispositivo eletrônico?",
+    "alternatives": {
+      "a": "Relógio de parede",
+      "b": "Celular",
+      "c": "Câmera digital",
+      "d": "Carrinho de controle remoto",
+      "e": "Notebook/Laptop"
+    },
+    "images": [],
+    "tags": [
+      "eletricidade e magnetismo",
+      "química geral e inorgânica"
+    ],
+    "difficulty": 6,
+    "year": 2021,
+    "test": "ENEM",
+    "area": "nature",
+    "answer": "d"
+  },
+  {
+    "number": 134,
+    "text": "Um alcoolômetro é um instrumento utilizado para medir o teor de álcool, em porcentagem de volume (v/v), em soluções hidroalcoólicas. Seu funcionamento é semelhante ao funcionamento de um densímetro. A escala do alcoolômetro é graduada de forma que, quanto maior for a densidade da solução, maior será a leitura obtida no instrumento.\n\nTabela de correção do alcoolômetro com temperatura 20 °C:\n\n| Leitura da temperatura (°C) | 20 | 21 | 22 | 23 | 24 | 25 |\n|---|---|---|---|---|---|---|\n| 35 | 35,0 | 34,6 | 34,2 | 33,8 | 33,4 | 33,0 |\n| 36 | 36,0 | 35,6 | 35,2 | 34,8 | 34,4 | 34,0 |\n\nUm aumento na temperatura promove o(a)",
+    "alternatives": {
+      "a": "aumento na leitura do alcoolômetro.",
+      "b": "aumento da densidade da água e do álcool.",
+      "c": "diminuição na densidade da solução hidroalcoólica.",
+      "d": "aumento da solubilidade do álcool em água.",
+      "e": "diminuição na leitura do alcoolômetro devido à menor densidade da mistura entre álcool e água."
+    },
+    "images": [],
+    "tags": [
+      "química geral e inorgânica",
+      "soluções e solubilidade",
+      "termoquímica e cinética"
+    ],
+    "difficulty": 6,
+    "year": 2021,
+    "test": "ENEM",
+    "area": "nature",
+    "answer": "c"
+  },
+  {
+    "number": 135,
+    "text": "Um exemplo desse polímero é representado pela estrutura",
+    "alternatives": {
+      "a": "A",
+      "b": "B",
+      "c": "C",
+      "d": "D",
+      "e": "E"
+    },
+    "images": [],
+    "tags": [
+      "química orgânica",
+      "biotecnologia"
+    ],
+    "difficulty": 6,
+    "year": 2021,
+    "test": "ENEM",
+    "area": "nature",
+    "answer": "d",
+    "contextId": "enem_2021_nature_135_ctx"
+  }
+]

@@ -1,0 +1,25 @@
+{
+  "number": 13,
+  "text": "[Tirinha de HENFIL, publicada em 1970. 4 quadrinhos retratando um personagem nordestino narrando sua jornada migratória para a cidade.]\n\nNessa tirinha, produzida na década de 1970, os recursos verbais e não verbais sinalizam a finalidade de",
+  "alternatives": {
+    "a": "reforçar a luta por direitos civis.",
+    "b": "explicitar a autonomia feminina.",
+    "c": "ironizar as condições de igualdade.",
+    "d": "estimular a abdicação da vida social.",
+    "e": "criticar as obrigações da maternidade."
+  },
+  "answer": "c",
+  "tags": [
+    "interpretação de texto",
+    "gêneros textuais",
+    "comunicação e mídia"
+  ],
+  "year": 2021,
+  "test": "ENEM",
+  "area": "linguagens",
+  "difficulty": 6,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

@@ -1,0 +1,23 @@
+{
+  "number": 140,
+  "text": "Uma empresa de transporte faz regularmente um levantamento da quantidade de viagens realizadas por todos os 160 motoristas cadastrados em seu aplicativo. Em um certo dia, foi gerado um relatório, por meio de um gráfico de barras, no qual se relacionaram a quantidade de viagens realizadas com o número de motoristas até aquele instante do dia. Comparando os valores da média, da mediana e da moda das quantidades de viagens realizadas pelos motoristas cadastrados nessa empresa, obtém-se:",
+  "alternatives": {
+    "a": "mediana  =  média  <  moda.",
+    "b": "mediana  =  moda  <  média.",
+    "c": "mediana  <  média  <  moda.",
+    "d": "moda  <  média  <  mediana.",
+    "e": "moda  <  mediana  <  média."
+  },
+  "answer": "e",
+  "tags": [
+    "estatística",
+    "medidas de tendência central"
+  ],
+  "year": 2023,
+  "test": "ENEM",
+  "area": "math",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

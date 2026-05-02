@@ -1,0 +1,24 @@
+{
+  "number": 164,
+  "text": "A exposição a barulhos excessivos, como os que percebemos em geral em trânsitos intensos, casas noturnas e espetáculos musicais, podem provocar insônia, estresse, infarto, perda de audição, entre outras enfermidades. De acordo com a Organização Mundial da Saúde, todo e qualquer som que ultrapasse os 55 decibéis (unidade de intensidade do som) já pode ser considerado nocivo para a saúde. O gráfico foi elaborado a partir da medição do ruído produzido, durante um dia, em um canteiro de obras.\n\nNesse dia, durante quantas horas o ruído esteve acima de 55 decibéis?",
+  "alternatives": {
+    "a": "5/0",
+    "b": "8",
+    "c": "10",
+    "d": "11",
+    "e": "13"
+  },
+  "answer": "e",
+  "tags": [
+    "estatística",
+    "análise de dados"
+  ],
+  "year": 2020,
+  "test": "ENEM",
+  "area": "math",
+  "difficulty": 3,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

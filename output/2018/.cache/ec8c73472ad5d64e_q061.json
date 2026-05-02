@@ -1,0 +1,27 @@
+{
+  "number": 61,
+  "text": "Considerando as décadas de 1950 e 1960 no Brasil, os trechos dos programas do PSD e UDN convergiam na defesa da",
+  "alternatives": {
+    "a": "autonomia de atuação das multinacionais.",
+    "b": "descentralização da cobrança tributária.",
+    "c": "flexibilização das reservas cambiais.",
+    "d": "liberdade de remessa de ganhos.",
+    "e": "captação de recursos do exterior."
+  },
+  "answer": "e",
+  "tags": [
+    "história do brasil república",
+    "geopolítica e relações internacionais"
+  ],
+  "year": 2018,
+  "test": "ENEM",
+  "area": "humanas",
+  "difficulty": 6,
+  "images": [],
+  "contextId": null,
+  "contextIds": [
+    "enem_2018_humanas_q61_ctx1",
+    "enem_2018_humanas_q61_ctx2"
+  ],
+  "language": null
+}

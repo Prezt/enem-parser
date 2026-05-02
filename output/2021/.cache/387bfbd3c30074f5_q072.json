@@ -1,0 +1,25 @@
+{
+  "number": 72,
+  "text": "Qual medida promove a participação social descrita no texto?",
+  "alternatives": {
+    "a": "Imposição de regras urbanísticas pela administração pública.",
+    "b": "Articulação entre diferentes grupos sociais para deliberação conjunta.",
+    "c": "Segregação espacial entre grupos com interesses distintos.",
+    "d": "Restrição do acesso às informações sobre planejamento urbano.",
+    "e": "Limitação da interferência da população nas decisões governamentais."
+  },
+  "answer": "e",
+  "tags": [
+    "geografia humana e urbana",
+    "sociologia e estrutura social",
+    "direitos humanos e cidadania"
+  ],
+  "year": 2021,
+  "test": "ENEM",
+  "area": "humanas",
+  "difficulty": 5,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

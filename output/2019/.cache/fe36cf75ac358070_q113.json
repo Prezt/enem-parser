@@ -1,0 +1,26 @@
+{
+  "number": 113,
+  "text": "O espectrômetro de massa de tempo de voo é um dispositivo utilizado para medir a massa de íons. Nele, um íon de carga elétrica q é lançado em uma região de campo magnético constante B, descrevendo uma trajetória helicoidal, conforme a figura. Essa trajetória é formada pela composição de um movimento circular uniforme no plano yz e uma translação ao longo do eixo x. A vantagem desse dispositivo é que a velocidade angular do movimento helicoidal do íon é independente de sua velocidade inicial. O dispositivo então mede o tempo t de voo para N voltas do íon. Logo, com base nos valores q, B, N e t, pode-se determinar a massa do íon.\n\n[Figura: Trajetória helicoidal de um íon em campo magnético, com eixos x, y, z e vetor B indicados]\n\nA massa do íon medida por esse dispositivo será",
+  "alternatives": {
+    "a": "qBt / 2N",
+    "b": "qBt / N",
+    "c": "2qBt / N",
+    "d": "qBt / N",
+    "e": "2qBt / N"
+  },
+  "answer": "a",
+  "tags": [
+    "eletricidade e magnetismo",
+    "física moderna"
+  ],
+  "year": 2019,
+  "test": "ENEM",
+  "area": "nature",
+  "difficulty": 8,
+  "images": [
+    "figuras/q113_2019_fig1.png"
+  ],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

@@ -1,0 +1,25 @@
+{
+  "number": 120,
+  "text": "No outono, as folhas das árvores mudam de cor, de verde para tons de amarelo, castanho, laranja e vermelho. Esse fenômeno ocorre porque a degradação da clorofila expõe outros pigmentos presentes nas folhas. Um desses pigmentos, os carotenos, está presente em média quantidade, porém sua cor é mascarada pela clorofila durante a maior parte do ano. Em qual faixa do espectro visível os carotenos absorvem luz majoritariamente?",
+  "alternatives": {
+    "a": "Entre o violeta e o azul.",
+    "b": "Entre o azul e o verde.",
+    "c": "Entre o verde e o amarelo.",
+    "d": "Entre o amarelo e a laranja.",
+    "e": "Entre o laranja e o vermelho."
+  },
+  "answer": "a",
+  "tags": [
+    "biologia",
+    "botânica",
+    "fisiologia de plantas"
+  ],
+  "year": 2021,
+  "test": "ENEM",
+  "area": "nature",
+  "difficulty": 6,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

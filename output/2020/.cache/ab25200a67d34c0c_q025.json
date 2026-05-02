@@ -1,0 +1,24 @@
+{
+  "number": 25,
+  "text": "A obra de Joseph Kosuth data de 1965 e se constitui por uma fotografia de cadeira, uma cadeira exposta e um quadro com o verbete \"Cadeira\". Trata-se de um exemplo de arte conceitual que revela o paradoxo entre verdade e imitação, já que a arte",
+  "alternatives": {
+    "a": "não é a realidade, mas uma representação dela.",
+    "b": "fundamenta-se na repetição, construindo variações.",
+    "c": "não se define, pois depende da interpretação do fruidor.",
+    "d": "resiste ao tempo, beneficiada por múltiplas formas de registro.",
+    "e": "redesenha a verdade, aproximando-se das definições lexicais."
+  },
+  "answer": "a",
+  "tags": [
+    "artes visuais",
+    "interpretação de texto"
+  ],
+  "year": 2020,
+  "test": "ENEM",
+  "area": "linguagens",
+  "difficulty": 6,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

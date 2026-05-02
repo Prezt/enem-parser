@@ -1,0 +1,28 @@
+{
+  "number": 161,
+  "text": "[Gráfico - Arrecadação A vs Desconto]\n\n[Gráfico - Arrecadação B vs Desconto]\n\n[Gráfico - Arrecadação C vs Desconto]\n\nO texto da questão não pode ser extraído com precisão devido a corrupção OCR severa no documento fornecido.",
+  "alternatives": {
+    "a": "[Não legível]",
+    "b": "[Não legível]",
+    "c": "[Não legível]",
+    "d": "[Não legível]",
+    "e": "[Não legível]"
+  },
+  "answer": "e",
+  "tags": [
+    "estatística",
+    "análise de dados"
+  ],
+  "year": 2021,
+  "test": "ENEM",
+  "area": "math",
+  "difficulty": 5,
+  "images": [
+    "figuras/q161_2021_fig1.png",
+    "figuras/q161_2021_fig2.png",
+    "figuras/q161_2021_fig3.png"
+  ],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

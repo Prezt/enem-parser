@@ -1,0 +1,27 @@
+{
+  "number": 34,
+  "text": "As duas imagens são produções que têm a cerâmica como matéria-prima. A obra Estrutura vertical dupla se distingue da urna funerária marajoara ao",
+  "alternatives": {
+    "a": "evidenciar a simetria na disposição das peças.",
+    "b": "materializar a técnica sem função utilitária.",
+    "c": "abandonar a regularidade na composição.",
+    "d": "anular possibilidades de leituras afetivas.",
+    "e": "integrar o suporte em sua constituição."
+  },
+  "answer": "b",
+  "tags": [
+    "artes visuais",
+    "interpretação de texto"
+  ],
+  "year": 2018,
+  "test": "ENEM",
+  "area": "linguagens",
+  "difficulty": 6,
+  "images": [],
+  "contextId": null,
+  "contextIds": [
+    "enem_2018_linguagens_ctx1",
+    "enem_2018_linguagens_ctx2"
+  ],
+  "language": null
+}

@@ -1,0 +1,24 @@
+{
+  "number": 100,
+  "text": "Um alimento orgânico deve apresentar em sua embalagem o selo de uma instituição certificadora, garantindo ao consumidor que, além de ser um alimento isento de agrotóxicos, também é produzido com técnicas planejadas e controladas. A técnica de produção desses alimentos causa menor impacto aos recursos naturais, contribuindo para melhorar a qualidade de vida das pessoas.\nNesse sistema de produção de alimentos vegetais, o controle de insetos é manejado por meio do(a)",
+  "alternatives": {
+    "a": "prática de adubação verde.",
+    "b": "emprego da compostagem.",
+    "c": "controle da irrigação do solo.",
+    "d": "utilização de predadores naturais.",
+    "e": "uso de sementes inoculadas com Rhizobium."
+  },
+  "answer": "d",
+  "tags": [
+    "biotecnologia",
+    "ecologia"
+  ],
+  "year": 2019,
+  "test": "ENEM",
+  "area": "nature",
+  "difficulty": 4,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

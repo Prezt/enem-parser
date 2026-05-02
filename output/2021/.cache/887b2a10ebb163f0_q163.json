@@ -1,0 +1,24 @@
+{
+  "number": 163,
+  "text": "A velocidade do som em um meio é proporcional à raiz quadrada do módulo volumétrico dividido pela densidade do meio. Matematicamente, a velocidade do som é descrita pela equação v = √(B/ρ), em que v é a velocidade do som (em metro por segundo), B é o módulo volumétrico (em pascal), ρ é a densidade do meio (em quilograma por metro cúbico) e a constante de proporcionalidade é adimensional. Qual é a unidade do módulo volumétrico?",
+  "alternatives": {
+    "a": "kg·m⁻¹·s⁻²",
+    "b": "kg·m⁻¹·s²",
+    "c": "kg·m²·s⁻²",
+    "d": "kg·m⁻¹·s⁻²",
+    "e": "kg·m⁵·s⁻²"
+  },
+  "answer": "b",
+  "tags": [
+    "aritmética e números",
+    "análise dimensional"
+  ],
+  "year": 2021,
+  "test": "ENEM",
+  "area": "math",
+  "difficulty": 4,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

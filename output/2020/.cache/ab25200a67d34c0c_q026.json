@@ -1,0 +1,26 @@
+{
+  "number": 26,
+  "text": "A realidade virtual é uma tecnologia de informação que, conforme sugere a imagem, tem como uma de suas principais funções\n\n[Figura: realidade virtual]",
+  "alternatives": {
+    "a": "promover a manipulação eficiente de conhecimentos e informações de difícil compreensão no mundo físico.",
+    "b": "conduzir escolhas profissionais da área de ciência da computação, oferecendo um leque de opções de atuação.",
+    "c": "transferir conhecimento da inteligência artificial para as áreas tradicionais, como as das ciências exatas e naturais.",
+    "d": "levar o ser humano a experimentar mentalmente outras realidades, para as quais é transportado sem sair de seu próprio lugar.",
+    "e": "delimitar tecnologias exclusivas de jogos virtuais, a fim de oferecer maior emoção ao jogador por meio de outras realidades."
+  },
+  "answer": "d",
+  "tags": [
+    "interpretação de texto",
+    "comunicação e mídia"
+  ],
+  "year": 2020,
+  "test": "ENEM",
+  "area": "linguagens",
+  "difficulty": 5,
+  "images": [
+    "figuras/q026_2020_fig1.png"
+  ],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

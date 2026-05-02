@@ -1,0 +1,24 @@
+{
+  "number": 163,
+  "text": "Nos livros Harry Potter, um anagrama do nome do personagem \"TOM MARVOLO RIDDLE\" gerou a frase \"I AM LORD VOLDEMORT\".\nSuponha que Harry quisesse formar todos os anagramas da frase \"I AM POTTER\", de tal forma que as vogais e consoantes aparecessem sempre intercaladas, e sem considerar o espaçamento entre as letras.\nNessas condições, o número de anagramas formados é dado por",
+  "alternatives": {
+    "a": "9!",
+    "b": "4! × 5!",
+    "c": "2 × 4! × 5!",
+    "d": "9! / 2",
+    "e": "4! × 5! / 2"
+  },
+  "answer": "e",
+  "tags": [
+    "análise combinatória",
+    "aritmética e números"
+  ],
+  "year": 2020,
+  "test": "ENEM",
+  "area": "math",
+  "difficulty": 6,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

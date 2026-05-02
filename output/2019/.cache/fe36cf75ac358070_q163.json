@@ -1,0 +1,24 @@
+{
+  "number": 163,
+  "text": "O Índice de Desenvolvimento Humano (IDH) é uma medida usada para classificar os países pelo seu grau de desenvolvimento. Para seu cálculo, são levados em consideração a expectativa de vida ao nascer, tempo de escolaridade e renda per capita, entre outros. O menor valor deste índice é zero e o maior é um. Cinco países foram avaliados e obtiveram os seguintes índices de desenvolvimento humano: o primeiro país recebeu um valor 1/2, o segundo 2/3, o terceiro 3/X, o quarto X/X e o quinto 3/X. Nenhum desses países zerou ou atingiu o índice máximo.\n\nQual desses países obteve o maior IDH?",
+  "alternatives": {
+    "a": "O primeiro.",
+    "b": "O segundo.",
+    "c": "O terceiro.",
+    "d": "O quarto.",
+    "e": "O quinto."
+  },
+  "answer": "c",
+  "tags": [
+    "aritmética e números",
+    "probabilidade"
+  ],
+  "year": 2019,
+  "test": "ENEM",
+  "area": "math",
+  "difficulty": 6,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

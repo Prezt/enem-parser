@@ -1,0 +1,23 @@
+{
+  "number": 22,
+  "text": "Considerando-se o tema tecnologias e acessibilidade, os textos I e II aproximam-se porque apresentam projetos que",
+  "alternatives": {
+    "a": "garantem a igualdade entre as pessoas.",
+    "b": "foram criados por uma pesquisadora surda.",
+    "c": "tiveram origem em um curso de pós-graduação.",
+    "d": "estão circunscritos ao espaço institucional da escola.",
+    "e": "têm como objetivo a disseminação do conhecimento."
+  },
+  "answer": "e",
+  "tags": [
+    "tecnologia",
+    "acessibilidade"
+  ],
+  "year": 2022,
+  "test": "ENEM",
+  "area": "linguagens",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

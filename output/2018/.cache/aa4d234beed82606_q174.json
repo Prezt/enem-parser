@@ -1,0 +1,24 @@
+{
+  "number": 174,
+  "text": "Com o avanço em ciência da computação, estamos próximos do momento em que o número de transistores em um processador de um computador pessoal será da mesma ordem de grandeza que o número de neurônios em um cérebro humano, que é da ordem de 100 bilhões. Uma das grandezas determinantes para o desempenho de um processador é a densidade de transistores, que é o número de transistores por centímetro quadrado. Em 1986, uma empresa fabricava um processador contendo 100.000 transistores distribuídos em 0,25 cm² de área. Desde então, o número de transistores por centímetro quadrado que se pode colocar em um processador dobra a cada dois anos (Lei de Moore). Considere 0,30 como aproximação para log₁₀ 2. Em que ano a empresa atingiu ou atingirá a densidade de 100 bilhões de transistores?",
+  "alternatives": {
+    "a": "1999",
+    "b": "2002",
+    "c": "2022",
+    "d": "2026",
+    "e": "2146"
+  },
+  "answer": "c",
+  "tags": [
+    "matemática financeira",
+    "sequências e progressões"
+  ],
+  "year": 2018,
+  "test": "ENEM",
+  "area": "math",
+  "difficulty": 7,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

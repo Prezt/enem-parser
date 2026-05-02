@@ -1,0 +1,25 @@
+{
+  "number": 24,
+  "text": "Todo gênero apresenta elementos constitutivos que condicionam seu uso em sociedade. A letra de canção identifica-se com o gênero ladainha, essencialmente, pela utilização da sequência textual",
+  "alternatives": {
+    "a": "expositiva, por discorrer sobre um dado tema.",
+    "b": "narrativa, por apresentar uma cadeia de ações.",
+    "c": "injuntiva, por chamar o interlocutor à participação.",
+    "d": "descritiva, por enumerar características de um personagem.",
+    "e": "argumentativa, por incitar o leitor a uma tomada de atitude."
+  },
+  "answer": "c",
+  "tags": [
+    "gêneros textuais",
+    "interpretação de texto",
+    "linguística e variação linguística"
+  ],
+  "year": 2019,
+  "test": "ENEM",
+  "area": "linguagens",
+  "difficulty": 6,
+  "images": [],
+  "contextId": "enem_2019_linguagens_24_ctx1",
+  "contextIds": null,
+  "language": null
+}

@@ -1,0 +1,24 @@
+{
+  "number": 113,
+  "text": "Nos desenhos animados, com frequência se vê um personagem correndo na direção de um abismo, mas, a invés de cair, ele continua andando no vazio e só quando percebe que não há nada sob seus pés é que ele para de andar e cai verticalmente. No entanto, para observar uma trajetória de queda num experimento real, pode-se lançar uma bolinha, com velocidade constante (V₀), sobre a superfície de uma mesa e verificar o seu movimento de queda até o chão.\n\nQual figura melhor representa a trajetória de queda da bolinha?",
+  "alternatives": {
+    "a": "Figura A",
+    "b": "Figura B",
+    "c": "Figura C",
+    "d": "Figura D",
+    "e": "Figura E"
+  },
+  "answer": "d",
+  "tags": [
+    "mecânica newtoniana",
+    "gravitação e astronomia"
+  ],
+  "year": 2020,
+  "test": "ENEM",
+  "area": "nature",
+  "difficulty": 4,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

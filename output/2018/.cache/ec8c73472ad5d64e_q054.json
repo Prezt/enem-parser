@@ -1,0 +1,27 @@
+{
+  "number": 54,
+  "text": "As críticas desses cronistas ao processo de colonização portuguesa na América estavam relacionadas à",
+  "alternatives": {
+    "a": "utilização do trabalho escravo",
+    "b": "implantação de polos urbanos",
+    "c": "devastação de áreas naturais",
+    "d": "ocupação de terras indígenas",
+    "e": "expropriação de riquezas locais"
+  },
+  "answer": "e",
+  "tags": [
+    "história do brasil colonial",
+    "história da cultura e arte"
+  ],
+  "year": 2018,
+  "test": "ENEM",
+  "area": "humanas",
+  "difficulty": 5,
+  "images": [],
+  "contextId": null,
+  "contextIds": [
+    "enem_2018_humanas_54_ctx1",
+    "enem_2018_humanas_54_ctx2"
+  ],
+  "language": null
+}

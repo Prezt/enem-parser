@@ -1,0 +1,25 @@
+{
+  "number": 135,
+  "text": "[Figura: garrafas plásticas PET com água e cloro fixadas ao telhado]",
+  "alternatives": {
+    "a": "Difração.",
+    "b": "Absorção.",
+    "c": "Polarização.",
+    "d": "Reflexão.",
+    "e": "Refração."
+  },
+  "answer": "e",
+  "tags": [
+    "fenômeno óptico",
+    "refração"
+  ],
+  "year": 2022,
+  "test": "ENEM",
+  "area": "nature",
+  "images": [
+    "figuras/q135_2022_fig1.png"
+  ],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

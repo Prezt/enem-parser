@@ -1,0 +1,26 @@
+{
+  "number": 91,
+  "text": "Por qual motivo ocorre a eletrização ilustrada na tirinha?\n[Figura: tirinha mostrando eletrização entre calça e pelos de gato]",
+  "alternatives": {
+    "a": "Troca de átomos entre a calça e os pelos do gato.",
+    "b": "Diminuição do número de prótons nos pelos do gato.",
+    "c": "Criação de novas partículas eletrizadas nos pelos do gato.",
+    "d": "Movimentação de elétrons entre a calça e os pelos do gato.",
+    "e": "Repulsão entre partículas elétricas da calça e dos pelos do gato."
+  },
+  "answer": "d",
+  "tags": [
+    "eletricidade e magnetismo",
+    "física"
+  ],
+  "year": 2020,
+  "test": "ENEM",
+  "area": "nature",
+  "difficulty": 4,
+  "images": [
+    "figuras/q091_2020_fig1.png"
+  ],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

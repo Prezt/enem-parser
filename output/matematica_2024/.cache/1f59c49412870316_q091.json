@@ -1,0 +1,23 @@
+{
+  "number": 91,
+  "text": "Muitas pessoas ainda se espantam com o fato de um passageiro sair ileso de um acidente de carro enquanto o veículo onde estava teve perda total. Essas pessoas talvez considerem, equivocadamente, que os carros mais seguros são os que têm as estruturas mais rígidas, ou seja, estruturas que durante uma colisão apresentam menos deformação. Na verdade, o que ocorre é o contrário. Por isso a partir de 1958, passaram a ser produzidos carros com partes que se deformam facilmente. Considerando o carro, seus ocupantes e o muro da figura como um sistema isolado, o crumple zone aumenta a segurança dos passageiros porque, durante uma colisão, a deformação da estrutura do carro [Figura: esquema de um carro com zona de deformação]",
+  "alternatives": {
+    "a": "aciona os airbags do veículo",
+    "b": "absorve a energia cinética do sistema",
+    "c": "consome a quantidade de movimento do sistema",
+    "d": "cria uma barreira de proteção para seus ocupantes",
+    "e": "diminui a velocidade do centro de massa do sistema"
+  },
+  "answer": "b",
+  "tags": [
+    "segurança veicular",
+    "física"
+  ],
+  "year": 2024,
+  "test": "ENEM",
+  "area": "nature",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

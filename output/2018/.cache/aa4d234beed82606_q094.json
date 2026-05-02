@@ -1,0 +1,24 @@
+{
+  "number": 94,
+  "text": "Anabolismo e catabolismo são processos celulares antagônicos, que são controlados principalmente pela ação hormonal. Por exemplo, no fígado a insulina atua como um hormônio com ação anabólica, enquanto o glucagon tem ação catabólica e ambos são secretados em resposta ao nível de glicose sanguínea. Em caso de um indivíduo com hipoglicemia, o hormônio citado que atua no catabolismo induzirá o organismo a",
+  "alternatives": {
+    "a": "realizar a fermentação lática.",
+    "b": "metabolizar aerobicamente a glicose.",
+    "c": "produzir aminoácidos a partir de ácidos graxos.",
+    "d": "transformar ácidos graxos em glicogênio.",
+    "e": "estimular a utilização do glicogênio."
+  },
+  "answer": "e",
+  "tags": [
+    "fisiologia humana",
+    "endocrinologia"
+  ],
+  "year": 2018,
+  "test": "ENEM",
+  "area": "nature",
+  "difficulty": 6,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

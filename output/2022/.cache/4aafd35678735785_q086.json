@@ -1,0 +1,23 @@
+{
+  "number": 86,
+  "text": "O texto propõe uma reflexão sobre o entendimento de Empédocles acerca da arché, uma preocupação típica do pensamento pré-socrático, porque",
+  "alternatives": {
+    "a": "exalta a investigação filosófica.",
+    "b": "transcende ao mundo sensível.",
+    "c": "evoca a discussão cosmogônica.",
+    "d": "fundamenta as paixões humanas.",
+    "e": "corresponde à explicação mitológica."
+  },
+  "answer": "c",
+  "tags": [
+    "filosofia",
+    "pré-socráticos"
+  ],
+  "year": 2022,
+  "test": "ENEM",
+  "area": "humanas",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

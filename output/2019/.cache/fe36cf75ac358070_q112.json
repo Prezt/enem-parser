@@ -1,0 +1,24 @@
+{
+  "number": 112,
+  "text": "Os hidrocarbonetos são moléculas orgânicas com um número variável de átomos de carbono, presentes em grande quantidade nas diversas frações do petróleo e normalmente são separados por destilação fracionada, com base em suas temperaturas de ebulição. O quadro apresenta as principais frações obtidas na destilação do petróleo em diferentes faixas de temperatura.\n\nNa fração 4, a separação dos compostos ocorre em temperaturas mais elevadas porque",
+  "alternatives": {
+    "a": "suas densidades são maiores.",
+    "b": "o número de ramificações é maior.",
+    "c": "sua solubilidade no petróleo é maior.",
+    "d": "as forças intermoleculares são mais intensas.",
+    "e": "a cadeia carbônica é mais difícil de ser quebrada."
+  },
+  "answer": "d",
+  "tags": [
+    "química orgânica",
+    "termoquímica e cinética"
+  ],
+  "year": 2019,
+  "test": "ENEM",
+  "area": "nature",
+  "difficulty": 6,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

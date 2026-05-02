@@ -1,0 +1,24 @@
+{
+  "number": 15,
+  "text": "O processo de construção do texto formata uma mensagem por ele dimensionada, uma vez que",
+  "alternatives": {
+    "a": "configura o estreitamento da linguagem poética.",
+    "b": "reflete as lacunas da lucidez em desconstrução.",
+    "c": "projeta a persistência das emoções reprimidas.",
+    "d": "repercute a consciência da agonia antecipada.",
+    "e": "revela a fragmentação das relações humanas."
+  },
+  "answer": "d",
+  "tags": [
+    "interpretação de texto",
+    "literatura brasileira"
+  ],
+  "year": 2018,
+  "test": "ENEM",
+  "area": "linguagens",
+  "difficulty": 6,
+  "images": [],
+  "contextId": "enem_2018_linguagens_q15",
+  "contextIds": null,
+  "language": null
+}

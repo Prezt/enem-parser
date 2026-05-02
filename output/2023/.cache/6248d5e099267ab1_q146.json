@@ -1,0 +1,25 @@
+{
+  "number": 146,
+  "text": "O triângulo da figura é denominado triângulo mágico. Nos círculos, escrevem-se os números de 1 a 6, sem repetição, com um número em cada círculo. O objetivo é distribuir os números de forma que as somas dos números em cada lado do triângulo sejam iguais. Considere que os números colocados nos vértices do triângulo estejam em progressão aritmética de razão igual a 2. Nas condições propostas, quais as possíveis soluções para as somas dos números que formam os lados do triângulo? [Figura: Triângulo mágico]",
+  "alternatives": {
+    "a": "Há somente uma solução possível, e as somas em cada lado do triângulo são iguais a 7.",
+    "b": "Há somente uma solução possível, e as somas em cada lado do triângulo são iguais a 9.",
+    "c": "Há somente duas soluções possíveis, uma em que as somas em cada lado do triângulo são iguais a 7 e outra em que as somas são iguais a 9.",
+    "d": "Há somente duas soluções possíveis, uma em que as somas em cada lado do triângulo são iguais a 9 e outra em que as somas são iguais a 12.",
+    "e": "Há somente duas soluções possíveis, uma em que as somas em cada lado do triângulo são iguais a 10 e outra em que as somas são iguais a 11."
+  },
+  "answer": "e",
+  "tags": [
+    "progressão aritmética",
+    "combinatória"
+  ],
+  "year": 2023,
+  "test": "ENEM",
+  "area": "math",
+  "images": [
+    "figuras/q146_2023_fig1.png"
+  ],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

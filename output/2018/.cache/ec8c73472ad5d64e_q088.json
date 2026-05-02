@@ -1,0 +1,24 @@
+{
+  "number": 88,
+  "text": "Considerando as diferenças entre extrativismo vegetal e silvicultura, o gráfico evidencia uma tendência de",
+  "alternatives": {
+    "a": "conservação do bioma nativo.",
+    "b": "estagnação do setor primário.",
+    "c": "utilização de madeira de reflorestamento.",
+    "d": "redução da produção de móveis.",
+    "e": "retração da indústria alimentícia."
+  },
+  "answer": "c",
+  "tags": [
+    "geografia humana e urbana",
+    "meio ambiente e sustentabilidade"
+  ],
+  "year": 2018,
+  "test": "ENEM",
+  "area": "humanas",
+  "difficulty": 6,
+  "images": [],
+  "contextId": "enem_2018_humanas_q88_ctx1",
+  "contextIds": null,
+  "language": null
+}

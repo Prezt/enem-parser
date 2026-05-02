@@ -1,0 +1,23 @@
+{
+  "number": 153,
+  "text": "Uma empresa produz e vende um tipo de chocolate maciço, em formato de cone circular reto com as medidas do diâmetro da base e da altura iguais a 8 cm e 10 cm respectivamente. Devido a um aumento de preço dos ingredientes utilizados na produção desse chocolate, a empresa decide produzir esse mesmo tipo de chocolate com um volume 19% menor, no mesmo formato de cone circular reto com altura de 10 cm. Para isso, a empresa produzirá esses novos chocolates com medida do raio da base, em centímetro, igual a",
+  "alternatives": {
+    "a": "1,52.",
+    "b": "3,24.",
+    "c": "3,60.",
+    "d": "6,48.",
+    "e": "7,20."
+  },
+  "answer": "c",
+  "tags": [
+    "geometria",
+    "volume"
+  ],
+  "year": 2022,
+  "test": "ENEM",
+  "area": "math",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

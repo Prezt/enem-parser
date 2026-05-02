@@ -1,0 +1,24 @@
+{
+  "number": 161,
+  "text": "Para apagar os focos A e B de um incêndio, que estavam a uma distância de 30 m um do outro, os bombeiros de um quartel decidiram se posicionar de modo que a distância de um bombeiro ao foco A, de temperatura mais elevada, fosse sempre o dobro da distância desse bombeiro ao foco B, de temperatura menos elevada.\nNestas condições, a maior distância, em metro, que dois bombeiros poderiam ter entre eles é",
+  "alternatives": {
+    "a": "30",
+    "b": "40",
+    "c": "45",
+    "d": "60",
+    "e": "68"
+  },
+  "answer": "b",
+  "tags": [
+    "geometria analítica",
+    "geometria plana"
+  ],
+  "year": 2018,
+  "test": "ENEM",
+  "area": "math",
+  "difficulty": 7,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

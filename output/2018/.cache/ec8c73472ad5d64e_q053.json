@@ -1,0 +1,24 @@
+{
+  "number": 53,
+  "text": "A maior complexidade dos espaços urbanos contemporâneos ressaltada no texto explica-se pela",
+  "alternatives": {
+    "a": "expansão de áreas metropolitanas.",
+    "b": "emancipação de novos municípios.",
+    "c": "consolidação de domínios jurídicos.",
+    "d": "articulação de redes multiescalares.",
+    "e": "redefinição de regiões administrativas."
+  },
+  "answer": "d",
+  "tags": [
+    "geografia humana e urbana",
+    "geopolítica e território"
+  ],
+  "year": 2018,
+  "test": "ENEM",
+  "area": "humanas",
+  "difficulty": 6,
+  "images": [],
+  "contextId": "enem_2018_humanas_q53_ctx1",
+  "contextIds": null,
+  "language": null
+}

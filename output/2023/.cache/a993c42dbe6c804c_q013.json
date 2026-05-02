@@ -1,0 +1,23 @@
+{
+  "number": 13,
+  "text": "Girassol da madrugada\nTeu dedo curioso me segue lento no rosto\nOs sulcos, as sombras machucadas por onde a\n[vida passou.\nQue silêncio, prenda minha... Que desvio triunfal\nda verdade,\nQue círculos vagarosos na lagoa em que uma asa\ngratuita roçou...\nTive quatro amores eternos...\nO primeiro era moça donzela,\nO segundo... eclipse, boi que fala, cataclisma,\nO terceiro era a rica senhora,\nO quarto és tu... E eu afinal me repousei dos\n[meus cuidados",
+  "alternatives": {
+    "a": "A vergonha das marcas provocadas pela passagem do tempo.",
+    "b": "A indecisão em face das possibilidades afetivas do presente.",
+    "c": "A serenidade sedimentada pela entrega pacífica ao desejo.",
+    "d": "A frustração causada pela vontade de retorno ao passado.",
+    "e": "A disponibilidade para a exploração do prazer efêmero."
+  },
+  "answer": "c",
+  "tags": [
+    "poesia",
+    "interpretação"
+  ],
+  "year": 2023,
+  "test": "ENEM",
+  "area": "linguagens",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

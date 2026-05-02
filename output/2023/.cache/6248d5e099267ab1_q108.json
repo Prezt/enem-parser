@@ -1,0 +1,23 @@
+{
+  "number": 108,
+  "text": "O fogão por indução funciona a partir do surgimento e uma corrente elétrica induzida no fundo da panela, om consequente transformação de energia elétrica m calor por efeito Joule. A principal vantagem desses ogões é a eficiência energética, que é substancialmente maior que a dos fogões convencionais.",
+  "alternatives": {
+    "a": "radiação",
+    "b": "condução",
+    "c": "campo elétrico variável",
+    "d": "campo magnético variável",
+    "e": "ressonância eletromagnética"
+  },
+  "answer": "d",
+  "tags": [
+    "física",
+    "energia"
+  ],
+  "year": 2023,
+  "test": "ENEM",
+  "area": "nature",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

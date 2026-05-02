@@ -1,0 +1,24 @@
+{
+  "number": 9,
+  "text": "Ao abordar a postura do internauta brasileiro mapeada por meio de uma pesquisa em plataformas virtuais, o texto",
+  "alternatives": {
+    "a": "minimiza o alcance da comunicação digital.",
+    "b": "refuta ideias preconcebidas sobre o brasileiro.",
+    "c": "relativiza responsabilidades sobre a noção de respeito.",
+    "d": "exemplifica conceitos contidos na literatura e na sociologia.",
+    "e": "expõe a ineficácia dos estudos para alterar tal comportamento."
+  },
+  "answer": "b",
+  "tags": [
+    "interpretação de texto",
+    "linguística e variação linguística"
+  ],
+  "year": 2018,
+  "test": "ENEM",
+  "area": "linguagens",
+  "difficulty": 6,
+  "images": [],
+  "contextId": "enem_2018_linguagens_ctx1",
+  "contextIds": null,
+  "language": null
+}

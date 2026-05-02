@@ -1,0 +1,25 @@
+{
+  "number": 70,
+  "text": "Uma manifestação contemporânea do fenômeno descrito no texto é o(a)",
+  "alternatives": {
+    "a": "valorização dos conhecimentos acumulados.",
+    "b": "exposição nos meios de comunicação.",
+    "c": "aprofundamento da vivência espiritual.",
+    "d": "fortalecimento das relações interpessoais.",
+    "e": "reconhecimento na esfera artística."
+  },
+  "answer": "b",
+  "tags": [
+    "filosofia moderna e contemporânea",
+    "sociologia e estrutura social",
+    "cultura e identidade"
+  ],
+  "year": 2018,
+  "test": "ENEM",
+  "area": "humanas",
+  "difficulty": 6,
+  "images": [],
+  "contextId": "enem_2018_humanas_q70_ctx1",
+  "contextIds": null,
+  "language": null
+}

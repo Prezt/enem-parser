@@ -1,0 +1,1145 @@
+[
+  {
+    "number": 1,
+    "text": "A relação dos vocábulos shower, bus e homeless, no texto, refere-se a",
+    "alternatives": {
+      "a": "empregar moradores de rua em lava a jatos para ônibus",
+      "b": "criar acesso a banhos gratuitos para moradores de rua",
+      "c": "comissionar sem-teto para dirigir os ônibus da cidade",
+      "d": "exigir das autoridades que os ônibus municipais tenham banheiros",
+      "e": "abrigar dois mil moradores de rua em ônibus que foram adaptados"
+    },
+    "images": [],
+    "tags": [
+      "língua inglesa",
+      "interpretação de texto"
+    ],
+    "difficulty": 3,
+    "year": 2018,
+    "test": "ENEM",
+    "area": "linguagens",
+    "answer": "b",
+    "contextId": "enem_2018_linguagens_ctx1",
+    "language": "en"
+  },
+  {
+    "number": 2,
+    "text": "No cartum, a crítica está no fato de a sociedade exigir do adolescente que",
+    "alternatives": {
+      "a": "se aposente prematuramente.",
+      "b": "amadureça precocemente.",
+      "c": "estude aplicadamente.",
+      "d": "se forme rapidamente.",
+      "e": "ouça atentamente."
+    },
+    "images": [],
+    "tags": [
+      "interpretação de texto",
+      "gêneros textuais"
+    ],
+    "difficulty": 5,
+    "year": 2018,
+    "test": "ENEM",
+    "area": "linguagens",
+    "answer": "b",
+    "contextId": "enem_2018_linguagens_es_ctx2",
+    "language": "es"
+  },
+  {
+    "number": 3,
+    "text": "A poetisa Kamala Das, como muitos escritores indianos, escreve suas obras em inglês, apesar de essa não ser sua primeira língua. Nesses versos, ela",
+    "alternatives": {
+      "a": "usa a língua inglesa com efeito humorístico.",
+      "b": "recorre a vozes de vários escritores ingleses.",
+      "c": "adverte sobre o uso distorcido da língua inglesa.",
+      "d": "demonstra consciência de sua identidade linguística.",
+      "e": "reconhece a incompreensão na sua maneira de falar inglês."
+    },
+    "images": [],
+    "tags": [
+      "interpretação de texto",
+      "língua inglesa",
+      "linguística e variação linguística"
+    ],
+    "difficulty": 6,
+    "year": 2018,
+    "test": "ENEM",
+    "area": "linguagens",
+    "answer": "d",
+    "contextId": "enem_2018_linguagens_ctx3",
+    "language": "en"
+  },
+  {
+    "number": 4,
+    "text": "Com o impacto das tecnologias e a ampliação das redes sociais, consumidores encontram na internet possibilidades de opinar sobre serviços oferecidos. Nesse sentido, o segundo texto, que é um comentário sobre o site divulgado no primeiro, apresenta a intenção do autor de",
+    "alternatives": {
+      "a": "elogiar o trabalho proposto para a educação nessa era tecnológica.",
+      "b": "reforçar como a mídia pode contribuir para revolucionar a educação.",
+      "c": "chamar a atenção das pessoas influentes para o significado da educação.",
+      "d": "destacar que o site tem melhores resultados do que a educação tradicional.",
+      "e": "criticar a concepção de educação em que se baseia a organização."
+    },
+    "images": [],
+    "tags": [
+      "interpretação de texto",
+      "gêneros textuais",
+      "língua inglesa"
+    ],
+    "difficulty": 5,
+    "year": 2018,
+    "test": "ENEM",
+    "area": "linguagens",
+    "answer": "e",
+    "contextIds": [
+      "enem_2018_linguagens_ctx1",
+      "enem_2018_linguagens_ctx2"
+    ],
+    "language": "en"
+  },
+  {
+    "number": 5,
+    "text": "O romance 1984 descreve os perigos de um Estado totalitário. A ideia evidenciada nessa passagem é que o controle do Estado se dá por meio do(a)",
+    "alternatives": {
+      "a": "boicote a ideais libertários.",
+      "b": "veto ao culto das tradições.",
+      "c": "poder sobre memórias e registros.",
+      "d": "censura a produções orais e escritas.",
+      "e": "manipulação de pensamentos individuais."
+    },
+    "images": [],
+    "tags": [
+      "literatura mundial",
+      "interpretação de texto"
+    ],
+    "difficulty": 5,
+    "year": 2018,
+    "test": "ENEM",
+    "area": "linguagens",
+    "answer": "c",
+    "contextId": "enem_2018_linguagens_ctx1",
+    "language": "en"
+  },
+  {
+    "number": 1,
+    "text": "Na introdução do romance, o narrador resgata lembranças de Plácida Linero relacionadas a seu filho Santiago Nasar. Nessa introdução, o uso da expressão augurio aciago remete ao(à)",
+    "alternatives": {
+      "a": "relação mística que se estabelece entre Plácida e seu filho Santiago.",
+      "b": "destino trágico de Santiago, que Plácida foi incapaz de prever nos sonhos.",
+      "c": "descompasso entre a felicidade de Santiago nos sonhos e seu azar na realidade.",
+      "d": "crença de Plácida na importância da interpretação dos sonhos para mudar o futuro.",
+      "e": "presença recorrente de elementos sombrios que se revelam nos sonhos de Santiago."
+    },
+    "images": [],
+    "tags": [
+      "literatura mundial",
+      "interpretação de texto"
+    ],
+    "difficulty": 6,
+    "year": 2018,
+    "test": "ENEM",
+    "area": "linguagens",
+    "answer": "b",
+    "contextId": "enem_2018_linguagens_ctx1",
+    "language": "es"
+  },
+  {
+    "number": 2,
+    "text": "No texto, alguns dos benefícios de se utilizar estruturas pré-moldadas na construção de altos edifícios estão expressos por meio da palavra limpia. Essa expressão indica que, além de produzir menos resíduos, o uso desse tipo de estrutura",
+    "alternatives": {
+      "a": "reduz o contingente de mão de obra.",
+      "b": "inibe a corrupção na construção civil.",
+      "c": "facilita o controle da qualidade da obra.",
+      "d": "apresenta um modelo arquitetônico conciso.",
+      "e": "otimiza os custos da construção de edifícios."
+    },
+    "images": [],
+    "tags": [
+      "interpretação de texto",
+      "língua espanhola"
+    ],
+    "difficulty": 5,
+    "year": 2018,
+    "test": "ENEM",
+    "area": "linguagens",
+    "answer": "b",
+    "contextId": "enem_2018_linguagens_es_ctx1",
+    "language": "es"
+  },
+  {
+    "number": 3,
+    "text": "As ações solidárias contribuem para o enfrentamento de problemas sociais. No texto, a ação solidária ocorre quando o contribuinte",
+    "alternatives": {
+      "a": "delega ao governo o destino de seus impostos.",
+      "b": "escolhe projetos que terão isenção de impostos.",
+      "c": "destina parte de seus impostos para custeio de programas sociais.",
+      "d": "determina a criação de impostos para implantação de projetos sociais.",
+      "e": "seleciona programas para beneficiar cidadãos vulneráveis socialmente."
+    },
+    "images": [],
+    "tags": [
+      "interpretação de texto",
+      "língua espanhola"
+    ],
+    "difficulty": 4,
+    "year": 2018,
+    "test": "ENEM",
+    "area": "linguagens",
+    "answer": "d",
+    "contextId": "enem_2018_linguagens_es_ctx3",
+    "language": "es"
+  },
+  {
+    "number": 4,
+    "text": "Na região da Catalunha, Espanha, convivem duas línguas oficiais: o catalão e o espanhol. Além dessas, ensinam-se outras línguas nas escolas. De acordo com o texto, para administrar a variedade linguística nas aulas, é necessário",
+    "alternatives": {
+      "a": "ampliar o número de línguas ofertadas para enriquecer o conteúdo.",
+      "b": "divulgar o estudo de diferentes idiomas e culturas para atrair os estudantes.",
+      "c": "privilegiar o estudo de línguas maternas para valorizar os aspectos regionais.",
+      "d": "explorar as relações entre as línguas estudadas para promover a diversidade.",
+      "e": "debater as práticas sobre multilinguismo para formar melhor os professores de línguas."
+    },
+    "images": [],
+    "tags": [
+      "interpretação de texto",
+      "língua espanhola",
+      "linguística e variação linguística"
+    ],
+    "difficulty": 5,
+    "year": 2018,
+    "test": "ENEM",
+    "area": "linguagens",
+    "answer": "e",
+    "contextId": "enem_2018_linguagens_ctx1",
+    "language": "es"
+  },
+  {
+    "number": 5,
+    "text": "Ao elencar algumas frases proferidas durante protestos na Espanha, o enunciador transcreve, de forma direta, as reivindicações dos manifestantes para",
+    "alternatives": {
+      "a": "provocá-los de forma velada.",
+      "b": "dar voz ao movimento popular.",
+      "c": "fomentar o engajamento do leitor.",
+      "d": "favorecer o diálogo entre governo e sociedade.",
+      "e": "instaurar dúvidas sobre a legitimidade da causa."
+    },
+    "images": [],
+    "tags": [
+      "interpretação de texto",
+      "comunicação e mídia"
+    ],
+    "difficulty": 5,
+    "year": 2018,
+    "test": "ENEM",
+    "area": "linguagens",
+    "answer": "c",
+    "contextId": "enem_2018_linguagens_ctx1",
+    "language": "es"
+  },
+  {
+    "number": 6,
+    "text": "Defendendo a ideia de que \"os direitos humanos devem ser o alicerce para todo o progresso\", a diretora-geral da Unesco aponta, como estratégia para atingir esse fim, a",
+    "alternatives": {
+      "a": "inclusão de todos na Agenda 2030.",
+      "b": "extinção da intolerância entre os indivíduos.",
+      "c": "discussão desse tema desde a educação básica.",
+      "d": "conquista de direitos para todos os povos e nações.",
+      "e": "promoção da dignidade humana em todos os lugares"
+    },
+    "images": [],
+    "tags": [
+      "interpretação de texto",
+      "comunicação e mídia"
+    ],
+    "difficulty": 4,
+    "year": 2018,
+    "test": "ENEM",
+    "area": "linguagens",
+    "answer": "c",
+    "contextId": "enem_2018_linguagens_q6_ctx1"
+  },
+  {
+    "number": 7,
+    "text": "A utilização de determinadas variedades linguísticas em campanhas educativas tem a função de atingir o público-alvo de forma mais direta e eficaz. No caso desse texto, identifica-se essa estratégia pelo(a)",
+    "alternatives": {
+      "a": "discurso formal da língua portuguesa.",
+      "b": "registro padrão próprio da língua escrita.",
+      "c": "seleção lexical restrita à esfera da medicina.",
+      "d": "fidelidade ao jargão da linguagem publicitária.",
+      "e": "uso de marcas linguísticas típicas da oralidade."
+    },
+    "images": [],
+    "tags": [
+      "linguística e variação linguística",
+      "comunicação e mídia"
+    ],
+    "difficulty": 5,
+    "year": 2018,
+    "test": "ENEM",
+    "area": "linguagens",
+    "answer": "e"
+  },
+  {
+    "number": 8,
+    "text": "Nesse texto, a associação de vocábulos da língua portuguesa a determinados dias da semana remete ao",
+    "alternatives": {
+      "a": "local de origem dos interlocutores.",
+      "b": "estado emocional dos interlocutores.",
+      "c": "grau de coloquialidade da comunicação.",
+      "d": "nível de intimidade entre os interlocutores.",
+      "e": "conhecimento compartilhado na comunicação."
+    },
+    "images": [],
+    "tags": [
+      "interpretação de texto",
+      "linguística e variação linguística",
+      "literatura brasileira"
+    ],
+    "difficulty": 6,
+    "year": 2018,
+    "test": "ENEM",
+    "area": "linguagens",
+    "answer": "c",
+    "contextId": "enem_2018_linguagens_08_ctx1"
+  },
+  {
+    "number": 9,
+    "text": "Ao abordar a postura do internauta brasileiro mapeada por meio de uma pesquisa em plataformas virtuais, o texto",
+    "alternatives": {
+      "a": "minimiza o alcance da comunicação digital.",
+      "b": "refuta ideias preconcebidas sobre o brasileiro.",
+      "c": "relativiza responsabilidades sobre a noção de respeito.",
+      "d": "exemplifica conceitos contidos na literatura e na sociologia.",
+      "e": "expõe a ineficácia dos estudos para alterar tal comportamento."
+    },
+    "images": [],
+    "tags": [
+      "interpretação de texto",
+      "linguística e variação linguística"
+    ],
+    "difficulty": 6,
+    "year": 2018,
+    "test": "ENEM",
+    "area": "linguagens",
+    "answer": "b",
+    "contextId": "enem_2018_linguagens_ctx1"
+  },
+  {
+    "number": 10,
+    "text": "Na literatura de temática negra produzida no Brasil é recorrente a presença de elementos que traduzem experiências históricas de preconceito e violência. No poema, essa vivência revela que o eu lírico",
+    "alternatives": {
+      "a": "incorpora seletivamente o discurso do seu opressor.",
+      "b": "submete-se à discriminação como meio de fortalecimento.",
+      "c": "engaja-se na denúncia do passado de opressão e injustiças.",
+      "d": "sofre uma perda de identidade e de noção de pertencimento.",
+      "e": "acredita esporadicamente na utopia de uma sociedade igualitária."
+    },
+    "images": [],
+    "tags": [
+      "interpretação de texto",
+      "literatura brasileira"
+    ],
+    "difficulty": 6,
+    "year": 2018,
+    "test": "ENEM",
+    "area": "linguagens",
+    "answer": "a",
+    "contextId": "enem_2018_linguagens_10_ctx1"
+  },
+  {
+    "number": 11,
+    "text": "Nos textos, a concepção de body art está relacionada à intenção de",
+    "alternatives": {
+      "a": "estabelecer limites entre o corpo e a composição.",
+      "b": "fazer do corpo um suporte privilegiado de expressão.",
+      "c": "discutir políticas e ideologias sobre o corpo como arte.",
+      "d": "compreender a autonomia do corpo no contexto da obra.",
+      "e": "destacar o corpo do artista em contato com o expectador."
+    },
+    "images": [],
+    "tags": [
+      "interpretação de texto",
+      "artes visuais"
+    ],
+    "difficulty": 6,
+    "year": 2018,
+    "test": "ENEM",
+    "area": "linguagens",
+    "answer": "b",
+    "contextIds": [
+      "enem_2018_linguagens_ctx1",
+      "enem_2018_linguagens_ctx2"
+    ]
+  },
+  {
+    "number": 12,
+    "text": "Por ser múltipla e apresentar peculiaridades de acordo com a intenção do emissor, a linguagem apresenta funções diferentes. Nesse fragmento, predomina a função referencial da linguagem, porque há a presença de elementos que",
+    "alternatives": {
+      "a": "buscam convencer o leitor, incitando o uso do aplicativo.",
+      "b": "definem o aplicativo, revelando o ponto de vista da autora.",
+      "c": "evidenciam a subjetividade, explorando a entonação emotiva.",
+      "d": "expõem dados sobre o aplicativo, usando linguagem denotativa.",
+      "e": "objetivam manter um diálogo com o leitor, recorrendo a uma indagação."
+    },
+    "images": [],
+    "tags": [
+      "linguística e variação linguística",
+      "comunicação e mídia",
+      "interpretação de texto"
+    ],
+    "difficulty": 6,
+    "year": 2018,
+    "test": "ENEM",
+    "area": "linguagens",
+    "answer": "d",
+    "contextId": "enem_2018_linguagens_12_ctx1"
+  },
+  {
+    "number": 13,
+    "text": "O segundo texto, que propõe uma reflexão sobre o primeiro acerca do impacto de mudanças no estilo de vida na saúde, apresenta uma visão",
+    "alternatives": {
+      "a": "medicalizada, que relaciona a prática de exercícios físicos por qualquer indivíduo à promoção da saúde.",
+      "b": "ampliada, que considera aspectos sociais intervenientes na prática de exercícios no cotidiano.",
+      "c": "crítica, que associa a interferência das tarefas de casa ao sedentarismo do indivíduo.",
+      "d": "focalizada, que atribui ao indivíduo a responsabilidade pela prevenção de doenças.",
+      "e": "geracional, que preconiza a representação do culto à jovialidade."
+    },
+    "images": [],
+    "tags": [
+      "interpretação de texto",
+      "linguística e variação linguística"
+    ],
+    "difficulty": 6,
+    "year": 2018,
+    "test": "ENEM",
+    "area": "linguagens",
+    "answer": "b",
+    "contextIds": [
+      "enem_2018_linguagens_ctx1",
+      "enem_2018_linguagens_ctx2"
+    ]
+  },
+  {
+    "number": 14,
+    "text": "Quanto à materialização da linguagem, a apresentação de dados relativos à violência contra a mulher",
+    "alternatives": {
+      "a": "configura uma discussão sobre os altos índices de abuso físico contra as peruanas.",
+      "b": "propõe um novo formato no enredo dos concursos de beleza feminina.",
+      "c": "condena o rigor estético exigido pelos concursos tradicionais.",
+      "d": "recupera informações sensacionalistas a respeito desse tema.",
+      "e": "subverte a função social da fala das candidatas a miss."
+    },
+    "images": [],
+    "tags": [
+      "interpretação de texto",
+      "comunicação e mídia"
+    ],
+    "difficulty": 6,
+    "year": 2018,
+    "test": "ENEM",
+    "area": "linguagens",
+    "answer": "e",
+    "contextId": "enem_2018_linguagens_14_ctx1"
+  },
+  {
+    "number": 15,
+    "text": "O processo de construção do texto formata uma mensagem por ele dimensionada, uma vez que",
+    "alternatives": {
+      "a": "configura o estreitamento da linguagem poética.",
+      "b": "reflete as lacunas da lucidez em desconstrução.",
+      "c": "projeta a persistência das emoções reprimidas.",
+      "d": "repercute a consciência da agonia antecipada.",
+      "e": "revela a fragmentação das relações humanas."
+    },
+    "images": [],
+    "tags": [
+      "interpretação de texto",
+      "literatura brasileira"
+    ],
+    "difficulty": 6,
+    "year": 2018,
+    "test": "ENEM",
+    "area": "linguagens",
+    "answer": "d",
+    "contextId": "enem_2018_linguagens_q15"
+  },
+  {
+    "number": 16,
+    "text": "Na apresentação da paisagem e da personagem, o narrador estabelece uma correlação de sentidos em que esses elementos se entrelaçam. Nesse processo, a condição humana configura-se",
+    "alternatives": {
+      "a": "amalgamada pelo processo comum de desertificação e de solidão.",
+      "b": "fortalecida pela adversidade extensiva à terra e aos seres vivos.",
+      "c": "redimensionada pela intensidade da luz e da exuberância local.",
+      "d": "imersa num drama existencial de identidade e de origem.",
+      "e": "imobilizada pela escassez e pela opressão do ambiente."
+    },
+    "images": [],
+    "tags": [
+      "interpretação de texto",
+      "literatura brasileira"
+    ],
+    "difficulty": 6,
+    "year": 2018,
+    "test": "ENEM",
+    "area": "linguagens",
+    "answer": "a",
+    "contextId": "enem_2018_linguagens_ctx1"
+  },
+  {
+    "number": 17,
+    "text": "Nesse fragmento, a fim de atrair a atenção do leitor e de estabelecer um fio condutor de sentido, o autor utiliza-se de",
+    "alternatives": {
+      "a": "primeira pessoa do singular para imprimir subjetividade ao relato de mais uma desilusão amorosa.",
+      "b": "ironia para tratar da relação com os celulares na era de produtos altamente descartáveis.",
+      "c": "frases feitas na apresentação de situações amorosas estereotipadas para construir a ambientação do texto.",
+      "d": "quebra de expectativa como estratégia argumentativa para ocultar informações.",
+      "e": "verbos no tempo pretérito para enfatizar uma aproximação com os fatos abordados ao longo do texto."
+    },
+    "images": [],
+    "tags": [
+      "interpretação de texto",
+      "gêneros textuais",
+      "literatura brasileira"
+    ],
+    "difficulty": 6,
+    "year": 2018,
+    "test": "ENEM",
+    "area": "linguagens",
+    "answer": "c",
+    "contextId": "enem_2018_linguagens_q17_ctx1"
+  },
+  {
+    "number": 18,
+    "text": "Entre as estratégias argumentativas utilizadas para sustentar a tese apresentada nesse fragmento, destaca-se a recorrência de",
+    "alternatives": {
+      "a": "estruturas sintáticas semelhantes, para reforçar a velocidade das mudanças da vida.",
+      "b": "marcas de interlocução, para aproximar o leitor das experiências vividas pela autora.",
+      "c": "formas verbais no presente, para exprimir reais possibilidades de concretização das ações.",
+      "d": "construções de oposição, para enfatizar que as expectativas são afetadas pelo inesperado.",
+      "e": "sequências descritivas, para promover a identificação do leitor com as situações apresentadas."
+    },
+    "images": [],
+    "tags": [
+      "interpretação de texto",
+      "gêneros textuais",
+      "comunicação e mídia"
+    ],
+    "difficulty": 6,
+    "year": 2018,
+    "test": "ENEM",
+    "area": "linguagens",
+    "answer": "d",
+    "contextId": "enem_2018_linguagens_q18_ctx1"
+  },
+  {
+    "number": 19,
+    "text": "A internet proporcionou o surgimento de novos para estabelecidos nas esferas da comunicação e da informa processo é a",
+    "alternatives": {
+      "a": "criação de memes.",
+      "b": "ampliação da blogosfera.",
+      "c": "supremacia das ideias cibernéticas.",
+      "d": "comercialização de pontos de vista.",
+      "e": "banalização do comércio eletrônico."
+    },
+    "images": [],
+    "tags": [
+      "interpretação de texto",
+      "comunicação e mídia"
+    ],
+    "difficulty": 5,
+    "year": 2018,
+    "test": "ENEM",
+    "area": "linguagens",
+    "answer": "d"
+  },
+  {
+    "number": 20,
+    "text": "A situação narrada revela uma tensão fundamentada na",
+    "alternatives": {
+      "a": "conflito com os interesses de poder.",
+      "b": "silêncio em nome do equilíbrio familiar.",
+      "c": "medo instaurado pelas ameaças de punição.",
+      "d": "choque imposto pela distância entre as gerações.",
+      "e": "apego aos protocolos de conduta segundo os gêneros."
+    },
+    "images": [],
+    "tags": [
+      "interpretação de texto",
+      "gêneros textuais",
+      "literatura brasileira"
+    ],
+    "difficulty": 6,
+    "year": 2018,
+    "test": "ENEM",
+    "area": "linguagens",
+    "answer": "b",
+    "contextId": "enem_2018_linguagens_ctx1"
+  },
+  {
+    "number": 21,
+    "text": "O uso da norma-padrão na letra do Hino Nacional do Brasil é justificado por tratar-se de um(a)",
+    "alternatives": {
+      "a": "reverência de um povo a seu país.",
+      "b": "gênero solene de característica protocolar.",
+      "c": "canção concebida sem interferência da oralidade.",
+      "d": "escrita de uma fase mais antiga da língua portuguesa.",
+      "e": "artefato cultural respeitado por todo o povo brasileiro."
+    },
+    "images": [],
+    "tags": [
+      "linguística e variação linguística",
+      "gêneros textuais"
+    ],
+    "difficulty": 6,
+    "year": 2018,
+    "test": "ENEM",
+    "area": "linguagens",
+    "answer": "b",
+    "contextId": "enem_2018_linguagens_ctx21"
+  },
+  {
+    "number": 22,
+    "text": "A fotografia exibe a fachada de um supermercado em Foz do Iguaçu, cuja localização transfronteiriça é marcada tanto pelo limite com Argentina e Paraguai quanto pela presença de outros povos. [Figura: fachada de supermercado] Essa fachada revela o(a)",
+    "alternatives": {
+      "a": "apagamento da identidade linguística.",
+      "b": "planejamento linguístico no espaço urbano.",
+      "c": "presença marcante da tradição oral na cidade.",
+      "d": "disputa de comunidades linguísticas diferentes.",
+      "e": "poluição visual promovida pelo multilinguismo."
+    },
+    "images": [
+      "figuras/q022_2018_fig1.png"
+    ],
+    "tags": [
+      "linguística e variação linguística",
+      "comunicação e mídia"
+    ],
+    "difficulty": 6,
+    "year": 2018,
+    "test": "ENEM",
+    "area": "linguagens",
+    "answer": "b"
+  },
+  {
+    "number": 23,
+    "text": "O romance, de 1939, traz à cena tipos e situações que espelham o Rio de Janeiro daquela década. No fragmento, o narrador delineia esse contexto centrado no",
+    "alternatives": {
+      "a": "julgamento da mulher fora do espaço doméstico.",
+      "b": "relato sobre as condições de trabalho no Estado Novo.",
+      "c": "destaque a grupos populares na condição de protagonistas.",
+      "d": "processo de inclusão do palavrão nos hábitos de linguagem.",
+      "e": "vínculo entre as transformações urbanas e os papéis femininos."
+    },
+    "images": [],
+    "tags": [
+      "interpretação de texto",
+      "literatura brasileira"
+    ],
+    "difficulty": 6,
+    "year": 2018,
+    "test": "ENEM",
+    "area": "linguagens",
+    "answer": "e",
+    "contextId": "enem_2018_linguagens_ctx1"
+  },
+  {
+    "number": 24,
+    "text": "O cumprimento da função referencial da linguagem é uma marca característica do gênero resumo de artigo acadêmico. Na estrutura desse texto, essa função é estabelecida pela",
+    "alternatives": {
+      "a": "impessoalidade, na organização da objetividade das informações, como em \"Este artigo tem por finalidade\" e \"Evidencia-se\".",
+      "b": "seleção lexical, no desenvolvimento sequencial do texto, como em \"imaginário racista\" e \"estética do negro\".",
+      "c": "metaforização, relativa à construção dos sentidos figurados, como nas expressões \"descolonização estética\" e \"discurso midiático-publicitário\".",
+      "d": "nominalização, produzida por meio de processos derivacionais na formação de palavras, como \"inferiorização\" e \"desvalorização\".",
+      "e": "adjetivação, organizada para criar uma terminologia antirracista, como em \"ética da diversidade\" e \"descolonização estética\"."
+    },
+    "images": [],
+    "tags": [
+      "interpretação de texto",
+      "linguística e variação linguística",
+      "gêneros textuais"
+    ],
+    "difficulty": 6,
+    "year": 2018,
+    "test": "ENEM",
+    "area": "linguagens",
+    "answer": "a",
+    "contextId": "enem_2018_linguagens_ctx1"
+  },
+  {
+    "number": 25,
+    "text": "A imagem integra uma adaptação em quadrinhos da obra Grande sertão: veredas, de Guimarães Rosa. Na representação gráfica, a inter-relação de diferentes linguagens caracteriza-se por\n\n[Figura: Adaptação em quadrinhos de Grande sertão: veredas]",
+    "alternatives": {
+      "a": "romper com a linearidade das ações da narrativa literária.",
+      "b": "ilustrar de modo fidedigno passagens representativas da história.",
+      "c": "articular a tensão do romance à desproporcionalidade das formas.",
+      "d": "potencializar a dramaticidade do episódio com recursos das artes visuais.",
+      "e": "desconstruir a diagramação do texto literário pelo desequilíbrio da composição."
+    },
+    "images": [
+      "figuras/q025_2018_fig1.png"
+    ],
+    "tags": [
+      "interpretação de texto",
+      "gêneros textuais",
+      "artes visuais"
+    ],
+    "difficulty": 6,
+    "year": 2018,
+    "test": "ENEM",
+    "area": "linguagens",
+    "answer": "d"
+  },
+  {
+    "number": 26,
+    "text": "Tanto os Jogos Olímpicos quanto os Paralímpicos são mais que uma corrida por recordes, medalhas e busca da excelência. Por trás deles está a filosofia do barão Pierre de Coubertin, fundador do Movimento Olímpico. Como educador, ele viu nos Jogos a oportunidade para que os povos desenvolvessem valores, que poderiam ser aplicados não somente ao esporte, mas à educação e à sociedade. Existem atualmente sete valores associados aos Jogos. Os valores olímpicos são: a amizade, a excelência e o respeito, enquanto os valores paralímpicos são: a determinação, a coragem, a igualdade e a inspiração.\n\nNo contexto das aulas de Educação Física escolar, os valores olímpicos e paralímpicos podem ser identificados quando o colega",
+    "alternatives": {
+      "a": "procura entender o próximo, assumindo atitudes positivas como simpatia, empatia, honestidade, compaixão, confiança e solidariedade, o que caracteriza o valor da igualdade.",
+      "b": "faz com que todos possam ser iguais e receber o mesmo tratamento, assegurando imparcialidade, oportunidades e tratamentos iguais para todos, o que caracteriza o valor da amizade.",
+      "c": "dá o melhor de si na vivência das diversas atividades relacionadas ao esporte ou aos jogos, participando e progredindo de acordo com seus objetivos, o que caracteriza o valor da coragem.",
+      "d": "manifesta a habilidade de enfrentar a dor, o sofrimento, o medo, a incerteza e a intimidação nas atividades, agindo corretamente contra a vergonha, a desonra e o desânimo, o que caracteriza o valor da determinação.",
+      "e": "inclui em suas ações o fair play (jogo limpo), a honestidade, o sentimento positivo de consideração por outra pessoa, o conhecimento dos seus limites, a valorização de sua própria saúde e o combate ao doping, o que caracteriza o valor do respeito."
+    },
+    "images": [],
+    "tags": [
+      "interpretação de texto",
+      "filosofia e educação"
+    ],
+    "difficulty": 4,
+    "year": 2018,
+    "test": "ENEM",
+    "area": "linguagens",
+    "answer": "e"
+  },
+  {
+    "number": 27,
+    "text": "No título proposto para esse texto de divulgação científica, ao dissociar os elementos da expressão Big Bang, a autora revela a intenção de",
+    "alternatives": {
+      "a": "evidenciar a descoberta recente que comprova a explosão de matéria e energia.",
+      "b": "resumir os resultados de uma pesquisa que trouxe evidências para a teoria do Big Bang.",
+      "c": "sintetizar a ideia de que a teoria da expansão de matéria e energia substitui a teoria da explosão.",
+      "d": "destacar a experiência que confirma uma investigação anterior sobre a teoria de matéria e energia.",
+      "e": "condensar a conclusão de que a explosão de matéria e energia ocorre em um ponto microscópico."
+    },
+    "images": [],
+    "tags": [
+      "interpretação de texto",
+      "gêneros textuais",
+      "comunicação e mídia"
+    ],
+    "difficulty": 6,
+    "year": 2018,
+    "test": "ENEM",
+    "area": "linguagens",
+    "answer": "c",
+    "contextId": "enem_2018_linguagens_q27_ctx1"
+  },
+  {
+    "number": 28,
+    "text": "Nessa campanha, a principal estratégia para convencer o leitor a fazer a reciclagem do lixo é a utilização da linguagem não verbal como argumento para",
+    "alternatives": {
+      "a": "reaproveitamento de material.",
+      "b": "facilidade na separação do lixo.",
+      "c": "melhoria da condição do catador.",
+      "d": "preservação de recursos naturais.",
+      "e": "geração de renda para o trabalhador."
+    },
+    "images": [],
+    "tags": [
+      "interpretação de texto",
+      "comunicação e mídia"
+    ],
+    "difficulty": 5,
+    "year": 2018,
+    "test": "ENEM",
+    "area": "linguagens",
+    "answer": "a",
+    "contextId": "enem_2018_linguagens_ctx1"
+  },
+  {
+    "number": 29,
+    "text": "No fotograma de Man Ray, o \"distanciamento da representação figurativa\" a que se refere o Texto I manifesta-se na",
+    "alternatives": {
+      "a": "ressignificação do jogo de luz e sombra, nos moldes surrealistas.",
+      "b": "imposição do acaso sobre a técnica, como crítica à arte realista.",
+      "c": "composição experimental, fragmentada e de contornos difusos.",
+      "d": "abstração radical, voltada para a própria linguagem fotográfica.",
+      "e": "imitação de formas humanas, com base em diferentes objetos."
+    },
+    "images": [],
+    "tags": [
+      "interpretação de texto",
+      "artes visuais"
+    ],
+    "difficulty": 6,
+    "year": 2018,
+    "test": "ENEM",
+    "area": "linguagens",
+    "answer": "c",
+    "contextIds": [
+      "enem_2018_linguagens_ctx1",
+      "enem_2018_linguagens_ctx2"
+    ]
+  },
+  {
+    "number": 30,
+    "text": "Nesse poema de Stela do Patrocínio, a singularidade da expressão lírica manifesta-se na",
+    "alternatives": {
+      "a": "representação da infância, redimensionada no resgate da memória.",
+      "b": "associação de imagens desconexas, articuladas por uma fala delirante.",
+      "c": "expressão autobiográfica, fundada no relato de experiências de alteridade.",
+      "d": "incorporação de elementos fantásticos, explicitada por versos incoerentes.",
+      "e": "transgressão à razão, ecoada na desconstrução de referências temporais."
+    },
+    "images": [],
+    "tags": [
+      "literatura brasileira",
+      "interpretação de texto"
+    ],
+    "difficulty": 6,
+    "year": 2018,
+    "test": "ENEM",
+    "area": "linguagens",
+    "answer": "e",
+    "contextId": "enem_2018_linguagens_q30_ctx1"
+  },
+  {
+    "number": 31,
+    "text": "O texto indica que as mudanças nas práticas corporais, especificamente no futebol,",
+    "alternatives": {
+      "a": "fomentaram uma tecnocracia, promovendo uma vivência mais lúdica e irreverente.",
+      "b": "promoveram o surgimento de atletas mais habilidosos, para que fossem inovadores.",
+      "c": "incentivaram a associação dessa manifestação à fruição, favorecendo o improviso.",
+      "d": "tornaram a modalidade em um produto a ser consumido, negando sua dimensão criativa.",
+      "e": "contribuíram para esse esporte ter mais jogadores, bem como acompanhado de torcedores."
+    },
+    "images": [],
+    "tags": [
+      "interpretação de texto",
+      "cultura e identidade"
+    ],
+    "difficulty": 5,
+    "year": 2018,
+    "test": "ENEM",
+    "area": "linguagens",
+    "answer": "d",
+    "contextId": "enem_2018_linguagens_ctx31"
+  },
+  {
+    "number": 32,
+    "text": "O grupo O Teatro Mágico apresenta composições autorais que têm referências estéticas do rock, do pop e da música folclórica brasileira. A originalidade dos seus shows tem relação com a ópera europeia do século XIX a partir da",
+    "alternatives": {
+      "a": "disposição cênica dos artistas no espaço teatral.",
+      "b": "integração de diversas linguagens artísticas.",
+      "c": "sobreposição entre música e texto literário.",
+      "d": "manutenção de um diálogo com o público.",
+      "e": "adoção de um enredo como fio condutor."
+    },
+    "images": [],
+    "tags": [
+      "música e dança",
+      "gêneros textuais",
+      "artes visuais"
+    ],
+    "difficulty": 5,
+    "year": 2018,
+    "test": "ENEM",
+    "area": "linguagens",
+    "answer": "b"
+  },
+  {
+    "number": 33,
+    "text": "Os gêneros textuais podem ser caracterizados, dentre outros fatores, por seus objetivos. Esse fragmento é um(a)",
+    "alternatives": {
+      "a": "reportagem, pois busca convencer o interlocutor da tese defendida ao longo do texto.",
+      "b": "resumo, pois promove o contato rápido do leitor com uma informação desconhecida.",
+      "c": "sinopse, pois sintetiza as informações relevantes de uma obra de modo impessoal.",
+      "d": "instrução, pois ensina algo por meio de explicações sobre uma obra específica.",
+      "e": "resenha, pois apresenta uma produção intelectual de forma crítica."
+    },
+    "images": [],
+    "tags": [
+      "gêneros textuais",
+      "interpretação de texto"
+    ],
+    "difficulty": 5,
+    "year": 2018,
+    "test": "ENEM",
+    "area": "linguagens",
+    "answer": "e",
+    "contextId": "enem_2018_linguagens_ctx33"
+  },
+  {
+    "number": 34,
+    "text": "As duas imagens são produções que têm a cerâmica como matéria-prima. A obra Estrutura vertical dupla se distingue da urna funerária marajoara ao",
+    "alternatives": {
+      "a": "evidenciar a simetria na disposição das peças.",
+      "b": "materializar a técnica sem função utilitária.",
+      "c": "abandonar a regularidade na composição.",
+      "d": "anular possibilidades de leituras afetivas.",
+      "e": "integrar o suporte em sua constituição."
+    },
+    "images": [],
+    "tags": [
+      "artes visuais",
+      "interpretação de texto"
+    ],
+    "difficulty": 6,
+    "year": 2018,
+    "test": "ENEM",
+    "area": "linguagens",
+    "answer": "b",
+    "contextIds": [
+      "enem_2018_linguagens_ctx1",
+      "enem_2018_linguagens_ctx2"
+    ]
+  },
+  {
+    "number": 35,
+    "text": "No processo de elaboração do poema, a autora confere o eu lírico uma identidade que aqui representa a",
+    "alternatives": {
+      "a": "hipocrisia do discurso alicerçado sobre o senso comum.",
+      "b": "mudança de paradigmas de imagem atribuídos à mulher.",
+      "c": "tentativa de estabelecer preceitos da psicologia feminina.",
+      "d": "importância da correlação entre ações e efeitos causados.",
+      "e": "valorização da sensibilidade como característica de gênero."
+    },
+    "images": [],
+    "tags": [
+      "interpretação de texto",
+      "literatura brasileira"
+    ],
+    "difficulty": 6,
+    "year": 2018,
+    "test": "ENEM",
+    "area": "linguagens",
+    "answer": "a",
+    "contextId": "enem_2018_linguagens_35_ctx1"
+  },
+  {
+    "number": 36,
+    "text": "O sujeito poético questiona o uso do vocábulo \"enseada\" porque a",
+    "alternatives": {
+      "a": "terminologia mencionada é incorreta.",
+      "b": "nomeação minimiza a percepção subjetiva.",
+      "c": "palavra é aplicada a outro espaço geográfico.",
+      "d": "designação atribuída ao termo é desconhecida.",
+      "e": "definição modifica o significado do termo no dicionário."
+    },
+    "images": [],
+    "tags": [
+      "interpretação de texto",
+      "gêneros textuais",
+      "literatura brasileira"
+    ],
+    "difficulty": 5,
+    "year": 2018,
+    "test": "ENEM",
+    "area": "linguagens",
+    "answer": "b",
+    "contextId": "enem_2018_linguagens_ctx1"
+  },
+  {
+    "number": 37,
+    "text": "Da perspectiva do usuário, o pajubá ganha status de dialeto, caracterizando-se como elemento de patrimônio linguístico, especialmente por",
+    "alternatives": {
+      "a": "ter mais de mil palavras conhecidas.",
+      "b": "ter palavras diferentes de uma linguagem secreta.",
+      "c": "ser consolidado por objetos formais de registro.",
+      "d": "ser utilizado por advogados em situações formais.",
+      "e": "ser comum em conversas no ambiente de trabalho."
+    },
+    "images": [],
+    "tags": [
+      "linguística e variação linguística",
+      "cultura e identidade",
+      "interpretação de texto"
+    ],
+    "difficulty": 6,
+    "year": 2018,
+    "test": "ENEM",
+    "area": "linguagens",
+    "answer": "c",
+    "contextId": "enem_2018_linguagens_ctx1"
+  },
+  {
+    "number": 38,
+    "text": "Num texto narrativo, a sequência dos fatos contribui para progressão temática. No fragmento, esse processo é indicado pela",
+    "alternatives": {
+      "a": "alternância das pessoas do discurso que determinam o foco narrativo.",
+      "b": "utilização de formas verbais que marcam tempos narrativos variados.",
+      "c": "indeterminação dos sujeitos de ações que caracterizam os eventos narrados.",
+      "d": "justaposição de frases que relacionam semanticamente os acontecimentos narrados.",
+      "e": "recorrência de expressões adverbiais que organizam temporalmente a narrativa."
+    },
+    "images": [],
+    "tags": [
+      "interpretação de texto",
+      "gêneros textuais",
+      "linguística e variação linguística"
+    ],
+    "difficulty": 6,
+    "year": 2018,
+    "test": "ENEM",
+    "area": "linguagens",
+    "answer": "b",
+    "contextId": "enem_2018_linguagens_38_ctx1"
+  },
+  {
+    "number": 39,
+    "text": "Essa imagem ilustra a reação dos celíacos (pessoas sensíveis ao glúten) ao ler rótulos de alimentos sem glúten. Essas reações indicam que, em geral, os rótulos desses produtos",
+    "alternatives": {
+      "a": "trazem informações explícitas sobre a presença do glúten.",
+      "b": "oferecem várias opções de sabor para esses consumidores.",
+      "c": "classificam o produto como adequado para o consumidor celíaco.",
+      "d": "influenciam o consumo de alimentos especiais para esses consumidores.",
+      "e": "variam na forma de apresentação de informações relevantes para esse público."
+    },
+    "images": [],
+    "tags": [
+      "interpretação de texto",
+      "comunicação e mídia"
+    ],
+    "difficulty": 5,
+    "year": 2018,
+    "test": "ENEM",
+    "area": "linguagens",
+    "answer": "e",
+    "contextId": "enem_2018_linguagens_ctx39"
+  },
+  {
+    "number": 40,
+    "text": "O Twitter é reconhecido por promover o compartilhamento de textos. Nessa notícia, essa rede social foi utilizada como veículo/suporte para um concurso literário por causa do(a)",
+    "alternatives": {
+      "a": "limite predeterminado de extensão do texto.",
+      "b": "interesse pela participação de jovens.",
+      "c": "atualidade do enredo proposto.",
+      "d": "fidelidade a fatos cotidianos.",
+      "e": "dinâmica da sequência narrativa."
+    },
+    "images": [],
+    "tags": [
+      "comunicação e mídia",
+      "interpretação de texto"
+    ],
+    "difficulty": 4,
+    "year": 2018,
+    "test": "ENEM",
+    "area": "linguagens",
+    "answer": "a",
+    "contextId": "enem_2018_linguagens_ctx1"
+  },
+  {
+    "number": 41,
+    "text": "Nesse texto, busca-se convencer o leitor a mudar seu comportamento por meio da associação de verbos no modo imperativo à",
+    "alternatives": {
+      "a": "indicação de diversos canais de atendimento.",
+      "b": "divulgação do Centro de Defesa da Mulher.",
+      "c": "informação sobre a duração da campanha.",
+      "d": "apresentação dos diversos apoiadores.",
+      "e": "utilização da imagem das três mulheres."
+    },
+    "images": [],
+    "tags": [
+      "interpretação de texto",
+      "gêneros textuais",
+      "comunicação e mídia"
+    ],
+    "difficulty": 6,
+    "year": 2018,
+    "test": "ENEM",
+    "area": "linguagens",
+    "answer": "e",
+    "contextId": "enem_2018_linguagens_q41_ctx1"
+  },
+  {
+    "number": 42,
+    "text": "Publicado em 1979, o texto compartilha com outras obras da literatura brasileira escritas no período as marcas do contexto em que foi produzido, como a",
+    "alternatives": {
+      "a": "referência à censura e à opressão para alegorizar a falta de liberdade de expressão característica da época.",
+      "b": "valorização de situações do cotidiano para atenuar os sentimentos de revolta em relação ao governo instituído.",
+      "c": "utilização de metáforas e ironias para expressar um olhar crítico em relação à situação social e política do país.",
+      "d": "tendência realista para documentar com verossimilhança o drama da população brasileira durante o Regime Militar.",
+      "e": "sobreposição das manifestações populares pelo discurso oficial para destacar o autoritarismo do momento histórico."
+    },
+    "images": [],
+    "tags": [
+      "literatura brasileira",
+      "interpretação de texto",
+      "história do brasil república"
+    ],
+    "difficulty": 6,
+    "year": 2018,
+    "test": "ENEM",
+    "area": "linguagens",
+    "answer": "c",
+    "contextId": "enem_2018_linguagens_ctx1"
+  },
+  {
+    "number": 43,
+    "text": "No contexto apresentado, a relação entre a prática de futebol e as mulheres é caracterizada por um",
+    "alternatives": {
+      "a": "argumento biológico para justificar desigualdades históricas e sociais.",
+      "b": "discurso midiático que atua historicamente na desconstrução do mito do sexo frágil.",
+      "c": "apelo para a preservação do futebol como uma modalidade praticada apenas pelos homens.",
+      "d": "olhar feminista que qualifica o futebol como uma atividade masculinizante para as mulheres.",
+      "e": "receio de que sua inserção subverta o \"esporte-rei\" ao demonstrarem suas capacidades de jogo."
+    },
+    "images": [],
+    "tags": [
+      "interpretação de texto",
+      "cultura e identidade"
+    ],
+    "difficulty": 5,
+    "year": 2018,
+    "test": "ENEM",
+    "area": "linguagens",
+    "answer": "a",
+    "contextId": "enem_2018_linguagens_ctx1"
+  },
+  {
+    "number": 44,
+    "text": "Segundo o texto, a ferramenta Farejador de Plágio alcança seu objetivo por meio da",
+    "alternatives": {
+      "a": "seleção de cópias integrais.",
+      "b": "busca em sites especializados.",
+      "c": "simulação da atividade docente.",
+      "d": "comparação de padrões estruturais.",
+      "e": "identificação de sequência de fonemas."
+    },
+    "images": [],
+    "tags": [
+      "interpretação de texto",
+      "gêneros textuais"
+    ],
+    "difficulty": 4,
+    "year": 2018,
+    "test": "ENEM",
+    "area": "linguagens",
+    "answer": "d",
+    "contextId": "enem_2018_linguagens_44_ctx1"
+  },
+  {
+    "number": 45,
+    "text": "Os textos destacam a inovação artística proposta por Stephen Lund a partir do(a)",
+    "alternatives": {
+      "a": "deslocamento das tecnologias de suas funções habituais.",
+      "b": "perspectiva de funcionamento do dispositivo de GPS.",
+      "c": "ato de guiar sua bicicleta pelas ruas da cidade.",
+      "d": "análise dos problemas de mobilidade urbana.",
+      "e": "foco na promoção cultural da sua cidade."
+    },
+    "images": [],
+    "tags": [
+      "interpretação de texto",
+      "gêneros textuais"
+    ],
+    "difficulty": 5,
+    "year": 2018,
+    "test": "ENEM",
+    "area": "linguagens",
+    "answer": "a",
+    "contextIds": [
+      "enem_2018_linguagens_ctx1",
+      "enem_2018_linguagens_ctx2"
+    ]
+  }
+]

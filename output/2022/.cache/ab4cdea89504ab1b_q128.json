@@ -1,0 +1,24 @@
+{
+  "number": 128,
+  "text": "Nesse teste, a ordenação das rotas indicadas pelo aplicativo será:",
+  "alternatives": {
+    "a": "1, 2, 3.",
+    "b": "1, 3, 2.",
+    "c": "2, 1, 3.",
+    "d": "3, 1, 2.",
+    "e": "3, 2, 1."
+  },
+  "answer": "a",
+  "tags": [
+    "física",
+    "circuitos elétricos",
+    "lei de Ohm"
+  ],
+  "year": 2022,
+  "test": "ENEM",
+  "area": "nature",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

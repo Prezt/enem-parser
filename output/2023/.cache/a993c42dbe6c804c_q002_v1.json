@@ -1,0 +1,23 @@
+{
+  "number": 2,
+  "text": "Para enfatizar características e atitudes que reforçam identidade da mulher negra, o poema da escritora ostarriquenha apresenta",
+  "alternatives": {
+    "a": "advérbios como “ rotundamente ” e “ categóricamente ”.",
+    "b": "verbos reflexivos como “ me niego ” e “ me acepto ”.",
+    "c": "adjetivos como “ grande ” e “ hermosa ”.",
+    "d": "substantivos como “ sangre ” e “ piel ”.",
+    "e": "adjetivos possessivos como “ mi ” e “ mis ”."
+  },
+  "answer": "b",
+  "tags": [
+    "poesia",
+    "identidade cultural"
+  ],
+  "year": 2023,
+  "test": "ENEM",
+  "area": "linguagens",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

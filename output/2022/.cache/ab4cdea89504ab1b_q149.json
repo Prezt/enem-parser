@@ -1,0 +1,23 @@
+{
+  "number": 149,
+  "text": "Uma das informações que pode auxiliar no dimensionamento do número de pediatras que devem atender em uma Unidade Básica de Saúde (UBS) é o número que representa a mediana da quantidade de crianças por família existente na região sob sua responsabilidade. O quadro mostra a distribuição da frequência do número de crianças por família na região de responsabilidade de uma UBS.",
+  "alternatives": {
+    "a": "1,0",
+    "b": "1,5",
+    "c": "1,9",
+    "d": "2,1",
+    "e": "2,5"
+  },
+  "answer": "b",
+  "tags": [
+    "estatística",
+    "mediana"
+  ],
+  "year": 2022,
+  "test": "ENEM",
+  "area": "math",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

@@ -1,0 +1,23 @@
+{
+  "number": 132,
+  "text": "Essa é uma doença hereditária de caráter",
+  "alternatives": {
+    "a": "recessivo",
+    "b": "dominante",
+    "c": "codominante",
+    "d": "poligênico",
+    "e": "polialélico"
+  },
+  "answer": "a",
+  "tags": [
+    "genética e hereditariedade"
+  ],
+  "year": 2021,
+  "test": "ENEM",
+  "area": "nature",
+  "difficulty": 5,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

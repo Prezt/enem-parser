@@ -1,0 +1,24 @@
+{
+  "number": 30,
+  "text": "Nesse poema de Stela do Patrocínio, a singularidade da expressão lírica manifesta-se na",
+  "alternatives": {
+    "a": "representação da infância, redimensionada no resgate da memória.",
+    "b": "associação de imagens desconexas, articuladas por uma fala delirante.",
+    "c": "expressão autobiográfica, fundada no relato de experiências de alteridade.",
+    "d": "incorporação de elementos fantásticos, explicitada por versos incoerentes.",
+    "e": "transgressão à razão, ecoada na desconstrução de referências temporais."
+  },
+  "answer": "e",
+  "tags": [
+    "literatura brasileira",
+    "interpretação de texto"
+  ],
+  "year": 2018,
+  "test": "ENEM",
+  "area": "linguagens",
+  "difficulty": 6,
+  "images": [],
+  "contextId": "enem_2018_linguagens_q30_ctx1",
+  "contextIds": null,
+  "language": null
+}

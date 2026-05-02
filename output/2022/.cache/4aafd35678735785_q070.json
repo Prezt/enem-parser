@@ -1,0 +1,23 @@
+{
+  "number": 70,
+  "text": "Considerando o conceito apresentado no Texto I e os dados apresentados no Texto II, no Brasil, são fatores que intensificam o fenômeno da discriminação:",
+  "alternatives": {
+    "a": "Raça e gênero.",
+    "b": "Etnia e habitação.",
+    "c": "Idade e nupcialidade.",
+    "d": "Profissão e sexualidade.",
+    "e": "Escolaridade e fecundidade."
+  },
+  "answer": "a",
+  "tags": [
+    "discriminação",
+    "sociedade"
+  ],
+  "year": 2022,
+  "test": "ENEM",
+  "area": "humanas",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

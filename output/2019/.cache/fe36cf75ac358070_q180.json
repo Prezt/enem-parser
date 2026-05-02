@@ -1,0 +1,24 @@
+{
+  "number": 180,
+  "text": "Um casal planejou uma viagem e definiu como teto o gasto diário um valor de até R$ 1.000,00. Antes de decidir o destino da viagem, fizeram uma pesquisa sobre os países que desejavam visitar e também sobre as estimativas de gasto diário em cada um, com o objetivo de escolher o destino que apresentasse o menor custo diário em reais. O quadro mostra os resultados obtidos com a pesquisa:\n\n| País de destino | Moeda local | Taxa de câmbio | Gasto diário |\n|---|---|---|---|\n| França | Euro (€) | R$ 3,14 | 315,00 € |\n| EUA | Dólar (US$) | R$ 2,78 | US$ 390,00 |\n| Austrália | Dólar australiano (A$) | R$ 2,14 | A$ 400,00 |\n| Canadá | Dólar canadense (C$) | R$ 2,10 | C$ 410,00 |\n| Reino Unido | Libra esterlina (£) | R$ 4,24 | £ 290,00 |\n\nNessas condições, qual será o destino escolhido para a viagem?",
+  "alternatives": {
+    "a": "Austrália",
+    "b": "Canadá",
+    "c": "EUA",
+    "d": "França",
+    "e": "Reino Unido"
+  },
+  "answer": "a",
+  "tags": [
+    "matemática financeira",
+    "aritmética e números"
+  ],
+  "year": 2019,
+  "test": "ENEM",
+  "area": "math",
+  "difficulty": 3,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

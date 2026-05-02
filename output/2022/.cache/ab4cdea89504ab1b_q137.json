@@ -1,0 +1,23 @@
+{
+  "number": 137,
+  "text": "A World Series é a decisão do campeonato norte-americano de beisebol. Os dois times que chegam a essa fase jogam, entre si, até sete partidas. O primeiro desses times que completar quatro vitórias é declarado campeão.\n\nConsidere que, em todas as partidas, a probabilidade de qualquer um dos dois times vencer é sempre 1/2.\n\nQual é a probabilidade de o time campeão ser aquele que venceu a primeira partida da World Series?",
+  "alternatives": {
+    "a": "35/64",
+    "b": "40/64",
+    "c": "42/64",
+    "d": "44/64",
+    "e": "52/64"
+  },
+  "answer": "c",
+  "tags": [
+    "probabilidade",
+    "estatística"
+  ],
+  "year": 2022,
+  "test": "ENEM",
+  "area": "math",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

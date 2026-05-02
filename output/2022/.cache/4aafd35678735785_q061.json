@@ -1,0 +1,23 @@
+{
+  "number": 61,
+  "text": "A consequência da mudança tecnológica apresentada neste texto é a",
+  "alternatives": {
+    "a": "proteção da economia nacional.",
+    "b": "valorização da cultura tradicional.",
+    "c": "diminuição da formação acadêmica.",
+    "d": "estagnação da manifestação artística.",
+    "e": "ampliação do desemprego estrutural."
+  },
+  "answer": "e",
+  "tags": [
+    "tecnologia",
+    "mercado de trabalho"
+  ],
+  "year": 2022,
+  "test": "ENEM",
+  "area": "humanas",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

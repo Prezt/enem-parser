@@ -1,0 +1,23 @@
+{
+  "number": 151,
+  "text": "O arquiteto Renzo Piano exibiu a maquete da nova sede do Museu Whitney de Arte Americana, um prédio assimétrico que tem um vão aberto para a galeria principal cuja medida da área é 1 672 m². Considere que a escala da maquete exibida é 1 : 200. A medida da área do vão aberto nessa maquete, em centímetro quadrado, é",
+  "alternatives": {
+    "a": "4,18",
+    "b": "8,36",
+    "c": "41,80",
+    "d": "83,60",
+    "e": "418,00"
+  },
+  "answer": "e",
+  "tags": [
+    "escala",
+    "área"
+  ],
+  "year": 2024,
+  "test": "ENEM",
+  "area": "math",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

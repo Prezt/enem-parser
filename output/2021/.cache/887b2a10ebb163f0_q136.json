@@ -1,0 +1,24 @@
+{
+  "number": 136,
+  "text": "Um segmento de reta está dividido em duas partes na proporção áurea. Essa constante de proporcionalidade é comumente representada pela letra grega φ (phi) e atende à equação φ² = φ + 1, cujas potências superiores de φ podem ser expressas pela forma φⁿ = aφ + b, em que a e b são números inteiros, conforme apresentado no quadro.\n\n[Tabela - Potências de φ com valores de n, aₙ, bₙ]\nn | 2 | 3 | 4 | 5 | 6 | 7 |\naₙ | 1 | 2 | 3 | 5 | 8 | … |\nbₙ | 1 | 2 | 3 | 5 | 8 | … |\n\nA potência φ⁷, escrita na forma aφ + b (a e b inteiros positivos), é",
+  "alternatives": {
+    "a": "8φ + 5",
+    "b": "13φ + 8",
+    "c": "21φ + 13",
+    "d": "34φ + 21",
+    "e": "55φ + 34"
+  },
+  "answer": "e",
+  "tags": [
+    "sequências e progressões",
+    "álgebra"
+  ],
+  "year": 2021,
+  "test": "ENEM",
+  "area": "math",
+  "difficulty": 6,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

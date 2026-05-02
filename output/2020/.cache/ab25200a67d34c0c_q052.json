@@ -1,0 +1,24 @@
+{
+  "number": 52,
+  "text": "Os acontecimentos históricos citados ajudaram esse indivíduo, no século XVI, a repensar a visão católica de mundo ao possibilitarem a",
+  "alternatives": {
+    "a": "consulta pública das bibliotecas reais.",
+    "b": "sofisticação barroca do ritual litúrgico.",
+    "c": "aceitação popular da educação secular.",
+    "d": "interpretação autônoma dos textos bíblicos.",
+    "e": "correção doutrinária das heresias medievais."
+  },
+  "answer": "d",
+  "tags": [
+    "história moderna",
+    "filosofia moderna e contemporânea"
+  ],
+  "year": 2020,
+  "test": "ENEM",
+  "area": "humanas",
+  "difficulty": 6,
+  "images": [],
+  "contextId": "enem_2020_humanas_52_ctx1",
+  "contextIds": null,
+  "language": null
+}

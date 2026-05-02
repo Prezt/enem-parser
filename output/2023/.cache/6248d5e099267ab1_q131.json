@@ -1,0 +1,23 @@
+{
+  "number": 131,
+  "text": "O consumo exagerado de refrigerantes é preocupante, pois contribui para o aumento de casos de obesidade e diabetes. Considere dois refrigerantes enlatados, um comum e um diet, e que ambos possuam a mesma quantidade de aditivos, exceto pela presença de açúcar. O refrigerante comum contém basicamente água carbonatada e grande quantidade de açúcar; já o refrigerante diet tem água carbonatada e adoçantes, cujas massas são muito pequenas.",
+  "alternatives": {
+    "a": "maior densidade",
+    "b": "menor viscosidade",
+    "c": "maior volume de gás dissolvido",
+    "d": "menor massa de solutos dissolvidos",
+    "e": "maior temperatura de congelamento"
+  },
+  "answer": "a",
+  "tags": [
+    "refrigerantes",
+    "química"
+  ],
+  "year": 2023,
+  "test": "ENEM",
+  "area": "nature",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

@@ -1,0 +1,23 @@
+{
+  "number": 170,
+  "text": "A rentabilidade do aluguel de um imóvel é calculada ela razão entre o valor mensal de aluguel e o valor de mercado desse imóvel. Com base nos dados fornecedidos, em que ano a entabilidade do aluguel foi maior?",
+  "alternatives": {
+    "a": "2005",
+    "b": "2007",
+    "c": "2009",
+    "d": "2011",
+    "e": "2013"
+  },
+  "answer": "b",
+  "tags": [
+    "matemática",
+    "razão"
+  ],
+  "year": 2022,
+  "test": "ENEM",
+  "area": "math",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

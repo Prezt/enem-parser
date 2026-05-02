@@ -1,0 +1,23 @@
+{
+  "number": 174,
+  "text": "Peças metálicas de aeronaves abandonadas em eroportos serão recicladas. Uma dessas peças é maciça e tem o formato cilíndrico, com a medida do raio a base igual a 4 cm e a da altura igual a 50 cm. Ela será erretida, e o volume de metal resultante será utilizado ara a fabricação de esferas maciças com diâmetro de cm, a serem usadas para confeccionar rolamentos. Para estimar a quantidade de esferas que poderão ser obtidas a partir de cada uma das peças cilíndricas, admite-se que não ocorre perda de material durante o processo de derretimento. Quantas dessas esferas poderão ser obtidas a partir de cada peça cilíndrica?",
+  "alternatives": {
+    "a": "800",
+    "b": "1 200",
+    "c": "2 400",
+    "d": "4 800",
+    "e": "6 400"
+  },
+  "answer": "d",
+  "tags": [
+    "geometria",
+    "volume"
+  ],
+  "year": 2022,
+  "test": "ENEM",
+  "area": "math",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

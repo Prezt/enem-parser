@@ -1,0 +1,23 @@
+{
+  "number": 83,
+  "text": "Em situações como a apresentada no texto, as pessoas nascem já se encontram na condição sociopolítica de",
+  "alternatives": {
+    "a": "exiladas.",
+    "b": "apátridas.",
+    "c": "foragidas.",
+    "d": "refugiadas.",
+    "e": "clandestinas."
+  },
+  "answer": "b",
+  "tags": [
+    "direitos humanos",
+    "política"
+  ],
+  "year": 2022,
+  "test": "ENEM",
+  "area": "humanas",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

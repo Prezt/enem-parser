@@ -1,0 +1,23 @@
+{
+  "number": 156,
+  "text": "Durante suas férias, oito amigos, dos quais dois são canhotos, decidem realizar um torneio de vôlei de praia. Eles precisam formar quatro duplas para a realização do torneio. Nenhuma dupla pode ser formada por dois jogadores canhotos. De quantas maneiras diferentes podem ser formadas essas quatro duplas?",
+  "alternatives": {
+    "a": "69",
+    "b": "70",
+    "c": "90",
+    "d": "104",
+    "e": "105"
+  },
+  "answer": "c",
+  "tags": [
+    "análise combinatória"
+  ],
+  "year": 2019,
+  "test": "ENEM",
+  "area": "math",
+  "difficulty": 7,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

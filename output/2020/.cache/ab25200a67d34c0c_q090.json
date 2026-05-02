@@ -1,0 +1,27 @@
+{
+  "number": 90,
+  "text": "Sobre a tragédia de Mariana, os textos apresentam divergência quanto ao(à)",
+  "alternatives": {
+    "a": "poluição dos rios locais.",
+    "b": "identificação da área afetada.",
+    "c": "destruição da vegetação nativa.",
+    "d": "aparecimento de enfermidade endêmica.",
+    "e": "surgimento de comunidades desabrigadas."
+  },
+  "answer": "d",
+  "tags": [
+    "ecologia",
+    "geopolítica e território"
+  ],
+  "year": 2020,
+  "test": "ENEM",
+  "area": "humanas",
+  "difficulty": 6,
+  "images": [],
+  "contextId": null,
+  "contextIds": [
+    "enem_2020_humanas_ctx1",
+    "enem_2020_humanas_ctx2"
+  ],
+  "language": null
+}

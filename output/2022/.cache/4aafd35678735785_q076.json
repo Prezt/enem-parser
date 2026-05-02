@@ -1,0 +1,29 @@
+{
+  "number": 76,
+  "text": "[Figura] Na construção do empreendimento descrito, destaca-se presença de",
+  "alternatives": {
+    "a": "engenheiros na execução de canais fluviais.",
+    "b": "coronéis na ampliação de antigas fazendas.",
+    "c": "operários na distribuição dos recursos hídricos.",
+    "d": "trabalhadores na formação de novos espaços.",
+    "e": "negociantes na organização de redes comerciais."
+  },
+  "answer": "d",
+  "tags": [
+    "história",
+    "sociedade"
+  ],
+  "year": 2022,
+  "test": "ENEM",
+  "area": "humanas",
+  "images": [
+    "figuras/q076_2022_fig1.png",
+    "figuras/q076_2022_fig2.png",
+    "figuras/q076_2022_fig3.png",
+    "figuras/q076_2022_fig4.png",
+    "figuras/q076_2022_fig5.png"
+  ],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

@@ -1,0 +1,25 @@
+{
+  "number": 28,
+  "text": "A incorporação de um trecho da obra para flauta solo de Johann Sebastian Bach na música de MC Fioti demonstra a",
+  "alternatives": {
+    "a": "influência permanente da cultura eurocêntrica nas produções musicais brasileiras.",
+    "b": "homenagem aos referenciais estéticos que deram origem às produções da música popular.",
+    "c": "necessidade de divulgar a música de concerto nos meios populares nas periferias das grandes cidades.",
+    "d": "utilização desintencional de uma música excessivamente distante da realidade cultural dos jovens brasileiros.",
+    "e": "inter-relação de elementos culturais vindos de realidades distintas na construção de uma nova proposta musical."
+  },
+  "answer": "e",
+  "tags": [
+    "interpretação de texto",
+    "música e dança",
+    "comunicação e mídia"
+  ],
+  "year": 2020,
+  "test": "ENEM",
+  "area": "linguagens",
+  "difficulty": 6,
+  "images": [],
+  "contextId": "enem_2020_linguagens_ctx1",
+  "contextIds": null,
+  "language": null
+}

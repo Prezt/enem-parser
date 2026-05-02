@@ -1,0 +1,24 @@
+{
+  "number": 1,
+  "text": "Os recursos usados nesse pôster de divulgação de uma campanha levam o leitor a refletir sobre a necessidade de",
+  "alternatives": {
+    "a": "criticar o tipo de tratamento dado à mulher.",
+    "b": "rever o desempenho da mulher no trabalho.",
+    "c": "questionar a sobrecarga de atribuições da mulher.",
+    "d": "analisar as pesquisas acerca dos direitos da mulher.",
+    "e": "censurar a mulher pelo uso de determinadas palavras."
+  },
+  "answer": "a",
+  "tags": [
+    "interpretação de texto",
+    "comunicação e mídia"
+  ],
+  "year": 2020,
+  "test": "ENEM",
+  "area": "linguagens",
+  "difficulty": 6,
+  "images": [],
+  "contextId": "enem_2020_linguagens_01_ctx1",
+  "contextIds": null,
+  "language": null
+}

@@ -1,0 +1,26 @@
+{
+  "number": 152,
+  "text": "Para criar um logotipo, um profissional da área de design gráfico deseja construí-lo utilizando o conjunto de pontos do plano na forma de um triângulo, exatamente como mostra a imagem.\n\n[Figura: triângulo no plano cartesiano com vértices nos pontos (0, 0), (10, 0) e (0, 10)]\n\nPara construir tal imagem utilizando uma ferramenta gráfica, será necessário escrever algebricamente o conjunto que representa os pontos desse gráfico.\n\nEsse conjunto é dado pelos pares ordenados (x ; y) ∈ ℝ × ℝ, tais que",
+  "alternatives": {
+    "a": "0 ≤ x ≤ y ≤ 10",
+    "b": "0 ≤ y ≤ x ≤ 10",
+    "c": "0 ≤ x ≤ 10, 0 ≤ y ≤ 10",
+    "d": "0 ≤ x + y ≤ 10",
+    "e": "0 ≤ x + y ≤ 20"
+  },
+  "answer": "b",
+  "tags": [
+    "geometria analítica",
+    "álgebra"
+  ],
+  "year": 2018,
+  "test": "ENEM",
+  "area": "math",
+  "difficulty": 6,
+  "images": [
+    "figuras/q152_2018_fig1.png"
+  ],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

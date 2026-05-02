@@ -1,0 +1,26 @@
+{
+  "number": 174,
+  "text": "A taxa de urbanização de um município é dada pela razão entre a população urbana e a população total do município (isto é, a soma das populações rural e urbana). Os gráficos apresentam, respectivamente, a população urbana e a população rural de cinco municípios (I, II, III, IV, V) de uma mesma região estadual. Em reunião entre o governo do estado e os prefeitos desses municípios, ficou acordado que o município com maior taxa de urbanização receberá um investimento extra em infraestrutura.\n\n[Gráfico - População urbana e população rural dos municípios I, II, III, IV e V]\n\nSegundo o acordo, qual município receberá o investimento extra?",
+  "alternatives": {
+    "a": "I",
+    "b": "II",
+    "c": "III",
+    "d": "IV",
+    "e": "V"
+  },
+  "answer": "c",
+  "tags": [
+    "aritmética e números",
+    "estatística"
+  ],
+  "year": 2019,
+  "test": "ENEM",
+  "area": "math",
+  "difficulty": 4,
+  "images": [
+    "figuras/q174_2019_fig1.png"
+  ],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

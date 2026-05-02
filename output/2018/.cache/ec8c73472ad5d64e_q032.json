@@ -1,0 +1,25 @@
+{
+  "number": 32,
+  "text": "O grupo O Teatro Mágico apresenta composições autorais que têm referências estéticas do rock, do pop e da música folclórica brasileira. A originalidade dos seus shows tem relação com a ópera europeia do século XIX a partir da",
+  "alternatives": {
+    "a": "disposição cênica dos artistas no espaço teatral.",
+    "b": "integração de diversas linguagens artísticas.",
+    "c": "sobreposição entre música e texto literário.",
+    "d": "manutenção de um diálogo com o público.",
+    "e": "adoção de um enredo como fio condutor."
+  },
+  "answer": "b",
+  "tags": [
+    "música e dança",
+    "gêneros textuais",
+    "artes visuais"
+  ],
+  "year": 2018,
+  "test": "ENEM",
+  "area": "linguagens",
+  "difficulty": 5,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

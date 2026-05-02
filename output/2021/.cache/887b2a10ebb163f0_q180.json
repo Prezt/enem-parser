@@ -1,0 +1,24 @@
+{
+  "number": 180,
+  "text": "Os diretores de uma escola precisam construir um laboratório para uso dos alunos. Há duas possibilidades:\n(i) um laboratório do tipo A, com capacidade para 100 usuários, a um custo de 180 mil reais e gastos de 25 mil reais por ano;\n(ii) um laboratório do tipo B, com capacidade para 100 usuários, a um custo de 120 mil reais e gastos com 35 mil reais por ano.\n\nO laboratório implantado será utilizado na totalidade de sua capacidade.\n\nO custo total estimado, ao longo de 2 anos, por usuário, será de",
+  "alternatives": {
+    "a": "1,31 mil reais",
+    "b": "1,90 mil reais",
+    "c": "2,30 mil reais",
+    "d": "2,36 mil reais",
+    "e": "2,95 mil reais"
+  },
+  "answer": "b",
+  "tags": [
+    "matemática financeira",
+    "aritmética e números"
+  ],
+  "year": 2021,
+  "test": "ENEM",
+  "area": "math",
+  "difficulty": 6,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

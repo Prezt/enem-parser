@@ -1,0 +1,25 @@
+{
+  "number": 27,
+  "text": "No título proposto para esse texto de divulgação científica, ao dissociar os elementos da expressão Big Bang, a autora revela a intenção de",
+  "alternatives": {
+    "a": "evidenciar a descoberta recente que comprova a explosão de matéria e energia.",
+    "b": "resumir os resultados de uma pesquisa que trouxe evidências para a teoria do Big Bang.",
+    "c": "sintetizar a ideia de que a teoria da expansão de matéria e energia substitui a teoria da explosão.",
+    "d": "destacar a experiência que confirma uma investigação anterior sobre a teoria de matéria e energia.",
+    "e": "condensar a conclusão de que a explosão de matéria e energia ocorre em um ponto microscópico."
+  },
+  "answer": "c",
+  "tags": [
+    "interpretação de texto",
+    "gêneros textuais",
+    "comunicação e mídia"
+  ],
+  "year": 2018,
+  "test": "ENEM",
+  "area": "linguagens",
+  "difficulty": 6,
+  "images": [],
+  "contextId": "enem_2018_linguagens_q27_ctx1",
+  "contextIds": null,
+  "language": null
+}

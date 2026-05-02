@@ -1,0 +1,23 @@
+{
+  "number": 118,
+  "text": "Com base nas informações do texto, qual é o hormônio ujas concentrações estão representadas na figura?",
+  "alternatives": {
+    "a": "Estrogênio.",
+    "b": "Feromônio.",
+    "c": "Testosterona.",
+    "d": "Somatotrofina.",
+    "e": "Hormônio folículo estimulante."
+  },
+  "answer": "c",
+  "tags": [
+    "biologia",
+    "hormônios"
+  ],
+  "year": 2022,
+  "test": "ENEM",
+  "area": "nature",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

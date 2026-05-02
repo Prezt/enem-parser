@@ -1,0 +1,23 @@
+{
+  "number": 112,
+  "text": "Um pai faz um balanço utilizando dois segmentos paralelos e iguais da mesma corda para fixar uma tábua em uma barra horizontal. Por segurança, opta por um tipo de corda cuja tensão de ruptura seja 25% superior à tensão máxima calculada nas seguintes condições: O ângulo máximo atingido pelo balanço em relação à vertical é igual a 90°; Os filhos utilizarão o balanço até que tenham uma massa de 24 kg. Além disso, ele aproxima o movimento do balanço para o movimento circular uniforme, considera que a aceleração da gravidade é igual a 10 m/s² e despreza forças dissipativas. Qual é a tensão de ruptura da corda escolhida?",
+  "alternatives": {
+    "a": "120 N",
+    "b": "300 N",
+    "c": "360 N",
+    "d": "450 N",
+    "e": "900 N"
+  },
+  "answer": "d",
+  "tags": [
+    "física",
+    "mecânica"
+  ],
+  "year": 2022,
+  "test": "ENEM",
+  "area": "nature",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

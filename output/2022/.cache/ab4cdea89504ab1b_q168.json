@@ -1,0 +1,23 @@
+{
+  "number": 168,
+  "text": "Uma pessoa precisa se deslocar de automóvel do ponto P para o ponto Q, indicados na figura, na qual as linhas verticais e horizontais simbolizam ruas. Por causa do sentido de tráfego nessas ruas, o caminho poligonal destacado é a possibilidade mais curta de efetuar esse deslocamento. Para descrevê-lo deve-se especificar qual o sentido a ser tomado em cada cruzamento de ruas, em relação à direção de deslocamento do automóvel, que se movimentará continuamente. Para isso, empregam-se as letras E, F e D para indicar “vire à esquerda”, “siga em frente” e “vire à direita”, respectivamente. A sequência de letras que descreve o caminho poligonal destacado é",
+  "alternatives": {
+    "a": "DDEFDDEEFFD",
+    "b": "DFEFDDDEFFD",
+    "c": "DFEFDDEEFFD",
+    "d": "EFDFEEDDFFE",
+    "e": "EFDFEEEDFFE"
+  },
+  "answer": "c",
+  "tags": [
+    "geometria",
+    "movimento"
+  ],
+  "year": 2022,
+  "test": "ENEM",
+  "area": "math",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

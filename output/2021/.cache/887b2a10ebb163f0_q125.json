@@ -1,0 +1,24 @@
+{
+  "number": 125,
+  "text": "Qual é a tecnologia mais adequada ao transporte automotivo entre as células de combustível apresentadas?",
+  "alternatives": {
+    "a": "Célula de combustível com eletrólito de hidróxido de potássio aquoso",
+    "b": "Célula de combustível com eletrólito de carbonatos de lítio, sódio e potássio fundidos",
+    "c": "Célula de combustível com eletrólito de ácido fosfórico líquido",
+    "d": "Célula de combustível com eletrólito de membrana trocadora de prótons",
+    "e": "Célula de combustível com eletrólito de óxido sólido"
+  },
+  "answer": "b",
+  "tags": [
+    "Química geral e inorgânica",
+    "Eletroquímica"
+  ],
+  "year": 2021,
+  "test": "ENEM",
+  "area": "nature",
+  "difficulty": 6,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

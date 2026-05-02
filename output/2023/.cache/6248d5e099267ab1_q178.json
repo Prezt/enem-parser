@@ -1,0 +1,23 @@
+{
+  "number": 178,
+  "text": "Estudantes trabalhando com robótica criaram um “torneira inteligente” que automatiza sua abertura e se fechamento durante a limpeza das mãos. A tecnologia funciona da seguinte forma: ao se colocarem as mãos sob a torneira, ela libera água durante 3 segundos para que a pessoa possa molhá-las. Em seguida, interrompe o fornecimento de água por 5 segundos, enquanto a pessoa ensaboa suas mãos, e finaliza o ciclo liberando água para o enxágue por mais 3 segundos. Considere o tempo (t) em segundo, contado a partir do instante em que se inicia o ciclo. A vazão de água nessa torneira é constante.\nUm esboço de gráfico que descreve o volume de água acumulado, em litro, liberado por essa torneira durante um ciclo de lavagem das mãos, em função do tempo (t), em segundo, é",
+  "alternatives": {
+    "a": "Volume de água (L)\n0 1 2 3 4 5 6 7 8 9   10   11   12\nt  (s)",
+    "b": "Volume de água (L)\n0 1 2 3 4 5 6 7 8 9   10   11   12\nt  (s)",
+    "c": "Volume de água (L)\n0 1 2 3 4 5 6 7 8 9   10   11   12\nt  (s)",
+    "d": "Volume de água (L)\n0 1 2 3 4 5 6 7 8 9   10   11   12\nt  (s)",
+    "e": "Volume de água (L)\n0 1 2 3 4 5 6 7 8 9   10   11   12\nt  (s)"
+  },
+  "answer": "b",
+  "tags": [
+    "robótica",
+    "matemática-aplicada"
+  ],
+  "year": 2023,
+  "test": "ENEM",
+  "area": "math",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

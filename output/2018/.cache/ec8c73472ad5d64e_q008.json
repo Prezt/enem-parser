@@ -1,0 +1,25 @@
+{
+  "number": 8,
+  "text": "Nesse texto, a associação de vocábulos da língua portuguesa a determinados dias da semana remete ao",
+  "alternatives": {
+    "a": "local de origem dos interlocutores.",
+    "b": "estado emocional dos interlocutores.",
+    "c": "grau de coloquialidade da comunicação.",
+    "d": "nível de intimidade entre os interlocutores.",
+    "e": "conhecimento compartilhado na comunicação."
+  },
+  "answer": "c",
+  "tags": [
+    "interpretação de texto",
+    "linguística e variação linguística",
+    "literatura brasileira"
+  ],
+  "year": 2018,
+  "test": "ENEM",
+  "area": "linguagens",
+  "difficulty": 6,
+  "images": [],
+  "contextId": "enem_2018_linguagens_08_ctx1",
+  "contextIds": null,
+  "language": null
+}

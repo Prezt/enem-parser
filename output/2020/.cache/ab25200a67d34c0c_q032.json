@@ -1,0 +1,25 @@
+{
+  "number": 32,
+  "text": "Os ditados populares são frases de sabedoria criadas pelo povo, utilizadas em várias situações da vida. Nesse texto, a personagem emprega um ditado popular com a intenção de",
+  "alternatives": {
+    "a": "criticar a natureza forte do filho.",
+    "b": "justificar o gênio difícil de Chiquito.",
+    "c": "legitimar o direito do filho à herança.",
+    "d": "conter o ânimo violento de Chico Lourenço.",
+    "e": "condenar a agressividade do marido contra o filho."
+  },
+  "answer": "b",
+  "tags": [
+    "interpretação de texto",
+    "gêneros textuais",
+    "literatura brasileira"
+  ],
+  "year": 2020,
+  "test": "ENEM",
+  "area": "linguagens",
+  "difficulty": 5,
+  "images": [],
+  "contextId": "enem_2020_linguagens_ctx1",
+  "contextIds": null,
+  "language": null
+}

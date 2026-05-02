@@ -1,0 +1,23 @@
+{
+  "number": 1,
+  "text": "Esse cartaz tem a função social de",
+  "alternatives": {
+    "a": "difundir a arte iconográfica indígena mexicana.",
+    "b": "resgatar a literatura popular produzida em língua zapoteca.",
+    "c": "questionar o conhecimento do povo mexicano sobre as línguas ameríndias.",
+    "d": "destacar o papel dos órgãos governamentais na conservação das línguas no México.",
+    "e": "defender a preservação das línguas originárias garantindo a diversidade linguística mexicana."
+  },
+  "answer": "d",
+  "tags": [
+    "cultura",
+    "língua"
+  ],
+  "year": 2022,
+  "test": "ENEM",
+  "area": "linguagens",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

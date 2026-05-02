@@ -1,0 +1,24 @@
+{
+  "number": 95,
+  "text": "A fragmentação dos hábitats é caracterizada pela formação de ilhas da paisagem original, circundada por áreas transformadas. Esse tipo de interferência no ambiente ameaça a biodiversidade. Imagine que uma população de onças foi isolada em uma mata pequena. Elas se extinguiriam mesmo sem terem sido abatidas. Diversos componentes da ilha de hábitat, como o tamanho, a heterogeneidade, o seu entorno, a sua conectividade e o efeito de borda são determinantes para a persistência ou não das espécies originais. Uma medida que auxilia na conservação da biodiversidade nas ilhas mencionadas no texto compreende a",
+  "alternatives": {
+    "a": "formação de micro-hábitats.",
+    "b": "ampliação do efeito de borda.",
+    "c": "construção de corredores ecológicos.",
+    "d": "promoção da sucessão ecológica.",
+    "e": "introdução de novas espécies de animais e vegetais"
+  },
+  "answer": "c",
+  "tags": [
+    "ecologia",
+    "meio ambiente e sustentabilidade"
+  ],
+  "year": 2020,
+  "test": "ENEM",
+  "area": "nature",
+  "difficulty": 6,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

@@ -1,0 +1,23 @@
+{
+  "number": 159,
+  "text": "Um atleta iniciou seu treinamento visando as competições. Ele realiza cinco diferentes de treinos: treino T, treino T, treino T, treino T e t. A letra R significa repouso. Após completar a sequência de 24 semanas, ele começa novamente a sequência a partir do treino T e segue a ordem descrita. Após 24 semanas de treinos é",
+  "alternatives": {
+    "a": "T R T R R T R.",
+    "b": "R T R T R R T .",
+    "c": "R T R R T   R T .",
+    "d": "R R T R T R R.",
+    "e": "R T R T R R T ."
+  },
+  "answer": "b",
+  "tags": [
+    "sequência",
+    "treinamento"
+  ],
+  "year": 2022,
+  "test": "ENEM",
+  "area": "math",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

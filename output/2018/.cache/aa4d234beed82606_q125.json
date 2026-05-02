@@ -1,0 +1,24 @@
+{
+  "number": 125,
+  "text": "A figura representa um prisma óptico, constituído de um material que dispersa a luz em função da frequência da luz que sobre ele incide. Um feixe luminoso emerge na face B e, após ser refletido por um espelho, incide novamente no prisma. Observando os pontos luminosos revelados no filme, determine a sequência de cores observadas.",
+  "alternatives": {
+    "a": "Vermelha, verde, azul.",
+    "b": "Verde, vermelha, azul.",
+    "c": "Azul, verde, vermelha.",
+    "d": "Verde, azul, vermelha.",
+    "e": "Azul, vermelha, verde."
+  },
+  "answer": "a",
+  "tags": [
+    "óptica",
+    "dispersão da luz"
+  ],
+  "year": 2018,
+  "test": "ENEM",
+  "area": "nature",
+  "difficulty": 6,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

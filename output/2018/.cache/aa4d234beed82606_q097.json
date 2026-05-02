@@ -1,0 +1,24 @@
+{
+  "number": 97,
+  "text": "A etiqueta funciona sem pilhas porque o campo",
+  "alternatives": {
+    "a": "elétrico da onda de rádio agita elétrons da bobina.",
+    "b": "elétrico da onda de rádio cria uma tensão na bobina.",
+    "c": "magnético da onda de rádio induz corrente na bobina.",
+    "d": "magnético da onda de rádio aquece os fios da bobina.",
+    "e": "magnético da onda de rádio diminui a ressonância no interior da bobina."
+  },
+  "answer": "c",
+  "tags": [
+    "física moderna",
+    "eletricidade e magnetismo"
+  ],
+  "year": 2018,
+  "test": "ENEM",
+  "area": "nature",
+  "difficulty": 6,
+  "images": [],
+  "contextId": "enem_2018_nature_ctx97",
+  "contextIds": null,
+  "language": null
+}

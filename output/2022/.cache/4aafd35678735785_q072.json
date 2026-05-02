@@ -1,0 +1,24 @@
+{
+  "number": 72,
+  "text": "A pesquisa desenvolvida retrata a seguinte dinâmica populacional:",
+  "alternatives": {
+    "a": "Fluxo de retorno.",
+    "b": "Migração interna.",
+    "c": "Mudança sazonal.",
+    "d": "Movimento pendular.",
+    "e": "Deslocamento forçado."
+  },
+  "answer": "d",
+  "tags": [
+    "humanas",
+    "geografia",
+    "dinâmica populacional"
+  ],
+  "year": 2022,
+  "test": "ENEM",
+  "area": "humanas",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

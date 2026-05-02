@@ -1,0 +1,24 @@
+{
+  "number": 122,
+  "text": "O odor que permanece nas mãos após o contato com alho pode ser eliminado pela utilização de um \"sabonete de aço inoxidável\", constituído de aço inox (74%), cromo e níquel. A principal vantagem desse \"sabonete\" é que ele não se desgasta com o uso. Considere que a principal substância responsável pelo odor de alho é a alicina (estrutura I) e que, para que o odor seja eliminado, ela seja transformada na estrutura II.\n\nEstrutura I: CH₂═CH—CH₂—S—S—CH₂—CH═CH₂\n\nEstrutura II: CH₂═CH—CH₂—S—H e H—S—CH₂—CH═CH₂\n\nNa conversão de I em II, o \"sabonete\" atuará como um",
+  "alternatives": {
+    "a": "ácido.",
+    "b": "redutor.",
+    "c": "eletrólito.",
+    "d": "tensoativo.",
+    "e": "catalisador."
+  },
+  "answer": "e",
+  "tags": [
+    "química orgânica",
+    "eletroquímica"
+  ],
+  "year": 2019,
+  "test": "ENEM",
+  "area": "nature",
+  "difficulty": 6,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

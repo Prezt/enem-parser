@@ -1,0 +1,24 @@
+{
+  "number": 25,
+  "text": "A representação do discurso intimidador engendrada no texto serve para",
+  "alternatives": {
+    "a": "ir além da caracterização psicológica das personagens",
+    "b": "criar distanciamento entre o leitor e as personagens",
+    "c": "dissimular o ponto de vista do narrador",
+    "d": "acentuar conflitos decorrentes de relações sociais",
+    "e": "estabelecer relações de poder estereotipadas"
+  },
+  "answer": "b",
+  "tags": [
+    "interpretação de texto",
+    "gêneros textuais"
+  ],
+  "year": 2021,
+  "test": "ENEM",
+  "area": "linguagens",
+  "difficulty": 5,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

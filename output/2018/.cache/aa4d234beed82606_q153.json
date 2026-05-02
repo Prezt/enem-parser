@@ -1,0 +1,23 @@
+{
+  "number": 153,
+  "text": "A figura mostra uma praça circular que contém um chafariz em seu centro e, em seu entorno, um passeio. Os círculos que definem a praça e o chafariz são concêntricos. [Figura: praça circular com chafariz concêntrico no centro e passeio ao redor] O passeio terá seu piso revestido com ladrilhos. Sem condições de calcular os raios, pois o chafariz está cheio, um engenheiro fez a seguinte medição: esticou uma trena tangente ao chafariz, medindo a distância entre dois pontos A e B, conforme a figura. Com isso, obteve a medida do segmento de reta AB: 16 m. [Figura: segmento de reta AB tangente ao chafariz, com comprimento 16 m] Dispondo apenas dessa medida, o engenheiro calculou corretamente a medida da área do passeio, em metro quadrado. A medida encontrada pelo engenheiro foi",
+  "alternatives": {
+    "a": "4π",
+    "b": "8π",
+    "c": "48π",
+    "d": "64π",
+    "e": "192π"
+  },
+  "answer": "d",
+  "tags": [
+    "geometria plana"
+  ],
+  "year": 2018,
+  "test": "ENEM",
+  "area": "math",
+  "difficulty": 6,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

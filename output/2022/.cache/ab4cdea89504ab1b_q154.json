@@ -1,0 +1,23 @@
+{
+  "number": 154,
+  "text": "De acordo com as informações dadas, o número de vagas criadas em janeiro de 2012 foi",
+  "alternatives": {
+    "a": "16 514",
+    "b": "86 700",
+    "c": "115 600",
+    "d": "441 343",
+    "e": "448 568"
+  },
+  "answer": "c",
+  "tags": [
+    "estatística",
+    "matemática"
+  ],
+  "year": 2022,
+  "test": "ENEM",
+  "area": "math",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

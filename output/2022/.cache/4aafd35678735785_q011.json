@@ -1,0 +1,23 @@
+{
+  "number": 11,
+  "text": "O texto revela que, quando a sociedade promove o desenvolvimento de uma nova técnica, o que mais impacta seus usuários é a",
+  "alternatives": {
+    "a": "dificuldade na apropriação da nova linguagem.",
+    "b": "valorização da utilização da nova tecnologia.",
+    "c": "recorrência das mudanças tecnológicas.",
+    "d": "suplantação imediata dos conhecimentos prévios.",
+    "e": "rapidez no aprendizado do manuseio das novas invenções."
+  },
+  "answer": "a",
+  "tags": [
+    "linguagens",
+    "interpretação de texto"
+  ],
+  "year": 2022,
+  "test": "ENEM",
+  "area": "linguagens",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

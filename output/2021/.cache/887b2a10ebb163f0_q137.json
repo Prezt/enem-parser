@@ -1,0 +1,24 @@
+{
+  "number": 137,
+  "text": "Considere um visitante que se deslocou pelo interior do Atomium sempre em linha reta e seguindo o menor trajeto entre dois vértices, passando por todas as arestas e todas as diagonais do cubo. A distância total percorrido por esse visitante é representada por",
+  "alternatives": {
+    "a": "A",
+    "b": "B",
+    "c": "C",
+    "d": "D",
+    "e": "E"
+  },
+  "answer": "e",
+  "tags": [
+    "geometria espacial",
+    "análise combinatória"
+  ],
+  "year": 2021,
+  "test": "ENEM",
+  "area": "math",
+  "difficulty": 7,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

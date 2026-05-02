@@ -1,0 +1,25 @@
+{
+  "number": 126,
+  "text": "[Figura - Ilustração do processo de tratamento da água]",
+  "alternatives": {
+    "a": "Coagulação.",
+    "b": "Decantação.",
+    "c": "Filtração.",
+    "d": "Desinfecção.",
+    "e": "Fluoretação."
+  },
+  "answer": "b",
+  "tags": [
+    "água",
+    "tratamento de água"
+  ],
+  "year": 2022,
+  "test": "ENEM",
+  "area": "nature",
+  "images": [
+    "figuras/q126_2022_fig1.png"
+  ],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

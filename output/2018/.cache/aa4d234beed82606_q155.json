@@ -1,0 +1,26 @@
+{
+  "number": 155,
+  "text": "O remo de assento deslizante é um esporte que faz uso de um barco e dois remos do mesmo tamanho. A figura mostra uma das posições de uma técnica chamada afastamento. [Figura: posição de afastamento no remo]\n\nNessa posição, os dois remos se encontram no ponto A e suas outras extremidades estão indicadas pelos pontos B e C. Esses três pontos formam um triângulo ABC cujo ângulo BÂC tem medida de 170°.\n\nO tipo de triângulo com vértices nos pontos A, B e C, no momento em que o remador está nessa posição, é",
+  "alternatives": {
+    "a": "retângulo escaleno",
+    "b": "acutângulo escaleno",
+    "c": "acutângulo isósceles",
+    "d": "obtusângulo escaleno",
+    "e": "obtusângulo isósceles"
+  },
+  "answer": "e",
+  "tags": [
+    "geometria plana",
+    "trigonometria"
+  ],
+  "year": 2018,
+  "test": "ENEM",
+  "area": "math",
+  "difficulty": 4,
+  "images": [
+    "figuras/q155_2018_fig1.png"
+  ],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

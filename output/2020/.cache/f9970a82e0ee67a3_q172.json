@@ -1,0 +1,26 @@
+{
+  "number": 172,
+  "text": "No período de fim de ano, o síndico de um condomínio resolveu colocar, em um poste, uma iluminação natalina em formato de cone, lembrando uma árvore de Natal conforme as figuras 1 e 2.\n\n[Figura: Cone com poste, mostrando altura h = 3 m e ponto C no centro da base]\n\nA árvore deverá ser feita colocando-se mangueira de iluminação, consideradas segmentos de reta de mesmo comprimento, a partir de um ponto situado a 3 m de altura no poste até um ponto de uma circunferência de fixação, no chão, de tal forma que esta fique dividida em 20 arcos iguais. O poste está fixado no ponto C (centro da circunferência) perpendicularmente ao plano do chão. Para economizar, ele utilizará mangueiras de iluminação aproveitadas de anos anteriores, que juntas totalizaram pouco mais de 100 m de comprimento, dos quais ele decide usar exatamente 100 m e deixar o restante como reserva. Para que ele atinja seu objetivo, o raio, em metro, da circunferência deverá ser de",
+  "alternatives": {
+    "a": "4,00",
+    "b": "4,87",
+    "c": "5,00",
+    "d": "5,83",
+    "e": "6,26"
+  },
+  "answer": "a",
+  "tags": [
+    "geometria espacial",
+    "geometria analítica"
+  ],
+  "year": 2020,
+  "test": "ENEM",
+  "area": "math",
+  "difficulty": 7,
+  "images": [
+    "figuras/q172_2020_fig1.png"
+  ],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

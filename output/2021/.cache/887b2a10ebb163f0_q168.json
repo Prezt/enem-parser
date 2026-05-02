@@ -1,0 +1,26 @@
+{
+  "number": 168,
+  "text": "Um octaedro regular possui 8 faces triangulares. A estrutura de um octaedro pode ser montada a partir de dois quadrados que compartilham o mesmo centro, sendo um rodado 45° em relação ao outro, com 4 triângulos anexados acima e 4 abaixo.\n\n[Figura: octaedro regular com faces numeradas]\n\nUm octaedro regular tem uma face pintada de cor cinza escuro e outras quatro faces numeradas 1, 2, 3 e 4. Qual(is) é(são) o(s) número(s) que se encontra(m) na(s) face(s) oposta(s) à face de cor cinza escuro, quando o octaedro for reconstruído a partir da planificação?",
+  "alternatives": {
+    "a": "1, 2, 3 e 4",
+    "b": "1 e 3",
+    "c": "1",
+    "d": "2/4",
+    "e": "4"
+  },
+  "answer": "e",
+  "tags": [
+    "geometria espacial",
+    "análise combinatória"
+  ],
+  "year": 2021,
+  "test": "ENEM",
+  "area": "math",
+  "difficulty": 6,
+  "images": [
+    "figuras/q168_2021_fig1.png"
+  ],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

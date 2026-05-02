@@ -1,0 +1,24 @@
+{
+  "number": 105,
+  "text": "Duas esferas carregadas com cargas iguais estão presas nos extremos de uma haste rígida isolante na forma de haltere. O sistema se encontra em repouso e imerso em um campo magnético horizontal uniforme, da esquerda para a direita. A imagem apresenta o sistema em movimento de rotação em torno do seu centro de massa, com velocidades v nos sentidos opostos. Desprezando-se a gravidade, visto de cima, o diagrama esquemático das forças magnéticas que atuam no sistema, no momento inicial em que as velocidades são perpendiculares ao campo magnético, está representado em",
+  "alternatives": {
+    "a": "[Descrição da alternativa A - diagrama das forças]",
+    "b": "[Descrição da alternativa B - diagrama das forças]",
+    "c": "[Descrição da alternativa C - diagrama das forças]",
+    "d": "[Descrição da alternativa D - diagrama das forças]",
+    "e": "[Descrição da alternativa E - diagrama das forças]"
+  },
+  "answer": "a",
+  "tags": [
+    "eletricidade e magnetismo",
+    "mecânica newtoniana"
+  ],
+  "year": 2021,
+  "test": "ENEM",
+  "area": "nature",
+  "difficulty": 8,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

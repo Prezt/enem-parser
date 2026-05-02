@@ -1,0 +1,24 @@
+{
+  "number": 10,
+  "text": "As aspas sinalizam expressões metafóricas empregadas intencionalmente pelo autor do texto para",
+  "alternatives": {
+    "a": "imprimir um tom irônico à reportagem.",
+    "b": "incorporar citações de especialistas à reportagem.",
+    "c": "atribuir maior valor aos metais, objeto da reportagem.",
+    "d": "esclarecer termos científicos empregados na reportagem.",
+    "e": "marcar a apropriação de termos de outra ciência pela reportagem."
+  },
+  "answer": "c",
+  "tags": [
+    "interpretação de texto",
+    "gêneros textuais"
+  ],
+  "year": 2020,
+  "test": "ENEM",
+  "area": "linguagens",
+  "difficulty": 5,
+  "images": [],
+  "contextId": "enem_2020_linguagens_ctx1",
+  "contextIds": null,
+  "language": null
+}

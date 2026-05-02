@@ -1,0 +1,24 @@
+{
+  "number": 171,
+  "text": "A rosa dos ventos é uma figura que representa oito sentidos, que dividem o círculo em partes iguais. Uma câmera de vigilância está fixada no teto de um shopping e sua lente pode ser direcionada remotamente através de um controlador, para qualquer sentido. A lente da câmera está apontada inicialmente no sentido Oeste e o seu controlador efetua três mudanças consecutivas a saber:\n  - 1ª mudança: 135º no sentido anti-horário;\n  - 2ª mudança: 60º no sentido horário;\n  - 3ª mudança: 45º no sentido anti-horário.\nApós a 3ª mudança, ele é orientado a reposicionar a câmera, com a menor amplitude possível, no sentido Noroeste (NO) devido a um movimento suspeito de um cliente. Qual mudança de sentido o controlador deve efetuar para reposicionar a câmera?",
+  "alternatives": {
+    "a": "75º no sentido horário",
+    "b": "105º no sentido anti-horário",
+    "c": "120º no sentido anti-horário",
+    "d": "135º no sentido anti-horário",
+    "e": "165º no sentido horário"
+  },
+  "answer": "e",
+  "tags": [
+    "geometria plana",
+    "análise combinatória"
+  ],
+  "year": 2018,
+  "test": "ENEM",
+  "area": "math",
+  "difficulty": 6,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

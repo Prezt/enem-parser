@@ -1,0 +1,26 @@
+{
+  "number": 56,
+  "text": "Anamorfose é a transformação cartográfica espacial em que a forma dos objetos é distorcida, de forma a realçar o tema. A área das unidades espaciais às quais o tema se refere é alterada de forma proporcional ao respectivo valor.\n\nA técnica descrita foi aplicada na seguinte forma de representação do espaço:\n\n[Figura: cinco mapas representando diferentes técnicas cartográficas]",
+  "alternatives": {
+    "a": "[Mapa A - gráfico de linhas com valores numéricos]",
+    "b": "[Mapa B - gráfico de barras com valores numéricos]",
+    "c": "[Mapa C - mapa com países nomeados: Canadá, Estados Unidos, Cuba, República Dominicana, México, Guatemala, Venezuela, Colômbia, Brasil, Equador, Peru, Chile, Argentina]",
+    "d": "[Mapa D - representação cartográfica distorcida por tamanho]",
+    "e": "[Mapa E - representação cartográfica adicional]"
+  },
+  "answer": "c",
+  "tags": [
+    "cartografia",
+    "geografia humana e urbana"
+  ],
+  "year": 2018,
+  "test": "ENEM",
+  "area": "humanas",
+  "difficulty": 5,
+  "images": [
+    "figuras/q056_2018_fig1.png"
+  ],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

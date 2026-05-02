@@ -1,0 +1,25 @@
+{
+  "number": 18,
+  "text": "Nessa obra, que retrata uma cena de Caramuru, célebre [Figura: ]",
+  "alternatives": {
+    "a": "",
+    "b": "",
+    "c": "",
+    "d": "",
+    "e": ""
+  },
+  "answer": "d",
+  "tags": [
+    "literatura brasileira"
+  ],
+  "year": 2021,
+  "test": "ENEM",
+  "area": "linguagens",
+  "difficulty": 5,
+  "images": [
+    "figuras/q018_2021_fig1.png"
+  ],
+  "contextId": "enem_2021_linguagens_caramuru",
+  "contextIds": null,
+  "language": null
+}

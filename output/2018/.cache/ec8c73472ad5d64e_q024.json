@@ -1,0 +1,25 @@
+{
+  "number": 24,
+  "text": "O cumprimento da função referencial da linguagem é uma marca característica do gênero resumo de artigo acadêmico. Na estrutura desse texto, essa função é estabelecida pela",
+  "alternatives": {
+    "a": "impessoalidade, na organização da objetividade das informações, como em \"Este artigo tem por finalidade\" e \"Evidencia-se\".",
+    "b": "seleção lexical, no desenvolvimento sequencial do texto, como em \"imaginário racista\" e \"estética do negro\".",
+    "c": "metaforização, relativa à construção dos sentidos figurados, como nas expressões \"descolonização estética\" e \"discurso midiático-publicitário\".",
+    "d": "nominalização, produzida por meio de processos derivacionais na formação de palavras, como \"inferiorização\" e \"desvalorização\".",
+    "e": "adjetivação, organizada para criar uma terminologia antirracista, como em \"ética da diversidade\" e \"descolonização estética\"."
+  },
+  "answer": "a",
+  "tags": [
+    "interpretação de texto",
+    "linguística e variação linguística",
+    "gêneros textuais"
+  ],
+  "year": 2018,
+  "test": "ENEM",
+  "area": "linguagens",
+  "difficulty": 6,
+  "images": [],
+  "contextId": "enem_2018_linguagens_ctx1",
+  "contextIds": null,
+  "language": null
+}

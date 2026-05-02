@@ -1,0 +1,24 @@
+{
+  "number": 177,
+  "text": "Devido ao não cumprimento das metas definida para a campanha de vacinação contra a gripe comum e o vírus H1N1 em um ano, o Ministério da Saúde anunciou a prorrogação da campanha por mais um semana. A tabela apresenta as quantidades de pessoa vacinadas dentre os cinco grupos de risco até a data de início da prorrogação da campanha.\n\nBalanço parcial nacional da vacinação contra a gripe\n\n| Grupo de risco | População (milhão) | População já vacinada (milhão) | (%) |\n| --- | --- | --- | --- |\n| Crianças | 4,5 | 0,9 | 20 |\n| Profissionais de saúde | 2,0 | 1,0 | 50 |\n| Gestantes | 2,5 | 1,5 | 60 |\n| Indígenas | 0,5 | 0,4 | 80 |\n| Idosos | 20,5 | 8,2 | 40 |\n\nQual é a porcentagem do total de pessoas desses grupos de risco já vacinadas?",
+  "alternatives": {
+    "a": "12",
+    "b": "18",
+    "c": "30",
+    "d": "40",
+    "e": "50"
+  },
+  "answer": "d",
+  "tags": [
+    "aritmética e números",
+    "estatística"
+  ],
+  "year": 2018,
+  "test": "ENEM",
+  "area": "math",
+  "difficulty": 4,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

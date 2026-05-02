@@ -1,0 +1,24 @@
+{
+  "number": 167,
+  "text": "O quadro representa os gastos mensais, em real, de uma família com internet, mensalidade escolar e mesada do filho.\n\n| Internet | Mensalidade escolar | Mesada do filho |\n| 120 | 700 | 400 |\n\nNo início do ano, a internet e a mensalidade escolar tiveram acréscimos, respectivamente, de 20% e 10%. Necessitando manter o valor da despesa mensal total com os itens citados, a família reduzirá a mesada do filho.\n\nQual será a porcentagem da redução da mesada?",
+  "alternatives": {
+    "a": "15,0",
+    "b": "23,5",
+    "c": "30,0",
+    "d": "70,0",
+    "e": "76,5"
+  },
+  "answer": "b",
+  "tags": [
+    "aritmética e números",
+    "matemática financeira"
+  ],
+  "year": 2020,
+  "test": "ENEM",
+  "area": "math",
+  "difficulty": 4,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

@@ -1,0 +1,24 @@
+{
+  "number": 23,
+  "text": "O romance, de 1939, traz à cena tipos e situações que espelham o Rio de Janeiro daquela década. No fragmento, o narrador delineia esse contexto centrado no",
+  "alternatives": {
+    "a": "julgamento da mulher fora do espaço doméstico.",
+    "b": "relato sobre as condições de trabalho no Estado Novo.",
+    "c": "destaque a grupos populares na condição de protagonistas.",
+    "d": "processo de inclusão do palavrão nos hábitos de linguagem.",
+    "e": "vínculo entre as transformações urbanas e os papéis femininos."
+  },
+  "answer": "e",
+  "tags": [
+    "interpretação de texto",
+    "literatura brasileira"
+  ],
+  "year": 2018,
+  "test": "ENEM",
+  "area": "linguagens",
+  "difficulty": 6,
+  "images": [],
+  "contextId": "enem_2018_linguagens_ctx1",
+  "contextIds": null,
+  "language": null
+}

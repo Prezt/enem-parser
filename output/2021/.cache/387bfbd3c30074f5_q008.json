@@ -1,0 +1,24 @@
+{
+  "number": 8,
+  "text": "De acordo com o diretor, qual é o sentido da experiência vivida pelo menino?",
+  "alternatives": {
+    "a": "A experiência demonstra a importância de conhecer instituições estrangeiras.",
+    "b": "A experiência mostra que é possível criar espaços de memória e cultura.",
+    "c": "A experiência comprova que museus devem receber visitantes frequentemente.",
+    "d": "A experiência revela que crianças têm dificuldades em compreender arte e história.",
+    "e": "importância da parceria entre brasileiros e britânicos"
+  },
+  "answer": "c",
+  "tags": [
+    "interpretação de texto",
+    "literatura brasileira"
+  ],
+  "year": 2021,
+  "test": "ENEM",
+  "area": "linguagens",
+  "difficulty": 5,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

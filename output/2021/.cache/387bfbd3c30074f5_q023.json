@@ -1,0 +1,26 @@
+{
+  "number": 23,
+  "text": "A morte do cisne demonstra que",
+  "alternatives": {
+    "a": "a dança clássica é impecavelmente branca e realizada na ponta dos pés",
+    "b": "a dança clássica é superior à dança urbana contemporânea",
+    "c": "a variação entre os modos de dançar um mesmo balé é expressão de identidades diferentes",
+    "d": "a dança clássica e a dança urbana contemporânea são formas de expressão antagônicas",
+    "e": "a dança clássica permanece imutável ao longo do tempo e das culturas"
+  },
+  "answer": "b",
+  "tags": [
+    "interpretação de texto",
+    "gêneros textuais"
+  ],
+  "year": 2021,
+  "test": "ENEM",
+  "area": "linguagens",
+  "difficulty": 5,
+  "images": [],
+  "contextId": "enem_2021_linguagens_ctx1",
+  "contextIds": [
+    "enem_2021_linguagens_ctx1"
+  ],
+  "language": null
+}

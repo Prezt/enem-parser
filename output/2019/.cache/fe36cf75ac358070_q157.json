@@ -1,0 +1,24 @@
+{
+  "number": 157,
+  "text": "As luminárias para um laboratório de matemática serão fabricadas em forma de sólidos geométricos. Uma delas terá a forma de um tetraedro truncado. Esse sólido é gerado a partir de secções paralelas a cada uma das faces de um tetraedro regular. Para essa luminária, as secções serão feitas de maneira que, em cada corte, um terço das arestas seccionadas serão removidas. Uma dessas secções está indicada na figura.\n\nEssa luminária terá por faces",
+  "alternatives": {
+    "a": "4 hexágonos regulares e 4 triângulos equiláteros",
+    "b": "2 hexágonos regulares e 4 triângulos equiláteros",
+    "c": "4 quadriláteros e 4 triângulos isósceles",
+    "d": "3 quadriláteros e 4 triângulos isósceles",
+    "e": "3 hexágonos regulares e 4 triângulos equiláteros"
+  },
+  "answer": "a",
+  "tags": [
+    "geometria espacial",
+    "análise combinatória"
+  ],
+  "year": 2019,
+  "test": "ENEM",
+  "area": "math",
+  "difficulty": 7,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

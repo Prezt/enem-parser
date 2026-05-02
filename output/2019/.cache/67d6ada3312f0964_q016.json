@@ -1,0 +1,24 @@
+{
+  "number": 16,
+  "text": "Nessa crônica, o efeito de humor é basicamente construído por uma",
+  "alternatives": {
+    "a": "segmentação de enunciados baseada na descrição dos hábitos do personagem.",
+    "b": "ordenação dos constituintes oracionais na qual se destaca o núcleo verbal.",
+    "c": "estrutura composicional caracterizada pelo arranjo singular dos períodos.",
+    "d": "sequenciação narrativa na qual se articulam eventos absurdos.",
+    "e": "seleção lexical na qual predominam informações redundantes."
+  },
+  "answer": "d",
+  "tags": [
+    "interpretação de texto",
+    "gêneros textuais"
+  ],
+  "year": 2019,
+  "test": "ENEM",
+  "area": "linguagens",
+  "difficulty": 6,
+  "images": [],
+  "contextId": "enem_2019_linguagens_q16_ctx1",
+  "contextIds": null,
+  "language": null
+}

@@ -1,0 +1,24 @@
+{
+  "number": 70,
+  "text": "No texto, o tratamento predominante na mídia sobre a relação entre saúde e corpo recebe a seguinte crítica:",
+  "alternatives": {
+    "a": "Difusão das estéticas antigas.",
+    "b": "Exaltação das crendices populares.",
+    "c": "Propagação das conclusões científicas.",
+    "d": "Reiteração dos discursos hegemônicos.",
+    "e": "Contestação dos estereótipos consolidados."
+  },
+  "answer": "e",
+  "tags": [
+    "cultura e identidade",
+    "comunicação e mídia"
+  ],
+  "year": 2019,
+  "test": "ENEM",
+  "area": "humanas",
+  "difficulty": 6,
+  "images": [],
+  "contextId": "enem_2019_humanas_070_ctx1",
+  "contextIds": null,
+  "language": null
+}

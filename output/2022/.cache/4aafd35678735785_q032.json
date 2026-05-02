@@ -1,0 +1,23 @@
+{
+  "number": 32,
+  "text": "O texto sobre os chamados nativos digitais traz informações para propor ações específicas para cada etapa da infância?",
+  "alternatives": {
+    "a": "propor ações específicas para cada etapa da infância",
+    "b": "estabelecer regras que devem ser seguidas à risca.",
+    "c": "explicar os efeitos do acesso precoce à internet.",
+    "d": "determinar a incorporação de rituais à educação dos filhos.",
+    "e": "educar com base em um conjunto de estratégias fortes."
+  },
+  "answer": "a",
+  "tags": [
+    "educação",
+    "tecnologia"
+  ],
+  "year": 2022,
+  "test": "ENEM",
+  "area": "linguagens",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

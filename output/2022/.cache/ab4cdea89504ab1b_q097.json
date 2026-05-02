@@ -1,0 +1,23 @@
+{
+  "number": 97,
+  "text": "Considerando a diferença de massa mencionada entre os dois isótopos, que tipo de procedimento alternativo ao da fusão pode ser empregado para tal finalidade?",
+  "alternatives": {
+    "a": "Peneiração",
+    "b": "Centrifugação",
+    "c": "Extração por solvente",
+    "d": "Destilação fracionada",
+    "e": "Separação magnética"
+  },
+  "answer": "b",
+  "tags": [
+    "química",
+    "energia nuclear"
+  ],
+  "year": 2022,
+  "test": "ENEM",
+  "area": "nature",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

@@ -1,0 +1,26 @@
+{
+  "number": 85,
+  "text": "[Figura: expressão de conflito entre culturas e sua presença em museus]\n\nA imagem expressa um conflito entre culturas e sua presença em museus decorrente da",
+  "alternatives": {
+    "a": "valorização do mercado das obras de arte.",
+    "b": "definição dos critérios de criação de acervos.",
+    "c": "ampliação da rede de instituições de memória.",
+    "d": "burocratização do acesso dos espaços expositivos.",
+    "e": "fragmentação dos territórios das comunidades representadas."
+  },
+  "answer": "b",
+  "tags": [
+    "história da cultura e arte",
+    "direitos humanos e cidadania"
+  ],
+  "year": 2019,
+  "test": "ENEM",
+  "area": "humanas",
+  "difficulty": 6,
+  "images": [
+    "figuras/q085_2019_fig1.png"
+  ],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

@@ -1,0 +1,23 @@
+{
+  "number": 161,
+  "text": "Uma empresa de engenharia projetou uma casa com forma de um retângulo para um de seus clientes. Esse cliente solicitou a inclusão de uma varanda em forma de L. A medida real da área da varanda, em metro quadrado, é",
+  "alternatives": {
+    "a": "33,40.",
+    "b": "66,80.",
+    "c": "89,24.",
+    "d": "133,60.",
+    "e": "534,40."
+  },
+  "answer": "a",
+  "tags": [
+    "geometria",
+    "proporção"
+  ],
+  "year": 2022,
+  "test": "ENEM",
+  "area": "math",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

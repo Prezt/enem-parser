@@ -1,0 +1,24 @@
+{
+  "number": 148,
+  "text": "Uma empresa deseja iniciar uma campanha publicitária divulgando uma promoção para seus possíveis consumidores. Para esse tipo de campanha, os meios mais viáveis são a distribuição de panfletos a rua e anúncios na rádio local. Considera-se que a população alcançada pela distribuição de panfletos seja igual à quantidade de panfletos distribuídos, enquanto que a alcançada por um anúncio na rádio seja igual à quantidade de ouvintes desse anúncio. O custo de cada anúncio na rádio é de R$ 120,00, e a estimativa é de que seja ouvido por 1 500 pessoas. Já a produção e distribuição dos panfletos custam R$ 180,00 cada 1 000 unidades. Considerando que cada pessoa será alcançada por um único desses meios de divulgação, a empresa pretende investir em ambas as mídias. Considere X e Y os valores (em real) gastos em anúncios na rádio e com panfletos, respectivamente. O número de pessoas alcançadas pela campanha será dado pela expressão",
+  "alternatives": {
+    "a": "50X/4 + 50Y/9",
+    "b": "50X/9 + 50Y/4",
+    "c": "4X/50 + 4Y/50",
+    "d": "50/4 X + 50/9 Y",
+    "e": "9X/50 + 4Y/50"
+  },
+  "answer": "a",
+  "tags": [
+    "aritmética e números",
+    "álgebra"
+  ],
+  "year": 2018,
+  "test": "ENEM",
+  "area": "math",
+  "difficulty": 5,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

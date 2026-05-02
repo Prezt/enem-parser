@@ -1,0 +1,24 @@
+{
+  "number": 109,
+  "text": "Na madrugada de 11 de março de 1978, partes de um foguete soviético reentraram na atmosfera acima da cidade do Rio de Janeiro e caíram no Oceano Atlântico. Foi um belo espetáculo, os inúmeros fragmentos entrando em ignição devido ao atrito com a atmosfera brilharam intensamente, enquanto \"cortavam o céu\". Mas se a reentrada tivesse acontecido alguns minutos depois, teríamos uma tragédia, pois a queda seria na área urbana do Rio de Janeiro e não no oceano.\n\nDe acordo com os fatos relatados, a velocidade angular do foguete em relação à Terra no ponto de reentrada era",
+  "alternatives": {
+    "a": "igual à da Terra e no mesmo sentido.",
+    "b": "superior à da Terra e no mesmo sentido.",
+    "c": "inferior à da Terra e no sentido oposto.",
+    "d": "igual à da Terra e no sentido oposto.",
+    "e": "superior à da Terra e no sentido oposto."
+  },
+  "answer": "b",
+  "tags": [
+    "gravitação e astronomia",
+    "mecânica newtoniana"
+  ],
+  "year": 2019,
+  "test": "ENEM",
+  "area": "nature",
+  "difficulty": 7,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

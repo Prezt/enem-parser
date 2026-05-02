@@ -1,0 +1,24 @@
+{
+  "number": 129,
+  "text": "Um dos parâmetros de controle de qualidade de polpas de frutas destinadas ao consumo como bebida é a acidez total expressa em ácido cítrico, que corresponde à massa dessa substância em 100 gramas de polpa de fruta. O ácido cítrico é uma molécula orgânica que apresenta três hidrogênios ionizáveis (ácido triprótico), com massa molar 192 g mol⁻¹. A acidez total expressa em ácido cítrico de uma amostra comercial de polpa de fruta foi determinada. No procedimento, adicionou-se água destilada a 2,2 g da amostra e, após a solubilização do ácido cítrico, o sólido remanescente foi filtrado. A solução obtida foi titulada com solução de hidróxido de sódio 0,01 mol L⁻¹, em que se consumiram 24 mL da solução básica (titulante). Entre as listadas, a amostra analisada pode ser de qual polpa de fruta?",
+  "alternatives": {
+    "a": "Apenas caju.",
+    "b": "Apenas maracujá.",
+    "c": "Caju ou graviola.",
+    "d": "Acerola ou cupuaçu.",
+    "e": "Cupuaçu ou graviola."
+  },
+  "answer": "c",
+  "tags": [
+    "química geral e inorgânica",
+    "estequiometria"
+  ],
+  "year": 2019,
+  "test": "ENEM",
+  "area": "nature",
+  "difficulty": 6,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

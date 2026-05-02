@@ -1,0 +1,24 @@
+{
+  "number": 104,
+  "text": "O derramamento de produtos tóxicos nas águas do Rio Doce, ocorridos em 2015, ainda têm consequências para os organismos que habitam o Parque Nacional Marinho de Abrolhos localizado a mais de 1 000 quilômetros de distância. Concentrações mais elevadas dos compostos citados seriam encontradas em qual nível trófico?",
+  "alternatives": {
+    "a": "esponjas",
+    "b": "peixes carnívoros",
+    "c": "crustáceos",
+    "d": "peixes herbívoros",
+    "e": "algas macroscópicas"
+  },
+  "answer": "b",
+  "tags": [
+    "ecologia",
+    "biologia"
+  ],
+  "year": 2021,
+  "test": "ENEM",
+  "area": "nature",
+  "difficulty": 6,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

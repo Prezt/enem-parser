@@ -1,0 +1,24 @@
+{
+  "number": 169,
+  "text": "Uma empresa de comunicação tem a tarefa de elaborar um material publicitário de um estaleiro para divulgar um novo navio, equipado com um guindaste de 15 m de altura e uma esteira de 90 m de comprimento. No desenho desse navio, a representação do guindaste deve ter sua altura entre 0,5 cm e 1 cm, enquanto a esteira deve apresentar comprimento superior a 4 cm. Todo o desenho deverá ser feito em uma escala 1 : X. Os valores possíveis para X são, apenas,",
+  "alternatives": {
+    "a": "X  >  1 500",
+    "b": "X  <  3 000",
+    "c": "1 500  <  X  <  2 250",
+    "d": "1 500  <  X  <  3 000",
+    "e": "2 250  <  X  <  3 000"
+  },
+  "answer": "c",
+  "tags": [
+    "geometria plana",
+    "matemática financeira"
+  ],
+  "year": 2018,
+  "test": "ENEM",
+  "area": "math",
+  "difficulty": 6,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

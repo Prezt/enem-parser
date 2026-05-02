@@ -1,0 +1,24 @@
+{
+  "number": 176,
+  "text": "O salto ornamental é um esporte em que cada competidor realiza seis saltos. A nota em cada salto é calculada pela soma das notas dos juízes, multiplicada pela nota de partida (o grau de dificuldade de cada salto). Fica em primeiro lugar o atleta que obtiver a maior soma das seis notas recebidas.\n\nO atleta 10 irá realizar o último salto da final. Ele observa no Quadro 1, antes de executar o salto, um recorte do quadro parcial de notas com a sua classificação e a dos três primeiros lugares até aquele momento.\n\n[Tabela - Quadro 1 com classificação, atleta, nota do salto 6 e total]\n\nEle precisa decidir com seu treinador qual salto deverá realizar. Os dados dos possíveis tipos de salto estão no Quadro 2.\n\n[Tabela - Quadro 2 com tipos de salto, nota de partida, estimativa da soma das notas dos juízes e probabilidade de obter a nota]\n\nO atleta optará pelo salto com a maior probabilidade de obter a nota estimada, de maneira que lhe permita alcançar o primeiro lugar.\n\nConsiderando essas condições, o salto que o atleta deverá escolher é o de tipo",
+  "alternatives": {
+    "a": "T1",
+    "b": "T2",
+    "c": "T3",
+    "d": "T4",
+    "e": "T5"
+  },
+  "answer": "c",
+  "tags": [
+    "probabilidade",
+    "matemática financeira"
+  ],
+  "year": 2018,
+  "test": "ENEM",
+  "area": "math",
+  "difficulty": 6,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

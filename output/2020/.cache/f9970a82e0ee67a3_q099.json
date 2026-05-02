@@ -1,0 +1,24 @@
+{
+  "number": 99,
+  "text": "Você foi contratado para sincronizar os quatro semáforos de uma avenida, indicados pelas letras O, A, B e C, conforme a figura.\n\n[Figura: diagrama de semáforos em sequência]\n\nOs semáforos estão separados por uma distância de 500 m. Segundo os dados estatísticos da companhia controladora de trânsito, um veículo, que está inicialmente parado no semáforo O, tipicamente parte com aceleração constante de 1 m·s⁻² até atingir velocidade de 72 km·h⁻¹ e, a partir daí, prossegue com velocidade constante. Você deve ajustar os semáforos A, B e C de modo que eles mudem para a cor verde quando o veículo estiver a 100 m de cruzá-los, para que ele não tenha que reduzir a velocidade em nenhum momento.\n\nConsiderando essas condições, aproximadamente quanto tempo depois da abertura do semáforo O os semáforos A, B e C devem abrir, respectivamente?",
+  "alternatives": {
+    "a": "20 s, 45 s e 70 s",
+    "b": "25 s, 50 s e 75 s",
+    "c": "28 s, 42 s e 53 s",
+    "d": "30 s, 55 s e 80 s",
+    "e": "35 s, 60 s e 85 s"
+  },
+  "answer": "d",
+  "tags": [
+    "mecânica newtoniana",
+    "cinemática"
+  ],
+  "year": 2020,
+  "test": "ENEM",
+  "area": "nature",
+  "difficulty": 6,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

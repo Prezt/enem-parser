@@ -1,0 +1,24 @@
+{
+  "number": 122,
+  "text": "Em uma indústria alimentícia, para produção de doce, utiliza-se um tacho de parede oca com uma entrada para vapor de água a 120 °C e uma saída para água líquida do tacho. O vapor de água transforma-se em líquido no interior do tacho, resultando na evaporação de água e concentração do produto. No processo de concentração do produto, é utilizada a energia proveniente do calor latente de condensação.",
+  "alternatives": {
+    "a": "somente do calor latente de vaporização",
+    "b": "somente do calor latente de condensação",
+    "c": "do calor sensível e do calor latente de vaporização",
+    "d": "do calor sensível e do calor latente de condensação",
+    "e": "do calor latente de condensação e do calor latente de vaporização"
+  },
+  "answer": "d",
+  "tags": [
+    "energia",
+    "calor",
+    "indústria alimentícia"
+  ],
+  "year": 2023,
+  "test": "ENEM",
+  "area": "nature",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

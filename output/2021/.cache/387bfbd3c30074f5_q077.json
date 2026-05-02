@@ -1,0 +1,25 @@
+{
+  "number": 77,
+  "text": "Por que o Brasil continuou um só enquanto a América espanhola se dividiu em vários países?",
+  "alternatives": {
+    "a": "As elites coloniais brasileiras e hispano-americanas tiveram visões divergentes em relação ao processo de independência política.",
+    "b": "O Brasil manteve uma estrutura administrativa centralizada, enquanto a América espanhola apresentava descentralização administrativa que facilitou a fragmentação política.",
+    "c": "A transferência da corte portuguesa para o Rio de Janeiro gerou uma unidade política que se manteve mesmo após a independência.",
+    "d": "Os movimentos independentistas brasileiros contaram com maior apoio militar do que os hispano-americanos.",
+    "e": "O protagonismo assumido pelos meios de comunicação no Brasil permitiu maior integração territorial que na América espanhola."
+  },
+  "answer": "a",
+  "tags": [
+    "história do brasil colonial",
+    "história do brasil império",
+    "história moderna"
+  ],
+  "year": 2021,
+  "test": "ENEM",
+  "area": "humanas",
+  "difficulty": 6,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

@@ -1,0 +1,27 @@
+{
+  "number": 117,
+  "text": "O nível metabólico de uma célula pode ser determinado pela taxa de síntese de RNAs e proteínas, processos dependentes de energia. Essa diferença na taxa de síntese de biomoléculas é refletida na abundância e características morfológicas dos componentes celulares. Em uma empresa de produção de hormônios proteicos a partir do cultivo de células animais, um pesquisador deseja selecionar uma linhagem com o metabolismo de síntese mais elevado, dentre as cinco esquematizadas na figura.\n\n[Figura: esquema de cinco linhagens celulares com indicadores de metabolismo]\n\nQual linhagem deve ser escolhida pelo pesquisador?",
+  "alternatives": {
+    "a": "I",
+    "b": "II",
+    "c": "III",
+    "d": "IV",
+    "e": "V"
+  },
+  "answer": "d",
+  "tags": [
+    "citologia",
+    "fisiologia humana",
+    "biotecnologia"
+  ],
+  "year": 2018,
+  "test": "ENEM",
+  "area": "nature",
+  "difficulty": 6,
+  "images": [
+    "figuras/q117_2018_fig1.png"
+  ],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

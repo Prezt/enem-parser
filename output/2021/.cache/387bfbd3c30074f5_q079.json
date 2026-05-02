@@ -1,0 +1,24 @@
+{
+  "number": 79,
+  "text": "As grandes empresas seriam, certamente, responsáveis por gerar empregos e desenvolver tecnologias. Porém, uma preocupação frequente alimentar é a ideia de enclave: plantas industriais que estabelecem relações escassas com o entorno, mas que exploram recursos naturais e mão de obra local.",
+  "alternatives": {
+    "a": "As indústrias se instalam nas regiões menos desenvolvidas do país para minimizar custos de produção.",
+    "b": "As indústrias se instalam em regiões com tecnologia avançada para potencializar a inovação.",
+    "c": "As indústrias funcionam como espaços isolados que extraem recursos locais sem promover integração com a região.",
+    "d": "As indústrias buscam se localizar em áreas urbanas para facilitar a comercialização de seus produtos.",
+    "e": "As indústrias estabelecem múltiplas relações comerciais com empresas locais e regionais para expandir o mercado."
+  },
+  "answer": "e",
+  "tags": [
+    "geografia humana e urbana",
+    "geopolítica e território"
+  ],
+  "year": 2021,
+  "test": "ENEM",
+  "area": "humanas",
+  "difficulty": 5,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

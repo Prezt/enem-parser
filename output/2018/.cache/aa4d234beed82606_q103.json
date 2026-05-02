@@ -1,0 +1,24 @@
+{
+  "number": 103,
+  "text": "O sonorizador é um dispositivo físico implantado sobre a superfície de uma rodovia de modo que provoque uma trepidação e ruído quando da passagem de um veículo sobre ele, alertando para uma situação atípica à frente, como obras, pedágios ou travessia de pedestres. Ao passar sobre os sonorizadores, a suspensão do veículo sofre vibrações que produzem ondas sonoras, resultando em um barulho peculiar. Considere um veículo que passe com velocidade constante igual a 108 km/h sobre um sonorizador cujas faixas são separadas por uma distância de 8 cm. A frequência da vibração do automóvel percebida pelo condutor durante a passagem nesse sonorizador é mais próxima de",
+  "alternatives": {
+    "a": "8,6 hertz",
+    "b": "13,5 hertz",
+    "c": "375 hertz",
+    "d": "1 350 hertz",
+    "e": "4 860 hertz"
+  },
+  "answer": "c",
+  "tags": [
+    "ondulatória e acústica",
+    "física moderna"
+  ],
+  "year": 2018,
+  "test": "ENEM",
+  "area": "nature",
+  "difficulty": 6,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

@@ -1,0 +1,23 @@
+{
+  "number": 109,
+  "text": "Uma academia decide trocar gradualmente seus pares de musculação. Agora, os frequentadores que utilizam os aparelhos do tipo 1 podem também utilizar os aparelhos do tipo 2, representados na figura, para elevar cargas correspondentes às massas M e M com velocidade constante. A fim de que o exercício seja realizado com a mesma força F, os usuários devem ser orientados a respeito da relação entre as cargas nos dois pontos de aparelhos, já que as polias fixas apenas mudam a direção das forças, enquanto a polia móvel divide as forças. Em ambos os aparelhos, considere as cordas inextensíveis, as massas das polias e das cordas desprezíveis e que não há dissipação de energia.",
+  "alternatives": {
+    "a": "4",
+    "b": "2",
+    "c": "1",
+    "d": "2",
+    "e": "4"
+  },
+  "answer": "d",
+  "tags": [
+    "física",
+    "força"
+  ],
+  "year": 2023,
+  "test": "ENEM",
+  "area": "nature",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

@@ -1,0 +1,27 @@
+{
+  "number": 78,
+  "text": "Os dois textos apresentam interpretações sobre as revoltas camponesas na Inglaterra dos séculos XIV e XVI. Qual é a principal diferença entre essas interpretações?",
+  "alternatives": {
+    "a": "A primeira enfatiza as causas econômicas, enquanto a segunda destaca os fatores políticos",
+    "b": "A primeira aborda a resistência à modernização, enquanto a segunda analisa a luta pela terra",
+    "c": "A primeira considera as revoltas como movimentos sociais organizados, enquanto a segunda as vê como reações espontâneas à miséria",
+    "d": "A primeira atribui as revoltas à ganância dos senhores feudais, enquanto a segunda as relaciona com a depressão econômica",
+    "e": "A primeira prioriza fatores culturais, enquanto a segunda enfatiza questões econômicas e sociais"
+  },
+  "answer": "a",
+  "tags": [
+    "história moderna",
+    "história contemporânea"
+  ],
+  "year": 2021,
+  "test": "ENEM",
+  "area": "humanas",
+  "difficulty": 6,
+  "images": [],
+  "contextId": null,
+  "contextIds": [
+    "enem_2021_humanas_78_ctx1",
+    "enem_2021_humanas_78_ctx2"
+  ],
+  "language": null
+}

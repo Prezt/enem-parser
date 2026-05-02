@@ -1,0 +1,24 @@
+{
+  "number": 94,
+  "text": "Em 1962, um jingle (vinheta musical) criado por Herádio e chegou à televisão ilustrado por um desenho em sua porta, personificando o \"frio\", que não o deixaria para aquecer sua casa. Apesar de memorável, tal comercial apresenta erros físicos relativos à calorimetria. Para solucionar essas incorreções, deve-se associar à temperatura corporal a noção de:",
+  "alternatives": {
+    "a": "Aquecer a casa e os corpos.",
+    "b": "Evitar a entrada do frio na casa e nos corpos.",
+    "c": "Minimizar a perda de calor pela casa e pelos corpos.",
+    "d": "Diminuir a entrada do frio na casa e aquecer os corpos.",
+    "e": "Aquecer a casa e reduzir a perda de calor pelos corpos."
+  },
+  "answer": "c",
+  "tags": [
+    "termologia",
+    "fisiologia humana"
+  ],
+  "year": 2019,
+  "test": "ENEM",
+  "area": "nature",
+  "difficulty": 6,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

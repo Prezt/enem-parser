@@ -1,0 +1,24 @@
+{
+  "number": 85,
+  "text": "Os fragmentos das matérias jornalísticas sobre o acontecimento, embora com percepções diversas, relacionam-se a um aspecto do processo de independência da colônia luso-americana expresso em dissensões entre",
+  "alternatives": {
+    "a": "quadros dirigentes em torno da abolição da ordem escravocrata.",
+    "b": "grupos regionais acerca da configuração político-territorial.",
+    "c": "intelectuais laicos acerca da revogação do domínio eclesiástico.",
+    "d": "homens livres em torno da extensão do direito de voto.",
+    "e": "elites locais acerca da ordenação do monopólio fundiário."
+  },
+  "answer": "b",
+  "tags": [
+    "história do brasil imperial",
+    "geopolítica e relações internacionais"
+  ],
+  "year": 2020,
+  "test": "ENEM",
+  "area": "humanas",
+  "difficulty": 6,
+  "images": [],
+  "contextId": "enem_2020_humanas_85_ctx1",
+  "contextIds": null,
+  "language": null
+}

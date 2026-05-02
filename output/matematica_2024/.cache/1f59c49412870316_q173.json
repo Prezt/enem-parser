@@ -1,0 +1,23 @@
+{
+  "number": 173,
+  "text": "Uma empresa tem 400 funcionários, distribuídos em três setores: administrativo, logística e produção. O gráfico apresenta a distribuição quantitativa desses funcionários por setor e por faixa etária. Uma viagem de férias será sorteada entre esse funcionários, de forma que todos terão igual probabilidade de serem sorteados. A maior probabilidade é que o funcionário sorteado esteja na faixa etária",
+  "alternatives": {
+    "a": "entre 25 e 45 anos, pois é a faixa etária com maior quantidade de funcionários.",
+    "b": "entre 25 e 45 anos, pois é a única faixa etária cujas porcentagens são maiores do que as porcentagens mínimas de cada setor.",
+    "c": "até 25 anos, pois é a única faixa etária cujos percentuais associados aos setores aumentam com o aumento da quantidade de funcionários por setor.",
+    "d": "até 25 anos, pois é a faixa etária que apresenta maior quantidade de funcionários no setor de produção que é o setor que emprega metade dos funcionários dessa empresa.",
+    "e": "a partir de 45 anos, pois a soma das porcentagens associadas a essa faixa etária é 110%, que é maior do que as respectivas somas associadas às outras faixas etárias, que são 105% e 85%."
+  },
+  "answer": "a",
+  "tags": [
+    "probabilidade",
+    "estatística"
+  ],
+  "year": 2024,
+  "test": "ENEM",
+  "area": "math",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

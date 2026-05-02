@@ -1,0 +1,24 @@
+{
+  "number": 79,
+  "text": "A quem não basta pouco, nada basta.\nREmanescente do período helenístico, a máxima apresentada valoriza a seguinte virtude:",
+  "alternatives": {
+    "a": "Esperança, tida como confiança no porvir.",
+    "b": "Justiça, interpretada como retidão de caráter.",
+    "c": "Temperança, marcada pelo domínio da vontade.",
+    "d": "Coragem, definida como fortitude na dificuldade.",
+    "e": "Prudência, caracterizada pelo correto uso da razão."
+  },
+  "answer": "c",
+  "tags": [
+    "filosofia antiga e medieval",
+    "ética e política"
+  ],
+  "year": 2018,
+  "test": "ENEM",
+  "area": "humanas",
+  "difficulty": 6,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

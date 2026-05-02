@@ -1,0 +1,24 @@
+{
+  "number": 138,
+  "text": "Com base na tabela apresentada, qual é a mediana do número de títulos conquistados pelos clubes listados?",
+  "alternatives": {
+    "a": "1",
+    "b": "2",
+    "c": "3",
+    "d": "4",
+    "e": "5"
+  },
+  "answer": "annulled",
+  "tags": [
+    "estatística",
+    "aritmética e números"
+  ],
+  "year": 2021,
+  "test": "ENEM",
+  "area": "math",
+  "difficulty": 4,
+  "images": [],
+  "contextId": "enem_2021_math_ctx1",
+  "contextIds": null,
+  "language": null
+}

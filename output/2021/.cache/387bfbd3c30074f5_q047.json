@@ -1,0 +1,25 @@
+{
+  "number": 47,
+  "text": "Conforme o texto, qual é a principal consequência da desigualdade de renda e acumulação de capital na sociedade contemporânea?",
+  "alternatives": {
+    "a": "A impossibilidade de poupar uma parte limitada da renda de seu capital",
+    "b": "O aumento exponencial da renda de todos os cidadãos",
+    "c": "A redução das diferenças sociais e econômicas",
+    "d": "A concentração de riqueza e poder nas mãos de poucos",
+    "e": "A eliminação completa do sistema capitalista"
+  },
+  "answer": "a",
+  "tags": [
+    "filosofia moderna e contemporânea",
+    "sociologia e estrutura social",
+    "direitos humanos e cidadania"
+  ],
+  "year": 2021,
+  "test": "ENEM",
+  "area": "humanas",
+  "difficulty": 5,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

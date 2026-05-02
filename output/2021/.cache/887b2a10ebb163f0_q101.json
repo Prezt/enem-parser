@@ -1,0 +1,24 @@
+{
+  "number": 101,
+  "text": "O melaço utilizado apresentou 50 kg de monossacarídeos na forma de glicose. O volume de etanol, em litro, obtido nesse processo é mais próximo de",
+  "alternatives": {
+    "a": "16",
+    "b": "20",
+    "c": "25",
+    "d": "64",
+    "e": "100"
+  },
+  "answer": "c",
+  "tags": [
+    "estequiometria",
+    "química geral e inorgânica"
+  ],
+  "year": 2021,
+  "test": "ENEM",
+  "area": "nature",
+  "difficulty": 6,
+  "images": [],
+  "contextId": "enem_2021_nature_ctx1",
+  "contextIds": null,
+  "language": null
+}

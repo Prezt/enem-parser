@@ -1,0 +1,24 @@
+{
+  "number": 159,
+  "text": "Em uma corrida automobilística, os carros podem fazer paradas nos boxes para efetuar trocas de pneus. Nessas ocasiões, o trabalho é feito por um grupo de três pessoas em cada pneu. Considere que os grupos iniciam o trabalho no mesmo instante, trabalham à mesma velocidade e cada grupo trabalha em um único pneu. Com os quatro grupos completos, o tempo gasto por um grupo para trocar um pneu é inversamente proporcional ao número de pessoas trabalhando nele. Em uma dessas trocas, com os quatro grupos de três pessoas cada, foram gastos 4 minutos. Porém, um dos componentes de um grupo não pôde participar da troca e nem foi substituído, de forma que esse grupo trabalhou com apenas duas pessoas. Qual foi o tempo gasto, em segundo, para trocar os quatro pneus?",
+  "alternatives": {
+    "a": "6,0",
+    "b": "5,5",
+    "c": "5,0",
+    "d": "4,5",
+    "e": "4,4"
+  },
+  "answer": "a",
+  "tags": [
+    "aritmética e números",
+    "matemática financeira"
+  ],
+  "year": 2021,
+  "test": "ENEM",
+  "area": "math",
+  "difficulty": 6,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

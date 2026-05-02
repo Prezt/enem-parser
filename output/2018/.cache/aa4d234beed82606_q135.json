@@ -1,0 +1,24 @@
+{
+  "number": 135,
+  "text": "De acordo com os argumentos de Haber, qual fenômeno seria provocado o desequilíbrio no \"balanço do nitrogênio ligado\"?",
+  "alternatives": {
+    "a": "O esgotamento das reservas de salitre no Chile.",
+    "b": "O aumento da exploração de carvão vegetal e carvão mineral.",
+    "c": "A redução da fertilidade do solo nas economias agrícolas.",
+    "d": "A intensificação no fluxo de pessoas do campo para as cidades.",
+    "e": "A necessidade das plantas de absorverem sais de nitrogênio disponíveis no solo."
+  },
+  "answer": "d",
+  "tags": [
+    "ecologia",
+    "estequiometria"
+  ],
+  "year": 2018,
+  "test": "ENEM",
+  "area": "nature",
+  "difficulty": 6,
+  "images": [],
+  "contextId": "enem_2018_nature_q135_ctx1",
+  "contextIds": null,
+  "language": null
+}

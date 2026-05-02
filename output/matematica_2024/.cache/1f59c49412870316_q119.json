@@ -1,0 +1,27 @@
+{
+  "number": 119,
+  "text": "Para os circuitos de maratonas aquáticas realizadas em mares calmos e próximos à praia, é montado um sistema de boias que determinam o trajeto a ser seguido pelo nadadores. Uma das dificuldades desse tipo de circuito é compensar os efeitos da corrente marinha. O diagrama contém o circuito em que deve ser realizada uma volta no sentido anti-horário. As quatro boias estão numeradas de 1 a 4. Existe uma corrente marinha de velocidade υ, cujo módulo é 30 metros por minuto, paralela à praia em toda a área do circuito. Nas arestas mais longas, o nadador precisará nadar na direção apontada pelos vetores υ dos pontos 1 até 2 e de 3 até 4. Considere que a velocidade do nadador é de 50 metros por minuto, em relação à água durante todo o circuito.[Figura: Diagrama do circuito][Gráfico - Velocidades]",
+  "alternatives": {
+    "a": "42",
+    "b": "65",
+    "c": "72",
+    "d": "105",
+    "e": "120"
+  },
+  "answer": "b",
+  "tags": [
+    "física",
+    "corrente marinha",
+    "maratonas aquáticas"
+  ],
+  "year": 2024,
+  "test": "ENEM",
+  "area": "nature",
+  "images": [
+    "figuras/q119_2024_fig1.png",
+    "figuras/q119_2024_fig2.png"
+  ],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

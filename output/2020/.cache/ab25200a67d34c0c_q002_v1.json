@@ -1,0 +1,24 @@
+{
+  "number": 2,
+  "text": "Transformar palavras em atitudes tem sido um dos grandes dilemas dos intelectuais. Ao ponderar sobre essa temática, o autor, um dos grandes críticos e literatos latino-americanos da atualidade, leva o leitor a perceber que",
+  "alternatives": {
+    "a": "o compromisso político afasta o artista da criação.",
+    "b": "os costumes sociais governam a linguagem e as atitudes das pessoas.",
+    "c": "o compromisso ideológico de alguns intelectuais está refletido em suas obras.",
+    "d": "a complexidade relacionada ao conceito de liberdade impede o compromisso.",
+    "e": "os intelectuais latino-americanos têm um posicionamento acrítico perante o poder."
+  },
+  "answer": "a",
+  "tags": [
+    "interpretação de texto",
+    "língua espanhola"
+  ],
+  "year": 2020,
+  "test": "ENEM",
+  "area": "linguagens",
+  "difficulty": 6,
+  "images": [],
+  "contextId": "enem_2020_linguagens_es_ctx1",
+  "contextIds": null,
+  "language": "es"
+}

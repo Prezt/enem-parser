@@ -1,0 +1,26 @@
+{
+  "number": 91,
+  "text": "Pesquisas demonstram que nanodispositivos baseados em luz poderão ter aplicações em tecnologias futuras, substituindo sistemas mecânicos. Exemplo de movimento molecular induzido pela luz é o de uma molécula de silício, ligado a um polímero de azobenzeno e a um material supercondutor. Com a aplicação de luz ocorrem reações reversíveis da cor absorvida:\n\n[Figura: Diagrama de reações reversíveis com comprimentos de onda 365 nm e 420 nm]\n\nO fenômeno de movimento molecular, promovido pela incidência de luz nesse nanodispositivo, é resultado da",
+  "alternatives": {
+    "a": "movimento vibracional dos átomos, que leva ao encolhimento da molécula.",
+    "b": "isomerização das ligações N = N, sendo a forma cis destruída e a forma trans reconstruída.",
+    "c": "tautomerização das unidades monoméricas do polímero de azobenzeno.",
+    "d": "ressonância entre os elétrons π do grupo azo e os do material supercondutor.",
+    "e": "variação conformacional das ligações N = N, que resulta na mudança de forma da molécula."
+  },
+  "answer": "b",
+  "tags": [
+    "química orgânica",
+    "física moderna"
+  ],
+  "year": 2018,
+  "test": "ENEM",
+  "area": "nature",
+  "difficulty": 7,
+  "images": [
+    "figuras/q091_2018_fig1.png"
+  ],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

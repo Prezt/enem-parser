@@ -1,0 +1,26 @@
+{
+  "number": 102,
+  "text": "É possível ligar aparelhos elétricos de baixa corrente utilizando materiais comuns de laboratório no lugar das pilhas comerciais. [Esquema - célula galvânica com eletrodos de cobre e zinco em solução de sulfato]",
+  "alternatives": {
+    "a": "A",
+    "b": "B",
+    "c": "C",
+    "d": "D",
+    "e": "E"
+  },
+  "answer": "b",
+  "tags": [
+    "eletroquímica",
+    "química geral e inorgânica"
+  ],
+  "year": 2021,
+  "test": "ENEM",
+  "area": "nature",
+  "difficulty": 6,
+  "images": [
+    "figuras/q102_2021_fig1.png"
+  ],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

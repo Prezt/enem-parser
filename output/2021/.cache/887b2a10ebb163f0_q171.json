@@ -1,0 +1,24 @@
+{
+  "number": 171,
+  "text": "O dono de uma loja pretende usar cartões imantados para etiquetar seus produtos. Está analisando a compra de impressoras e equipamentos para etiquetar produtos em sua loja. Cada cartão imantado tem uma face que é impressa com a imagem de um polígono, e o preço do cartão é proporcional à área impressa. Analisou 5 modelos com as seguintes características:\n  - um triângulo equilátero de lado 12 cm;\n  - um quadrado de lado 8 cm;\n  - um retângulo de lados 11 cm e 8 cm;\n  - um hexágono regular de lado 6 cm;\n  - um círculo de diâmetro 10 cm.\nO dono da loja está disposto a pagar, no máximo, R$ 10,00 por cartão imantado. O preço praticado pela empresa é de R$ 1,00 por centímetro quadrado de área impressa. Nessas condições, o modelo que deverá ser escolhido é:",
+  "alternatives": {
+    "a": "triângulo",
+    "b": "quadrado",
+    "c": "retângulo",
+    "d": "hexágono",
+    "e": "círculo"
+  },
+  "answer": "e",
+  "tags": [
+    "geometria plana",
+    "análise combinatória"
+  ],
+  "year": 2021,
+  "test": "ENEM",
+  "area": "math",
+  "difficulty": 6,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

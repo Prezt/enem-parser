@@ -1,0 +1,23 @@
+{
+  "number": 179,
+  "text": "Pode-se observar que a esperança de vida ao nascimento em 2012 foi exatamente a média das registradas nos anos de 2011 e 2013. Suponha que esse fato também ocorreu com a esperança de vida ao nascimento em 2013, em relação às esperanças de vida de 2012 e de 2014. Caso a suposição feita tenha sido confirmada, qual será a esperança de vida ao nascimento no Brasil no ano de 2014?",
+  "alternatives": {
+    "a": "74,23",
+    "b": "74,51",
+    "c": "75,07",
+    "d": "75,23",
+    "e": "78,49"
+  },
+  "answer": "b",
+  "tags": [
+    "estatística",
+    "gráficos"
+  ],
+  "year": 2022,
+  "test": "ENEM",
+  "area": "math",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

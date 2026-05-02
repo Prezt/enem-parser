@@ -1,0 +1,24 @@
+{
+  "number": 152,
+  "text": "Dois números reais por x ² y = x + xy + y e x * y = xy + x. O navio que deseja enviar uma mensagem deve fornecer um valor de entrada b, que irá gerar um valor de saída, a ser enviado ao navio receptor, dado pela expressão (a ² b) (b ² a) = 0. Cada valor possível de entrada e saída representa uma mensagem diferente já conhecida pelos dois navios. Um navio deseja enviar ao outro a mensagem com b = 1. Dessa forma, o valor recebido pelo navio receptor será",
+  "alternatives": {
+    "a": "0",
+    "b": "1",
+    "c": "2",
+    "d": "3",
+    "e": "4"
+  },
+  "answer": "e",
+  "tags": [
+    "álgebra",
+    "aritmética e números"
+  ],
+  "year": 2021,
+  "test": "ENEM",
+  "area": "math",
+  "difficulty": 6,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

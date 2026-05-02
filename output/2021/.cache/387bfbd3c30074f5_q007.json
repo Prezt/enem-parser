@@ -1,0 +1,24 @@
+{
+  "number": 7,
+  "text": "Queria captura pega estar na draga, viver na draga por estar sem dinheiro, viver na miséria. Qual é a classe gramatical da palavra destacada no verso?",
+  "alternatives": {
+    "a": "Verbo",
+    "b": "Nome",
+    "c": "Adjetivo",
+    "d": "Advérbio",
+    "e": "Preposição"
+  },
+  "answer": "d",
+  "tags": [
+    "linguística e variação linguística",
+    "interpretação de texto"
+  ],
+  "year": 2021,
+  "test": "ENEM",
+  "area": "linguagens",
+  "difficulty": 5,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

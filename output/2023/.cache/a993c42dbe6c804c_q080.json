@@ -1,0 +1,24 @@
+{
+  "number": 80,
+  "text": "O Golpe Militar de 1964 foi implacável no combate o que restava das Ligas Camponesas, generalizadas na década anterior. No entanto, em relação aos sindicatos, ua atitude foi ambígua. Por meio de acordos com os Estados Unidos, foram concebidos centros sindicais e usos de liderança com base em princípios conservadores ministrados por membros da Igreja Católica.",
+  "alternatives": {
+    "a": "controlar as tensões políticas",
+    "b": "limitar a legislação trabalhista",
+    "c": "divulgar o programa populista",
+    "d": "regularizar a propriedade da terra",
+    "e": "estimular a oferta de mão de obra"
+  },
+  "answer": "a",
+  "tags": [
+    "história",
+    "golpe militar",
+    "sindicatos"
+  ],
+  "year": 2023,
+  "test": "ENEM",
+  "area": "humanas",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

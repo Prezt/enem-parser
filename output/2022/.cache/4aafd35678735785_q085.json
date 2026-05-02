@@ -1,0 +1,24 @@
+{
+  "number": 85,
+  "text": "O rito mencionado nos textos demonstra a capacidade da Igreja em",
+  "alternatives": {
+    "a": "abrandar cerimônias de punição.",
+    "b": "favorecer anseios de violência.",
+    "c": "criticar políticas de disciplina.",
+    "d": "produzir padrões de conduta.",
+    "e": "ordenar cultos de heresia."
+  },
+  "answer": "d",
+  "tags": [
+    "inquisição",
+    "rito",
+    "igreja"
+  ],
+  "year": 2022,
+  "test": "ENEM",
+  "area": "humanas",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

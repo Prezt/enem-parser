@@ -1,0 +1,26 @@
+{
+  "number": 37,
+  "text": "O conceito de saúde formulado na histórica VI Conferência Nacional de Saúde, no ano de 1986, ficou conhecido como um \"conceito ampliado\" de saúde conforme ilustrado na figura. Esse conceito foi fruto de intensa mobilização em diversos países da América Latina nas décadas de 1970 e 1980, como resposta à crise dos sistemas públicos de saúde.\n\n[Figura: Conceito ampliado de saúde com fatores determinantes]\n\nCom base no conceito apresentado no texto, a saúde é consequência direta do(a)",
+  "alternatives": {
+    "a": "adoção de um estilo de vida ativo por parte dos indivíduos.",
+    "b": "disponibilidade de emprego no mercado de trabalho.",
+    "c": "condição habitacional presente nas cidades.",
+    "d": "acesso ao sistema educacional.",
+    "e": "forma de organização social."
+  },
+  "answer": "e",
+  "tags": [
+    "interpretação de texto",
+    "filosofia moderna e contemporânea"
+  ],
+  "year": 2020,
+  "test": "ENEM",
+  "area": "linguagens",
+  "difficulty": 5,
+  "images": [
+    "figuras/q037_2020_fig1.png"
+  ],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

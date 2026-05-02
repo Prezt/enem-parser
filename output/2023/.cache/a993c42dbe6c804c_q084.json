@@ -1,0 +1,23 @@
+{
+  "number": 84,
+  "text": "A partir da década de 1930, começam a ser discutidos o Brasil os princípios de racionalização do trabalho. As preocupações com a cozinha e o trabalho doméstico oram introduzidas com a medicina sanitária e a oferta e gás e eletricidade para uso doméstico no início do éculo XX. A organização da cozinha visava atingir ma simplificação das tarefas, com a economia de movimentos, e o barateamento dos equipamentos, a artir da produção em grande escala. A padronização e ocionalização da habitação e seus componentes visava ma radical transformação da casa, em especial da ozinha, e apoiava-se tanto no desenvolvimento de novos quipamentos quanto nos estudos de racionalização o trabalho doméstico. A principal preocupação era o desenvolvimento de um novo tipo de habitação, que everia induzir um novo comportamento social.",
+  "alternatives": {
+    "a": "controle do orçamento familiar",
+    "b": "libertação das tradições religiosas",
+    "c": "exercício da representatividade política",
+    "d": "ampliação dos momentos de socialização",
+    "e": "afastamento das atividades especializadas"
+  },
+  "answer": "d",
+  "tags": [
+    "história",
+    "sociedade"
+  ],
+  "year": 2023,
+  "test": "ENEM",
+  "area": "humanas",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

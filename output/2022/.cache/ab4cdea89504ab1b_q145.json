@@ -1,0 +1,23 @@
+{
+  "number": 145,
+  "text": "O pacote básico de um jogo para smartphone, que é vendido a R$ 50,00, contém 2 000 gemas e 100 00 moedas de ouro. A empresa decidiu criar um pacote especial que será vendido a R$ 100,00 e se diferenciará do pacote básico por apresentar maiores quantidades de gemas e moedas de ouro. Para estimular as vendas desse novo pacote, a empresa inseriu nele 6 000 gemas a mais, em relação ao que o cliente teria caso optasse por comprar, com a mesma quantidade, dois pacotes básicos. A quantidade de moedas de ouro que a empresa deverá inserir ao pacote especial, para que seja mantida a mesma proporção existente entre as quantidades de gemas e das moedas de ouro contidas no pacote básico, é",
+  "alternatives": {
+    "a": "50 000.",
+    "b": "100 000.",
+    "c": "200 000.",
+    "d": "300 000.",
+    "e": "400 000."
+  },
+  "answer": "e",
+  "tags": [
+    "proporção",
+    "matemática financeira"
+  ],
+  "year": 2022,
+  "test": "ENEM",
+  "area": "math",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

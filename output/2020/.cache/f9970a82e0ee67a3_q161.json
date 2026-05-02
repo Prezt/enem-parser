@@ -1,0 +1,24 @@
+{
+  "number": 161,
+  "text": "Uma loja de materiais de construção vende dois tipos de caixas-d'água: tipo A e tipo B. Ambas têm formato cilíndrico e possuem o mesmo volume, e a altura da caixa-d'água do tipo B é igual a 25% da altura da caixa-d'água do tipo A. Se R denota o raio da caixa-d'água do tipo A, então o raio da caixa-d'água do tipo B é",
+  "alternatives": {
+    "a": "R/2",
+    "b": "2R",
+    "c": "4R",
+    "d": "5R",
+    "e": "16R"
+  },
+  "answer": "b",
+  "tags": [
+    "geometria espacial",
+    "álgebra"
+  ],
+  "year": 2020,
+  "test": "ENEM",
+  "area": "math",
+  "difficulty": 6,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

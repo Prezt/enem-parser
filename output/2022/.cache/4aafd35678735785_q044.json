@@ -1,0 +1,23 @@
+{
+  "number": 44,
+  "text": "A instalação In absentia propõe um diálogo com o ready-made Roda de bicicleta, demonstrando que",
+  "alternatives": {
+    "a": "as formas de criticar obras do passado se repetem.",
+    "b": "a recorrência de temas marca a arte do final do século XX.",
+    "c": "as criações desmistificam os valores estéticos estabelecidos.",
+    "d": "o distanciamento temporal permite a transformação dos referenciais estéticos.",
+    "e": "o objeto ausente sugere a degradação da forma superando o modelo artístico."
+  },
+  "answer": "c",
+  "tags": [
+    "arte",
+    "crítica"
+  ],
+  "year": 2022,
+  "test": "ENEM",
+  "area": "linguagens",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

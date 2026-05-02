@@ -1,0 +1,27 @@
+{
+  "number": 29,
+  "text": "No fotograma de Man Ray, o \"distanciamento da representação figurativa\" a que se refere o Texto I manifesta-se na",
+  "alternatives": {
+    "a": "ressignificação do jogo de luz e sombra, nos moldes surrealistas.",
+    "b": "imposição do acaso sobre a técnica, como crítica à arte realista.",
+    "c": "composição experimental, fragmentada e de contornos difusos.",
+    "d": "abstração radical, voltada para a própria linguagem fotográfica.",
+    "e": "imitação de formas humanas, com base em diferentes objetos."
+  },
+  "answer": "c",
+  "tags": [
+    "interpretação de texto",
+    "artes visuais"
+  ],
+  "year": 2018,
+  "test": "ENEM",
+  "area": "linguagens",
+  "difficulty": 6,
+  "images": [],
+  "contextId": null,
+  "contextIds": [
+    "enem_2018_linguagens_ctx1",
+    "enem_2018_linguagens_ctx2"
+  ],
+  "language": null
+}

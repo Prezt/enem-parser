@@ -1,0 +1,27 @@
+{
+  "number": 126,
+  "text": "Um garoto precisa montar um circuito que acenda três lâmpadas de cores diferentes, uma de cada vez, usando dois interruptores, como ilustrado, junto com seu símbolo de funcionamento.\n\n[Esquema - circuito com bateria, dois interruptores A e B, e três lâmpadas Verde, Vermelha e Azul]\n\n[Esquema - tabela de funcionamento dos interruptores mostrando estados de A e B para cada lâmpada]\n\nO garoto fez cinco circuitos elétricos usando os dois interruptores, mas apenas um satisfaz a sua necessidade. Esse circuito é representado por",
+  "alternatives": {
+    "a": "[Esquema - Circuito A com lâmpadas Verde, Azul, Vermelha e interruptores A, B em configuração específica]",
+    "b": "[Esquema - Circuito B com lâmpadas Verde, Vermelha, Azul e interruptores A, B em configuração específica]",
+    "c": "[Esquema - Circuito C com lâmpadas Verde, Vermelha, Azul e interruptores A, B em configuração específica]",
+    "d": "[Esquema - Circuito D com lâmpadas Verde, Azul, Vermelha e interruptores A, B em configuração específica]",
+    "e": "[Esquema - Circuito E com lâmpadas Verde, Vermelha, Azul e interruptores A, B em configuração específica]"
+  },
+  "answer": "d",
+  "tags": [
+    "eletricidade e magnetismo",
+    "análise de circuitos"
+  ],
+  "year": 2021,
+  "test": "ENEM",
+  "area": "nature",
+  "difficulty": 6,
+  "images": [
+    "figuras/q126_2021_fig1.png",
+    "figuras/q126_2021_fig2.png"
+  ],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

@@ -1,0 +1,24 @@
+{
+  "number": 54,
+  "text": "De acordo com o texto, a arte mencionada é importante para os povos que a cultivam por colaborar para o(a)",
+  "alternatives": {
+    "a": "transmissão dos saberes acumulados.",
+    "b": "expansão da propriedade individual.",
+    "c": "ruptura da disciplina hierárquica.",
+    "d": "surgimento dos laços familiares.",
+    "e": "rejeição de práticas exógenas."
+  },
+  "answer": "a",
+  "tags": [
+    "história da cultura e arte",
+    "filosofia e sociologia"
+  ],
+  "year": 2020,
+  "test": "ENEM",
+  "area": "humanas",
+  "difficulty": 4,
+  "images": [],
+  "contextId": "enem_2020_humanas_54_ctx1",
+  "contextIds": null,
+  "language": null
+}

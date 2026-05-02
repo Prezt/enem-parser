@@ -1,0 +1,24 @@
+{
+  "number": 134,
+  "text": "Talvez você já tenha bebido suco usando dois canudinhos iguais. Entretanto, pode-se verificar que, se colocar um canudo imerso no suco e outro do lado de fora do líquido, fazendo a sucção simultaneamente em ambos, você terá dificuldade em bebê-lo. Essa dificuldade ocorre porque o(a)",
+  "alternatives": {
+    "a": "força necessária para a sucção do ar e do suco simultaneamente dobra de valor.",
+    "b": "densidade do ar é menor que a do suco, portanto, o volume de ar aspirado é muito maior que o volume de suco.",
+    "c": "velocidade com que o suco sobe deve ser constante nos dois canudos, o que é impossível com um dos canudos de fora.",
+    "d": "peso da coluna de suco é consideravelmente maior que o peso da coluna de ar, o que dificulta a sucção do líquido.",
+    "e": "pressão no interior da boca assume praticamente o mesmo valor daquela que atua sobre o suco."
+  },
+  "answer": "e",
+  "tags": [
+    "mecânica newtoniana",
+    "pressão"
+  ],
+  "year": 2018,
+  "test": "ENEM",
+  "area": "nature",
+  "difficulty": 6,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

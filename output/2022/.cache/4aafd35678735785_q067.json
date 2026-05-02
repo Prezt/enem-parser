@@ -1,0 +1,23 @@
+{
+  "number": 67,
+  "text": "O texto apresenta uma estratégia usada pelo movimento social para",
+  "alternatives": {
+    "a": "fragilizar o poder público.",
+    "b": "fomentar a economia solidária.",
+    "c": "controlar a propriedade estatal.",
+    "d": "garantir o preceito constitucional.",
+    "e": "incentivar a especulação imobiliária."
+  },
+  "answer": "d",
+  "tags": [
+    "direitos humanos",
+    "movimentos sociais"
+  ],
+  "year": 2022,
+  "test": "ENEM",
+  "area": "humanas",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

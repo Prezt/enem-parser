@@ -1,0 +1,24 @@
+{
+  "number": 107,
+  "text": "Considerando o mesmo automóvel em duas versões, uma delas funcionando a álcool e outra, a gasolina, com os seguintes parâmetros:\n\nMotor a gasolina:\n  - Tempo de 0 a 100 km/h em 13 s\n  - Velocidade máxima 165 km/h\n\nMotor a álcool:\n  - Tempo de 0 a 100 km/h em 12,9 s\n  - Velocidade máxima 163 km/h\n\nQual das seguintes afirmações está correta?",
+  "alternatives": {
+    "a": "O motor a gasolina desenvolve maior potência.",
+    "b": "O motor a álcool desenvolve maior potência.",
+    "c": "O motor a gasolina possui maior potência.",
+    "d": "A potência desenvolvida é a mesma.",
+    "e": "O motor a álcool desenvolve a maior potência."
+  },
+  "answer": "c",
+  "tags": [
+    "física",
+    "mecânica newtoniana"
+  ],
+  "year": 2021,
+  "test": "ENEM",
+  "area": "nature",
+  "difficulty": 6,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

@@ -1,0 +1,25 @@
+{
+  "number": 149,
+  "text": "A Lei de Zipf, batizada com o nome do linguista americano George Zipf, é uma lei empírica que relaciona a frequência (f) de uma palavra em um dado texto com o seu ranking (r). Ela é dada por f = A/r^B. O ranking da palavra é a sua posição ao ordenar as palavras por ordem de frequência. Ou seja, r = 1 para a palavra mais frequente, r = 2 para a segunda palavra mais frequente e assim sucessivamente. A e B são constantes positivas. Com base nos valores de X = log(r) e Y = log(f), é possível estimar valores para A e B. No caso hipotético em que a lei é verificada exatamente, a relação entre Y e X é",
+  "alternatives": {
+    "a": "Y = log A - B X",
+    "b": "Y = log A + X log B",
+    "c": "Y = -log A - B X",
+    "d": "Y = log A / B X",
+    "e": "Y = log A / B / X"
+  },
+  "answer": "a",
+  "tags": [
+    "funções",
+    "álgebra",
+    "análise combinatória"
+  ],
+  "year": 2020,
+  "test": "ENEM",
+  "area": "math",
+  "difficulty": 6,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

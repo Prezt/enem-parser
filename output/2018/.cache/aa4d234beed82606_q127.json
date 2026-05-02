@@ -1,0 +1,27 @@
+{
+  "number": 127,
+  "text": "Considere, em um fragmento ambiental, uma árvore e são apenas doadoras de pólen (DP1, DP2, DP3, DP4) árvores. Os genótipos da matriz, da semente (S1) e das locos (loco A e loco B) de marcadores de DNA, conforme Esquema do Gel 1 e Esquema do Gel 2. A progênie S1 recebeu o pólen de qual doadora?",
+  "alternatives": {
+    "a": "DP1",
+    "b": "DP2",
+    "c": "DP3",
+    "d": "DP4",
+    "e": "DP5"
+  },
+  "answer": "e",
+  "tags": [
+    "genética e hereditariedade",
+    "biotecnologia"
+  ],
+  "year": 2018,
+  "test": "ENEM",
+  "area": "nature",
+  "difficulty": 7,
+  "images": [],
+  "contextId": null,
+  "contextIds": [
+    "enem_2018_nature_ctx1",
+    "enem_2018_nature_ctx2"
+  ],
+  "language": null
+}

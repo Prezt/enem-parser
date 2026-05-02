@@ -1,0 +1,23 @@
+{
+  "number": 98,
+  "text": "O sucesso dessa terapia advém do fato de que o produto avorecerá a",
+  "alternatives": {
+    "a": "correção do código genético para a tradução da proteína.",
+    "b": "alteração do RNA ribossômico ligado à síntese da proteína.",
+    "c": "produção de mutações benéficas para a correção do problema.",
+    "d": "liberação imediata da proteína normal na região ocular humana.",
+    "e": "expressão do gene responsável pela produção da enzima normal."
+  },
+  "answer": "e",
+  "tags": [
+    "genética",
+    "terapia gênica"
+  ],
+  "year": 2022,
+  "test": "ENEM",
+  "area": "nature",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

@@ -1,0 +1,30 @@
+{
+  "number": 139,
+  "text": "Uma empresa presta serviço de abastecimento de água em uma cidade. O valor mensal a pagar por esse serviço é determinado pela aplicação de tarifas, por faixas de consumo de água, sendo obtido pela adição dos valores correspondentes a cada faixa.\n  - Faixa 1: para consumo de até 6 m³, valor fixo de R$ 2,00;\n  - Faixa 2: para consumo superior a 6 m³ e até 10 m³, tarifa de R$ 3,00 por metro cúbico ao que exceder a 6 m³;\n  - Faixa 3: para consumo superior a 10 m³, tarifa de R$ 6,00 por metro cúbico ao que exceder a 10 m³.\nSabe-se que nessa cidade o consumo máximo de água por residência é de 15 m³ por mês.\nO gráfico que melhor descreve o valor P, em real, a ser pago por mês, em função do volume V de água consumido, em metro cúbico, é\n[Gráfico - opção A com eixos P (R$) e V (m³), escala até 15]\n[Gráfico - opção B com eixos P (R$) e V (m³), escala até 15]\n[Gráfico - opção C com eixos P (R$) e V (m³), escala até 15]\n[Gráfico - opção D com eixos P (R$) e V (m³), escala até 15]\n[Gráfico - opção E com eixos P (R$) e V (m³), escala até 15]",
+  "alternatives": {
+    "a": "[Gráfico - opção A]",
+    "b": "[Gráfico - opção B]",
+    "c": "[Gráfico - opção C]",
+    "d": "[Gráfico - opção D]",
+    "e": "[Gráfico - opção E]"
+  },
+  "answer": "a",
+  "tags": [
+    "matemática financeira",
+    "funções"
+  ],
+  "year": 2019,
+  "test": "ENEM",
+  "area": "math",
+  "difficulty": 5,
+  "images": [
+    "figuras/q139_2019_fig1.png",
+    "figuras/q139_2019_fig2.png",
+    "figuras/q139_2019_fig3.png",
+    "figuras/q139_2019_fig4.png",
+    "figuras/q139_2019_fig5.png"
+  ],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

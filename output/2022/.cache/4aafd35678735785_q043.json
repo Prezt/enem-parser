@@ -1,0 +1,23 @@
+{
+  "number": 43,
+  "text": "Pela ótica do narrador, a trajetória da empregada de sua casa assume um efeito expressivo decorrente da",
+  "alternatives": {
+    "a": "citação a referências literárias tradicionais.",
+    "b": "alusão à inocência das crianças da época.",
+    "c": "estratégia de questionar a bondade humana.",
+    "d": "descrição detalhada das pessoas do interior.",
+    "e": "representação anedótica de atos de violência."
+  },
+  "answer": "e",
+  "tags": [
+    "literatura",
+    "narrativa"
+  ],
+  "year": 2022,
+  "test": "ENEM",
+  "area": "linguagens",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

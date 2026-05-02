@@ -1,0 +1,25 @@
+{
+  "number": 25,
+  "text": "Com o enredo que homenageou o centenário do Rei do Baião, Luiz Gonzaga, a Unidos da Tijuca foi coroada no Carnaval 2012. A penúltima escola a entrar na Sapucaí, na segunda noite de desfiles, mergulhou no universo do cantor e compositor brasileiro e trouxe a cultura nordestina com criatividade para a Avenida, com o enredo \"O dia em que toda a realeza desembarcou na Avenida para coroar o Rei Luiz do Sertão\". A notícia relata um evento cultural que marca a",
+  "alternatives": {
+    "a": "primazia do samba sobre a música nordestina.",
+    "b": "inter-relação entre dois gêneros musicais brasileiros.",
+    "c": "valorização das origens oligárquicas da cultura nordestina.",
+    "d": "proposta de resgate de antigos gêneros musicais brasileiros.",
+    "e": "criatividade em compor um samba-enredo em homenagem a uma pessoa."
+  },
+  "answer": "b",
+  "tags": [
+    "interpretação de texto",
+    "gêneros textuais",
+    "literatura brasileira"
+  ],
+  "year": 2019,
+  "test": "ENEM",
+  "area": "linguagens",
+  "difficulty": 4,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

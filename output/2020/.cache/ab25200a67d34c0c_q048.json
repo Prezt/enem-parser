@@ -1,0 +1,25 @@
+{
+  "number": 48,
+  "text": "A transformação descrita no texto tem sido insuficiente para o estabelecimento de uma condição de igualdade de oportunidade em virtude da(s)",
+  "alternatives": {
+    "a": "estagnação de direitos adquiridos e do anacronismo da legislação vigente.",
+    "b": "manutenção do status quo gerencial e dos padrões de socialização familiar.",
+    "c": "desestruturação da herança patriarcal e das mudanças do perfil ocupacional.",
+    "d": "disputas na composição sindical e da presença na esfera político-partidária.",
+    "e": "exigências de aperfeiçoamento profissional e de habilidades na competência diretiva."
+  },
+  "answer": "b",
+  "tags": [
+    "sociologia e estrutura social",
+    "cultura e identidade",
+    "direitos humanos e cidadania"
+  ],
+  "year": 2020,
+  "test": "ENEM",
+  "area": "humanas",
+  "difficulty": 6,
+  "images": [],
+  "contextId": "enem_2020_humanas_ctx48",
+  "contextIds": null,
+  "language": null
+}

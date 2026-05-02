@@ -1,0 +1,24 @@
+{
+  "number": 43,
+  "text": "O texto tem o formato de uma carta de jogo e apresenta dados a respeito de Marcelo Gleiser, premiado pesquisador brasileiro da atualidade. Essa apresentação subverte um gênero textual ao",
+  "alternatives": {
+    "a": "vincular áreas distintas do conhecimento.",
+    "b": "evidenciar a formação acadêmica do pesquisador.",
+    "c": "relacionar o universo lúdico a informações biográficas.",
+    "d": "especificar as contribuições mais conhecidas do pesquisador.",
+    "e": "destacar o nome do pesquisador e sua imagem no início do texto."
+  },
+  "answer": "c",
+  "tags": [
+    "gêneros textuais",
+    "interpretação de texto"
+  ],
+  "year": 2019,
+  "test": "ENEM",
+  "area": "linguagens",
+  "difficulty": 5,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

@@ -1,0 +1,24 @@
+{
+  "number": 1,
+  "text": "Qual é a principal função dessa entrevista?",
+  "alternatives": {
+    "a": "ressaltar a atração do entrevistado por questões sociais e políticas",
+    "b": "divulgar a comoção das elites com as obras do entrevistado",
+    "c": "salientar o compromisso do entrevistado com a inovação formal",
+    "d": "mostrar a atualidade das obras poéticas e teatrais do entrevistado",
+    "e": "criticar o interesse do entrevistado por particularidades regionais"
+  },
+  "answer": "c",
+  "tags": [
+    "interpretação de texto",
+    "gêneros textuais"
+  ],
+  "year": 2021,
+  "test": "ENEM",
+  "area": "linguagens",
+  "difficulty": 5,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": "es"
+}

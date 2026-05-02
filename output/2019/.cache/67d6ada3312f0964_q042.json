@@ -1,0 +1,25 @@
+{
+  "number": 42,
+  "text": "Como estratégia de progressão do texto, o autor simula uma interlocução com o público leitor ao recorrer à",
+  "alternatives": {
+    "a": "revelação do \"sentido-aranha\" adquirido pelo super-herói como um sexto sentido.",
+    "b": "caracterização do afeto do público pelo super-herói marcado pela palavra \"querido\".",
+    "c": "comparação entre os poderes do super-herói e as habilidades biológicas das aranhas.",
+    "d": "pergunta retórica na introdução das causas da eficiência do sistema sensorial das aranhas.",
+    "e": "comprovação das diferenças entre a constituição física do homem e da aranha por meio de dados numéricos."
+  },
+  "answer": "d",
+  "tags": [
+    "interpretação de texto",
+    "gêneros textuais",
+    "comunicação e mídia"
+  ],
+  "year": 2019,
+  "test": "ENEM",
+  "area": "linguagens",
+  "difficulty": 6,
+  "images": [],
+  "contextId": "enem_2019_linguagens_q42_ctx1",
+  "contextIds": null,
+  "language": null
+}

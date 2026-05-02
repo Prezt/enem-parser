@@ -1,0 +1,24 @@
+{
+  "number": 76,
+  "text": "No início da Primeira República, a legislação penal vigente evidenciava o(a)",
+  "alternatives": {
+    "a": "negligência das religiões cristãs sobre as moléstias.",
+    "b": "desconhecimento das origens das crenças tradicionais.",
+    "c": "preferência da população pelos tratamentos alopáticos.",
+    "d": "abandono pela comunidade das práticas terapêuticas de magia.",
+    "e": "condenação pela ciência dos conhecimentos populares de cura."
+  },
+  "answer": "e",
+  "tags": [
+    "história do brasil república",
+    "filosofia e sociologia"
+  ],
+  "year": 2018,
+  "test": "ENEM",
+  "area": "humanas",
+  "difficulty": 6,
+  "images": [],
+  "contextId": "enem_2018_humanas_q76_ctx1",
+  "contextIds": null,
+  "language": null
+}

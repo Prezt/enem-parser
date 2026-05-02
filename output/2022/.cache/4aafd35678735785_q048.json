@@ -1,0 +1,23 @@
+{
+  "number": 48,
+  "text": "O texto expõe uma característica da sociedade brasileira, que é o(a):",
+  "alternatives": {
+    "a": "Racismo estrutural.",
+    "b": "Desemprego latente.",
+    "c": "Concentração de renda.",
+    "d": "Exclusão informacional.",
+    "e": "Precariedade da educação."
+  },
+  "answer": "a",
+  "tags": [
+    "sociedade",
+    "racismo"
+  ],
+  "year": 2022,
+  "test": "ENEM",
+  "area": "humanas",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

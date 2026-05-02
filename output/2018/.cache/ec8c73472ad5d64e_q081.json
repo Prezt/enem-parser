@@ -1,0 +1,27 @@
+{
+  "number": 81,
+  "text": "A ressignificação contemporânea da ideia de fronteira compreende a",
+  "alternatives": {
+    "a": "liberação da circulação de pessoas.",
+    "b": "preponderância dos limites naturais.",
+    "c": "supressão dos obstáculos aduaneiros.",
+    "d": "desvalorização da noção de nacionalismo.",
+    "e": "seletividade dos mecanismos segregadores."
+  },
+  "answer": "e",
+  "tags": [
+    "geopolítica e território",
+    "sociologia e estrutura social"
+  ],
+  "year": 2018,
+  "test": "ENEM",
+  "area": "humanas",
+  "difficulty": 6,
+  "images": [],
+  "contextId": null,
+  "contextIds": [
+    "enem_2018_humanas_ctx81_1",
+    "enem_2018_humanas_ctx81_2"
+  ],
+  "language": null
+}

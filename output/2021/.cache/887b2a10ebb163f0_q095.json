@@ -1,0 +1,24 @@
+{
+  "number": 95,
+  "text": "Os pesticidas organoclorados foram amplamente utilizados na agricultura do século XX, porém foram banidos em diversos países por apresentarem elevadas toxicidades e persistências no meio ambiente. Considere um pesticida organoclorado que, em condições normais de solo, apresenta meia-vida de 5 anos. Se uma quantidade inicial de 1 kg desse pesticida organoclorado for aplicada em uma cultura e que, em seguida, não haja nenhuma reaplicação, a massa do pesticida no decorrer de 35 anos será mais próxima de",
+  "alternatives": {
+    "a": "3,9 g",
+    "b": "31,2 g",
+    "c": "62,5 g",
+    "d": "125,0 g",
+    "e": "250,0 g"
+  },
+  "answer": "a",
+  "tags": [
+    "química geral e inorgânica",
+    "estequiometria"
+  ],
+  "year": 2021,
+  "test": "ENEM",
+  "area": "nature",
+  "difficulty": 6,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

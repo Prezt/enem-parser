@@ -1,0 +1,25 @@
+{
+  "number": 151,
+  "text": "Três sócios resolveram fundar uma fábrica. O investimento inicial foi de R$ 1 000 000,00. E, independentemente do valor que cada um investiu nesse primeiro momento, resolveram considerar que cada um deles contribuiu com um terço do investimento inicial. Algum tempo depois, um quarto sócio entrou para a sociedade, e os quatro, juntos, investiram mais R$ 800 000,00 na fábrica. Cada um deles contribuiu com um quarto desse valor. Quando venderam a fábrica, nenhum outro investimento havia sido feito. Os sócios decidiram então dividir o montante de R$ 1 800 000,00 obtido com a venda, de modo proporcional à quantidade total investida por cada sócio. Quais os valores mais próximos, em porcentagens, correspondentes às parcelas financeiras que cada um dos três sócios iniciais e o quarto sócio, respectivamente, receberam?",
+  "alternatives": {
+    "a": "29,60 e 11,11",
+    "b": "28,70 e 13,89",
+    "c": "25,00 e 25,00",
+    "d": "18,52 e 11,11",
+    "e": "12,96 e 13,89"
+  },
+  "answer": "a",
+  "tags": [
+    "aritmética e números",
+    "matemática financeira",
+    "análise combinatória"
+  ],
+  "year": 2019,
+  "test": "ENEM",
+  "area": "math",
+  "difficulty": 6,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

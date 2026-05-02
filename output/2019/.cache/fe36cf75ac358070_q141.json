@@ -1,0 +1,24 @@
+{
+  "number": 141,
+  "text": "Em um jogo on-line, cada jogador procura subir de nível e aumentar sua experiência, que são dois parâmetros importantes no jogo, dos quais dependem as forças de defesa e de ataque do participante. A força de defesa de cada jogador é diretamente proporcional ao seu nível e ao quadrado de sua experiência, enquanto sua força de ataque é diretamente proporcional à sua experiência e ao quadrado do seu nível. Nenhum jogador sabe o nível ou a experiência dos demais. Os jogadores iniciam o jogo no nível 1 com experiência 1 e possuem força de ataque 2 e de defesa 1. Nesse jogo, cada participante se movimenta em uma cidade em busca de tesouros para aumentar sua experiência. Quando dois deles se encontram, um deles pode desafiar o outro para um confronto, sendo o desafiante considerado o atacante. Compara-se então a força de ataque do desafiante com a força de defesa do desafiado e vence o confronto aquele cuja força for maior. O vencedor do desafio aumenta seu nível em uma unidade. Caso haja empate no confronto, ambos os jogadores aumentam seus níveis em uma unidade.\n\nDurante um jogo, o jogador J₁, de nível 4 e experiência 5 irá atacar o jogador J₂, de nível 2 e experiência 6. O jogador J₁ venceu esse confronto porque a diferença entre sua força de ataque e a força de defesa de seu oponente era",
+  "alternatives": {
+    "a": "112",
+    "b": "88",
+    "c": "60",
+    "d": "28",
+    "e": "24"
+  },
+  "answer": "b",
+  "tags": [
+    "álgebra",
+    "aritmética e números"
+  ],
+  "year": 2019,
+  "test": "ENEM",
+  "area": "math",
+  "difficulty": 6,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

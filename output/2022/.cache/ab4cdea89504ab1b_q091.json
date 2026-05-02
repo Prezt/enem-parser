@@ -1,0 +1,23 @@
+{
+  "number": 91,
+  "text": "A figura ilustra esquematicamente um processo de remediação de solos contaminados com tricloroeteno (TCE), um agente desengraxante. Em razão de vazamentos de tanques de estocagem ou de manejos inadequados de resíduos industriais, ele se encontra presente em águas subterrâneas, nas quais forma uma fase líquida densa não aquosa (DNAPL) que se deposita no fundo do aquífero. Essa tecnologia de descontaminação emprega o íon persulfato (SO₄²⁻), que é convertido no radical •SO₄ por minerais que contêm Fe(III). O esquema representa de forma simplificada mecanismo de ação química sobre o TCE e a formação dos produtos de degradação.",
+  "alternatives": {
+    "a": "oxirredução",
+    "b": "substituição",
+    "c": "precipitação",
+    "d": "desidratação",
+    "e": "neutralização"
+  },
+  "answer": "a",
+  "tags": [
+    "química",
+    "ambiente"
+  ],
+  "year": 2022,
+  "test": "ENEM",
+  "area": "nature",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

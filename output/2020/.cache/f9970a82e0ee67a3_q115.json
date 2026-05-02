@@ -1,0 +1,24 @@
+{
+  "number": 115,
+  "text": "A técnica para gerar essa leguminosa é um exemplo de",
+  "alternatives": {
+    "a": "hibridismo.",
+    "b": "transgenia.",
+    "c": "conjugação.",
+    "d": "terapia gênica.",
+    "e": "melhoramento genético."
+  },
+  "answer": "b",
+  "tags": [
+    "biotecnologia",
+    "genética e hereditariedade"
+  ],
+  "year": 2020,
+  "test": "ENEM",
+  "area": "nature",
+  "difficulty": 5,
+  "images": [],
+  "contextId": "enem_2020_nature_q115_ctx1",
+  "contextIds": null,
+  "language": null
+}

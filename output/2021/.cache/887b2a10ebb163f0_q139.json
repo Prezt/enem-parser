@@ -1,0 +1,23 @@
+{
+  "number": 139,
+  "text": "Uma rede de hamburgueria tem três franquias em cidades distintas. Visando incluir um novo tipo de lanche no cardápio, o gerente de marketing da rede sugeriu que fossem colocados à venda cinco novos tipos de lanche em edições especiais. Os lanches foram oferecidos pelo mesmo período de tempo em todos os franqueados. O tipo que apresentasse a maior média por franquia seria incluído no cardápio. Ao final do período de experiência, a gerência recebeu um relatório descrevendo as quantidades vendidas, em unidade, de cada um dos cinco tipos de lanche nas três franquias.\n\n| Lanche | Lanche | Lanche | Lanche | Lanche |\n|--------|--------|--------|--------|--------|\n| I      | II     | III    | IV     | V      |\n| 415    | 395    | 425    | 430    | 435    |\n| 415    | 445    | 425    | 425    | 425    |\n| 415    | 390    | 425    | 433    | 420    |\n\nCom base nessas informações, a gerência decidiu incluir no cardápio o lanche de tipo",
+  "alternatives": {
+    "a": "I",
+    "b": "II",
+    "c": "III",
+    "d": "IV",
+    "e": "V"
+  },
+  "answer": "e",
+  "tags": [
+    "estatística"
+  ],
+  "year": 2021,
+  "test": "ENEM",
+  "area": "math",
+  "difficulty": 3,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

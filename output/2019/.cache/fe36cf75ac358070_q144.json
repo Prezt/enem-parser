@@ -1,0 +1,24 @@
+{
+  "number": 144,
+  "text": "Um professor aplica, durante os cinco dias úteis de uma semana, testes com quatro questões de múltipla escolha a cinco alunos. Os resultados foram representados na matriz.\n\n3 2 0 1 2\n3 2 4 1 2\n2 2 2 3 2\n3 2 4 1 0\n0 2 0 4 4\n\nNessa matriz os elementos das linhas de 1 a 5 representam as quantidades de questões acertadas pelos alunos Ana, Bruno, Carlos, Denis e Érica respectivamente, enquanto que as colunas de 1 a 5 indicam os dias da semana, de segunda-feira a sexta-feira, respectivamente, em que os testes foram aplicados.\n\nO teste que apresentou maior quantidade de acertos foi o aplicado na",
+  "alternatives": {
+    "a": "segunda-feira",
+    "b": "terça-feira",
+    "c": "quarta-feira",
+    "d": "quinta-feira",
+    "e": "sexta-feira"
+  },
+  "answer": "a",
+  "tags": [
+    "aritmética e números",
+    "estatística"
+  ],
+  "year": 2019,
+  "test": "ENEM",
+  "area": "math",
+  "difficulty": 2,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

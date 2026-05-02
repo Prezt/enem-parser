@@ -1,0 +1,24 @@
+{
+  "number": 45,
+  "text": "A tematização de Curitiba é frequente na obra de Dalton Trevisan. No fragmento, a relação do narrador com o espaço urbano é caracterizada por um olhar",
+  "alternatives": {
+    "a": "destituído de afetividade, que ironiza os costumes e as tradições da sociedade curitibana.",
+    "b": "marcado pela negatividade, que busca desconstruir perspectivas habituais de representação da cidade.",
+    "c": "carregado de melancolia, que constata a falta de identidade cultural diante dos impactos da urbanização.",
+    "d": "embevecido pela simplicidade do cenário, indiferente à descrição de elementos de reconhecido valor histórico.",
+    "e": "distanciado dos elementos narrados, que recorre ao ponto de vista do viajante como expressão de estranhamento."
+  },
+  "answer": "b",
+  "tags": [
+    "interpretação de texto",
+    "literatura brasileira"
+  ],
+  "year": 2020,
+  "test": "ENEM",
+  "area": "linguagens",
+  "difficulty": 6,
+  "images": [],
+  "contextId": "enem_2020_linguagens_ctx_trevisan",
+  "contextIds": null,
+  "language": null
+}

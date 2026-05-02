@@ -1,0 +1,23 @@
+{
+  "number": 131,
+  "text": "De modo geral, a palavra “aromático” invoca associações com plantas e frutas que apresentam um odor agradável e foram isolados de óleos essenciais. Com o tempo, foi se descobrindo que vários deles continham uma unidade estrutural em comum. Essa característica tornou-se parte da definição química do que nos seus cheiros, como as substâncias benzaldeído, salicilato de metila, vanilina e eugenol.",
+  "alternatives": {
+    "a": "ramificações",
+    "b": "insaturações",
+    "c": "anel benzênico",
+    "d": "átomos de oxigênio",
+    "e": "carbonos assimétricos"
+  },
+  "answer": "c",
+  "tags": [
+    "química",
+    "estrutura molecular"
+  ],
+  "year": 2022,
+  "test": "ENEM",
+  "area": "nature",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

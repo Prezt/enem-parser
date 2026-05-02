@@ -1,0 +1,24 @@
+{
+  "number": 2,
+  "text": "No texto, alguns dos benefícios de se utilizar estruturas pré-moldadas na construção de altos edifícios estão expressos por meio da palavra limpia. Essa expressão indica que, além de produzir menos resíduos, o uso desse tipo de estrutura",
+  "alternatives": {
+    "a": "reduz o contingente de mão de obra.",
+    "b": "inibe a corrupção na construção civil.",
+    "c": "facilita o controle da qualidade da obra.",
+    "d": "apresenta um modelo arquitetônico conciso.",
+    "e": "otimiza os custos da construção de edifícios."
+  },
+  "answer": "b",
+  "tags": [
+    "interpretação de texto",
+    "língua espanhola"
+  ],
+  "year": 2018,
+  "test": "ENEM",
+  "area": "linguagens",
+  "difficulty": 5,
+  "images": [],
+  "contextId": "enem_2018_linguagens_es_ctx1",
+  "contextIds": null,
+  "language": "es"
+}

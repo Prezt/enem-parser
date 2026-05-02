@@ -1,0 +1,26 @@
+{
+  "number": 146,
+  "text": "Uma casa de dois andares está sendo projetada. É necessário incluir no projeto a construção de uma escada para o acesso ao segundo andar. Para o cálculo das dimensões dos degraus utilizam-se as regras:\n|2h + b − 63,5| ≤ 1,5 e 16 ≤ h ≤ 19,\nnas quais h é a altura do degrau (denominada espelho) e b é a profundidade da pisada, como mostra a figura.\n[Figura: Diagrama de degrau mostrando altura h (espelho) e profundidade b (pisada)]\nPor conveniência, escolheu-se a altura do degrau como sendo h = 16. As unidades de h e b estão em centímetro.\nNesse caso, o mais amplo intervalo numérico ao qual a profundidade da pisada (b) deve pertencer, para que as regras sejam satisfeitas é",
+  "alternatives": {
+    "a": "30 ≤ b",
+    "b": "30 ≤ b ≤ 31,5",
+    "c": "30 ≤ b ≤ 33",
+    "d": "31,5 ≤ b ≤ 33",
+    "e": "b ≤ 33"
+  },
+  "answer": "c",
+  "tags": [
+    "álgebra",
+    "aritmética e números"
+  ],
+  "year": 2020,
+  "test": "ENEM",
+  "area": "math",
+  "difficulty": 5,
+  "images": [
+    "figuras/q146_2020_fig1.png"
+  ],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

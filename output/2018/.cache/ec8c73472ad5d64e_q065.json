@@ -1,0 +1,24 @@
+{
+  "number": 65,
+  "text": "Uma mudança que permitiu aos portos adequarem-se às novas necessidades comerciais apontadas no texto foi a",
+  "alternatives": {
+    "a": "intensificação do uso de contêineres.",
+    "b": "compactação das áreas de estocagem.",
+    "c": "burocratização dos serviços de alfândega.",
+    "d": "redução da profundidade dos atracadouros.",
+    "e": "superação da especialização dos cargueiros."
+  },
+  "answer": "a",
+  "tags": [
+    "geopolítica e território",
+    "geografia humana e urbana"
+  ],
+  "year": 2018,
+  "test": "ENEM",
+  "area": "humanas",
+  "difficulty": 6,
+  "images": [],
+  "contextId": "enem_2018_humanas_65_ctx1",
+  "contextIds": null,
+  "language": null
+}

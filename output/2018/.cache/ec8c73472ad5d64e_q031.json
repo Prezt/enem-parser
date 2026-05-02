@@ -1,0 +1,24 @@
+{
+  "number": 31,
+  "text": "O texto indica que as mudanças nas práticas corporais, especificamente no futebol,",
+  "alternatives": {
+    "a": "fomentaram uma tecnocracia, promovendo uma vivência mais lúdica e irreverente.",
+    "b": "promoveram o surgimento de atletas mais habilidosos, para que fossem inovadores.",
+    "c": "incentivaram a associação dessa manifestação à fruição, favorecendo o improviso.",
+    "d": "tornaram a modalidade em um produto a ser consumido, negando sua dimensão criativa.",
+    "e": "contribuíram para esse esporte ter mais jogadores, bem como acompanhado de torcedores."
+  },
+  "answer": "d",
+  "tags": [
+    "interpretação de texto",
+    "cultura e identidade"
+  ],
+  "year": 2018,
+  "test": "ENEM",
+  "area": "linguagens",
+  "difficulty": 5,
+  "images": [],
+  "contextId": "enem_2018_linguagens_ctx31",
+  "contextIds": null,
+  "language": null
+}

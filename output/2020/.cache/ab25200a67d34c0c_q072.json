@@ -1,0 +1,24 @@
+{
+  "number": 72,
+  "text": "Montaigne deu o nome para um novo gênero literário; foi dos primeiros a instituir na literatura moderna um espaço privado, o espaço do \"eu\", do texto íntimo. Ele cria um novo processo de escrita filosófica no qual hesitações, autocríticas, correções entram no próprio texto. O novo gênero de escrita aludido no texto é o(a)",
+  "alternatives": {
+    "a": "confissão, que relata experiências de transformação",
+    "b": "ensaio, que expõe concepções subjetivas de um tema",
+    "c": "carta, que comunica informações para um conhecido",
+    "d": "meditação, que propõe preparações para conhecimento",
+    "e": "diálogo, que discute assuntos com diferentes interlocutores"
+  },
+  "answer": "b",
+  "tags": [
+    "literatura brasileira",
+    "filosofia moderna e contemporânea"
+  ],
+  "year": 2020,
+  "test": "ENEM",
+  "area": "humanas",
+  "difficulty": 5,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

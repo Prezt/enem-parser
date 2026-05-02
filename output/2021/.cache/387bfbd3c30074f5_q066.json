@@ -1,0 +1,24 @@
+{
+  "number": 66,
+  "text": "A questão refere-se a um mapa do encarceramento e à análise de dados sobre a população carcerária, incluindo presos adultos condenados e questões patrimoniais.",
+  "alternatives": {
+    "a": "yW&k*+\"#\"",
+    "b": "(*+\t+\t",
+    "c": "*+\n(\\t",
+    "d": "*+(*+(\\t5\n",
+    "e": "W(+(5\\t+"
+  },
+  "answer": "b",
+  "tags": [
+    "sociologia e estrutura social",
+    "geopolítica e território"
+  ],
+  "year": 2021,
+  "test": "ENEM",
+  "area": "humanas",
+  "difficulty": 5,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

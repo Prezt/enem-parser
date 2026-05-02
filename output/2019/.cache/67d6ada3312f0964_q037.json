@@ -1,0 +1,25 @@
+{
+  "number": 37,
+  "text": "O texto aborda a temática das tecnologias da informação e comunicação, especificamente o uso de redes sociais. Muito se debate acerca dos benefícios e malefícios do uso desses recursos e, nesse sentido, o texto",
+  "alternatives": {
+    "a": "aborda a discriminação que as redes sociais sofrem de outros meios de comunicação.",
+    "b": "mostra que as reivindicações feitas nas redes sociais não têm impacto fora da internet.",
+    "c": "expõe a possibilidade de as redes sociais favorecerem comportamentos e manifestações violentos dos adolescentes que nela se relacionam.",
+    "d": "trata as redes sociais como modo de agregar e empoderar grupos de pessoas, que se unem em prol de causas próprias ou de mudanças sociais.",
+    "e": "evidencia que as redes sociais são usadas inadequadamente pelos adolescentes, que imaturos, não utilizam a ferramenta como forma de mudança social."
+  },
+  "answer": "d",
+  "tags": [
+    "interpretação de texto",
+    "comunicação e mídia",
+    "linguística e variação linguística"
+  ],
+  "year": 2019,
+  "test": "ENEM",
+  "area": "linguagens",
+  "difficulty": 5,
+  "images": [],
+  "contextId": "enem_2019_linguagens_37_ctx1",
+  "contextIds": null,
+  "language": null
+}

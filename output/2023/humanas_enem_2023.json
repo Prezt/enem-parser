@@ -1,0 +1,932 @@
+[
+  {
+    "number": 46,
+    "text": "Fotografia da avó bordada [Figura: descrição do bordado] SCARELI, G. A máquina de costura e os fios da memória. Revista Brasileira de Pesquisa (Auto)Biográfica , n. 18, maio-ago. 202",
+    "alternatives": {
+      "a": "percursos e roteiros turísticos.",
+      "b": "trajetos e movimentos holísticos.",
+      "c": "vivências e itinerários socioafetivos.",
+      "d": "fronteiras e demarcações territoriais.",
+      "e": "profissões e interesses econômicos."
+    },
+    "images": [
+      "figuras/q046_2023_fig1.png"
+    ],
+    "tags": [
+      "literatura",
+      "cultura"
+    ],
+    "year": 2023,
+    "test": "ENEM",
+    "area": "humanas",
+    "answer": "c"
+  },
+  {
+    "number": 47,
+    "text": "Felizes tempos eram esses! As moças iam à missa de madrugada. De dia ninguém as via e se alguma, em dia de festa, queria passear com a avó ou a tia, havia de ir de cadeirinhas. Bem razão têm os nossos velhos de chorarem por esses tempos, em que as filhas não sabiam escrever e por isso não mandavam nem recebiam bilhetinhos. Novo Correio de Modas, 1853, apud DONEGÁ, A. L. Publicar ficção e meados do século XIX : um estudo das revistas femininas editadas pelos irmãos Laemmert. Campinas: Unicamp, 2013 (adaptado). Na perspectiva do autor, as tradições e os costumes sociofamiliares sofreram alterações, no século XIX decorrentes de quais fatores?",
+    "alternatives": {
+      "a": "Hábitos de leitura e mobilidade regional.",
+      "b": "Circulação de impressos e trânsito religioso.",
+      "c": "Valorização da língua e imigração estrangeira.",
+      "d": "Práticas de letramento e transformação cultural.",
+      "e": "Flexibilização do ensino e reformismo pedagógico."
+    },
+    "images": [],
+    "tags": [
+      "história",
+      "sociedade"
+    ],
+    "year": 2023,
+    "test": "ENEM",
+    "area": "humanas",
+    "answer": "d"
+  },
+  {
+    "number": 48,
+    "text": "No Cerrado, o conhecimento local está sendo cada vez mais subordinado à lógica do agronegócio. De um lado, o capital impõe os conhecimentos biotecnológicos, como mecanismo de universalização de práticas agrícolas de novas tecnologias, e de outro, o modelo capitalista ubordina homens e mulheres à lógica do mercado. Assim, as águas, as sementes, os minerais, as terras (bens comuns) tornam-se propriedade privada. Além do mais, há outros fatores negativos, como a mecanização pesada, a “pragatização” dos seres humanos e não humanos, a violência simbólica, a superexploração, as chuvas de eneno e a violência contra a pessoa.[Figura: ilustração do Cerrado] ALAÇA, M.; SILVA, E. B.; JESUS, J. N. Territorialização do agronegócio e subordinação do campesinato no Cerrado. Élisée, Rev. Geo. UEG , n. 1, jan.-jun. 2021 (adaptado). Os elementos descritos no texto, a respeito da territorialização da produção, demonstram que há um",
+    "alternatives": {
+      "a": "cerco aos camponeses, inviabilizando a manutenção das condições para a vida.",
+      "b": "descaso aos latifundiários, impactando a plantação de alimentos para a exportação.",
+      "c": "desprezo ao assalariado, afetando o engajamento dos sindicatos para o trabalhador.",
+      "d": "desrespeito aos governantes, comprometendo a criação de empregos para o lavrador.",
+      "e": "assédio ao empresariado, dificultando o investimento de maquinários para a produção."
+    },
+    "images": [
+      "figuras/q048_2023_fig1.png"
+    ],
+    "tags": [
+      "agronegócio",
+      "campesinato",
+      "territorialização"
+    ],
+    "year": 2023,
+    "test": "ENEM",
+    "area": "humanas",
+    "answer": "a"
+  },
+  {
+    "number": 49,
+    "text": "Com base nos textos I e II, a política demográfica para a província mencionada é parte da seguinte ação estratégica do governo chinês:",
+    "alternatives": {
+      "a": "Promover a ocupação rural.",
+      "b": "Favorecer a liberdade religiosa.",
+      "c": "Descentralizar a gestão pública.",
+      "d": "Incentivar a pluralidade cultural.",
+      "e": "Assegurar a integridade territorial."
+    },
+    "images": [],
+    "tags": [
+      "política",
+      "demografia"
+    ],
+    "year": 2023,
+    "test": "ENEM",
+    "area": "humanas",
+    "answer": "e"
+  },
+  {
+    "number": 50,
+    "text": "Superar a história da escravidão como principal marca da trajetória do negro no país tem sido uma tônica daqueles que se dedicam a pesquisar as heranças de origem africana à cultura brasileira. A esse esforço de reconstrução da própria história do país, alia-se agora a criação da plataforma digital Ancestralidades. “A história do negro no Brasil vai continuar sendo contada, e cada passo que a gente dá para trás é um passo que a gente avança”, diz Márcio Black, idealizador da plataforma, sobre o estudo de figuras ainda encobertas pela perspectiva histórica imposta pelos colonizadores da América.",
+    "alternatives": {
+      "a": "recuperação do tradicionalismo",
+      "b": "estímulo ao antropocentrismo",
+      "c": "reforço do etnocentrismo",
+      "d": "resgate do teocentrismo",
+      "e": "crítica ao eurocentrismo"
+    },
+    "images": [],
+    "tags": [
+      "cultura",
+      "história",
+      "etnia"
+    ],
+    "year": 2023,
+    "test": "ENEM",
+    "area": "humanas",
+    "answer": "e"
+  },
+  {
+    "number": 51,
+    "text": "Escrito durante a Primeira Guerra Mundial, o seguinte trecho faz parte da carta enviada pelo secretário do exterior britânico, Sir Arthur James Balfour, ao banqueiro Lord Rotschild, presidente da Liga Sionista, em 2 de novembro de 1917, a carta ficou conhecida como Declaração Balfour. “O governo de Sua Majestade vê com aprovação o estabelecimento na Palestina de um lar nacional para o povo judeu, e fará todos os esforços para facilitar tal objetivo. Nada será feito que possa prejudicar os direitos civis e religiosos das comunidades não judaicas na Palestina.” GATTAZ, A. A Guerra da Palestina. São Paulo: Usina do Livro, 2002 (adaptado). A análise do resultado do processo em questão revela que o governo inglês foi incapaz de garantir seu objetivo de",
+    "alternatives": {
+      "a": "promover o bem-estar social.",
+      "b": "negociar o apoio muçulmano.",
+      "c": "mediar os conflitos territoriais.",
+      "d": "estimular a cooperação regional.",
+      "e": "combater os governos autocráticos."
+    },
+    "images": [],
+    "tags": [
+      "Primeira Guerra Mundial",
+      "história política",
+      "declaração balfour"
+    ],
+    "year": 2023,
+    "test": "ENEM",
+    "area": "humanas",
+    "answer": "c"
+  },
+  {
+    "number": 52,
+    "text": "Com base no conceito de ética pedagógica presente nos textos, os educandos tornam-se responsáveis pela",
+    "alternatives": {
+      "a": "participação sociopolítica.",
+      "b": "definição estético-cultural.",
+      "c": "competição econômica local.",
+      "d": "manutenção do sistema escolar.",
+      "e": "capacitação de mobilidade individual."
+    },
+    "images": [],
+    "tags": [
+      "ética",
+      "pedagogia",
+      "sociologia"
+    ],
+    "year": 2023,
+    "test": "ENEM",
+    "area": "humanas",
+    "answer": "a"
+  },
+  {
+    "number": 53,
+    "text": "A Cordilheira do Himalaia tem mais de 50 milhões de nos, sendo classificada como a maior cordilheira do planeta. Originário da língua sânscrito, comum na região, seu nome uer dizer “morada da neve”. É possível encontrar nessa ordilheira as quinze maiores montanhas do mundo. Ao todo, xistem mais de cem picos, que contam com altitudes bem maiores que 7 000 m. O Everest, considerado o ponto mais lto da Terra, tem nada menos que 8 848 m de altitude, e continua crescendo, aproximadamente, 0,8 mm a cada ano. Disponível em: https://meioambiente.culturamix.com. Acesso em: 12 nov. 2021 (adaptado). Qual dinâmica natural é responsável pelo fenômeno apresentado?",
+    "alternatives": {
+      "a": "Derrame de lava vulcânica",
+      "b": "Encontro de placas tectônicas",
+      "c": "Ação do intemperismo químico",
+      "d": "Sedimentação de erosão eólica",
+      "e": "Derretimento de geleiras glaciais"
+    },
+    "images": [],
+    "tags": [
+      "geografia",
+      "dinâmica natural"
+    ],
+    "year": 2023,
+    "test": "ENEM",
+    "area": "humanas",
+    "answer": "b"
+  },
+  {
+    "number": 54,
+    "text": "Eu poderia concluir que a raiva é um pensamento, que star com raiva é pensar que alguém é detestável, e que sse pensamento, como todos os outros — assim como Descartes o mostrou —, não poderia residir em nenhum ragmento de matéria. A raiva seria, portanto, espírito. Porém, quando me volto para minha própria experiência a raiva, devo confessar que ela não estava fora do meu orpo, mas inexplicavelmente nele.",
+    "alternatives": {
+      "a": "apresentar uma visão dualista",
+      "b": "confirmar uma tese naturalista",
+      "c": "demonstrar uma premissa realista",
+      "d": "sustentar um argumento idealista",
+      "e": "defender uma posição intencionalista"
+    },
+    "images": [],
+    "tags": [
+      "filosofia",
+      "cartesianismo"
+    ],
+    "year": 2023,
+    "test": "ENEM",
+    "area": "humanas",
+    "answer": "a"
+  },
+  {
+    "number": 55,
+    "text": "A diversão é o prolongamento do trabalho sob o c ao processo de trabalho mecanizado para se pôr de n a mecanização atingiu um tal poderio sobre a pessoa profundamente a fabricação das mercadorias destinada coisa senão as cópias que reproduzem o próprio proces",
+    "alternatives": {
+      "a": "consumo de produtos culturais elaborados no mesmo processo produtivo",
+      "b": "forma de realizar as diversas potencialidades da nação",
+      "c": "alternativa para equilibrar tensões psicológicas do dia a dia",
+      "d": "promoção da satisfação de necessidades artificiais",
+      "e": "mecanismo de organização do ócio e do prazer"
+    },
+    "images": [],
+    "tags": [
+      "sociedade",
+      "cultura"
+    ],
+    "year": 2023,
+    "test": "ENEM",
+    "area": "humanas",
+    "answer": "a"
+  },
+  {
+    "number": 56,
+    "text": "FO EU QUERIA\nRAI PODER. [Figura: charge ilustra um anseio presente na sociedade]\nA charge ilustra uma situação de ...",
+    "alternatives": {
+      "a": "situação de revolta individual.",
+      "b": "satisfação de desejos pessoais.",
+      "c": "participação em ações decisórias.",
+      "d": "permanência em passividade social.",
+      "e": "conivência em interesses partidários."
+    },
+    "images": [
+      "figuras/q056_2023_fig1.png"
+    ],
+    "tags": [
+      "sociedade",
+      "anseio"
+    ],
+    "year": 2023,
+    "test": "ENEM",
+    "area": "humanas",
+    "answer": "c"
+  },
+  {
+    "number": 57,
+    "text": "Quem se mete pelo caminho do pedido de perdão deve aceitar medir-se com a possibilidade de enfrentar o imperdoável. É com o preço dessas reservas que a grandeza do perdão se manifesta.",
+    "alternatives": {
+      "a": "rejeição particular amparada pelo desejo de poder",
+      "b": "decisão subjetiva determinada pela vontade divina",
+      "c": "liberdade mitigada pela predestinação do espírito",
+      "d": "escolhas humanas definidas pelo conhecimento em questão",
+      "e": "relações interpessoais mediadas pela autonomia do indivíduo"
+    },
+    "images": [],
+    "tags": [
+      "ética",
+      "filosofia"
+    ],
+    "year": 2023,
+    "test": "ENEM",
+    "area": "humanas",
+    "answer": "e"
+  },
+  {
+    "number": 58,
+    "text": "A Cavalgada de Sant’Ana é uma expressão da devoção dos vaqueiros à padroeira de Caicó (RN). Nas décadas de 1950 a 1970, esse evento, então denominado Cavalaria, era celebrado pelas pessoas que residiam na zona rural do município de Caicó. Essas pessoas usavam os animais (jegues, mulas e cavalos) como único meio de transporte sobretudo para se dirigirem à cidade nos dias de feiras trazendo seus produtos para comercializarem. Estando em Caicó no período da Festa de Sant’Ana, esses agricultores se organizavam em cavalgada até o pátio da Catedral de Sant’Ana para louvar a santa e receber bênção para seu animais. Por volta da década de 1970, com a chegada do automóvel à zona rural do município, essa expressão cultural foi extinta. O meio de transporte utilizando os animais passou a ser substituído por carros, sobretudo caminhonetes e caminhões, que transportavam os camponeses para a cidade em dias de feiras e festas. Desde 2002, um grupo de caicoenses retomou essa expressão cultural e, em conjunto com a associação dos vaqueiros, realiza no primeiro domingo da Festa a Cavalgada de Sant’Ana. O evento, além de contar com a participação dos cavaleiros que residem nas zonas rurais, atrai também pessoas que residem em Caicó, cidades vizinhas e amantes das vaquejadas.",
+    "alternatives": {
+      "a": "elementos tradicionais e modernos em torno de um crente religiosa.",
+      "b": "argumentos teológicos e históricos em consequência de uma ordem papal.",
+      "c": "fundamentos estéticos e etnográficos em função de uma cerimônia clerical.",
+      "d": "práticas corporais e esportivas em decorrência de um imposição eclesiástica.",
+      "e": "discursos filosóficos e antropológicos em resultado de uma determinação paroquial."
+    },
+    "images": [],
+    "tags": [
+      "cultura",
+      "história",
+      "religião"
+    ],
+    "year": 2023,
+    "test": "ENEM",
+    "area": "humanas",
+    "answer": "a"
+  },
+  {
+    "number": 59,
+    "text": "Do século XVI em diante, pelo menos nas classes mais altas, o garfo passou a ser usado como utensíli para comer, chegando através da Itália primeiramente França e, em seguida, à Inglaterra e à Alemanha, depois de ter servido, durante algum tempo, apenas para retirar alimentos sólidos da travessa. Henrique III introduziu na França, trazendo-o provavelmente de Veneza. Seus cortesãos não foram pouco ridicularizados por essa maneira “afetada” de comer e, no princípio, não eram muito hábeis no uso do utensílio: pelo menos se diz que metade da comida caía do garfo no caminho do prato à boca. Em data tão recente como o século XVII, o garfo era ainda basicamente artigo de luxo, geralmente feito de prata ou ouro.",
+    "alternatives": {
+      "a": "distinção das classes sociais.",
+      "b": "valorização de hábitos de higiene.",
+      "c": "exaltação da cultura mediterrânea.",
+      "d": "consagração de tradições medievais.",
+      "e": "disseminação de produtos manufaturados."
+    },
+    "images": [],
+    "tags": [
+      "sociedade",
+      "história"
+    ],
+    "year": 2023,
+    "test": "ENEM",
+    "area": "humanas",
+    "answer": "a"
+  },
+  {
+    "number": 60,
+    "text": "Negar o pedido por dinheiro indispensável para eecessidades pessoais ou comprar bens usando o nome a pessoa sem o consentimento dela. Ameaçar o corte e recursos dependendo de atitudes pessoais, esconder odocumentos ou trocar senhas do banco sem avisar. Ou, ainda, proibir a pessoa de trabalhar ou destruir seus ertences. As histórias são comuns, mas às vezes não são econhecidas como abuso. Mas é uma das cinco formas de conduta contra a mulher previstas na Lei Maria da Penha. O texto apresenta tipos de conduta sujeitos a punição, conforme previsto na Lei Maria da Penha, porque onsistem em formas de",
+    "alternatives": {
+      "a": "ação difamatória.",
+      "b": "desvio comportamental.",
+      "c": "expressão preconceituosa.",
+      "d": "violência patrimonial.",
+      "e": "desentendimento matrimonial."
+    },
+    "images": [],
+    "tags": [
+      "lei maria da penha",
+      "violencia contra a mulher"
+    ],
+    "year": 2023,
+    "test": "ENEM",
+    "area": "humanas",
+    "answer": "d"
+  },
+  {
+    "number": 61,
+    "text": "Por trás da “mágica” do Google Assistant de sua apacidade de interpretar 26 idiomas está uma enorme quipe de linguistas distribuídos globalmente, trabalhando omo subcontratados, que devem rotular tediosamente os ados de treinamento para que funcione. Eles ganham aixos salários e são rotineiramente forçados a trabalhar horas extras não remuneradas. A inteligência artificial não uncinha com um pozinho mágico. Ela funciona por meio e trabalhadores que treinam algoritmos incansavelmente té que eles automatizem seus próprios trabalhos. O texto critica a mudança tecnológica em razão da eguinte consequência:",
+    "alternatives": {
+      "a": "Diversificação da função.",
+      "b": "Mobilidade da população.",
+      "c": "Autonomia do empregado.",
+      "d": "Concentração da produção.",
+      "e": "Invisibilidade do profissional."
+    },
+    "images": [],
+    "tags": [
+      "tecnologia",
+      "trabalho"
+    ],
+    "year": 2023,
+    "test": "ENEM",
+    "area": "humanas",
+    "answer": "e"
+  },
+  {
+    "number": 62,
+    "text": "Enormes alto-falantes sul-coreanos instalados na fronteira com o Norte costumavam transmitir desde canções em estilo K-pop (como é chamado o pop sul-coreano) até boletins climáticos e noticiário crítico ao vizinho comunista. O Norte costuma praticar atividades semelhantes, transmitindo por seus alto-falantes discursos críticos a Seul e aliados. Durante os anos 1980, o governo sul-coreano construiu um mastro de 97 metros de altura para hastear sua bandeira no povoado de Daesong-dong na fronteira com o Norte. O Norte respondeu com a construção de um mastro ainda mais alto (160 m) na cidade fronteiriça de Gijung-dong. “Essas demonstrações são uma válvula de escape competitiva e importante entre os dois lados, fora de um possível conflito militar”, diz o analista Ankit Panda.[Figura: disputa de mastros e alto-falantes com K-pop]",
+    "alternatives": {
+      "a": "domínio cultural-identitário de atores sociais.",
+      "b": "disputas étnico-raciais de povos tradicionais.",
+      "c": "divergências político-ideológicas de agentes estatais",
+      "d": "imposição econômico-financeira de empresas privadas.",
+      "e": "protestos ecológico-sustentáveis de entidades ambientais."
+    },
+    "images": [
+      "figuras/q062_2023_fig1.png"
+    ],
+    "tags": [
+      "relações internacionais",
+      "cultura"
+    ],
+    "year": 2023,
+    "test": "ENEM",
+    "area": "humanas",
+    "answer": "c"
+  },
+  {
+    "number": 63,
+    "text": "Seda, madeiras aromáticas e têxteis, obras de arte\nlã, cristais e muitas, muitas peças de porcelana chegaram\nao Brasil ao longo dos séculos XVII e XVIII. A opulência\nproporcionada pelo ouro fez com que esses itens fossem\nainda mais presentes em cidades mineiras como Ouro Preto,\nMariana e Sabará. Esses objetos inspiraram a criação da\ntermo que designa um tipo de arte que evoca\nmotivos chineses, presentes em várias igrejas barrocas do\nMinas Gerais. No Brasil, é bem provável que a inspiração\npara as pinturas nas igrejas barrocas com pássaros,\nelefantes, tigres, mandarins e pagodes tenha sido tirada de\ngravuras, tecidos, móveis e, principalmente, das porcelanas\nchinesas que circulavam livremente em uma sociedade\nenriquecida pelo comércio do ouro e pedras preciosas.",
+    "alternatives": {
+      "a": "representação arquitetônica",
+      "b": "intercâmbio transcontinental",
+      "c": "dependência econômica",
+      "d": "intervenção estatal",
+      "e": "padrão estético"
+    },
+    "images": [],
+    "tags": [
+      "arte",
+      "história",
+      "cultura"
+    ],
+    "year": 2023,
+    "test": "ENEM",
+    "area": "humanas",
+    "answer": "b"
+  },
+  {
+    "number": 64,
+    "text": "Txai Suruí, liderança da Juventude Indígena, profere seu discurso na abertura da COP-26. “O clima está esquentando, os animais estão esaparecendo, os rios estão morrendo e nossas lantações não florescem como no passado. A Terra está alando: ela nos diz que não temos mais tempo.” VICK, M. Quais são as conquistas do movimento indígena na COP-26 . Disponível em: www.nexojornal.com.br. Acesso em: 10 nov. 2021 (adaptado). O discurso da líder indígena explicita um problema global elacionado ao(à)",
+    "alternatives": {
+      "a": "manejo tradicional",
+      "b": "reciclagem residual",
+      "c": "consumo consciente",
+      "d": "exploração predatória",
+      "e": "reaproveitamento energético"
+    },
+    "images": [],
+    "tags": [
+      "meio ambiente",
+      "sociedade"
+    ],
+    "year": 2023,
+    "test": "ENEM",
+    "area": "humanas",
+    "answer": "d"
+  },
+  {
+    "number": 65,
+    "text": "[Figura: Lina Bo Bardi e o Museu de Arte de São Paulo] Nas reportagens publicadas sobre a inauguração do Museu de Arte de São Paulo, em 1947, quando ele ainda cupava um edifício na rua Sete de Abril, Lina Bo Bardi não foi mencionada nenhuma vez. A arquiteta era responsável pelo rojeto do museu que mudaria para sempre a posição de São Paulo no circuito mundial das artes. Mas não houve nenhum egistro disso. O louvor se concentrou em seu marido e arceiro profissional, o respeitado crítico de arte Pietro Maria Bardi. Passados 75 anos, a mulher então ignorada recebeu m Leão de Ouro póstumo, a maior homenagem da Bienal e Arquitetura de Veneza, e tem agora sua história contada m duas biografias de peso, que procuram destrinchar uma arreira marcada pela ousadia e pela contradição.",
+    "alternatives": {
+      "a": "equidade de gênero",
+      "b": "liberdade de expressão",
+      "c": "admissibilidade de voto",
+      "d": "igualdade de oportunidade",
+      "e": "reciprocidade de tratamento"
+    },
+    "images": [
+      "figuras/q065_2023_fig1.png"
+    ],
+    "tags": [
+      "sociedade",
+      "história"
+    ],
+    "year": 2023,
+    "test": "ENEM",
+    "area": "humanas",
+    "answer": "a"
+  },
+  {
+    "number": 66,
+    "text": "Considerando a realidade brasileira, os textos s aproximam ao apresentarem uma reflexão sobre o(a)",
+    "alternatives": {
+      "a": "recorrência da miséria.",
+      "b": "planejamento da saúde.",
+      "c": "superação da escassez.",
+      "d": "constância da economia.",
+      "e": "romantização da carência."
+    },
+    "images": [],
+    "tags": [
+      "sociedade",
+      "literatura"
+    ],
+    "year": 2023,
+    "test": "ENEM",
+    "area": "humanas",
+    "answer": "a"
+  },
+  {
+    "number": 67,
+    "text": "No sul da Bahia, desde o século XVIII, tem-se registros de um tipo de sistema agroflorestal. Até hoje esse sistema é característica marcante da paisagem da região, conhecido como cabruca, que consiste na cultivo do cacau à sombra do dossel da floresta nativa Esse sistema de cultivo do cacau (graças à tolerância da espécie à sombra) é considerado amigável para a vida silvestre, pois apresenta superioridade em termos de conservação da biodiversidade quando comparada com outras plantações tropicais (monoculturas de dendê seringa ou café), agricultura ou pastagens.",
+    "alternatives": {
+      "a": "difusão comercial de lavouras temporárias",
+      "b": "utilização sustentável dos recursos naturais",
+      "c": "ampliação tecnológica da pecuária intensiva",
+      "d": "padronização alimentar dos povos tradicionais",
+      "e": "modernização logística de plantios convencionais"
+    },
+    "images": [],
+    "tags": [
+      "agroflorestal",
+      "sustentabilidade"
+    ],
+    "year": 2023,
+    "test": "ENEM",
+    "area": "humanas",
+    "answer": "b"
+  },
+  {
+    "number": 68,
+    "text": "O masseiro, a mulher, e quatro filhos, dormindo numa apera de quatro paredes de caixão, coberta de zinco. A água do mangue, na maré cheia, ia dentro de casa. Os maruins de noite encalombavam o corpo dos meninos. O mangue tinha ocasião que fedia, e os urubus faziam onto por ali atrás dos petiscos. Perto da rua lavavam ouro de boi, pele de bode para o curtume de um espanhol. Morria peixe envenenado, e quando a maré secava, os rubus enchiam o papo, ciscavam a lama, passeando anzeiros pelas biqueiras dos mocambos no Recife. RÊGO, J. L. O moleque Ricardo . Rio de Janeiro: J. Olympio, 1966 (adaptado). A aglomeração urbana representada no texto resulta em",
+    "alternatives": {
+      "a": "conservação do meio rural",
+      "b": "crescimento da vegetação ciliar",
+      "c": "interferência do espaço geográfico",
+      "d": "equilíbrio do ambiente das cidades",
+      "e": "controle da proliferação dos animais"
+    },
+    "images": [],
+    "tags": [
+      "urbanização",
+      "ambiente urbano"
+    ],
+    "year": 2023,
+    "test": "ENEM",
+    "area": "humanas",
+    "answer": "c"
+  },
+  {
+    "number": 69,
+    "text": "Elas foram as pioneiras dos direitos das mulheres no Afeganistão. Defensoras ferrenhas da lei, buscaram justiça para os mais marginalizados. Mas, agora, mais de 220 juízas afegãs estão escondidas por medo de retaliação sob o regime do Talibã. Uma delas condenou centenas de homens por violência contra as mulheres, incluindo estupro, assassinato e tortura. Mas poucos dias depois que o Talibã assumiu o controle de sua cidade, milhares de criminosos condenados foram libertados da prisão, as ameaças de morte começaram. O país sempre foi considerado um dos lugares mais difíceis e erigosos do mundo para as mulheres. De acordo com estudos de organizações não governamentais, cerca de 7% das mulheres e meninas serão vítimas de abuso durante a vida.",
+    "alternatives": {
+      "a": "afronta às estruturas sociais",
+      "b": "desprezo aos valores religiosos",
+      "c": "transgressão às normas morais",
+      "d": "desrespeito à dignidade humana",
+      "e": "oposição aos princípios hierárquicos"
+    },
+    "images": [],
+    "tags": [
+      "direitos humanos",
+      "sociedade"
+    ],
+    "year": 2023,
+    "test": "ENEM",
+    "area": "humanas",
+    "answer": "d"
+  },
+  {
+    "number": 70,
+    "text": "No cemitério, a sociedade religiosa encarregada do funeral, aterrorizada, apressou a cerimônia de tal forma que a mãe de Herzog perdeu o momento em que o caixão do filho começou a ser coberto pela terra. Quatro jornalistas que estavam presos no DOI chegaram para assistir ao sepultamento. Um se afastara, chorando. Dizia:  Eles matam e eles matam! Não pergunte nada. Não podemos dizer nada. Eles matam mesmo. Falava-se baixo. Ouviram-se dois curtos discursos. O primeiro, da atriz Ruth Escobar: Até quando vamos suportar tanta violência? Até quando vamos continuar enterrando nossos mortos em silêncio? No segundo, Audálio Dantas recitou o  Navio negreiro , de Castro Alves: Senhor Deus dos desgraçados / Dizei-me Vós, Senhor Deus / Se é mentira, se é verdade, / Tanto horror perante os céus. [Figura: contexto histórico-político] O acontecimento descrito no texto, ocorrido em meados dos anos 1970, atesta a seguinte característica do regime político-institucional vigente:",
+    "alternatives": {
+      "a": "Incorporação da estética popular para justificar o ideia de integração nacional.",
+      "b": "Afirmação da estratégia psicossocial para favorecer o objetivo de propaganda cívica.",
+      "c": "Institucionalização de mecanismos repressivos para eliminar os focos de resistência.",
+      "d": "Adoção de cerimoniais públicos para controlar as manifestações de grupos opositores.",
+      "e": "Estatização de meios de comunicação para selecionar a divulgação de atos governamentais."
+    },
+    "images": [
+      "figuras/q070_2023_fig1.png"
+    ],
+    "tags": [
+      "história",
+      "política"
+    ],
+    "year": 2023,
+    "test": "ENEM",
+    "area": "humanas",
+    "answer": "c"
+  },
+  {
+    "number": 71,
+    "text": "Alternativas logísticas estão servindo de instrumento que ativam os mercados especuladores de terra nas diferentes regiões da Amazônia e constituem em indicadores utilizados por diferentes atores para defender ou denunciar o avanço da cultura da soja na região e com ela, a retomada do desmatamento. É evidente que o crescimento do desmatamento tem a ver também com a expansão da soja, porém atribuir a ela o fator principal parece não totalmente correto. Parto da compreensão central de que a lógica que gera o desmatamento está articulada pelo tripé grileiros, madeireiros e pecuaristas",
+    "alternatives": {
+      "a": "apropriação de áreas devolutas.",
+      "b": "sonegação de impostos federais.",
+      "c": "incorporação de exportação ilegal.",
+      "d": "desoneração de setores produtivos.",
+      "e": "flexibilização de legislação ambiental."
+    },
+    "images": [],
+    "tags": [
+      "Amazônia",
+      "desmatamento",
+      "soja"
+    ],
+    "year": 2023,
+    "test": "ENEM",
+    "area": "humanas",
+    "answer": "a"
+  },
+  {
+    "number": 72,
+    "text": "Os textos apresentam perspectivas da nova corrida espacial que revelam, respectivamente: [Figura]",
+    "alternatives": {
+      "a": "Dependência e progresso.",
+      "b": "Expectativa e desconfiança.",
+      "c": "Angústia e adaptação.",
+      "d": "Pioneirismo e retrocesso.",
+      "e": "Receio e civilidade."
+    },
+    "images": [
+      "figuras/q072_2023_fig1.png"
+    ],
+    "tags": [
+      "corrida espacial",
+      "tecnologia",
+      "perspectivas"
+    ],
+    "year": 2023,
+    "test": "ENEM",
+    "area": "humanas",
+    "answer": "b"
+  },
+  {
+    "number": 73,
+    "text": "Os séculos XV e XVI, quando se vão desmoronando as estruturas socioeconômicas da Idade Média perante os novos imperativos da Época moderna, constituem um momento-chave na história florestal de toda a Europa Ocidental. Abre-se, genericamente, um longo período de “crise florestal”, que se manifesta com acuidade nos países onde mais se desenvolvem as atividades industriais e comerciais. As necessidades em produtos lenhosos aumentam drasticamente com o crescimento do consumo nos mercados urbanos e nas regiões onde progridem a metalurgia e a construção naval, além da sua utilização na vida quotidiana de toda a população.",
+    "alternatives": {
+      "a": "O processo de expansão marítima.",
+      "b": "A eclosão do renascimento cultural.",
+      "c": "A concretização da centralização política.",
+      "d": "O movimento de reformas religiosas.",
+      "e": "A manutenção do sistema feudal."
+    },
+    "images": [],
+    "tags": [
+      "história",
+      "século xv e xvi"
+    ],
+    "year": 2023,
+    "test": "ENEM",
+    "area": "humanas",
+    "answer": "a"
+  },
+  {
+    "number": 74,
+    "text": "Tahuantinsuyu — nome do Império Inca em quéchua — era dividido em quatro partes ou suyus: Chinchaysuy (noroeste do Peru e Equador), Antisuyu (parte amazônica do império), Collasuyu (atual Bolívia) e Condesuyu (costa do Oceano Pacífico) e tinha Cuzco, no atual Peru como sua capital imperial. Oficialmente, todas as etnias dominadas pelos incas deveriam adotar a língua quéchua, adorar o Sapa Inca e o Sol e pagar taxas em forma de horas de trabalho periódicas. No entanto, pode-se dizer que o Império Inca era como um mosaico cultural em que vários e diferentes grupos étnicos adoravam o Sapa Inca e o Sol mas, simultaneamente, continuavam a adorar seus deuses locais e também a falar em suas línguas nativas",
+    "alternatives": {
+      "a": "aceitável no que alude aos direitos humanos.",
+      "b": "admissível no que remete às crenças coloniais.",
+      "c": "tolerável no que se refere aos regimes tributários.",
+      "d": "flexível no que diz respeito aos costumes religiosos",
+      "e": "compreensível no que concerne às normas laborais"
+    },
+    "images": [],
+    "tags": [
+      "história",
+      "cultura"
+    ],
+    "year": 2023,
+    "test": "ENEM",
+    "area": "humanas",
+    "answer": "d"
+  },
+  {
+    "number": 75,
+    "text": "A torcida do Fluminense inicia um movimento para mudar a letra de uma das músicas mais populares das rquibancadas tricolores. Grupos pedem a remoção do ermo “mulambo imundo”, em uma provocação direta ao lamengo. Mulambo é um termo que surgiu em Angola, a época da escravatura, e eles eram chamados de mulambos pelos senhores de engenho, os patrões as fazendas. Qual mudança no comportamento social a proposta eportada no texto reflete?",
+    "alternatives": {
+      "a": "Rejeição de costumes elitistas.",
+      "b": "Repulsão de condutas misóginas.",
+      "c": "Condenação do preconceito racial.",
+      "d": "Criminalização de práticas homofóbicas.",
+      "e": "Contestação do comportamento machista."
+    },
+    "images": [],
+    "tags": [
+      "sociedade",
+      "cultura"
+    ],
+    "year": 2023,
+    "test": "ENEM",
+    "area": "humanas",
+    "answer": "c"
+  },
+  {
+    "number": 76,
+    "text": "Taxa de fecundidade no Brasil\nDe 1960 a 2020,\nnúmero de filhos baixa de\n6,3 para 1,5",
+    "alternatives": {
+      "a": "Flexibilização legal da prática de aborto.",
+      "b": "Envelhecimento da população brasileira.",
+      "c": "Crescimento dos casos de gravidez precoce.",
+      "d": "Participação feminina no mercado de trabalho.",
+      "e": "Diminuição dos benefícios na licença-maternidade."
+    },
+    "images": [],
+    "tags": [
+      "demografia",
+      "saúde pública"
+    ],
+    "year": 2023,
+    "test": "ENEM",
+    "area": "humanas",
+    "answer": "d"
+  },
+  {
+    "number": 77,
+    "text": "Havia já muito tempo que a Europa desfrutava o benefícios da vacina e arrancava à morte milhares d inocentes, condenados a serem vítimas do terrível flagel das bexigas, e o governo de Portugal nunca se lembrara d transmitir ao Brasil a mais útil das descobertas humanas quando aliás nenhum país mais do que ele carecia dest salutar invento ou se atendesse às vantagens da população ou ao perdimento de imensas somas na mortandad contínua de escravos, que este flagelo devorava. O certo é que mais ocupado de seu ouro que de seus habitantes Portugal, como em outros muitos casos, esperou que Brasil por seu próprio impulso remediasse a este mal.",
+    "alternatives": {
+      "a": "As leis observáveis regem o mundo material.",
+      "b": "O monarca racional promove a sociedade justa.",
+      "c": "O direito natural justifica a liberdade dos homens.",
+      "d": "A produção da terra garante a riqueza das nações.",
+      "e": "A responsabilidade dos governantes assegura a saúde dos povos."
+    },
+    "images": [],
+    "tags": [
+      "história",
+      "ciências sociais"
+    ],
+    "year": 2023,
+    "test": "ENEM",
+    "area": "humanas",
+    "answer": "e"
+  },
+  {
+    "number": 78,
+    "text": "Os movimentos da agricultura urbana no Rio d Janeiro vêm crescendo nos últimos vinte anos, tanto por meio de reproduções de modelos de vida antigos vinculados ao resgate dos próprios costumes, como — cada vez mais — são revelados hábitos inventivos nos quais moradores urbanos de diferentes classes sociais sem nenhuma referência anterior com o campo, passam se dedicar a essas atividades. Ao possibilitar o acesso ao plantio e, consequentemente, à alimentação, permite-se uma nova relação com o que se come, reduzindo percurso da cadeia produtiva e aproximando produtores de consumidores, pois ambos se confundem nas experiências de agricultura urbana.",
+    "alternatives": {
+      "a": "ocupação de lugares ociosos",
+      "b": "densificação da área central",
+      "c": "valorização do mercado externo",
+      "d": "priorização de insumos químicos",
+      "e": "mecanização de técnicas de cultivo"
+    },
+    "images": [],
+    "tags": [
+      "agricultura urbana",
+      "desenvolvimento local"
+    ],
+    "year": 2023,
+    "test": "ENEM",
+    "area": "humanas",
+    "answer": "a"
+  },
+  {
+    "number": 79,
+    "text": "A postura determinista adotada pelo personagem Gerineldo contrasta com a ideia existencialista contida o pensamento filosófico de Sartre porque",
+    "alternatives": {
+      "a": "evidencia a manifestação do inconsciente.",
+      "b": "negra a possibilidade de transcendência.",
+      "c": "contraria o conhecimento difuso.",
+      "d": "sustenta a fugacidade da vida.",
+      "e": "refuta a evolução biológica."
+    },
+    "images": [],
+    "tags": [
+      "literatura",
+      "filosofia"
+    ],
+    "year": 2023,
+    "test": "ENEM",
+    "area": "humanas",
+    "answer": "b"
+  },
+  {
+    "number": 80,
+    "text": "O Golpe Militar de 1964 foi implacável no combate o que restava das Ligas Camponesas, generalizadas na década anterior. No entanto, em relação aos sindicatos, ua atitude foi ambígua. Por meio de acordos com os Estados Unidos, foram concebidos centros sindicais e usos de liderança com base em princípios conservadores ministrados por membros da Igreja Católica.",
+    "alternatives": {
+      "a": "controlar as tensões políticas",
+      "b": "limitar a legislação trabalhista",
+      "c": "divulgar o programa populista",
+      "d": "regularizar a propriedade da terra",
+      "e": "estimular a oferta de mão de obra"
+    },
+    "images": [],
+    "tags": [
+      "história",
+      "golpe militar",
+      "sindicatos"
+    ],
+    "year": 2023,
+    "test": "ENEM",
+    "area": "humanas",
+    "answer": "a"
+  },
+  {
+    "number": 81,
+    "text": "A economia das ilegalidades se reestruturou com desenvolvimento da sociedade capitalista. A ilegalidade do bens foi separada da ilegalidade dos direitos. Divisão que corresponde a uma oposição de classes, pois, de um lado, ilegalidade mais acessível às classes populares será a do bens — transferência violenta das propriedades; de outro à burguesia, então, se reservará a ilegalidade dos direitos a possibilidade de desviar seus próprios regulamentos e suas próprias leis; e essa grande redistribuição da ilegalidades se traduzirá até por uma especialização do circuitos judiciários; para as ilegalidades de bens — par o roubo — os tribunais ordinários e os castigos; par as ilegalidades de direitos — fraudes, evasões fiscais operações comerciais irregulares — jurisdições especiais com transações, acomodações, multas atenuadas etc.",
+    "alternatives": {
+      "a": "gestão das ilicitudes pelo sistema judicial",
+      "b": "aplicação das sanções pelo modelo equânime",
+      "c": "supressão dos crimes pela penalização severa",
+      "d": "regulamentação dos privilégios pela justiça social",
+      "e": "repartição de vantagens pela hierarquização cultural"
+    },
+    "images": [],
+    "tags": [
+      "sociedade",
+      "direito",
+      "economia"
+    ],
+    "year": 2023,
+    "test": "ENEM",
+    "area": "humanas",
+    "answer": "a"
+  },
+  {
+    "number": 82,
+    "text": "Os vapores cruzavam os mares transportando pessoas, mercadorias e ideias, e ainda carregavam a mal postal, repleta de mensagens. Múltiplas histórias escritas atravessavam o oceano buscando por notícias de filhos, pais, irmãos, maridos e esposas, noivos e noivas. As missivas traziam boas e más novas, comunicavam alegremente nascimentos e casamentos, também doenças e mortes enviavam declarações de amor e fidelidade, fotos de família encaminhavam conselhos de velhos, pedidos de ajuda e dinheiro; expediam cartas bancárias e de chamada. Essa literatura epistolar possibilitava a transmissão e reconstrução das tradições. Os deslocamentos tornaram-se um dos mais potentes produtores de escritura ao longo da história.",
+    "alternatives": {
+      "a": "disputa ideológica entre a comunidade de estrangeiros e a de nativos",
+      "b": "circularidade cultural entre a sociedade de partida e a de acolhimento",
+      "c": "controle doutrinário das narrativas do cotidiano de origem e de destino",
+      "d": "fiscalização política dos fluxos de populações do Novo e do Velho Mundo",
+      "e": "monitoramento social dos grupos de trabalhadores da cidade e do campo"
+    },
+    "images": [],
+    "tags": [
+      "correspondência",
+      "imigração",
+      "cultura"
+    ],
+    "year": 2023,
+    "test": "ENEM",
+    "area": "humanas",
+    "answer": "b"
+  },
+  {
+    "number": 83,
+    "text": "A partir da ocupação desordenada exposta no texto, o que impede a recuperação do recurso natural destacado é a",
+    "alternatives": {
+      "a": "elevação da biomassa.",
+      "b": "redução da salinização.",
+      "c": "diminuição da fertilidade.",
+      "d": "ampliação da microfauna.",
+      "e": "decomposição do substrato."
+    },
+    "images": [],
+    "tags": [
+      "degradação",
+      "recuperação",
+      "solo"
+    ],
+    "year": 2023,
+    "test": "ENEM",
+    "area": "humanas",
+    "answer": "c"
+  },
+  {
+    "number": 84,
+    "text": "A partir da década de 1930, começam a ser discutidos o Brasil os princípios de racionalização do trabalho. As preocupações com a cozinha e o trabalho doméstico oram introduzidas com a medicina sanitária e a oferta e gás e eletricidade para uso doméstico no início do éculo XX. A organização da cozinha visava atingir ma simplificação das tarefas, com a economia de movimentos, e o barateamento dos equipamentos, a artir da produção em grande escala. A padronização e ocionalização da habitação e seus componentes visava ma radical transformação da casa, em especial da ozinha, e apoiava-se tanto no desenvolvimento de novos quipamentos quanto nos estudos de racionalização o trabalho doméstico. A principal preocupação era o desenvolvimento de um novo tipo de habitação, que everia induzir um novo comportamento social.",
+    "alternatives": {
+      "a": "controle do orçamento familiar",
+      "b": "libertação das tradições religiosas",
+      "c": "exercício da representatividade política",
+      "d": "ampliação dos momentos de socialização",
+      "e": "afastamento das atividades especializadas"
+    },
+    "images": [],
+    "tags": [
+      "história",
+      "sociedade"
+    ],
+    "year": 2023,
+    "test": "ENEM",
+    "area": "humanas",
+    "answer": "d"
+  },
+  {
+    "number": 85,
+    "text": "Produtores rurais europeus são antigos opositores de um grande acordo com o Mercosul. Na visão deles, existe um nítido risco de concorrência desleal, pois, na Europa, é preciso seguir regras mais rígidas de produção que encarece o processo. Assim, eles não conseguiriam competir com os preços, por exemplo, da carne brasileira e teriam seus negócios ameaçados. Por outro lado, o setor industrial europeu se mobiliza a favor do acordo, uma vez que as reduções de tarifas no comércio internacional dariam maior acesso ao mercado sul-americano. Um exemplo é o setor automotivo europeu, que prevê maior participação e concorrência nos países do Mercosul caso o acordo siga em frente.",
+    "alternatives": {
+      "a": "restrição dos fluxos migratórios e a maior atuação de sindicatos",
+      "b": "ampliação das leis trabalhistas e a plena importação de manufaturados",
+      "c": "proteção das florestas nacionais e a ampla transferência de tecnologias",
+      "d": "manutenção das barreiras fitossanitárias e a livre circulação de mercadorias",
+      "e": "remoção dos entraves alfandegários e a melhor remuneração de empregados"
+    },
+    "images": [],
+    "tags": [
+      "Mercosul",
+      "União Europeia",
+      "comércio internacional"
+    ],
+    "year": 2023,
+    "test": "ENEM",
+    "area": "humanas",
+    "answer": "d"
+  },
+  {
+    "number": 86,
+    "text": "Durante a Revolução Francesa, um certo padre Niollan escondeu-se no pequeno castelo de L’Escarbas. Pago amplamente a hospitalidade do velho fidalgo ocupando-s da educação de sua filha, Anaïs. A presença da mãe em nada modificou essa educação masculina dada a um jovem criatura já muito inclinada à independência em virtude da vida no campo. O padre transmitiu à aluna su intrepidez de opiniões e sua facilidade de julgamento sem pensar que essas qualidades, tão necessárias num homem, se tornam defeitos numa mulher destinada ao humildes afazeres de mãe de família. Embora o padr recomendasse continuamente à aluna ser tanto mai graciosa e modesta quanto seu saber era mais extenso a senhorita de Nègrepelisse ficou com excelente opiniã de si mesma.",
+    "alternatives": {
+      "a": "abandono de laços afetivos",
+      "b": "negação da ideia de subjetividade",
+      "c": "aceitação da hierarquia de gênero",
+      "d": "consolidação da estratificação social",
+      "e": "ruptura de valores institucionalizados"
+    },
+    "images": [],
+    "tags": [
+      "Revolução Francesa",
+      "Literatura"
+    ],
+    "year": 2023,
+    "test": "ENEM",
+    "area": "humanas",
+    "answer": "e"
+  },
+  {
+    "number": 87,
+    "text": "Conforme descrito nos textos, o tratamento dispensado os grupos mencionados se fundamentava em",
+    "alternatives": {
+      "a": "preceitos teológicos e religiosos.",
+      "b": "aspectos socioeconômicos e ideológicos.",
+      "c": "regulamentações territoriais e alfandegárias.",
+      "d": "orientações constitucionais e estatutárias.",
+      "e": "decretos legislativos e internacionais."
+    },
+    "images": [],
+    "tags": [
+      "história",
+      "sociedade"
+    ],
+    "year": 2023,
+    "test": "ENEM",
+    "area": "humanas",
+    "answer": "b"
+  },
+  {
+    "number": 88,
+    "text": "Concorrer e competir não são a mesma coisa. A concorrência pode até ser saudável sempre que a batalha entre agentes, para melhor empreender uma tarefa e obter melhores resultados finais, exige o respeito a certas regras de convivência preestabelecidas ou não. Já a competitividade é funda na invenção de novas armas de luta, num exercício em que a única regra é a conquista da melhor posição. A competitividade é uma espécie de guerra em que tudo vale e, desse modo, sua prática provoca um afrouxamento dos valores morais e um convite ao exercício da violência.",
+    "alternatives": {
+      "a": "Adoção do dumping comercial",
+      "b": "Fusão da função administrativa",
+      "c": "Criação de holding empresarial",
+      "d": "Limitação do mercado monopolista",
+      "e": "Modernização da produção industrial"
+    },
+    "images": [],
+    "tags": [
+      "ética",
+      "economia"
+    ],
+    "year": 2023,
+    "test": "ENEM",
+    "area": "humanas",
+    "answer": "a"
+  },
+  {
+    "number": 89,
+    "text": "Simulação de mudança da temperatura média anual em relação ao aquecimento global [Figura: gráfico de simulação] e pluviosidade média anual em relação ao aquecimento global. Qual medida é capaz de minimizar as mudanças apresentadas?",
+    "alternatives": {
+      "a": "Expandir o transporte marítimo.",
+      "b": "Incentivar os fluxos migratórios.",
+      "c": "Monitorar as atividades vulcânicas.",
+      "d": "Controlar as emissões de carbono.",
+      "e": "Priorizar a utilização de termoelétricas."
+    },
+    "images": [
+      "figuras/q089_2023_fig1.png"
+    ],
+    "tags": [
+      "clima",
+      "medio-ambiente",
+      "poluicao"
+    ],
+    "year": 2023,
+    "test": "ENEM",
+    "area": "humanas",
+    "answer": "d"
+  },
+  {
+    "number": 90,
+    "text": "Não tinha outra filosofia. Nem eu. Não digo que a Univ\rs só as fórmulas, o vocabulário, o esqueleto. Tratei-a com Horácio, uma dúzia de locuções morais e políticas, para a história, a jurisprudência. Colhi de todas as coisas a fraseologia da conversação. A descrição crítica do personagem de Machado de Assis se mostra semelhante às características dos sofistas, contestados na Grécia Antiga.",
+    "alternatives": {
+      "a": "elaboração conceitual de entendimentos",
+      "b": "utilização persuasiva do discurso",
+      "c": "narração alegórica dos rapsodos",
+      "d": "investigação empírica da physis",
+      "e": "expressão pictográfica da pólis"
+    },
+    "images": [],
+    "tags": [
+      "literatura",
+      "filosofia"
+    ],
+    "year": 2023,
+    "test": "ENEM",
+    "area": "humanas",
+    "answer": "b"
+  }
+]

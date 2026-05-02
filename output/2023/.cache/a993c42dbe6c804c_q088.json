@@ -1,0 +1,23 @@
+{
+  "number": 88,
+  "text": "Concorrer e competir não são a mesma coisa. A concorrência pode até ser saudável sempre que a batalha entre agentes, para melhor empreender uma tarefa e obter melhores resultados finais, exige o respeito a certas regras de convivência preestabelecidas ou não. Já a competitividade é funda na invenção de novas armas de luta, num exercício em que a única regra é a conquista da melhor posição. A competitividade é uma espécie de guerra em que tudo vale e, desse modo, sua prática provoca um afrouxamento dos valores morais e um convite ao exercício da violência.",
+  "alternatives": {
+    "a": "Adoção do dumping comercial",
+    "b": "Fusão da função administrativa",
+    "c": "Criação de holding empresarial",
+    "d": "Limitação do mercado monopolista",
+    "e": "Modernização da produção industrial"
+  },
+  "answer": "a",
+  "tags": [
+    "ética",
+    "economia"
+  ],
+  "year": 2023,
+  "test": "ENEM",
+  "area": "humanas",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

@@ -1,0 +1,24 @@
+{
+  "number": 110,
+  "text": "Organismos autótrofos e heterótrofos realizam processos complementares que associam os ciclos do carbono e da energia. A matéria sintetizada por organismos autótrofos a partir da luz luminosa ou a partir de compostos inorgânicos é eventualmente degradado pelos organismos, resultando em fontes de carbono como metano ou gás carbônico. Parte do carbono pode ser incorporada em outros organismos e circulada pelos seres, com menor rendimento energético, produzindo compostos secundários (subprodutos) que podem funcionar como combustíveis ambientais. Qual dos processos biológicos a seguir é responsável pelo armazenamento de energia em moléculas que podem funcionar como combustíveis ambientais é a",
+  "alternatives": {
+    "a": "fotossíntese",
+    "b": "respiração aeróbica",
+    "c": "quimiossíntese",
+    "d": "fermentação anaeróbica",
+    "e": "quimiossíntese heterotrófica"
+  },
+  "answer": "b",
+  "tags": [
+    "biologia",
+    "ecologia"
+  ],
+  "year": 2021,
+  "test": "ENEM",
+  "area": "nature",
+  "difficulty": 6,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

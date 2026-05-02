@@ -1,0 +1,25 @@
+{
+  "number": 142,
+  "text": "Uma criança, utilizando um aplicativo, escreveu uma mensagem para enviar a um amigo. Essa mensagem foi escrita seguindo estas etapas: [Figura - descrição da figura]ª 1 etapa: inseriu três figuras do tipo no visor de escrita da mensagem; ª 2 etapa: copiou o que havia inserido anteriormente e colou (inseriu o que havia copiado) ao lado; ª 3 etapa: copiou o que tinha no visor na 2 etapa e colou ao lado. A criança seguiu copiando e colando, em cada etapa o que tinha no visor na etapa imediatamente anterior, até concluir a 20ª etapa. Em seguida, enviou a mensagem. Qual foi o total de figuras contidas na mensagem enviada?",
+  "alternatives": {
+    "a": "3 × 2",
+    "b": "3 × 2",
+    "c": "3 × 2",
+    "d": "3 × 2 − 1",
+    "e": "3 × 2 − 3"
+  },
+  "answer": "a",
+  "tags": [
+    "matemática",
+    "sequências"
+  ],
+  "year": 2024,
+  "test": "ENEM",
+  "area": "math",
+  "images": [
+    "figuras/q142_2024_fig1.png"
+  ],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

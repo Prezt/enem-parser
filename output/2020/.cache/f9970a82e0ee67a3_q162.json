@@ -1,0 +1,24 @@
+{
+  "number": 162,
+  "text": "A lei municipal para a edificação de casas em lote de uma cidade determina que sejam obedecidos os seguintes critérios:\n  - afastamento mínimo de 4 m da rua;\n  - afastamento mínimo de 1 m da divisa com outro lote;\n  - área total construída da casa entre 40% e 50% da área total do lote.\n\nUm construtor submeteu para aprovação na prefeitura dessa cidade uma planta com propostas para construção de casas em seus 5 lotes. Cada lote tem área medindo 200 m².\n\nA imagem apresenta um esquema, sem escala, no qual estão representados os lotes, as ruas e os afastamentos considerados nos projetos entre as casas e as divisas dos lotes. As medidas indicadas no esquema estão expressas em metro.\n\nA prefeitura aprovará apenas a planta da casa",
+  "alternatives": {
+    "a": "1/4",
+    "b": "2/20",
+    "c": "3",
+    "d": "4/10",
+    "e": "5/20"
+  },
+  "answer": "e",
+  "tags": [
+    "geometria plana",
+    "aritmética e números"
+  ],
+  "year": 2020,
+  "test": "ENEM",
+  "area": "math",
+  "difficulty": 6,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

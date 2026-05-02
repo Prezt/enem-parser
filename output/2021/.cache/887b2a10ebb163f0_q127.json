@@ -1,0 +1,24 @@
+{
+  "number": 127,
+  "text": "A alteração na dieta de animais que anteriormente tinham como base frutos e sementes provoca qual consequência para o tamanho das populações vegetais?",
+  "alternatives": {
+    "a": "Aumento exponencial das populações vegetais em todas as regiões.",
+    "b": "Redução proporcional ao tamanho das plantas.",
+    "c": "Maior diversidade de espécies vegetais nas mesmas áreas.",
+    "d": "Diminuição da quantidade de sementes por fruto.",
+    "e": "Redução das populações vegetais que passam a ocupar áreas mais restritas."
+  },
+  "answer": "c",
+  "tags": [
+    "ecologia",
+    "evolução"
+  ],
+  "year": 2021,
+  "test": "ENEM",
+  "area": "nature",
+  "difficulty": 6,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

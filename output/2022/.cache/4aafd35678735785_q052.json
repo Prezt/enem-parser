@@ -1,0 +1,23 @@
+{
+  "number": 52,
+  "text": "A letra da canção valoriza uma dimensão do espaço rural brasileiro em sua relação com a cidade ao ressaltar sua unção de",
+  "alternatives": {
+    "a": "fornecer a mão de obra qualificada.",
+    "b": "incorporar a inovação tecnológica.",
+    "c": "preservar a diversidade biológica.",
+    "d": "promover a produção alimentar.",
+    "e": "garantir a moradia básica."
+  },
+  "answer": "d",
+  "tags": [
+    "cultura",
+    "sociedade"
+  ],
+  "year": 2022,
+  "test": "ENEM",
+  "area": "humanas",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

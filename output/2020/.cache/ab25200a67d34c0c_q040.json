@@ -1,0 +1,24 @@
+{
+  "number": 40,
+  "text": "A ficção modernista explorou tipos humanos em situação de conflito social. No fragmento do romancista gaúcho, esse conflito revela a",
+  "alternatives": {
+    "a": "sujeição moral amplificada pela pobreza.",
+    "b": "crise econômica em expansão nas cidades.",
+    "c": "falta de diálogo entre patrões e empregados.",
+    "d": "perspicácia marcada pela formação intelectual.",
+    "e": "tensão política gerada pelas ideologias vigentes."
+  },
+  "answer": "a",
+  "tags": [
+    "literatura brasileira",
+    "interpretação de texto"
+  ],
+  "year": 2020,
+  "test": "ENEM",
+  "area": "linguagens",
+  "difficulty": 6,
+  "images": [],
+  "contextId": "enem_2020_linguagens_ctx1",
+  "contextIds": null,
+  "language": null
+}

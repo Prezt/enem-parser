@@ -1,0 +1,24 @@
+{
+  "number": 166,
+  "text": "Os alunos da disciplina de estatística, em um curso universitário, realizam quatro avaliações por semestre com os pesos de 20%, 10%, 30% e 40%, respectivamente. No final do semestre, precisam obter uma média nas quatro avaliações de, no mínimo, 60 pontos para serem aprovados. Um estudante dessa disciplina obteve os seguintes pontos nas três primeiras avaliações: 46, 60 e 80, respectivamente. O mínimo de pontos que esse estudante precisa obter na quarta avaliação para ser aprovado é",
+  "alternatives": {
+    "a": "29,8",
+    "b": "71,0",
+    "c": "74,5",
+    "d": "75,5",
+    "e": "84,0"
+  },
+  "answer": "c",
+  "tags": [
+    "estatística",
+    "matemática financeira"
+  ],
+  "year": 2018,
+  "test": "ENEM",
+  "area": "math",
+  "difficulty": 4,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

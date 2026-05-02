@@ -1,0 +1,24 @@
+{
+  "number": 61,
+  "text": "Escrito na década de 1970, o texto considera a participação da América Latina na Divisão Internacional do Trabalho marcada pela",
+  "alternatives": {
+    "a": "produção inovadora de padrões de tecnologia.",
+    "b": "superação paulatina do caráter agroexportador.",
+    "c": "apropriação imperialista dos recursos territoriais.",
+    "d": "valorização econômica dos saberes tradicionais.",
+    "e": "dependência externa do suprimento de alimentos."
+  },
+  "answer": "c",
+  "tags": [
+    "geopolítica e relações internacionais",
+    "história contemporânea"
+  ],
+  "year": 2020,
+  "test": "ENEM",
+  "area": "humanas",
+  "difficulty": 6,
+  "images": [],
+  "contextId": "enem_2020_humanas_61_ctx1",
+  "contextIds": null,
+  "language": null
+}

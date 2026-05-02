@@ -1,0 +1,24 @@
+{
+  "number": 159,
+  "text": "Uma pessoa precisa comprar 15 sacos de cimento para uma reforma em sua casa. Faz pesquisa de preço em cinco depósitos que vendem o cimento de sua preferência e cobram frete para entrega do material, conforme a distância do depósito à sua casa. As informações sobre preço do cimento, valor do frete e distância do depósito até a casa dessa pessoa estão apresentadas no quadro.\n\n| Depósito | Valor do saco de cimento (R$) | Valor do frete para cada quilômetro (R$) | Distância entre a casa e o depósito (km) |\n|---|---|---|---|\n| A | 23,00 | 1,00 | 10 |\n| B | 21,50 | 3,00 | 12 |\n| C | 22,00 | 1,50 | 14 |\n| D | 21,00 | 3,50 | 18 |\n| E | 24,00 | 2,50 | 2 |\n\nA pessoa escolherá um desses depósitos para realizar sua compra, considerando os preços do cimento e do frete oferecidos em cada opção. Se a pessoa decidir pela opção mais econômica, o depósito escolhido para a realização dessa compra será o",
+  "alternatives": {
+    "a": "A",
+    "b": "B",
+    "c": "C",
+    "d": "D",
+    "e": "E"
+  },
+  "answer": "c",
+  "tags": [
+    "aritmética e números",
+    "matemática financeira"
+  ],
+  "year": 2020,
+  "test": "ENEM",
+  "area": "math",
+  "difficulty": 4,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

@@ -1,0 +1,24 @@
+{
+  "number": 14,
+  "text": "Quanto à materialização da linguagem, a apresentação de dados relativos à violência contra a mulher",
+  "alternatives": {
+    "a": "configura uma discussão sobre os altos índices de abuso físico contra as peruanas.",
+    "b": "propõe um novo formato no enredo dos concursos de beleza feminina.",
+    "c": "condena o rigor estético exigido pelos concursos tradicionais.",
+    "d": "recupera informações sensacionalistas a respeito desse tema.",
+    "e": "subverte a função social da fala das candidatas a miss."
+  },
+  "answer": "e",
+  "tags": [
+    "interpretação de texto",
+    "comunicação e mídia"
+  ],
+  "year": 2018,
+  "test": "ENEM",
+  "area": "linguagens",
+  "difficulty": 6,
+  "images": [],
+  "contextId": "enem_2018_linguagens_14_ctx1",
+  "contextIds": null,
+  "language": null
+}

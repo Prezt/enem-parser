@@ -1,0 +1,24 @@
+{
+  "number": 132,
+  "text": "As abelhas utilizam a sinalização química para distinguir a abelha-rainha de uma operária, sendo capazes de reconhecer diferenças entre moléculas. A rainha produz o sinalizador químico conhecido como ácido 9-hidroxidec-2-enoico, enquanto as abelhas-operárias produzem ácido 10-hidroxidec-2-enoico. Nós podemos distinguir as abelhas-operárias e rainha por sua aparência, mas, entre si, elas usam essa sinalização química para perceber a diferença. Pode-se dizer que veem por meio da química.\n\nAs moléculas dos sinalizadores químicos produzidas pelas abelhas rainha e operária possuem diferença na",
+  "alternatives": {
+    "a": "fórmula estrutural.",
+    "b": "fórmula molecular.",
+    "c": "identificação dos tipos de ligação.",
+    "d": "contagem do número de carbonos.",
+    "e": "identificação dos grupos funcionais."
+  },
+  "answer": "a",
+  "tags": [
+    "química orgânica",
+    "química geral e inorgânica"
+  ],
+  "year": 2018,
+  "test": "ENEM",
+  "area": "nature",
+  "difficulty": 6,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

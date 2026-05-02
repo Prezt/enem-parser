@@ -1,0 +1,24 @@
+{
+  "number": 16,
+  "text": "Mandioca, macaxeira, aipim e castelinha são nome diferentes da mesma planta. Semáforo, sinaleiro e farol também significam a mesma coisa. O que muda é só hábito cultural de cada região. A mesma coisa acontece com a Língua Brasileira de Sinais (Libras). Embora ela seja a comunicação oficial da comunidade surda no Brasil, existem sinais que variam em relação à região, à idade e ao gênero de quem se comunica. A cor verde, por exemplo, possui sinais diferentes no Rio de Janeiro, Paraná e São Paulo. São os regionalismos na língua de sinais. Essas variações são um dos temas da disciplina Linguística na língua de sinais, oferecida pela Universidade Estadual Paulista (Unesp) ao longo do segundo semestre. “Muitas pessoas pensam que a língua de sinais é universal o que não é verdade”, explica a professora e chefe do Departamento de Linguística, Literatura e Letras Clássicas da Unesp. “Mesmo dentro de um mesmo país, ela sofre variação em relação à localização geográfica, à faixa etária e até ao gênero dos usuários”, completa a especialista. Os surdos podem criar sinais diferentes para identificar lugares, objetos e conceitos. Em São Paulo, o sinal da “cerveja” é feito com um giro do punho como uma meia-volta. Em Minas, a bebida é citada quando os dedos indicador e médio batem no lado do rosto. Também ocorrem mudanças históricas. Um sinal pode sofrer alterações decorrentes dos costumes da geração que o utiliza.",
+  "alternatives": {
+    "a": "passa por fenômenos de variação linguística com qualquer outra língua.",
+    "b": "apresenta variações regionais, assumindo novos sentidos para algumas palavras.",
+    "c": "sofre mudança estrutural motivada pelo uso de sinais diferentes para algumas palavras.",
+    "d": "diferencia-se em todo o Brasil, desenvolvendo cada região a sua própria língua de sinais.",
+    "e": "é ininteligível para parte dos usuários em razão das mudanças de sinais motivadas geograficamente."
+  },
+  "answer": "a",
+  "tags": [
+    "linguística",
+    "libras",
+    "regionalismo"
+  ],
+  "year": 2023,
+  "test": "ENEM",
+  "area": "linguagens",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

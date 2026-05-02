@@ -1,0 +1,23 @@
+{
+  "number": 172,
+  "text": "Um casal planeja construir em sua chácara um piscina com o formato de um paralelepípedo retângulo com capacidade para 90 000 L de água. O casal contratou uma empresa de construções que apresentou cinco projetos com diferentes combinações nas dimensões internas de profundidade, largura e comprimento. A piscina a ser construída terá revestimento interno em suas paredes e fundo com um mesma cerâmica, e o casal irá escolher o projeto que exija a menor área de revestimento.",
+  "alternatives": {
+    "a": "I",
+    "b": "II",
+    "c": "III",
+    "d": "IV",
+    "e": "V"
+  },
+  "answer": "b",
+  "tags": [
+    "geometria",
+    "volume"
+  ],
+  "year": 2022,
+  "test": "ENEM",
+  "area": "math",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

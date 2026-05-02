@@ -1,0 +1,23 @@
+{
+  "number": 169,
+  "text": "O esquema mostra como a intensidade luminosa decresce com o aumento da profundade em um rio sendo  L  a intensidade na sua superfície. Considere que a intensidade luminosa diminui, a cada metro acrescido na profundade, segundo o mesmo padrão do esquema. A intensidade luminosa correspondente à profundidade de 6 m é igual a",
+  "alternatives": {
+    "a": "L / 9",
+    "b": "L / 27",
+    "c": "L / 81",
+    "d": "L / 243",
+    "e": "L / 729"
+  },
+  "answer": "d",
+  "tags": [
+    "geometria",
+    "proporção"
+  ],
+  "year": 2023,
+  "test": "ENEM",
+  "area": "math",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

@@ -1,0 +1,25 @@
+{
+  "number": 36,
+  "text": "O sujeito poético questiona o uso do vocábulo \"enseada\" porque a",
+  "alternatives": {
+    "a": "terminologia mencionada é incorreta.",
+    "b": "nomeação minimiza a percepção subjetiva.",
+    "c": "palavra é aplicada a outro espaço geográfico.",
+    "d": "designação atribuída ao termo é desconhecida.",
+    "e": "definição modifica o significado do termo no dicionário."
+  },
+  "answer": "b",
+  "tags": [
+    "interpretação de texto",
+    "gêneros textuais",
+    "literatura brasileira"
+  ],
+  "year": 2018,
+  "test": "ENEM",
+  "area": "linguagens",
+  "difficulty": 5,
+  "images": [],
+  "contextId": "enem_2018_linguagens_ctx1",
+  "contextIds": null,
+  "language": null
+}

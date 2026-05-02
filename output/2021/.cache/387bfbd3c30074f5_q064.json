@@ -1,0 +1,21 @@
+{
+  "number": 64,
+  "text": "The text contains severely corrupted content with incomplete sentences, random characters, and formatting artifacts that prevent clear extraction of a coherent question stem and alternatives.",
+  "alternatives": {
+    "a": "[UNRECOVERABLE]",
+    "b": "[UNRECOVERABLE]",
+    "c": "[UNRECOVERABLE]",
+    "d": "[UNRECOVERABLE]",
+    "e": "[UNRECOVERABLE]"
+  },
+  "answer": "c",
+  "tags": [],
+  "year": 2021,
+  "test": "ENEM",
+  "area": "humanas",
+  "difficulty": 5,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

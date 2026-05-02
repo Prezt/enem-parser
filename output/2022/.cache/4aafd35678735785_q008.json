@@ -1,0 +1,25 @@
+{
+  "number": 8,
+  "text": "[Figura] A ideia é que, em vez de perguntar sobre a aparência das personagens, as questões sejam direcionadas aos feitos delas: ganhou algum Nobel, fez alguma descoberta?",
+  "alternatives": {
+    "a": "contribuir para a formação cidadã dos jogadores.",
+    "b": "refutar modelos estereotipados de beleza e elegância.",
+    "c": "estimular a competitividade entre potenciais compradores.",
+    "d": "exemplificar estratégias de arrecadação financeira pela internet.",
+    "e": "desenvolver conhecimentos lúdicos específicos dos tempos atuais."
+  },
+  "answer": "a",
+  "tags": [
+    "jogos",
+    "gênero textual"
+  ],
+  "year": 2022,
+  "test": "ENEM",
+  "area": "linguagens",
+  "images": [
+    "figuras/q008_2022_fig1.png"
+  ],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

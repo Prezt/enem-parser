@@ -1,0 +1,24 @@
+{
+  "number": 157,
+  "text": "Uma construtora de imóveis em uma metrópole com cinco grandes regiões fez uma pesquisa sobre a quantidade de famílias que se mudaram de uma região para outra durante um certo período. Os dados foram organizados em uma matriz A, em que o elemento aij corresponde ao total de famílias que se mudaram da região i para a região j, e o elemento aii é considerado como o total de famílias que não saíram da região i. A seguir, está apresentada a matriz com os dados da pesquisa:\n\n0 4 2 2 5\n0 0 6 2 3\nA = 2 2 0 3 0\n1 0 2 0 4\n1 2 0 4 0\n\nQual é o índice da região que teve o maior fluxo de famílias mudando para outras regiões, ou seja, qual região i apresenta o maior valor de somatório de aij para j ≠ i?",
+  "alternatives": {
+    "a": "1",
+    "b": "2",
+    "c": "3",
+    "d": "4",
+    "e": "5"
+  },
+  "answer": "e",
+  "tags": [
+    "álgebra",
+    "análise combinatória"
+  ],
+  "year": 2021,
+  "test": "ENEM",
+  "area": "math",
+  "difficulty": 5,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

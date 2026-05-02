@@ -1,0 +1,24 @@
+{
+  "number": 64,
+  "text": "A prática histórico-cultural de matriz africana descrita no texto representava um(a)",
+  "alternatives": {
+    "a": "expressão do valor das festividades da população pobre.",
+    "b": "ferramenta para submeter os cativos ao trabalho forçado.",
+    "c": "estratégia de subversão do poder da monarquia portuguesa.",
+    "d": "elemento de conversão dos escravos ao catolicismo romano.",
+    "e": "instrumento para minimizar o sentimento de desamparo social."
+  },
+  "answer": "e",
+  "tags": [
+    "história do brasil colonial",
+    "cultura e identidade"
+  ],
+  "year": 2018,
+  "test": "ENEM",
+  "area": "humanas",
+  "difficulty": 5,
+  "images": [],
+  "contextId": "enem_2018_humanas_q64_ctx1",
+  "contextIds": null,
+  "language": null
+}

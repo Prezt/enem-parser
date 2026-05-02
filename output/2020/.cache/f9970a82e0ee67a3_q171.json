@@ -1,0 +1,24 @@
+{
+  "number": 171,
+  "text": "Azulejo designa peça de cerâmica vitrificada e/ou smaltada usada, sobretudo, no revestimento de paredes. A origem das técnicas de fabricação de azulejos é oriental, mas sua expansão pela Europa traz consigo uma diversificação de estilos, padrões e usos, que podem ser decorativos, utilitários e arquitetônicos. Azulejos no formato de octógonos regulares serão utilizados para cobrir um painel retangular conforme ilustrado na figura. Entre os octógonos e na borda lateral dessa área, será necessária a colocação de 15 azulejos de outros formatos para preencher os 15 espaços em branco do painel. Uma loja oferece azulejos nos seguintes formatos: Triângulo retângulo isósceles; Triângulo equilátero; Quadrado. Os azulejos necessários para o devido preenchimento das áreas em branco desse painel são os de formato",
+  "alternatives": {
+    "a": "1",
+    "b": "3",
+    "c": "1 e 2",
+    "d": "1 e 3",
+    "e": "2 e 3"
+  },
+  "answer": "d",
+  "tags": [
+    "geometria plana",
+    "análise combinatória"
+  ],
+  "year": 2020,
+  "test": "ENEM",
+  "area": "math",
+  "difficulty": 6,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

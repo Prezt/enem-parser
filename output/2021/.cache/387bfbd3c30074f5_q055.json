@@ -1,0 +1,23 @@
+{
+  "number": 55,
+  "text": "Questão com texto corrompido — impossível extrair conteúdo legível.",
+  "alternatives": {
+    "a": "Conteúdo ilegível",
+    "b": "Conteúdo ilegível",
+    "c": "Conteúdo ilegível",
+    "d": "Conteúdo ilegível",
+    "e": "Conteúdo ilegível"
+  },
+  "answer": "e",
+  "tags": [
+    "filosofia e sociologia"
+  ],
+  "year": 2021,
+  "test": "ENEM",
+  "area": "humanas",
+  "difficulty": 5,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

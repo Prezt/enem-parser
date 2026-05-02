@@ -1,0 +1,25 @@
+{
+  "number": 35,
+  "text": "Os jogos eletrônicos presentes na cultura juvenil podem desempenhar uma relevante função na abordagem do futebol ao",
+  "alternatives": {
+    "a": "disseminarem uma modalidade, promovendo a igualdade de gênero.",
+    "b": "superarem jogos malsucedidos no mercado, lançados anteriormente.",
+    "c": "inovarem a modalidade com novas ofertas de jogos ao mercado.",
+    "d": "explorarem nichos de mercado antes ignorados, produzindo mais lucro.",
+    "e": "reforçarem estereótipos de gênero masculino ou feminino nos esportes."
+  },
+  "answer": "a",
+  "tags": [
+    "interpretação de texto",
+    "gêneros textuais",
+    "comunicação e mídia"
+  ],
+  "year": 2020,
+  "test": "ENEM",
+  "area": "linguagens",
+  "difficulty": 5,
+  "images": [],
+  "contextId": "enem_2020_linguagens_35_ctx1",
+  "contextIds": null,
+  "language": null
+}

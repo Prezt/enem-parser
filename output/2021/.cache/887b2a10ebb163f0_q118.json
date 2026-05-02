@@ -1,0 +1,24 @@
+{
+  "number": 118,
+  "text": "A forma de combate relatada tem como atividade o(a)",
+  "alternatives": {
+    "a": "morte do indivíduo adulto",
+    "b": "esterilização do macho transmissor",
+    "c": "comprometimento da metamorfose",
+    "d": "impedimento do desenvolvimento da larva",
+    "e": "repelência da forma transmissora da doença"
+  },
+  "answer": "d",
+  "tags": [
+    "biologia",
+    "microbiologia e imunologia"
+  ],
+  "year": 2021,
+  "test": "ENEM",
+  "area": "nature",
+  "difficulty": 5,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

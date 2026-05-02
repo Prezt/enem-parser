@@ -1,0 +1,23 @@
+{
+  "number": 5,
+  "text": "No texto, as palavras “crianza” e “tribu” são usadas para",
+  "alternatives": {
+    "a": "evidenciar a importância de uma rede de apoio par as mães na criação de seus filhos.",
+    "b": "denunciar a disparidade entre o trabalho das mães d diferentes classes sociais.",
+    "c": "resaltar o fechamento de escolas e creches durante o período pandêmico.",
+    "d": "ratificar a romantização da dedicação das mães n educação das crianças.",
+    "e": "enfatizar a proteção aos filhos em razão do isolament social das famílias."
+  },
+  "answer": "e",
+  "tags": [
+    "maternidade",
+    "sociedade"
+  ],
+  "year": 2022,
+  "test": "ENEM",
+  "area": "linguagens",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

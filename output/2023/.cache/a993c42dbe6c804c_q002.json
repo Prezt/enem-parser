@@ -1,0 +1,23 @@
+{
+  "number": 2,
+  "text": "Me niego rotundamente\nA negar mi voz,\nMi sangre y mi piel.\nY me niego rotundamente\nA dejar de ser yo,\nA dejar de sentirme bien\nCuando miro mi rostro en el espejo\nCon mi boca\nRotundamente grande,\nY mi nariz\nRotundamente hermosa,\nY mis dientes\nRotundamente blancos,\nY mi piel valientemente negra.\nY me niego categóricamente\nA dejar de hablar\nMi lengua, mi acento y mi historia.\nY me niego absolutamente\nA ser parte de los que callan,\nde los que temen,\nde los que lloran.\nPorque me acepto\nRotundamente libre,\nRotundamente negra,\nRotundamente hermosa.",
+  "alternatives": {
+    "a": "advérbios como “ rotundamente ” e “ categóricamente ”.",
+    "b": "verbos reflexivos como “ me niego ” e “ me acepto ”.",
+    "c": "adjetivos como “ grande ” e “ hermosa ”.",
+    "d": "substantivos como “ sangre ” e “ piel ”.",
+    "e": "adjetivos possessivos como “ mi ” e “ mis ”."
+  },
+  "answer": null,
+  "tags": [
+    "poesia",
+    "identidade cultural"
+  ],
+  "year": 2023,
+  "test": "ENEM",
+  "area": "linguagens",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

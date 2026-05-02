@@ -1,0 +1,24 @@
+{
+  "number": 17,
+  "text": "Sua ousadia consistiu em pronunciar a palavra",
+  "alternatives": {
+    "a": "[Source text corrupted - unrecoverable]",
+    "b": "[Source text corrupted - unrecoverable]",
+    "c": "[Source text corrupted - unrecoverable]",
+    "d": "[Source text corrupted - unrecoverable]",
+    "e": "[Source text corrupted - unrecoverable]"
+  },
+  "answer": "e",
+  "tags": [
+    "interpretação de texto",
+    "linguística e variação linguística"
+  ],
+  "year": 2021,
+  "test": "ENEM",
+  "area": "linguagens",
+  "difficulty": 5,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

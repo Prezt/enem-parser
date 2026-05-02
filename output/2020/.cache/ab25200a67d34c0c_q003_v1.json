@@ -1,0 +1,24 @@
+{
+  "number": 3,
+  "text": "Nessa resenha crítica acerca do filme Relatos Salvajes, o autor evidencia o",
+  "alternatives": {
+    "a": "cômico como fuga da sociedade diante de situações violentas.",
+    "b": "estado de apatia da sociedade perante a violência rotineira do mundo atual.",
+    "c": "empecilho para o espectador vivenciar a violência bruta na realidade e na ficção.",
+    "d": "sotaque reforçado dos personagens a fim de marcar o espaço do cinema argentino.",
+    "e": "autorreconhecimento diante dos diversos tipos de comportamento humano frente à violência."
+  },
+  "answer": "e",
+  "tags": [
+    "interpretação de texto",
+    "gêneros textuais"
+  ],
+  "year": 2020,
+  "test": "ENEM",
+  "area": "linguagens",
+  "difficulty": 6,
+  "images": [],
+  "contextId": "enem_2020_linguagens_es_ctx3",
+  "contextIds": null,
+  "language": "es"
+}

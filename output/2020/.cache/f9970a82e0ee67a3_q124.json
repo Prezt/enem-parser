@@ -1,0 +1,25 @@
+{
+  "number": 124,
+  "text": "Em 2011, uma falha no processo de perfuração realizado por uma empresa petrolífera ocasionou derramamento de petróleo na bacia hidrográfica de Campos, no Rio de Janeiro. Os impactos decorrentes desse derramamento ocorrem porque os componentes do petróleo",
+  "alternatives": {
+    "a": "reagem com a água do mar e sofrem degradação, gerando compostos com elevada toxicidade.",
+    "b": "acidificam o meio, promovendo o desgaste das conchas calcárias de moluscos e a morte de corais.",
+    "c": "dissolvem-se na água, causando a mortandade dos seres marinhos por ingestão da água contaminada.",
+    "d": "têm caráter hidrofóbico e baixa densidade, impedindo as trocas gasosas entre o meio aquático e a atmosfera.",
+    "e": "têm cadeia pequena e elevada volatilidade, contaminando a atmosfera local e regional em função dos ventos nas orlas marítimas."
+  },
+  "answer": "d",
+  "tags": [
+    "ecologia",
+    "química orgânica",
+    "meio ambiente e sustentabilidade"
+  ],
+  "year": 2020,
+  "test": "ENEM",
+  "area": "nature",
+  "difficulty": 6,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

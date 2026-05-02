@@ -1,0 +1,26 @@
+{
+  "number": 39,
+  "text": "[Figura: obra minimalista] De acordo com os textos I e II, compreende-se que a obra minimalista é uma [Gráfico - características]",
+  "alternatives": {
+    "a": "representação da simplicidade pelo artista",
+    "b": "exploração da técnica da escultura cubista",
+    "c": "valorização do cotidiano por meio da geometria",
+    "d": "utilização da complexidade dos elementos formais",
+    "e": "combinação de formas sintéticas no espaço utilizado"
+  },
+  "answer": "e",
+  "tags": [
+    "arte",
+    "minimalismo"
+  ],
+  "year": 2022,
+  "test": "ENEM",
+  "area": "linguagens",
+  "images": [
+    "figuras/q039_2022_fig1.png",
+    "figuras/q039_2022_fig2.png"
+  ],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

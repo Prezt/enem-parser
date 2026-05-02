@@ -1,0 +1,23 @@
+{
+  "number": 175,
+  "text": "Ao escutar a notícia de que um filme recém-lançado arrecadou, no primeiro mês de lançamento, R$ 1,35 bilhão em bilheteria, um estudante escreveu corretamente o número que representa essa quantia, com todos os seus algarismos. O número escrito pelo estudante foi",
+  "alternatives": {
+    "a": "135 000,00.",
+    "b": "1 350 000,00.",
+    "c": "13 500 000,00.",
+    "d": "135 000 000,00.",
+    "e": "1 350 000 000,00."
+  },
+  "answer": "e",
+  "tags": [
+    "números",
+    "notação numérica"
+  ],
+  "year": 2022,
+  "test": "ENEM",
+  "area": "math",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

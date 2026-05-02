@@ -1,0 +1,25 @@
+{
+  "number": 78,
+  "text": "[Figura: Possível trajeto do voo MH370 da Malaysia Airlines antes da queda, em 2014]",
+  "alternatives": {
+    "a": "1 : 12 500",
+    "b": "1 : 125 000",
+    "c": "1 : 1 250 000",
+    "d": "1 : 12 500 000",
+    "e": "1 : 125 000 000"
+  },
+  "answer": "e",
+  "tags": [
+    "geografia",
+    "matemática"
+  ],
+  "year": 2022,
+  "test": "ENEM",
+  "area": "humanas",
+  "images": [
+    "figuras/q078_2022_fig1.png"
+  ],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

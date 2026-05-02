@@ -1,0 +1,24 @@
+{
+  "number": 175,
+  "text": "Uma construtora pretende conectar um reservatório central (R) em formato de um cilindro, com raio interno igual a 2 m e altura interna igual a 3,30 m, a quatro reservatórios cilíndricos auxiliares (R₁, R₂, R₃ e R₄) os quais possuem raios internos e alturas interna medindo 1,5 m.\n\nAs ligações entre o reservatório central e o auxiliares são feitas por canos cilíndricos com 0,10 m de diâmetro interno e 20 m de comprimento, conectado próximos às bases de cada reservatório. Na conexão de cada um desses canos com o reservatório central há registros que liberam ou interrompem o fluxo de água.\n\nNo momento em que o reservatório central está cheio e os auxiliares estão vazios, abrem-se os quatro registros e, após algum tempo, as alturas das coluna de água nos reservatórios se igualam, assim que cessa o fluxo de água entre eles, pelo princípio dos vaso comunicantes.\n\nA medida, em metro, das alturas das colunas de água nos reservatórios auxiliares, após cessar o fluxo de água entre eles, é",
+  "alternatives": {
+    "a": "1,44",
+    "b": "1,16",
+    "c": "1,10",
+    "d": "1,00",
+    "e": "0,95"
+  },
+  "answer": "d",
+  "tags": [
+    "geometria espacial",
+    "álgebra"
+  ],
+  "year": 2019,
+  "test": "ENEM",
+  "area": "math",
+  "difficulty": 7,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

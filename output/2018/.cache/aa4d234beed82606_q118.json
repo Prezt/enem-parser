@@ -1,0 +1,26 @@
+{
+  "number": 118,
+  "text": "Alguns materiais sólidos são compostos por átomos que interagem entre si formando ligações que podem ser covalentes, iônicas ou metálicas. A figura apresenta a energia potencial de ligação em função da distância interatômica em um sólido cristalino. Analisando essa figura, observa-se que, na temperatura de zero kelvin, a distância de equilíbrio da ligação entre os átomos (R₀) corresponde ao valor mínimo de energia potencial. Acima dessa temperatura, a energia térmica fornecida aos átomos aumenta sua energia cinética e faz com que eles oscilem em torno de uma posição de equilíbrio média (círculos cheios), que é diferente para cada temperatura. A distância de ligação pode variar sobre toda a extensão das linhas horizontais, identificadas com o valor da temperatura, de T₁ a T₄ (temperaturas crescentes).\n\n[Figura: Gráfico de energia potencial de ligação versus distância interatômica, mostrando curva de potencial e linhas horizontais para diferentes temperaturas T=0K, T₁, T₂, T₃, T₄]\n\nO deslocamento observado na distância média revela o fenômeno da",
+  "alternatives": {
+    "a": "ionização.",
+    "b": "dilatação.",
+    "c": "dissociação.",
+    "d": "quebra de ligações covalentes.",
+    "e": "formação de ligações metálicas."
+  },
+  "answer": "b",
+  "tags": [
+    "química geral e inorgânica",
+    "termoquímica e cinética"
+  ],
+  "year": 2018,
+  "test": "ENEM",
+  "area": "nature",
+  "difficulty": 6,
+  "images": [
+    "figuras/q118_2018_fig1.png"
+  ],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

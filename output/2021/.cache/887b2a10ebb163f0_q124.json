@@ -1,0 +1,24 @@
+{
+  "number": 124,
+  "text": "O emprego de células de combustível a hidrogênio apresenta diferentes tecnologias. A tecnologia testada mais adequada para o emprego em meio ácido é:",
+  "alternatives": {
+    "a": "AFC",
+    "b": "MSFC",
+    "c": "PEM",
+    "d": "PAFC",
+    "e": "SOFC"
+  },
+  "answer": "c",
+  "tags": [
+    "química geral e inorgânica",
+    "eletroquímica"
+  ],
+  "year": 2021,
+  "test": "ENEM",
+  "area": "nature",
+  "difficulty": 6,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

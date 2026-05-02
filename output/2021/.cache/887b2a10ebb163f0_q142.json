@@ -1,0 +1,24 @@
+{
+  "number": 142,
+  "text": "Um organizador de um campeonato de dardos pretende tornar o campeonato mais competitivo. Um jogador lança 3 dardos e pontua caso acerte pelo menos um deles no alvo. O organizador considera que, em média, os jogadores têm, em cada lançamento, 1/2 de probabilidade de acertar um dardo no alvo. Deseja modificar as regras de modo que a probabilidade de um jogador pontuar em uma rodada seja igual ou superior a 9/10. Para isso, decide aumentar a quantidade de dardos a serem lançados em cada rodada. Com base nos valores considerados pelo organizador da competição, qual é o número mínimo de dardos que deverão ser disponibilizados em uma rodada para tornar o jogo mais atrativo?",
+  "alternatives": {
+    "a": "2",
+    "b": "4",
+    "c": "6",
+    "d": "9",
+    "e": "10"
+  },
+  "answer": "b",
+  "tags": [
+    "probabilidade",
+    "análise combinatória"
+  ],
+  "year": 2021,
+  "test": "ENEM",
+  "area": "math",
+  "difficulty": 7,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

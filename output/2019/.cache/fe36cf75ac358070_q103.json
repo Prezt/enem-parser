@@ -1,0 +1,24 @@
+{
+  "number": 103,
+  "text": "Estudos mostram o desenvolvimento de biochips utilizados para auxiliar o diagnóstico de diabetes melito, doença evidenciada pelo excesso de glicose no organismo. O teste é simples e consiste em duas reações sequenciais na superfície do biochip, entre a amostra de soro sanguíneo do paciente, enzimas específicas e reagente (iodeto de potássio, KI), conforme mostrado na imagem.\n\nApós a adição de soro sanguíneo, o fluxo desloca-se espontaneamente da esquerda para a direita promovendo reações sequenciais, conforme as equações 1 e 2. Na primeira, há conversão de glicose do sangue em ácido glucônico, gerando peróxido de hidrogênio:\n\nEquação 1\nC₆H₁₂O₆ (aq) + O₂ (g) + H₂O (l) → C₆H₁₂O₇ (aq) + H₂O₂ (aq)\nEnzimas\n\nNa segunda, o peróxido de hidrogênio reage com íons iodeto gerando o íon tri-iodeto, água e oxigênio.\n\nEquação 2\n2 H₂O₂ (aq) + 3 I⁻ (aq) → I₃⁻ (aq) + 2 H₂O (l) + O₂ (g)\n\nO tipo de reação que ocorre na superfície do biochip, nas duas reações do processo, é",
+  "alternatives": {
+    "a": "análise",
+    "b": "síntese",
+    "c": "oxirredução",
+    "d": "complexação",
+    "e": "ácido-base"
+  },
+  "answer": "c",
+  "tags": [
+    "química geral e inorgânica",
+    "eletroquímica"
+  ],
+  "year": 2019,
+  "test": "ENEM",
+  "area": "nature",
+  "difficulty": 6,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

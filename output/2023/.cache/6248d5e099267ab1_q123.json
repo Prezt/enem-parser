@@ -1,0 +1,23 @@
+{
+  "number": 123,
+  "text": "Entre os medicamentos mais comuns consumidos com ação anti-inflamatória e efeito analgésico, que é co a mistura com outro isômero óptico. A fórmula estrutural do ibuprofeno é dada como: Ibu Além do ibuprofeno, destacam-se também os princípios ativos para o alívio da dor: H N O O HO Fenacetina Parace Cl NH − Cl Na O O Diclofenaco sódico O princípio ativo que apresenta o mesmo tipo de isomer",
+  "alternatives": {
+    "a": "fenacetina.",
+    "b": "paracetamol.",
+    "c": "dipirona sódica.",
+    "d": "diclofenaco sódico.",
+    "e": "butilbrometo de escopolamina."
+  },
+  "answer": "e",
+  "tags": [
+    "medicamentos",
+    "química"
+  ],
+  "year": 2023,
+  "test": "ENEM",
+  "area": "nature",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

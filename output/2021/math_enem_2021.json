@@ -1,0 +1,952 @@
+[
+  {
+    "number": 136,
+    "text": "Um segmento de reta está dividido em duas partes na proporção áurea. Essa constante de proporcionalidade é comumente representada pela letra grega φ (phi) e atende à equação φ² = φ + 1, cujas potências superiores de φ podem ser expressas pela forma φⁿ = aφ + b, em que a e b são números inteiros, conforme apresentado no quadro.\n\n[Tabela - Potências de φ com valores de n, aₙ, bₙ]\nn | 2 | 3 | 4 | 5 | 6 | 7 |\naₙ | 1 | 2 | 3 | 5 | 8 | … |\nbₙ | 1 | 2 | 3 | 5 | 8 | … |\n\nA potência φ⁷, escrita na forma aφ + b (a e b inteiros positivos), é",
+    "alternatives": {
+      "a": "8φ + 5",
+      "b": "13φ + 8",
+      "c": "21φ + 13",
+      "d": "34φ + 21",
+      "e": "55φ + 34"
+    },
+    "images": [],
+    "tags": [
+      "sequências e progressões",
+      "álgebra"
+    ],
+    "difficulty": 6,
+    "year": 2021,
+    "test": "ENEM",
+    "area": "math",
+    "answer": "e"
+  },
+  {
+    "number": 137,
+    "text": "Considere um visitante que se deslocou pelo interior do Atomium sempre em linha reta e seguindo o menor trajeto entre dois vértices, passando por todas as arestas e todas as diagonais do cubo. A distância total percorrido por esse visitante é representada por",
+    "alternatives": {
+      "a": "A",
+      "b": "B",
+      "c": "C",
+      "d": "D",
+      "e": "E"
+    },
+    "images": [],
+    "tags": [
+      "geometria espacial",
+      "análise combinatória"
+    ],
+    "difficulty": 7,
+    "year": 2021,
+    "test": "ENEM",
+    "area": "math",
+    "answer": "e"
+  },
+  {
+    "number": 138,
+    "text": "Com base na tabela apresentada, qual é a mediana do número de títulos conquistados pelos clubes listados?",
+    "alternatives": {
+      "a": "1",
+      "b": "2",
+      "c": "3",
+      "d": "4",
+      "e": "5"
+    },
+    "images": [],
+    "tags": [
+      "estatística",
+      "aritmética e números"
+    ],
+    "difficulty": 4,
+    "year": 2021,
+    "test": "ENEM",
+    "area": "math",
+    "answer": "annulled",
+    "contextId": "enem_2021_math_ctx1"
+  },
+  {
+    "number": 139,
+    "text": "Uma rede de hamburgueria tem três franquias em cidades distintas. Visando incluir um novo tipo de lanche no cardápio, o gerente de marketing da rede sugeriu que fossem colocados à venda cinco novos tipos de lanche em edições especiais. Os lanches foram oferecidos pelo mesmo período de tempo em todos os franqueados. O tipo que apresentasse a maior média por franquia seria incluído no cardápio. Ao final do período de experiência, a gerência recebeu um relatório descrevendo as quantidades vendidas, em unidade, de cada um dos cinco tipos de lanche nas três franquias.\n\n| Lanche | Lanche | Lanche | Lanche | Lanche |\n|--------|--------|--------|--------|--------|\n| I      | II     | III    | IV     | V      |\n| 415    | 395    | 425    | 430    | 435    |\n| 415    | 445    | 425    | 425    | 425    |\n| 415    | 390    | 425    | 433    | 420    |\n\nCom base nessas informações, a gerência decidiu incluir no cardápio o lanche de tipo",
+    "alternatives": {
+      "a": "I",
+      "b": "II",
+      "c": "III",
+      "d": "IV",
+      "e": "V"
+    },
+    "images": [],
+    "tags": [
+      "estatística"
+    ],
+    "difficulty": 3,
+    "year": 2021,
+    "test": "ENEM",
+    "area": "math",
+    "answer": "e"
+  },
+  {
+    "number": 140,
+    "text": "Uma grande rede de supermercados adota um sistema de comissão para seus representantes, considerando a média de faturamento mensal em um dado ano. Segundo esse sistema, o percentual de comissão varia conforme a média de faturamento mensal (M), conforme apresentado no quadro:\n\nComissão conforme a média de faturamento mensal (M):\n  - 0%: M < 2\n  - 5%: 2 ≤ M < 4\n  - 10%: 4 ≤ M < 5\n  - 15%: 5 ≤ M < 6\n  - 20%: M ≥ 6\n\nUm supermercado da rede obteve os seguintes faturamentos num dado ano:\n\nFaturamento mensal (em milhão de real) | Quantidade de meses\n  - 3,5: 3\n  - 2,5: 2\n  - 5: 2\n  - 3: 4\n  - 4,5: 1\n\nNas condições apresentadas, os representantes desse supermercado receberão uma comissão de qual percentual?",
+    "alternatives": {
+      "a": "0%",
+      "b": "5%",
+      "c": "10%",
+      "d": "15%",
+      "e": "20%"
+    },
+    "images": [],
+    "tags": [
+      "aritmética e números",
+      "estatística"
+    ],
+    "difficulty": 5,
+    "year": 2021,
+    "test": "ENEM",
+    "area": "math",
+    "answer": "b"
+  },
+  {
+    "number": 141,
+    "text": "Aplicativos que gerenciam serviços de hospedagem permitem ao hóspede fazer uma reserva e calcular o preço total a ser pago pela hospedagem. Em um desses aplicativos, o preço P a ser pago pela hospedagem é calculado considerando um preço por diária d, a quantidade de diárias n e a cobrança de uma taxa de serviço. Essa taxa de serviço é um valor percentual s calculado sobre o valor pago pelo total das diárias. Qual é a expressão algébrica que calcula o preço total P da hospedagem, em função de d, n, s e da taxa de serviço em reais L?",
+    "alternatives": {
+      "a": "P = d · n + L + d · n · s",
+      "b": "P = d · n + L + d · s",
+      "c": "P = d + L + s",
+      "d": "P = d · n · s + L",
+      "e": "P = d · n + L + s"
+    },
+    "images": [],
+    "tags": [
+      "álgebra",
+      "matemática financeira"
+    ],
+    "difficulty": 3,
+    "year": 2021,
+    "test": "ENEM",
+    "area": "math",
+    "answer": "a"
+  },
+  {
+    "number": 142,
+    "text": "Um organizador de um campeonato de dardos pretende tornar o campeonato mais competitivo. Um jogador lança 3 dardos e pontua caso acerte pelo menos um deles no alvo. O organizador considera que, em média, os jogadores têm, em cada lançamento, 1/2 de probabilidade de acertar um dardo no alvo. Deseja modificar as regras de modo que a probabilidade de um jogador pontuar em uma rodada seja igual ou superior a 9/10. Para isso, decide aumentar a quantidade de dardos a serem lançados em cada rodada. Com base nos valores considerados pelo organizador da competição, qual é o número mínimo de dardos que deverão ser disponibilizados em uma rodada para tornar o jogo mais atrativo?",
+    "alternatives": {
+      "a": "2",
+      "b": "4",
+      "c": "6",
+      "d": "9",
+      "e": "10"
+    },
+    "images": [],
+    "tags": [
+      "probabilidade",
+      "análise combinatória"
+    ],
+    "difficulty": 7,
+    "year": 2021,
+    "test": "ENEM",
+    "area": "math",
+    "answer": "b"
+  },
+  {
+    "number": 143,
+    "text": "A tabela e o gráfico abaixo mostram o nível dos reservatórios de água que abasteciam uma cidade em 2 de fevereiro de 2015. Nessa data, o reservatório com o maior volume de água era o",
+    "alternatives": {
+      "a": "I",
+      "b": "II",
+      "c": "III",
+      "d": "IV",
+      "e": "V"
+    },
+    "images": [],
+    "tags": [
+      "aritmética e números",
+      "análise de dados"
+    ],
+    "difficulty": 3,
+    "year": 2021,
+    "test": "ENEM",
+    "area": "math",
+    "answer": "d"
+  },
+  {
+    "number": 144,
+    "text": "Uma pessoa realizou uma pesquisa com alguns alunos de uma escola, coletando suas idades, e organizou os dados em um gráfico de barras. Qual é a média das idades, em ano, desses alunos?",
+    "alternatives": {
+      "a": "9/6",
+      "b": "12/9",
+      "c": "18",
+      "d": "19",
+      "e": "20"
+    },
+    "images": [],
+    "tags": [
+      "estatística",
+      "aritmética e números"
+    ],
+    "difficulty": 4,
+    "year": 2021,
+    "test": "ENEM",
+    "area": "math",
+    "answer": "d"
+  },
+  {
+    "number": 145,
+    "text": "A quantidade de pessoas entrevistadas de cada faixa etária está representada no quadro a seguir.\n\n| Faixa etária | Percentual de entrevistados |\n|---|---|\n| De 10 a 24 anos | x |\n| Entre 24 e 60 anos | y |\n| A partir de 60 anos | x |\n\nOs valores de x e y são, respectivamente,",
+    "alternatives": {
+      "a": "10 e 80",
+      "b": "10 e 90",
+      "c": "20 e 60",
+      "d": "20 e 80",
+      "e": "25 e 50"
+    },
+    "images": [],
+    "tags": [
+      "aritmética e números",
+      "estatística"
+    ],
+    "difficulty": 3,
+    "year": 2021,
+    "test": "ENEM",
+    "area": "math",
+    "answer": "c"
+  },
+  {
+    "number": 146,
+    "text": "Um zootecnista selecionou uma amostra de coelhos e deseja estimar a massa média desses animais. Ele sabe que a massa de cada coelho está relacionada ao tipo de alimentação e ao tempo de vida do animal. O zootecnista constatou que nessa amostra todos os coelhos foram criados nas mesmas condições e com a mesma idade e três meses. Para essa amostra, o zootecnista calculou o coeficiente de variação (CV) que é uma medida de variabilidade relativa dada pela expressão CV = s/x, em que s representa o desvio padrão e x a média das massas dos coelhos que compõem a amostra. Examinando essa amostra, o zootecnista constatou que o coeficiente de variação das massas dos coelhos que foram alimentados com a ração A foi igual a 8%. Além disso, constatou que a média das massas dos coelhos dessa amostra foi de 6,0 kg e o desvio padrão foi de 0,48 kg. Se a média da massa dos coelhos da amostra, em quilograma, for superior a qual valor?",
+    "alternatives": {
+      "a": "5,0",
+      "b": "9,5",
+      "c": "10,0",
+      "d": "10,5",
+      "e": "15,0"
+    },
+    "images": [],
+    "tags": [
+      "estatística",
+      "matemática financeira"
+    ],
+    "difficulty": 6,
+    "year": 2021,
+    "test": "ENEM",
+    "area": "math",
+    "answer": "e"
+  },
+  {
+    "number": 147,
+    "text": "Para quebrar um código de cifra de deslocamento, realiza-se uma análise de frequência das letras no texto cifrado e compara-se com a frequência esperada das letras na língua original. Uma análise do texto do romance O Guarani, de José de Alencar, forneceu a frequência das letras apresentada no gráfico. Considerando que o código foi feito com deslocamento cíclico e comparando o gráfico com a frequência esperada para o português, qual conjunto de letras do texto original tinha frequência máxima?",
+    "alternatives": {
+      "a": "A, E, O e S",
+      "b": "D, H, R e V",
+      "c": "D, H, R e V",
+      "d": "R, S e T",
+      "e": "S, T e U"
+    },
+    "images": [],
+    "tags": [
+      "análise combinatória",
+      "estatística"
+    ],
+    "difficulty": 6,
+    "year": 2021,
+    "test": "ENEM",
+    "area": "math",
+    "answer": "c"
+  },
+  {
+    "number": 148,
+    "text": "A tabela apresenta o número de terremotos em nosso planeta nos anos de 2000 a 2011. Um pesquisador acredita que a mediana representa o número anual típico de terremotos em um período.\n\nAno: 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011\n\nTerremotos: 15, 16, 13, 15, 16, 11, 11, 18, 12, 13, 24, 20\n\nQual é a mediana do número anual de terremotos?",
+    "alternatives": {
+      "a": "11",
+      "b": "15",
+      "c": "15,5",
+      "d": "16",
+      "e": "20"
+    },
+    "images": [],
+    "tags": [
+      "estatística",
+      "aritmética e números"
+    ],
+    "difficulty": 4,
+    "year": 2021,
+    "test": "ENEM",
+    "area": "math",
+    "answer": "c"
+  },
+  {
+    "number": 149,
+    "text": "A receita é todo dinheiro captado com a venda de mercadorias ou com a prestação de serviços. A despesa é todo dinheiro utilizado para pagamento de salários, contas de água e luz, impostos, entre outros. O lucro mensal obtido é calculado como a diferença entre a receita e a despesa do mês. O gráfico apresenta as receitas e despesas, em milhares de reais, dos cinco primeiros meses de um dado ano. Nessas condições, o lucro mensal para os próximos meses deve ser maior ou igual ao do mês de",
+    "alternatives": {
+      "a": "janeiro",
+      "b": "fevereiro",
+      "c": "março",
+      "d": "abril",
+      "e": "maio"
+    },
+    "images": [],
+    "tags": [
+      "aritmética e números",
+      "estatística"
+    ],
+    "difficulty": 4,
+    "year": 2021,
+    "test": "ENEM",
+    "area": "math",
+    "answer": "b"
+  },
+  {
+    "number": 150,
+    "text": "No período de 2005 a 2009, o aumento percentual no volume de vendas foi de",
+    "alternatives": {
+      "a": "45,4",
+      "b": "54,5",
+      "c": "120",
+      "d": "220",
+      "e": "283,2"
+    },
+    "images": [],
+    "tags": [
+      "aritmética e números",
+      "estatística"
+    ],
+    "difficulty": 3,
+    "year": 2021,
+    "test": "ENEM",
+    "area": "math",
+    "answer": "c",
+    "contextId": "enem_2021_math_150_ctx1"
+  },
+  {
+    "number": 151,
+    "text": "Um casal está planejando comprar um apartamento de dois quartos num bairro de uma cidade e consultou a página de uma corretora de imóveis, encontrando 05 apartamentos de dois quartos à venda no bairro desejado. Eles usaram um aplicativo da corretora para filtrar os imóveis de acordo com suas necessidades. A corretora tem uma lista com todos os apartamentos de dois quartos à venda no bairro naquele período. O gráfico apresenta a distribuição dos preços de venda dos apartamentos dessa lista (em mil reais), publicados em sua página. A corretora afirma que 80% dos apartamentos de dois quartos nesse bairro, publicados em sua página, têm preço de venda inferior a 550 mil reais. A quantidade total de apartamentos de dois quartos nesse bairro, publicados na página da corretora, é representada pela Distribuição dos preços apresentada em um gráfico de barras. Qual é o valor de p (em mil reais), tal que 80% dos apartamentos dessa lista têm preço inferior a p?",
+    "alternatives": {
+      "a": "600",
+      "b": "700",
+      "c": "800",
+      "d": "900",
+      "e": "1 000"
+    },
+    "images": [],
+    "tags": [
+      "estatística",
+      "análise combinatória"
+    ],
+    "difficulty": 5,
+    "year": 2021,
+    "test": "ENEM",
+    "area": "math",
+    "answer": "c"
+  },
+  {
+    "number": 152,
+    "text": "Dois números reais por x ² y = x + xy + y e x * y = xy + x. O navio que deseja enviar uma mensagem deve fornecer um valor de entrada b, que irá gerar um valor de saída, a ser enviado ao navio receptor, dado pela expressão (a ² b) (b ² a) = 0. Cada valor possível de entrada e saída representa uma mensagem diferente já conhecida pelos dois navios. Um navio deseja enviar ao outro a mensagem com b = 1. Dessa forma, o valor recebido pelo navio receptor será",
+    "alternatives": {
+      "a": "0",
+      "b": "1",
+      "c": "2",
+      "d": "3",
+      "e": "4"
+    },
+    "images": [],
+    "tags": [
+      "álgebra",
+      "aritmética e números"
+    ],
+    "difficulty": 6,
+    "year": 2021,
+    "test": "ENEM",
+    "area": "math",
+    "answer": "e"
+  },
+  {
+    "number": 153,
+    "text": "Um parque temático brasileiro construiu uma réplica em miniatura do castelo de Liechtenstein. O castelo original, representado na imagem, está situado na Alemanha e foi reconstruído entre os anos de 1840 e 1842, após duas destruições causadas por guerras.\n\n[Figura: Castelo de Liechtenstein]\n\nO castelo possui uma ponte de 38,4 m de comprimento. O parque produziu a réplica do castelo, em escala. Nessa réplica, as medidas do comprimento e da largura da ponte são, respectivamente, 16 cm e 0,8 cm.\n\nA escala utilizada para fazer a réplica é",
+    "alternatives": {
+      "a": "1 : 480",
+      "b": "1 : 240",
+      "c": "1 : 24",
+      "d": "1 : 4,2",
+      "e": "1 : 2,4"
+    },
+    "images": [
+      "figuras/q153_2021_fig1.png"
+    ],
+    "tags": [
+      "geometria plana",
+      "matemática financeira"
+    ],
+    "difficulty": 4,
+    "year": 2021,
+    "test": "ENEM",
+    "area": "math",
+    "answer": "c"
+  },
+  {
+    "number": 154,
+    "text": "Sendo um dos seus objetivos fazer projeções sobre a evolução da profissão em território brasileiro, esses estudos gerou um conjunto de dados que aborda a quantidade de médicos e a população brasileira por várias décadas. O quadro apresenta parte desses dados:\n\n| Ano | Médicos | População brasileira (em milhar) |\n|-----|---------|----------------------------------|\n| 1990 | 219.000 | 149.000 |\n| 2000 | 292.000 | 170.000 |\n| 2010 | 365.000 | 191.000 |\n\nJá que se projeta uma população brasileira de 212.000 milhar de habitantes no ano de 2020, projete a quantidade de médicos para esse ano utilizando a razão de crescimento de médicos para a década de 1990 para 2000 e a de 2000 para 2010. Com o resultado dessa projeção, calcule a razão entre a quantidade de médicos por mil habitantes no ano de 2020.\n\nO número, com duas casas na parte decimal, mais próximo do número de médicos por mil habitantes no ano de 2020 seria de",
+    "alternatives": {
+      "a": "0,22",
+      "b": "0,49",
+      "c": "1,71",
+      "d": "2,06",
+      "e": "3,32"
+    },
+    "images": [],
+    "tags": [
+      "aritmética e números",
+      "análise combinatória"
+    ],
+    "difficulty": 6,
+    "year": 2021,
+    "test": "ENEM",
+    "area": "math",
+    "answer": "d"
+  },
+  {
+    "number": 155,
+    "text": "A questão apresenta um contexto sobre quantidade de frango em refeições. Portanto, terá que reduzir a quantidade de frango.",
+    "alternatives": {
+      "a": "12,5",
+      "b": "28,0",
+      "c": "30,0",
+      "d": "50,0",
+      "e": "50,0"
+    },
+    "images": [],
+    "tags": [
+      "aritmética e números",
+      "matemática financeira"
+    ],
+    "difficulty": 5,
+    "year": 2021,
+    "test": "ENEM",
+    "area": "math",
+    "answer": "c"
+  },
+  {
+    "number": 156,
+    "text": "Uma mola está fixada em uma parede e uma massa m está presa à sua outra extremidade, em um sistema que oscila em movimento harmônico simples. A posição P(t) da massa m em relação ao ponto de equilíbrio é descrita por P(t) = A cos(ωt) ou P(t) = A sen(ωt), em que A > 0 é a amplitude de deslocamento máximo e ω é a frequência angular, que se relaciona com o período T pela fórmula ω = 2π/T. Considere a ausência de quaisquer forças dissipativas. Observando o gráfico do movimento, em que a posição P (em cm) é dada em função do tempo t (em segundo), determine a função que descreve a posição da massa m.",
+    "alternatives": {
+      "a": "3 cos(2t)",
+      "b": "3 sen(2t)",
+      "c": "−3 cos(2t)",
+      "d": "6 cos(2t)",
+      "e": "6 sen(2t)"
+    },
+    "images": [],
+    "tags": [
+      "funções",
+      "trigonometria"
+    ],
+    "difficulty": 6,
+    "year": 2021,
+    "test": "ENEM",
+    "area": "math",
+    "answer": "a"
+  },
+  {
+    "number": 157,
+    "text": "Uma construtora de imóveis em uma metrópole com cinco grandes regiões fez uma pesquisa sobre a quantidade de famílias que se mudaram de uma região para outra durante um certo período. Os dados foram organizados em uma matriz A, em que o elemento aij corresponde ao total de famílias que se mudaram da região i para a região j, e o elemento aii é considerado como o total de famílias que não saíram da região i. A seguir, está apresentada a matriz com os dados da pesquisa:\n\n0 4 2 2 5\n0 0 6 2 3\nA = 2 2 0 3 0\n1 0 2 0 4\n1 2 0 4 0\n\nQual é o índice da região que teve o maior fluxo de famílias mudando para outras regiões, ou seja, qual região i apresenta o maior valor de somatório de aij para j ≠ i?",
+    "alternatives": {
+      "a": "1",
+      "b": "2",
+      "c": "3",
+      "d": "4",
+      "e": "5"
+    },
+    "images": [],
+    "tags": [
+      "álgebra",
+      "análise combinatória"
+    ],
+    "difficulty": 5,
+    "year": 2021,
+    "test": "ENEM",
+    "area": "math",
+    "answer": "e"
+  },
+  {
+    "number": 158,
+    "text": "Para realizar um voo entre duas cidades que distam 2 000 km uma da outra, uma companhia aérea utilizava um modelo de aeronave A, capaz de transportar até 200 passageiros. Quando uma dessas aeronaves está lotada de passageiros, o consumo de combustível é de 0,02 litro por quilômetro e por passageiro. Essa companhia resolveu trocar o modelo de aeronave A por um modelo B, capaz de transportar até 300 passageiros, e cujo consumo de combustível é de 0,01 litro por quilômetro e por passageiro. A quantidade de combustível consumida pelo modelo B em um voo lotado entre as duas cidades é",
+    "alternatives": {
+      "a": "10% menor",
+      "b": "20% menor",
+      "c": "igual",
+      "d": "20% maior",
+      "e": "11% maior"
+    },
+    "images": [],
+    "tags": [
+      "aritmética e números",
+      "matemática financeira"
+    ],
+    "difficulty": 4,
+    "year": 2021,
+    "test": "ENEM",
+    "area": "math",
+    "answer": "b"
+  },
+  {
+    "number": 159,
+    "text": "Em uma corrida automobilística, os carros podem fazer paradas nos boxes para efetuar trocas de pneus. Nessas ocasiões, o trabalho é feito por um grupo de três pessoas em cada pneu. Considere que os grupos iniciam o trabalho no mesmo instante, trabalham à mesma velocidade e cada grupo trabalha em um único pneu. Com os quatro grupos completos, o tempo gasto por um grupo para trocar um pneu é inversamente proporcional ao número de pessoas trabalhando nele. Em uma dessas trocas, com os quatro grupos de três pessoas cada, foram gastos 4 minutos. Porém, um dos componentes de um grupo não pôde participar da troca e nem foi substituído, de forma que esse grupo trabalhou com apenas duas pessoas. Qual foi o tempo gasto, em segundo, para trocar os quatro pneus?",
+    "alternatives": {
+      "a": "6,0",
+      "b": "5,5",
+      "c": "5,0",
+      "d": "4,5",
+      "e": "4,4"
+    },
+    "images": [],
+    "tags": [
+      "aritmética e números",
+      "matemática financeira"
+    ],
+    "difficulty": 6,
+    "year": 2021,
+    "test": "ENEM",
+    "area": "math",
+    "answer": "a"
+  },
+  {
+    "number": 160,
+    "text": "Um cliente tem falta de 800 mg do mineral A, de 1.000 mg do mineral B e de 1.200 mg do mineral C. A compra de suplementos alimentares que forneçam os referidos minerais, porém, sem que o cliente consumisse mais desses minerais do que o recomendado. O cliente encontrou cinco suplementos, vendidos em sachês unitários, cujos preços e as quantidades dos minerais estão apresentados no quadro.\n\n  - Suplemento I: contém 150 mg do mineral A, 250 mg do mineral B, 200 mg do mineral C e custa R$ 5,00;\n  - Suplemento II: contém 200 mg do mineral A, 150 mg do mineral B, 150 mg do mineral C e custa R$ 4,00;\n  - Suplemento III: contém 100 mg do mineral A, 200 mg do mineral B, 300 mg do mineral C e custa R$ 3,00;\n  - Suplemento IV: contém 250 mg do mineral A, 100 mg do mineral B, 100 mg do mineral C e custa R$ 6,00;\n  - Suplemento V: contém 400 mg do mineral A, 800 mg do mineral B, 600 mg do mineral C e custa R$ 15,00.\n\nO cliente decidiu comprar sachês de um único suplemento no qual gastasse menos dinheiro e ainda suprisse a falta de minerais indicada pelo nutricionista, mesmo que consumisse alguns deles além de sua necessidade.\nNessas condições, o cliente deverá comprar sachês do suplemento",
+    "alternatives": {
+      "a": "I",
+      "b": "II",
+      "c": "III",
+      "d": "IV",
+      "e": "V"
+    },
+    "images": [],
+    "tags": [
+      "aritmética e números",
+      "matemática financeira"
+    ],
+    "difficulty": 6,
+    "year": 2021,
+    "test": "ENEM",
+    "area": "math",
+    "answer": "d"
+  },
+  {
+    "number": 161,
+    "text": "[Gráfico - Arrecadação A vs Desconto]\n\n[Gráfico - Arrecadação B vs Desconto]\n\n[Gráfico - Arrecadação C vs Desconto]\n\nO texto da questão não pode ser extraído com precisão devido a corrupção OCR severa no documento fornecido.",
+    "alternatives": {
+      "a": "[Não legível]",
+      "b": "[Não legível]",
+      "c": "[Não legível]",
+      "d": "[Não legível]",
+      "e": "[Não legível]"
+    },
+    "images": [
+      "figuras/q161_2021_fig1.png",
+      "figuras/q161_2021_fig2.png",
+      "figuras/q161_2021_fig3.png"
+    ],
+    "tags": [
+      "estatística",
+      "análise de dados"
+    ],
+    "difficulty": 5,
+    "year": 2021,
+    "test": "ENEM",
+    "area": "math",
+    "answer": "e"
+  },
+  {
+    "number": 162,
+    "text": "A tabela apresenta a alíquota (porcentagem) do imposto sobre produtos industrializados (IPI) que uma indústria deve recolher ao Estado para diferentes faixas de preço:\n\n[Tabela: Preço do produto e alíquota de imposto]\n\nPreço do produto (R$) | Alíquota do imposto (%)\nR$ ≤ 5.000 | isento\n5.000 < R$ ≤ 10.000 | 5%\n10.000 < R$ ≤ 15.000 | 10%\n\nDe acordo com a tabela, qual dos gráficos a seguir melhor representa a relação entre o preço do produto (R$) e seu respectivo imposto devido (I)?",
+    "alternatives": {
+      "a": "[Gráfico A - Imposto devido (I) em função do preço (R$)]",
+      "b": "[Gráfico B - Imposto devido (I) em função do preço (R$)]",
+      "c": "[Gráfico C - Imposto devido (I) em função do preço (R$)]",
+      "d": "[Gráfico D - Imposto devido (I) em função do preço (R$)]",
+      "e": "[Gráfico E - Imposto devido (I) em função do preço (R$)]"
+    },
+    "images": [],
+    "tags": [
+      "funções",
+      "matemática financeira"
+    ],
+    "difficulty": 5,
+    "year": 2021,
+    "test": "ENEM",
+    "area": "math",
+    "answer": "a"
+  },
+  {
+    "number": 163,
+    "text": "A velocidade do som em um meio é proporcional à raiz quadrada do módulo volumétrico dividido pela densidade do meio. Matematicamente, a velocidade do som é descrita pela equação v = √(B/ρ), em que v é a velocidade do som (em metro por segundo), B é o módulo volumétrico (em pascal), ρ é a densidade do meio (em quilograma por metro cúbico) e a constante de proporcionalidade é adimensional. Qual é a unidade do módulo volumétrico?",
+    "alternatives": {
+      "a": "kg·m⁻¹·s⁻²",
+      "b": "kg·m⁻¹·s²",
+      "c": "kg·m²·s⁻²",
+      "d": "kg·m⁻¹·s⁻²",
+      "e": "kg·m⁵·s⁻²"
+    },
+    "images": [],
+    "tags": [
+      "aritmética e números",
+      "análise dimensional"
+    ],
+    "difficulty": 4,
+    "year": 2021,
+    "test": "ENEM",
+    "area": "math",
+    "answer": "b"
+  },
+  {
+    "number": 164,
+    "text": "Uma pessoa pretende viajar por uma companhia aérea que despacha gratuitamente uma mala com até 10 kg. Em duas viagens que realizou, essa pessoa utilizou a mesma mala e conseguiu 10 kg com as seguintes combinações de itens:\n\n  - Viagem 1: 12 camisetas, 4 calças, 3 sapatos\n  - Viagem 2: 18 camisetas, 3 calças, 2 sapatos\n\nPara ter certeza de que sua bagagem terá massa de 10 kg, ela decide levar essa mala com duas calças, um sapato e o máximo de camisetas, admitindo que itens de mesmo tipo têm a mesma massa. Qual a quantidade máxima de camisetas que essa pessoa poderá levar?",
+    "alternatives": {
+      "a": "22",
+      "b": "24",
+      "c": "26",
+      "d": "33",
+      "e": "39"
+    },
+    "images": [],
+    "tags": [
+      "aritmética e números",
+      "álgebra"
+    ],
+    "difficulty": 6,
+    "year": 2021,
+    "test": "ENEM",
+    "area": "math",
+    "answer": "b"
+  },
+  {
+    "number": 165,
+    "text": "Um automóvel apresenta um desempenho médio de 16 km/L. Um engenheiro desenvolveu um novo motor que consome 0,1 L de combustível a cada 20 km percorridos. O valor do desempenho médio do automóvel com o novo motor, em quilômetro por litro, expresso com uma casa decimal, é",
+    "alternatives": {
+      "a": "15,9",
+      "b": "16,1",
+      "c": "16,4",
+      "d": "17,4",
+      "e": "18,0"
+    },
+    "images": [],
+    "tags": [
+      "matemática financeira",
+      "aritmética e números"
+    ],
+    "difficulty": 4,
+    "year": 2021,
+    "test": "ENEM",
+    "area": "math",
+    "answer": "d"
+  },
+  {
+    "number": 166,
+    "text": "O projeto de um contêiner, em forma de paralelepípedo reto retangular, previa a pintura dos dois lados (interno e externo) de cada uma das quatro paredes com tinta acrílica e a pintura do piso interno com tinta epóxi. O construtor havia pedido, a cinco fornecedores diferentes, orçamentos das tintas necessárias, mas, antes de iniciar a obra, resolveu mudar o projeto original, alterando o comprimento e a largura para o dobro do originalmente previsto, mantendo inalterada a altura. Ao pedir novos orçamentos aos fornecedores, para as novas dimensões, cada um deu uma resposta diferente sobre as novas quantidades de tinta necessárias.\n\nAs novas quantidades de tinta necessárias informadas pelos fornecedores foram as seguintes:\n  - Fornecedor I: \"Quatro vezes para as paredes e duas vezes para o piso.\"\n  - Fornecedor II: \"Quatro vezes para as paredes e quatro vezes para o piso.\"\n  - Fornecedor III: \"Oito vezes para as paredes e duas vezes para o piso.\"\n  - Fornecedor IV: \"Oito vezes para as paredes e quatro vezes para o piso.\"\n  - Fornecedor V: \"Oito vezes para as paredes e quatro vezes para o piso.\"\n\nAnalisando as informações dos fornecedores, o construtor providenciará a quantidade adequada de material. Considere a porta de acesso do contêiner como parte de uma das paredes.\n\nQual dos fornecedores prestou as informações adequadas, considerando a redução de desperdício e que não haverá alteração quanto ao material?",
+    "alternatives": {
+      "a": "I",
+      "b": "II",
+      "c": "III",
+      "d": "IV",
+      "e": "V"
+    },
+    "images": [],
+    "tags": [
+      "geometria espacial",
+      "matemática financeira"
+    ],
+    "difficulty": 6,
+    "year": 2021,
+    "test": "ENEM",
+    "area": "math",
+    "answer": "b"
+  },
+  {
+    "number": 167,
+    "text": "Um povoado com 100 habitantes está passando por uma seca prolongada e precisa construir um reservatório para armazenar água. Esse reservatório é um cilindro circular reto, cuja base tenha 5 metros de diâmetro interno, e atender à demanda de água da população. Sabe-se que o consumo médio diário por habitante é de 165 litros. O reservatório é abastecido por um poço e tem uma vazão de entrada de 0,5 metro cúbico por hora durante 8 horas consecutivas. No oitavo dia, o reservatório vazio é preenchido. Considerando que o consumo médio diário por habitante é de 165 litros, determine a altura interna mínima do reservatório. Nas condições apresentadas, o reservatório deverá ser construído com uma altura interna mínima, em metro, igual a",
+    "alternatives": {
+      "a": "1,12",
+      "b": "3,10",
+      "c": "4,35",
+      "d": "4,48",
+      "e": "5,60"
+    },
+    "images": [],
+    "tags": [
+      "geometria espacial",
+      "matemática financeira"
+    ],
+    "difficulty": 6,
+    "year": 2021,
+    "test": "ENEM",
+    "area": "math",
+    "answer": "d"
+  },
+  {
+    "number": 168,
+    "text": "Um octaedro regular possui 8 faces triangulares. A estrutura de um octaedro pode ser montada a partir de dois quadrados que compartilham o mesmo centro, sendo um rodado 45° em relação ao outro, com 4 triângulos anexados acima e 4 abaixo.\n\n[Figura: octaedro regular com faces numeradas]\n\nUm octaedro regular tem uma face pintada de cor cinza escuro e outras quatro faces numeradas 1, 2, 3 e 4. Qual(is) é(são) o(s) número(s) que se encontra(m) na(s) face(s) oposta(s) à face de cor cinza escuro, quando o octaedro for reconstruído a partir da planificação?",
+    "alternatives": {
+      "a": "1, 2, 3 e 4",
+      "b": "1 e 3",
+      "c": "1",
+      "d": "2/4",
+      "e": "4"
+    },
+    "images": [
+      "figuras/q168_2021_fig1.png"
+    ],
+    "tags": [
+      "geometria espacial",
+      "análise combinatória"
+    ],
+    "difficulty": 6,
+    "year": 2021,
+    "test": "ENEM",
+    "area": "math",
+    "answer": "e"
+  },
+  {
+    "number": 169,
+    "text": "Uma empresa de brindes promocionais contrata um profissional para desenhista de uma peça a ser fabricada em breve. A primeira tarefa designada a esse profissional é desenhar peças pequenas em formato de um triângulo equilátero de altura h, conforme ilustra a Figura 2. Após esse processo, cada peça é aquecida, deformando os cantos, e cortada em um dos cantos, ficando com o formato que se assemelha a um triângulo, com uma abertura e uma haste, conforme ilustra a Figura 1. Essa haste é utilizada para fixar a peça a uma corrente ou a um chaveiro. O profissional foi informado que a altura do triângulo equilátero é h = 8 cm, sendo assim, ele precisa providenciar uma barra de comprimento adequado para trabalhar. Deseja-se que o comprimento da barra utilizada seja igual ao perímetro do triângulo equilátero representado na Figura 2. Nessas condições, o valor que mais se aproxima da medida do comprimento da barra, em centímetro, é",
+    "alternatives": {
+      "a": "9,20",
+      "b": "13,60",
+      "c": "20,40",
+      "d": "27,18",
+      "e": "36,24"
+    },
+    "images": [],
+    "tags": [
+      "geometria plana"
+    ],
+    "difficulty": 4,
+    "year": 2021,
+    "test": "ENEM",
+    "area": "math",
+    "answer": "d"
+  },
+  {
+    "number": 170,
+    "text": "Uma pessoa comprou uma caneca para tomar sopa. Sabe-se que 1 cm³ = 1 mL e que o topo da caneca é uma circunferência de diâmetro (D) medindo 10 cm, a base é um círculo de diâmetro (d) medindo 8 cm. A altura (h) dessa caneca mede 12 cm (distância entre o centro das circunferências do topo e da base).\nUtilize 3 como aproximação para π.\nQual é a capacidade volumétrica, em mililitro, dessa caneca?",
+    "alternatives": {
+      "a": "216",
+      "b": "408",
+      "c": "792",
+      "d": "2196",
+      "e": "2928"
+    },
+    "images": [],
+    "tags": [
+      "geometria espacial",
+      "aritmética e números"
+    ],
+    "difficulty": 6,
+    "year": 2021,
+    "test": "ENEM",
+    "area": "math",
+    "answer": "c"
+  },
+  {
+    "number": 171,
+    "text": "O dono de uma loja pretende usar cartões imantados para etiquetar seus produtos. Está analisando a compra de impressoras e equipamentos para etiquetar produtos em sua loja. Cada cartão imantado tem uma face que é impressa com a imagem de um polígono, e o preço do cartão é proporcional à área impressa. Analisou 5 modelos com as seguintes características:\n  - um triângulo equilátero de lado 12 cm;\n  - um quadrado de lado 8 cm;\n  - um retângulo de lados 11 cm e 8 cm;\n  - um hexágono regular de lado 6 cm;\n  - um círculo de diâmetro 10 cm.\nO dono da loja está disposto a pagar, no máximo, R$ 10,00 por cartão imantado. O preço praticado pela empresa é de R$ 1,00 por centímetro quadrado de área impressa. Nessas condições, o modelo que deverá ser escolhido é:",
+    "alternatives": {
+      "a": "triângulo",
+      "b": "quadrado",
+      "c": "retângulo",
+      "d": "hexágono",
+      "e": "círculo"
+    },
+    "images": [],
+    "tags": [
+      "geometria plana",
+      "análise combinatória"
+    ],
+    "difficulty": 6,
+    "year": 2021,
+    "test": "ENEM",
+    "area": "math",
+    "answer": "e"
+  },
+  {
+    "number": 172,
+    "text": "Um ciclista amador de 61 anos de idade utilizou um monitor cardíaco para medir suas frequências cardíacas em quatro diferentes tipos de trechos de percurso. Os resultados das frequências cardíacas máximas alcançadas nesses trechos foram:\n  - Leve no plano: 90 bpm\n  - Forte no plano: 120 bpm\n  - Subida moderada: 130 bpm\n  - Subida forte: 140 bpm\n\nA frequência cardíaca máxima (Fc máx.), que por sua vez é determinada pela fórmula: Fc máx. = 220 – idade, em que a idade é dada em anos e Fc máx. é dada em bpm (batimento por minuto).\n\nOs trechos do percurso nos quais esse ciclista se mantém dentro de sua faixa aeróbica ideal, para o ganho de condicionamento cardiorrespiratório, são aqueles em que sua frequência cardíaca está entre 50% e 85% da Fc máx.",
+    "alternatives": {
+      "a": "leve no plano, forte no plano, subida moderada e subida forte.",
+      "b": "leve no plano, forte no plano e subida moderada.",
+      "c": "forte no plano, subida moderada e subida forte.",
+      "d": "forte no plano e subida moderada.",
+      "e": "leve no plano e subida forte."
+    },
+    "images": [],
+    "tags": [
+      "aritmética e números",
+      "estatística"
+    ],
+    "difficulty": 4,
+    "year": 2021,
+    "test": "ENEM",
+    "area": "math",
+    "answer": "d"
+  },
+  {
+    "number": 173,
+    "text": "Texto corrompido/ilegível - impossível extrair conteúdo da questão.",
+    "alternatives": {
+      "a": "6",
+      "b": "8",
+      "c": "9",
+      "d": "15",
+      "e": "20"
+    },
+    "images": [],
+    "tags": [],
+    "difficulty": 5,
+    "year": 2021,
+    "test": "ENEM",
+    "area": "math",
+    "answer": "c"
+  },
+  {
+    "number": 174,
+    "text": "Após consulta médica, um paciente deve seguir um tratamento com três medicamentos. O paciente, para adquirir os três medicamentos, faz um orçamento em três farmácias diferentes. Dessas farmácias, algumas oferecem descontos:\n• na compra de um medicamento qualquer na Farmácia 2, o paciente ganha 20% de desconto;\n• na compra dos dois primeiros medicamentos na Farmácia 1, o paciente ganha 10% de desconto em ambos os produtos, independentemente da compra do terceiro medicamento;\n• na compra dos 3 medicamentos na Farmácia 3, o paciente ganha 15% de desconto no valor total da compra.\nO paciente deseja efetuar a compra de modo a minimizar sua despesa com os medicamentos. De acordo com as informações fornecidas, o paciente deve comprar os medicamentos da seguinte forma:",
+    "alternatives": {
+      "a": "medicamento X na Farmácia 1, medicamento Y na Farmácia 2 e medicamento Z na Farmácia 3",
+      "b": "medicamento X na Farmácia 1, medicamento Y na Farmácia 2 e medicamento Z na Farmácia 1",
+      "c": "medicamento X na Farmácia 1, medicamento Y na Farmácia 3 e medicamento Z na Farmácia 1",
+      "d": "medicamento X na Farmácia 2, medicamento Y na Farmácia 3 e medicamento Z na Farmácia 1",
+      "e": "medicamento X na Farmácia 1, medicamento Y na Farmácia 3 e medicamento Z na Farmácia 1"
+    },
+    "images": [],
+    "tags": [
+      "matemática financeira",
+      "aritmética e números"
+    ],
+    "difficulty": 6,
+    "year": 2021,
+    "test": "ENEM",
+    "area": "math",
+    "answer": "c"
+  },
+  {
+    "number": 175,
+    "text": "Brinquedos encontrados em praças e parques públicos apresentam estruturas geométricas tridimensionais. Uma empresa foi contratada para desenvolver uma nova forma de brinquedo. A proposta apresentada pela empresa foi de uma estrutura formada apenas por hastes metálicas, conectadas umas às outras. A figura representa uma estrutura desse tipo. Essa estrutura é formada por dois blocos. O bloco de cima é uma pirâmide quadrangular regular, e o bloco de baixo é um cubo. Essa pirâmide está apoiada sobre uma das suas faces, que é comum ao topo do cubo. A estrutura total do brinquedo é formada pela união da pirâmide com o cubo. Utilize 1,7 como aproximação para √3. De acordo com as especificações do desenho, quantos e quais são os polígonos que formam a estrutura?",
+    "alternatives": {
+      "a": "12 trapézios isósceles e 12 quadrados",
+      "b": "24 trapézios isósceles e 12 quadrados",
+      "c": "12 paralelogramos e 12 quadrados",
+      "d": "8 trapézios isósceles e 12 quadrados",
+      "e": "12 trapézios escalenos e 12 retângulos"
+    },
+    "images": [],
+    "tags": [
+      "geometria espacial",
+      "análise combinatória"
+    ],
+    "difficulty": 6,
+    "year": 2021,
+    "test": "ENEM",
+    "area": "math",
+    "answer": "a"
+  },
+  {
+    "number": 176,
+    "text": "Em uma cidade europeia há uma placa indicando MCDXLIV. Segundo as regras de numeração romana apresentadas, qual é o número natural correspondente?",
+    "alternatives": {
+      "a": "1444",
+      "b": "1481",
+      "c": "1644",
+      "d": "1681",
+      "e": "1691"
+    },
+    "images": [],
+    "tags": [
+      "aritmética e números"
+    ],
+    "difficulty": 3,
+    "year": 2021,
+    "test": "ENEM",
+    "area": "math",
+    "answer": "d",
+    "contextId": "enem_2021_math_176_ctx1"
+  },
+  {
+    "number": 177,
+    "text": "Uma das bases mais utilizadas para representar um número é a base decimal. Entretanto, os computadores trabalham com números na base binária. Nessa base, qualquer número natural é representado usando apenas os algarismos 0 e 1. A adição na base binária segue um algoritmo similar ao utilizado na base decimal, com a seguinte tabela de soma:\n  - 0 + 0 = 0\n  - 0 + 1 = 1\n  - 1 + 0 = 1\n  - 1 + 1 = 10\n\nPor exemplo, na base binária, a soma dos números 10 e 10 é 100, como apresentado:\n   10\n  +10\n  ___\n   100\n\nConsiderando as informações do texto, o resultado de 9 + 12 será representado, na base binária, por",
+    "alternatives": {
+      "a": "101",
+      "b": "1101",
+      "c": "1111",
+      "d": "10101",
+      "e": "11001"
+    },
+    "images": [],
+    "tags": [
+      "aritmética e números",
+      "álgebra"
+    ],
+    "difficulty": 5,
+    "year": 2021,
+    "test": "ENEM",
+    "area": "math",
+    "answer": "d"
+  },
+  {
+    "number": 178,
+    "text": "Uma unidade de medida comum usada para expressar áreas de terrenos de grandes dimensões é o hectare, que equivale a 10 000 m². Um fazendeiro decide fazer um loteamento utilizando 3 hectares de sua fazenda, dos quais uma parte será destinada para a construção de uma estrada de 500 m de comprimento e 10 m de largura, sendo o restante dividido em terrenos com área de 300 m² cada um. Os 20 primeiros terrenos vendidos serão oferecidos a R$ 50 000,00 cada, e os demais serão vendidos a R$ 60 000,00 cada. Nas condições estabelecidas, o valor total, em real, obtido pelo fazendeiro com a venda de todos os terrenos será igual a",
+    "alternatives": {
+      "a": "600 000",
+      "b": "1 600 000",
+      "c": "1 900 000",
+      "d": "2 200 000",
+      "e": "2 800 000"
+    },
+    "images": [],
+    "tags": [
+      "aritmética e números",
+      "matemática financeira"
+    ],
+    "difficulty": 5,
+    "year": 2021,
+    "test": "ENEM",
+    "area": "math",
+    "answer": "c"
+  },
+  {
+    "number": 179,
+    "text": "Uma pessoa produzirá uma fantasia utilizando como materiais: 2 tipos de tecidos diferentes e 5 tipos distintos de pedras ornamentais. Essa pessoa tem à sua disposição [texto ilegível - OCR corrompido]. A quantidade de fantasias com materiais diferentes que [texto ilegível - OCR corrompido].",
+    "alternatives": {
+      "a": "6!/(4!2!) × 15!/(10!5!)",
+      "b": "6!/(4!2!) × 15!/(10!5!)",
+      "c": "6!/2! × 15!/5!",
+      "d": "6!/2! × 15!/5!",
+      "e": "21!"
+    },
+    "images": [],
+    "tags": [
+      "análise combinatória",
+      "aritmética e números"
+    ],
+    "difficulty": 6,
+    "year": 2021,
+    "test": "ENEM",
+    "area": "math",
+    "answer": "a"
+  },
+  {
+    "number": 180,
+    "text": "Os diretores de uma escola precisam construir um laboratório para uso dos alunos. Há duas possibilidades:\n(i) um laboratório do tipo A, com capacidade para 100 usuários, a um custo de 180 mil reais e gastos de 25 mil reais por ano;\n(ii) um laboratório do tipo B, com capacidade para 100 usuários, a um custo de 120 mil reais e gastos com 35 mil reais por ano.\n\nO laboratório implantado será utilizado na totalidade de sua capacidade.\n\nO custo total estimado, ao longo de 2 anos, por usuário, será de",
+    "alternatives": {
+      "a": "1,31 mil reais",
+      "b": "1,90 mil reais",
+      "c": "2,30 mil reais",
+      "d": "2,36 mil reais",
+      "e": "2,95 mil reais"
+    },
+    "images": [],
+    "tags": [
+      "matemática financeira",
+      "aritmética e números"
+    ],
+    "difficulty": 6,
+    "year": 2021,
+    "test": "ENEM",
+    "area": "math",
+    "answer": "b"
+  }
+]

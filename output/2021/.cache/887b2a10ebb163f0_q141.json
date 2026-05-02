@@ -1,0 +1,24 @@
+{
+  "number": 141,
+  "text": "Aplicativos que gerenciam serviços de hospedagem permitem ao hóspede fazer uma reserva e calcular o preço total a ser pago pela hospedagem. Em um desses aplicativos, o preço P a ser pago pela hospedagem é calculado considerando um preço por diária d, a quantidade de diárias n e a cobrança de uma taxa de serviço. Essa taxa de serviço é um valor percentual s calculado sobre o valor pago pelo total das diárias. Qual é a expressão algébrica que calcula o preço total P da hospedagem, em função de d, n, s e da taxa de serviço em reais L?",
+  "alternatives": {
+    "a": "P = d · n + L + d · n · s",
+    "b": "P = d · n + L + d · s",
+    "c": "P = d + L + s",
+    "d": "P = d · n · s + L",
+    "e": "P = d · n + L + s"
+  },
+  "answer": "a",
+  "tags": [
+    "álgebra",
+    "matemática financeira"
+  ],
+  "year": 2021,
+  "test": "ENEM",
+  "area": "math",
+  "difficulty": 3,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

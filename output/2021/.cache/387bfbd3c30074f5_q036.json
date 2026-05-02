@@ -1,0 +1,21 @@
+{
+  "number": 36,
+  "text": "Unable to extract: source text contains excessive corruption and is unreadable. The reference texts (TEXTO I and TEXTO II) and question stem are not legible due to character encoding errors, symbol corruption, or OCR artifacts that prevent faithful reproduction in Portuguese.",
+  "alternatives": {
+    "a": "Unable to extract",
+    "b": "Unable to extract",
+    "c": "Unable to extract",
+    "d": "Unable to extract",
+    "e": "Unable to extract"
+  },
+  "answer": "b",
+  "tags": [],
+  "year": 2021,
+  "test": "ENEM",
+  "area": "linguagens",
+  "difficulty": 5,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

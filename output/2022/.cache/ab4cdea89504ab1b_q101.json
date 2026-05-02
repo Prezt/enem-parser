@@ -1,0 +1,23 @@
+{
+  "number": 101,
+  "text": "Pretende-se escolher o tipo de cana-de-açúcar que onterá o maior teor de sacarose 10 horas após o corte que, consequentemente, produzirá a maior quantidade e etanol por fermentação. Considere que existe uma edução de aproximadamente 50% da concentração - 1 e sacarose nesse tempo, para cada 1,0 mg L de microrganismos presentes na cana-de-açúcar.",
+  "alternatives": {
+    "a": "RB72",
+    "b": "RB84",
+    "c": "RB92",
+    "d": "SP79",
+    "e": "SP80"
+  },
+  "answer": "c",
+  "tags": [
+    "biologia",
+    "fermentação"
+  ],
+  "year": 2022,
+  "test": "ENEM",
+  "area": "nature",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

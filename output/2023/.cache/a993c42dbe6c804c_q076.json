@@ -1,0 +1,23 @@
+{
+  "number": 76,
+  "text": "Taxa de fecundidade no Brasil\nDe 1960 a 2020,\nnúmero de filhos baixa de\n6,3 para 1,5",
+  "alternatives": {
+    "a": "Flexibilização legal da prática de aborto.",
+    "b": "Envelhecimento da população brasileira.",
+    "c": "Crescimento dos casos de gravidez precoce.",
+    "d": "Participação feminina no mercado de trabalho.",
+    "e": "Diminuição dos benefícios na licença-maternidade."
+  },
+  "answer": "d",
+  "tags": [
+    "demografia",
+    "saúde pública"
+  ],
+  "year": 2023,
+  "test": "ENEM",
+  "area": "humanas",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

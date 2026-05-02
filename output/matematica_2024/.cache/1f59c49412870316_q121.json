@@ -1,0 +1,26 @@
+{
+  "number": 121,
+  "text": "[Figura: Calvin em um balanço] Na tirinha, Calvin se divertia em um balanço antes de oltar-se dele e cair ao chão. Em sua fala, ele demonstra ter maginado que permaneceria em movimento circular. Porém, a força gravitacional, que permanece atuando no garoto, modifica a direção de sua velocidade, fazendo com que ele hegue ao chão da maneira ilustrada no último quadrinho. [Figura: Calvin caindo e tocando o chão] Qual vetor representa a força resultante exercida pelo chão sobre Calvin no exato momento em que ele toca o chão?",
+  "alternatives": {
+    "a": "",
+    "b": "",
+    "c": "",
+    "d": "",
+    "e": ""
+  },
+  "answer": "a",
+  "tags": [
+    "física",
+    "força gravitacional"
+  ],
+  "year": 2024,
+  "test": "ENEM",
+  "area": "nature",
+  "images": [
+    "figuras/q121_2024_fig1.png",
+    "figuras/q121_2024_fig2.png"
+  ],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

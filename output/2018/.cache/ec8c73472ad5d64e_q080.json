@@ -1,0 +1,24 @@
+{
+  "number": 80,
+  "text": "Em uma leitura que extrapola a esfera econômica, o autor associa o acirramento da pobreza à",
+  "alternatives": {
+    "a": "afirmação das origens ancestrais.",
+    "b": "fragilização das redes de sociabilidade.",
+    "c": "padronização das políticas educacionais.",
+    "d": "fragmentação das propriedades agrícolas.",
+    "e": "globalização das tecnologias de comunicação."
+  },
+  "answer": "b",
+  "tags": [
+    "interpretação de texto",
+    "cultura e identidade"
+  ],
+  "year": 2018,
+  "test": "ENEM",
+  "area": "humanas",
+  "difficulty": 5,
+  "images": [],
+  "contextId": "enem_2018_humanas_80_ctx1",
+  "contextIds": null,
+  "language": null
+}

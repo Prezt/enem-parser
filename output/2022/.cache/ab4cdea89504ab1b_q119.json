@@ -1,0 +1,23 @@
+{
+  "number": 119,
+  "text": "Uma lanterna funciona com três pilhas de resistência. Se as pilhas estiverem posicionadas corretamente, devem acender a lâmpada imediatamente. A posição correta gera uma f.e.m. (força eletromotriz) de 1 V. Com esse equívoco de inverter a posição de uma das pilhas, qual é a intensidade de corrente que circula no circuito?",
+  "alternatives": {
+    "a": "0,25 A",
+    "b": "0,33 A",
+    "c": "0,75 A",
+    "d": "1,00 A",
+    "e": "1,33 A"
+  },
+  "answer": "a",
+  "tags": [
+    "física",
+    "eletricidade"
+  ],
+  "year": 2022,
+  "test": "ENEM",
+  "area": "nature",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

@@ -1,0 +1,25 @@
+{
+  "number": 8,
+  "text": "Na prática artística mencionada no texto, o corpo assume papel de destaque ao articular diferentes linguagens com o intuito de",
+  "alternatives": {
+    "a": "imprimir ritmo e visibilidade à expressão poética.",
+    "b": "redefinir o espaço de circulação da poesia urbana.",
+    "c": "estimular produções autorais de usuários de Libras.",
+    "d": "traduzir expressões verbais para a língua de sinais.",
+    "e": "proporcionar performances estéticas de pessoas surdas."
+  },
+  "answer": "a",
+  "tags": [
+    "interpretação de texto",
+    "linguística e variação linguística",
+    "literatura brasileira"
+  ],
+  "year": 2020,
+  "test": "ENEM",
+  "area": "linguagens",
+  "difficulty": 5,
+  "images": [],
+  "contextId": "enem_2020_linguagens_ctx1",
+  "contextIds": null,
+  "language": null
+}

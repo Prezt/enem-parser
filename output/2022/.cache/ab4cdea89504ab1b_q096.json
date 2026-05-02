@@ -1,0 +1,23 @@
+{
+  "number": 96,
+  "text": "Qual associação de baterias foi responsável pelo acidente?",
+  "alternatives": {
+    "a": "- - + + A",
+    "b": "- - + + B",
+    "c": "- + - + C",
+    "d": "- - + + D",
+    "e": "+ A E\nB"
+  },
+  "answer": "a",
+  "tags": [
+    "física",
+    "eletricidade"
+  ],
+  "year": 2022,
+  "test": "ENEM",
+  "area": "nature",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

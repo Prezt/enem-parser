@@ -1,0 +1,28 @@
+{
+  "number": 82,
+  "text": "De acordo com as informações apresentadas, a seca de 2014 foi causada por:",
+  "alternatives": {
+    "a": "constituição de frentes quentes barrando as chuvas",
+    "b": "formação de anticiclone impedindo a entrada de umidade",
+    "c": "presença de nebulosidade na região de cordilheira",
+    "d": "avanço de massas polares para o continente",
+    "e": "baixa pressão atmosférica no litoral"
+  },
+  "answer": "b",
+  "tags": [
+    "geografia física e geologia",
+    "climatologia",
+    "meio ambiente e sustentabilidade"
+  ],
+  "year": 2018,
+  "test": "ENEM",
+  "area": "humanas",
+  "difficulty": 6,
+  "images": [],
+  "contextId": null,
+  "contextIds": [
+    "enem_2018_humanas_ctx1",
+    "enem_2018_humanas_ctx2"
+  ],
+  "language": null
+}

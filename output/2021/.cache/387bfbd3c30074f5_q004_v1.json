@@ -1,0 +1,23 @@
+{
+  "number": 4,
+  "text": "Unable to extract — source text is corrupted/unreadable",
+  "alternatives": {
+    "a": "Unable to extract",
+    "b": "Unable to extract",
+    "c": "Unable to extract",
+    "d": "Unable to extract",
+    "e": "Unable to extract"
+  },
+  "answer": "b",
+  "tags": [
+    "interpretación de texto"
+  ],
+  "year": 2021,
+  "test": "ENEM",
+  "area": "linguagens",
+  "difficulty": 5,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": "es"
+}

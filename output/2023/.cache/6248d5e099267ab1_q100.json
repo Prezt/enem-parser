@@ -1,0 +1,23 @@
+{
+  "number": 100,
+  "text": "Um professor lança uma esfera verticalmente para\nima, a qual retorna, depois de alguns segundos, ao ponto\nde lançamento. Em seguida, lista em um quadro todas as\nossibilidades para as grandezas cinemáticas.\nGrandeza cinemática Módulo Sentido\nPara cima\nv   ≠  0\nVelocidade Para baixo\nv   =  0 Indefi nido*\nPara cima\na   ≠  0\nAceleração Para baixo\na   =  0 Indefi nido*\nGrandezas com módulo nulo não têm sentido definido.\nEle solicita aos alunos que analisem as grandezas\ncinemáticas no instante em que a esfera atinge a altura\nmáxima, escolhendo uma combinação para os módulos\nsentidos da velocidade e da aceleração.",
+  "alternatives": {
+    "a": "v   =  0 e  a   ≠  0 para cima",
+    "b": "v   ≠  0 para cima e  a   =  0",
+    "c": "v   =  0 e  a   ≠  0 para baixo",
+    "d": "v   ≠  0 para cima e  a   ≠  0 para cima",
+    "e": "v   ≠  0 para baixo e  a   ≠  0 para baixo"
+  },
+  "answer": "c",
+  "tags": [
+    "física",
+    "cinemática"
+  ],
+  "year": 2023,
+  "test": "ENEM",
+  "area": "nature",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

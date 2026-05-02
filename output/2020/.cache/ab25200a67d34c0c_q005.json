@@ -1,0 +1,24 @@
+{
+  "number": 5,
+  "text": "A passagem do romance da escritora nigeriana traz um diálogo entre duas mulheres negras: a cabeleireira, Aisha, e a cliente, Ifemelu. O posicionamento da cliente é sustentado por argumentos que",
+  "alternatives": {
+    "a": "reforçam um padrão de beleza.",
+    "b": "retratam um conflito de gerações.",
+    "c": "revelam uma atitude de resistência.",
+    "d": "demonstram uma postura de imaturidade.",
+    "e": "evidenciam uma mudança de comportamento."
+  },
+  "answer": "c",
+  "tags": [
+    "interpretação de texto",
+    "literatura mundial"
+  ],
+  "year": 2020,
+  "test": "ENEM",
+  "area": "linguagens",
+  "difficulty": 6,
+  "images": [],
+  "contextId": "enem_2020_linguagens_ctx1",
+  "contextIds": null,
+  "language": "en"
+}

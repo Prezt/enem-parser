@@ -1,0 +1,24 @@
+{
+  "number": 35,
+  "text": "Sobre o texto \"Singular ocorrência\", de Machado de Assis, qual é a principal característica estilística que define a narrativa?",
+  "alternatives": {
+    "a": "O uso de linguagem coloquial e direta para relatar os eventos",
+    "b": "A apresentação de diálogos extensos entre as personagens",
+    "c": "O emprego de ironia e crítica social disfarçadas na narrativa",
+    "d": "A descrição minuciosa e realista do cenário urbano",
+    "e": "A utilização de monólogos introspectivos das personagens"
+  },
+  "answer": "d",
+  "tags": [
+    "literatura brasileira",
+    "interpretação de texto"
+  ],
+  "year": 2021,
+  "test": "ENEM",
+  "area": "linguagens",
+  "difficulty": 5,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

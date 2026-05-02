@@ -1,0 +1,23 @@
+{
+  "number": 4,
+  "text": "No texto, a expressão “ un mañana sin sol  ” é usada para concluir uma crítica ao(à)",
+  "alternatives": {
+    "a": "descaso diante da problemática de crianças em situação de rua.",
+    "b": "violência característica do cotidiano das grandes metrópoles.",
+    "c": "estímulo à mendicância nos centros urbanos.",
+    "d": "tendência de informalização do trabalho.",
+    "e": "falta de serviços de saúde adequados."
+  },
+  "answer": "d",
+  "tags": [
+    "crítica social",
+    "literatura"
+  ],
+  "year": 2022,
+  "test": "ENEM",
+  "area": "linguagens",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

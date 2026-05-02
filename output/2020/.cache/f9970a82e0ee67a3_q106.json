@@ -1,0 +1,26 @@
+{
+  "number": 106,
+  "text": "Um mergulhador fica preso ao explorar uma caverna no oceano. Dentro da caverna formou-se um bolsão de ar, como mostrado na figura, onde o mergulhador se abrigou.\n\n[Figura: mergulhador em caverna com bolsão de ar no oceano]\n\nDurante o resgate, para evitar danos a seu organismo, foi necessário que o mergulhador passasse por um processo de descompressão antes de retornar à superfície para que seu corpo ficasse novamente sob pressão atmosférica. O gráfico mostra a relação entre os tempos de descompressão recomendados para indivíduos nessa situação e a variação de pressão.\n\n[Gráfico - relação entre tempo de descompressão (min) no eixo x de 0 a 700 e variação de pressão (kPa) no eixo y de 0 a 100]\n\nConsidere que a aceleração da gravidade seja igual a 10 m·s⁻² e que a densidade da água seja de ρ = 1 000 kg·m⁻³.\n\nEm minutos, qual é o tempo de descompressão a que o mergulhador deverá ser submetido?",
+  "alternatives": {
+    "a": "100/80",
+    "b": "80/60",
+    "c": "60/40",
+    "d": "40/20",
+    "e": "20"
+  },
+  "answer": "c",
+  "tags": [
+    "física moderna",
+    "fisiologia humana"
+  ],
+  "year": 2020,
+  "test": "ENEM",
+  "area": "nature",
+  "difficulty": 6,
+  "images": [
+    "figuras/q106_2020_fig1.png"
+  ],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

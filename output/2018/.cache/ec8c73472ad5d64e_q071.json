@@ -1,0 +1,24 @@
+{
+  "number": 71,
+  "text": "A eclosão desse conflito foi resultado da tensão acumulada na Marinha do Brasil pelo(a)",
+  "alternatives": {
+    "a": "engajamento de civis analfabetos após a emergência de guerras externas.",
+    "b": "insatisfação de militares positivistas após a consolidação da política dos governadores.",
+    "c": "rebaixamento de comandantes veteranos após a repressão a insurreições milenaristas.",
+    "d": "sublevação das classes populares do campo após a instituição do alistamento obrigatório.",
+    "e": "manutenção da mentalidade escravocrata da oficialidade após a queda do regime imperial."
+  },
+  "answer": "e",
+  "tags": [
+    "história do brasil república",
+    "direitos humanos e cidadania"
+  ],
+  "year": 2018,
+  "test": "ENEM",
+  "area": "humanas",
+  "difficulty": 6,
+  "images": [],
+  "contextId": "enem_2018_humanas_71_ctx1",
+  "contextIds": null,
+  "language": null
+}

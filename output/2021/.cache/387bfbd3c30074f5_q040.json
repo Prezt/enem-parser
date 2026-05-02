@@ -1,0 +1,24 @@
+{
+  "number": 40,
+  "text": "O texto apresenta características que evidenciam qual aspecto da poesia de Cecília Meireles?",
+  "alternatives": {
+    "a": "A valorização da forma fixa e métrica tradicional.",
+    "b": "A abordagem de temas políticos e sociais diretos.",
+    "c": "A exploração da subjetividade e sensibilidade lírica.",
+    "d": "A utilização de linguagem coloquial e popular.",
+    "e": "A predominância de narrativas e enredo linear."
+  },
+  "answer": "c",
+  "tags": [
+    "literatura brasileira",
+    "interpretação de texto"
+  ],
+  "year": 2021,
+  "test": "ENEM",
+  "area": "linguagens",
+  "difficulty": 5,
+  "images": [],
+  "contextId": "enem_2021_linguagens_ctx1",
+  "contextIds": null,
+  "language": null
+}

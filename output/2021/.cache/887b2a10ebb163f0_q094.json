@@ -1,0 +1,24 @@
+{
+  "number": 94,
+  "text": "No jogo, dois competidores controlam os canhões A e B, disparando balas alternadamente com o objetivo de acertar o alvo inimigo. Os valores estimados para o módulo da velocidade inicial do disparo (υ₀) e para o ângulo de disparo (θ) são dados conforme necessário. Em determinado momento de uma partida, o competidor B deve disparar; ele sabe que a bala disparada anteriormente, com θ = 53°, passou tangenciando o ponto P. No jogo, υ₀ é igual a 10 m/s. Considere sen 53° = 0,8 e cos 53° = 0,6. Com base nas distâncias dadas e mantendo o último ângulo de disparo, qual deveria ser, aproximadamente, o menor valor de υ₀ que permitiria ao disparo efetuado por B atingir o alvo em A?",
+  "alternatives": {
+    "a": "30 m/s",
+    "b": "35 m/s",
+    "c": "40 m/s",
+    "d": "45 m/s",
+    "e": "50 m/s"
+  },
+  "answer": "c",
+  "tags": [
+    "mecânica newtoniana",
+    "trigonometria"
+  ],
+  "year": 2021,
+  "test": "ENEM",
+  "area": "nature",
+  "difficulty": 7,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

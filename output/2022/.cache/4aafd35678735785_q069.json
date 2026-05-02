@@ -1,0 +1,23 @@
+{
+  "number": 69,
+  "text": "Considerando a dinâmica geopolítica subjacente ao texto, justificativa utilizada por Vladimir Putin, em 2014, para nexação dessa península apela para o argumento de que",
+  "alternatives": {
+    "a": "as populações com idioma comum devem estar submetidas à mesma autoridade estatal.",
+    "b": "o imperialismo soviético havia se acomodado às pretensões das potências vizinhas.",
+    "c": "os organismos transnacionais são incapazes de solucionar disputas territoriais.",
+    "d": "a integração regional supõe a livre circulação de pessoas e mercadorias.",
+    "e": "a expulsão das forças navais ocidentais garantiria a soberania nacional."
+  },
+  "answer": "a",
+  "tags": [
+    "geopolítica",
+    "história"
+  ],
+  "year": 2022,
+  "test": "ENEM",
+  "area": "humanas",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

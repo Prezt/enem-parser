@@ -1,0 +1,23 @@
+{
+  "number": 108,
+  "text": "A concentração de ácido tartárico no vinho analisado é mais próxima de:",
+  "alternatives": {
+    "a": "1,8 g L⁻¹",
+    "b": "2,4 g L⁻¹",
+    "c": "3,6 g L⁻¹",
+    "d": "4,8 g L⁻¹",
+    "e": "9,6 g L⁻¹"
+  },
+  "answer": "b",
+  "tags": [
+    "química",
+    "titulação"
+  ],
+  "year": 2022,
+  "test": "ENEM",
+  "area": "nature",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

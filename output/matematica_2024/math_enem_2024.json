@@ -1,0 +1,919 @@
+[
+  {
+    "number": 136,
+    "text": "O tamanho mínimo que a visão humana é capaz de visualizar sem o uso de equipamento auxiliar é equivalente a 3 a 100 micrômetros (1 micrômetro = 10 milímetros). Uma estudante pretende visualizar e analisar hemácias do sangue humano, que medem 0,007 mm de diâmetro. Ela adquiriu um microscópio óptico que tem uma lente ocular que amplia em 10 vezes a imagem do objeto em observação, e um conjunto de lentes objetivas com estas capacidades de ampliação: • lente I: 2 vezes; • lente II: 10 vezes; • lente III: 15 vezes; • lente IV: 1,1 vez; • lente V: 1,4 vez. O funcionamento desse microscópio permite o uso da lente ocular sozinha ou a combinação dela com uma de suas lentes objetivas, proporcionando, nesse caso, um aumento de sua capacidade de ampliação final, que é dada pelo produto entre as capacidades de ampliação da ocular e da objetiva. Essa estudante pretende selecionar a lente objetiva de menor capacidade de ampliação que permita, na combinação com a ocular, visualizar hemácias do sangue humano.",
+    "alternatives": {
+      "a": "I",
+      "b": "II",
+      "c": "III",
+      "d": "IV",
+      "e": "V"
+    },
+    "images": [],
+    "tags": [
+      "microscopia",
+      "ampliação",
+      "matemática"
+    ],
+    "year": 2024,
+    "test": "ENEM",
+    "area": "math",
+    "answer": "a"
+  },
+  {
+    "number": 137,
+    "text": "Ao calcular a média de suas notas em 4 provas, um estudante dividiu, por engano, a soma das notas por 5. Com isso, a média obtida foi 1 unidade menor do que deveria ser, caso fosse calculada corretamente. O valor correto da média das notas desse estudante é",
+    "alternatives": {
+      "a": "4",
+      "b": "5",
+      "c": "6",
+      "d": "19",
+      "e": "21"
+    },
+    "images": [],
+    "tags": [
+      "média",
+      "notas",
+      "matemática"
+    ],
+    "year": 2024,
+    "test": "ENEM",
+    "area": "math",
+    "answer": "b"
+  },
+  {
+    "number": 138,
+    "text": "Para abrir a porta de uma empresa, cada funcionário deve cadastrar uma senha utilizando um teclado lfanumérico como o representado na [Figura]. Por exemplo: a tecla que contém o número 2 traz as etras correlacionadas A, B e C. Cada toque nessa tecla mostra, sequencialmente, os seguintes caracteres: 2, A, B C. Para os próximos toques, essa sequência se repete. As demais teclas funcionam da mesma maneira. As senhas a serem cadastradas pelos funcionários evem conter 5 caracteres, sendo 2 algarismos distintos eguidos de 3 letras diferentes, nessa ordem. Um funcionário á cadastrar a sua primeira senha, podendo escolher entre s teclas que apresentam os números 1, 2, 5, 7 e 0 e as espectivas letras correlacionadas, quando houver. O número de possibilidades diferentes que esse uncionário tem para cadastrar sua senha é",
+    "alternatives": {
+      "a": "11 520.",
+      "b": "14 400.",
+      "c": "18 000.",
+      "d": "312 000.",
+      "e": "390 000."
+    },
+    "images": [
+      "figuras/q138_2024_fig1.png",
+      "figuras/q138_2024_fig2.png"
+    ],
+    "tags": [
+      "probabilidade",
+      "combinatória"
+    ],
+    "year": 2024,
+    "test": "ENEM",
+    "area": "math",
+    "answer": "b"
+  },
+  {
+    "number": 139,
+    "text": "Um artesão utiliza dois tipos de componentes, X Y, nos enfeites que produz. Ele sempre compra todos os componentes em uma mesma loja. O quadro apresent os preços dos dois tipos de componentes nas lojas I e II Preços dos componentes (R$) Lojas X Y I 3,00 [Figura: Tabela com preços] II 2,00 4,00 Ele confeccionará enfeites formados por duas unidades do componente X e uma unidade do componente Y efetuará a compra na loja que oferecer o menor valor total para a confecção de um enfeite.",
+    "alternatives": {
+      "a": "I, pois o valor é R$ 7,00",
+      "b": "I, pois o valor é R$ 4,00",
+      "c": "II, pois o valor é R$ 6,00",
+      "d": "I, pois anuncia o componente com o menor preço",
+      "e": "II, pois o componente X, que é o mais utilizado, tem menor preço"
+    },
+    "images": [
+      "figuras/q139_2024_fig1.png"
+    ],
+    "tags": [
+      "preços",
+      "matemática financeira"
+    ],
+    "year": 2024,
+    "test": "ENEM",
+    "area": "math",
+    "answer": "a"
+  },
+  {
+    "number": 140,
+    "text": "João e Felipe participaram, na escola, de uma maratona de matemática na qual, durante uma semana, resolveram 200 questões cada. Nessa maratona, a porcentagem P de acertos de cada participante é convertida em um conceito • insatisfatório: se 0 ≤ P < 50; • regular: se 50 ≤ P < 60; • bom: se 60 ≤ P < 75; • muito bom: se 75 ≤ P < 90; • excelente: se 90 ≤ P ≤ 100. João acertou 75% das questões da maratona e Felipe acertou 30% a menos que a quantidade de questões que João acertou. Os conceitos de João e Felipe foram, respectivamente,",
+    "alternatives": {
+      "a": "muito bom e bom.",
+      "b": "muito bom e regular.",
+      "c": "muito bom e insatisfatório.",
+      "d": "bom e regular.",
+      "e": "bom e insatisfatório."
+    },
+    "images": [],
+    "tags": [
+      "porcentagem",
+      "conceitos",
+      "matemática"
+    ],
+    "year": 2024,
+    "test": "ENEM",
+    "area": "math",
+    "answer": "b"
+  },
+  {
+    "number": 141,
+    "text": "Três grandezas (I, II e III) se relacionam entre si. Os gráficos a seguir, formados por segmentos de reta, escrevem as relações de dependência existentes entre s grandezas I e II, e entre as grandezas II e III. [Figura: Gráfico das relações entre as grandezas] [Gráfico - Relação entre as grandezas I e II e II e III] O valor máximo assumido pela grandeza III, quando a randeza I varia de 1 a 3, é",
+    "alternatives": {
+      "a": "1,0.",
+      "b": "2,5.",
+      "c": "3,0.",
+      "d": "3,5.",
+      "e": "4,0."
+    },
+    "images": [
+      "figuras/q141_2024_fig1.png",
+      "figuras/q141_2024_fig2.png"
+    ],
+    "tags": [
+      "grandezas",
+      "gráficos",
+      "relações"
+    ],
+    "year": 2024,
+    "test": "ENEM",
+    "area": "math",
+    "answer": "b"
+  },
+  {
+    "number": 142,
+    "text": "Uma criança, utilizando um aplicativo, escreveu uma mensagem para enviar a um amigo. Essa mensagem foi escrita seguindo estas etapas: [Figura - descrição da figura]ª 1 etapa: inseriu três figuras do tipo no visor de escrita da mensagem; ª 2 etapa: copiou o que havia inserido anteriormente e colou (inseriu o que havia copiado) ao lado; ª 3 etapa: copiou o que tinha no visor na 2 etapa e colou ao lado. A criança seguiu copiando e colando, em cada etapa o que tinha no visor na etapa imediatamente anterior, até concluir a 20ª etapa. Em seguida, enviou a mensagem. Qual foi o total de figuras contidas na mensagem enviada?",
+    "alternatives": {
+      "a": "3 × 2",
+      "b": "3 × 2",
+      "c": "3 × 2",
+      "d": "3 × 2 − 1",
+      "e": "3 × 2 − 3"
+    },
+    "images": [
+      "figuras/q142_2024_fig1.png"
+    ],
+    "tags": [
+      "matemática",
+      "sequências"
+    ],
+    "year": 2024,
+    "test": "ENEM",
+    "area": "math",
+    "answer": "a"
+  },
+  {
+    "number": 143,
+    "text": "Uma casa de shows terá um evento cujo custo total de produção é de R$ 34 350,00, sendo que comporta 500 pessoas. O preço do ingresso será de R$ 130,00 e normalmente, 60% das pessoas adquirem meia-entrada pagando R$ 65,00 pelo ingresso. Além do faturamento proveniente da venda de ingressos, a casa de show vende, com 60% de lucro, bebidas e petiscos ao público no dia do evento. Após ter vendido todos os 500 ingressos, constatou-se que a quantidade de meias-entradas vendidas superou em 50% o que estava previsto, impactando o faturamento estimado com a venda de ingressos. No dia do evento, decidiu-se manter o percentual de 60% de lucro sobre as bebidas e petiscos, pois todo o público que comprou ingresso compareceu ao show. Com isso, espera-se ter lucro de R$ 17 000,00 nesse evento. Para que se alcance o lucro esperado, o gasto médio por pessoa com bebidas e petiscos, em real, deverá ser de",
+    "alternatives": {
+      "a": "19,50.",
+      "b": "28,80.",
+      "c": "34,00.",
+      "d": "52,00.",
+      "e": "68,70."
+    },
+    "images": [],
+    "tags": [
+      "finanças",
+      "percentagem"
+    ],
+    "year": 2024,
+    "test": "ENEM",
+    "area": "math",
+    "answer": "d"
+  },
+  {
+    "number": 144,
+    "text": "Para obter um sólido de revolução (rotação de 360 ° m torno de um eixo fixo), uma professora realizou as eguintes etapas: • recortou o trapézio retângulo PQRS de um material rígido; • afixou o lado PS do trapézio em uma vareta fixa retilínea (eixo de rotação); • girou o trapézio 360 ° em torno da vareta e obteve um sólido de revolução. Observe a figura que apresenta o trapézio afixado na areta e o sentido de giro. [Figura: trapézio retângulo PQRS afixado na vareta com o sentido de giro]",
+    "alternatives": {
+      "a": "cone.",
+      "b": "cilindro.",
+      "c": "pirâmide.",
+      "d": "tronco de cone.",
+      "e": "tronco de pirâmide."
+    },
+    "images": [
+      "figuras/q144_2024_fig1.png"
+    ],
+    "tags": [
+      "geometria",
+      "solidos-de-revolucao"
+    ],
+    "year": 2024,
+    "test": "ENEM",
+    "area": "math",
+    "answer": "d"
+  },
+  {
+    "number": 145,
+    "text": "O estádio do Maracanã passou por algumas modificações estruturais para a realização da Copa do Mundo de 2014, como, por exemplo, as dimensões do ampo retangular. Para se adaptar aos padrões da Fifa, s dimensões do campo foram reduzidas de 110 m × 75 m ara 105 m × 68 m. Disponível em: http://virgula.uol.com.br. Acesso em: 14 ago. 2013 (adaptado). Em quantos metros quadrados a área do campo do Maracanã foi reduzida?",
+    "alternatives": {
+      "a": "24",
+      "b": "35",
+      "c": "555",
+      "d": "1 110",
+      "e": "1 145"
+    },
+    "images": [],
+    "tags": [
+      "área",
+      "geometria"
+    ],
+    "year": 2024,
+    "test": "ENEM",
+    "area": "math",
+    "answer": "d"
+  },
+  {
+    "number": 146,
+    "text": "Um fazendeiro pretende construir um galinheir ocupando uma região plana de formato retangular, com lados de comprimentos L metro e C metro. Os lados serã cercados por telas de tipos diferentes. Nos lados d comprimento L metro, será utilizada uma tela cujo metr linear custa R$ 20,00, enquanto, nos outros dois lados uma que custa R$ 15,00. O fazendeiro quer gastar, n máximo, R$ 6 000,00 na compra de toda a tela necessári para o galinheiro, e deseja que o galinheiro tenha a maiór área possível.[Figura: esboço do galinheiro com telas] Qual será a medida, em metro, do maior lado do galinheiro?",
+    "alternatives": {
+      "a": "85",
+      "b": "100",
+      "c": "175",
+      "d": "200",
+      "e": "350"
+    },
+    "images": [
+      "figuras/q146_2024_fig1.png"
+    ],
+    "tags": [
+      "área retangular",
+      "custo",
+      "otimização"
+    ],
+    "year": 2024,
+    "test": "ENEM",
+    "area": "math",
+    "answer": "b"
+  },
+  {
+    "number": 147,
+    "text": "Uma professora de matemática utiliza em suas aulas uma “máquina caça-números” para verificar o conhecimentos de seus estudantes sobre representação de números racionais. Essa máquina tem um visor dividido em seis compartimentos e, na lateral, uma alavanca. Cada estudante puxa a alavanca e espera que os compartimentos parassem de girar. A partir daí, precisa responder para a professora em quais posições se encontram os números que representam a mesma quantidade.\nUm estudante puxou a alavanca, aguardou que os compartimentos parassem de girar e observou os números apresentados no visor. A configuração da máquina naquele instante está apresentada na imagem.\nEsse estudante respondeu corretamente à pergunta da professora.",
+    "alternatives": {
+      "a": "I, II e IV",
+      "b": "II, IV e V",
+      "c": "II, III e V",
+      "d": "III, V e VI",
+      "e": "III, IV e VI"
+    },
+    "images": [],
+    "tags": [
+      "números racionais",
+      "representação"
+    ],
+    "year": 2024,
+    "test": "ENEM",
+    "area": "math",
+    "answer": "b"
+  },
+  {
+    "number": 148,
+    "text": "Uma caneca com água fervendo é retirada de um orno de micro-ondas. A temperatura T, em grau Celsius, a caneca, em função do tempo t, em minuto, pode ser t modelada pela função T(t) = a + 80b, representada no [Gráfico - modelo da temperatura] a seguir.[Gráfico - valores de T(t)] Os valores das constantes a e b são",
+    "alternatives": {
+      "a": "= 20; b = log(0,5)",
+      "b": "= 100; b = 0,5",
+      "c": "= 20 ; b = (0 5 , )",
+      "d": "= 20 ; b = (40 / 10)",
+      "e": "= 20; b = 40"
+    },
+    "images": [
+      "figuras/q148_2024_fig1.png",
+      "figuras/q148_2024_fig2.png"
+    ],
+    "tags": [
+      "função",
+      "temperatura",
+      "gráfico"
+    ],
+    "year": 2024,
+    "test": "ENEM",
+    "area": "math",
+    "answer": "c"
+  },
+  {
+    "number": 149,
+    "text": "Em uma empresa é comercializado um produto em embalagens em formato de cilindro circular reto, com raio medindo 3 cm, e altura medindo 15 cm. Essa empresa planeja comercializar o mesmo produto em embalagens em formato de cubo, com capacidade igual a 80% da capacidade da embalagem cilíndrica utilizada atualmente.[Figura: ilustração do cilindro e do cubo] Use 3 como valor aproximado para π. A medida da aresta da nova embalagem, em centímetro, deve ser",
+    "alternatives": {
+      "a": "6",
+      "b": "18",
+      "c": "6   6",
+      "d": "6",
+      "e": "3"
+    },
+    "images": [
+      "figuras/q149_2024_fig1.png"
+    ],
+    "tags": [
+      "geometria",
+      "volume"
+    ],
+    "year": 2024,
+    "test": "ENEM",
+    "area": "math",
+    "answer": "e"
+  },
+  {
+    "number": 150,
+    "text": "Uma sala com piso no formato retangular, com lado de medidas 3 m e 6 m, será dividida em dois ambientes Para isso, serão utilizadas colunas em formato cilíndrico dispostas perpendicularmente ao piso e representadas n figura pelos círculos de cor azul. Os centros desses círculo estarão sobre uma reta paralela aos lados de menor medid do piso da sala. [Figura: disposição das colunas] [Gráfico - relação entre raio e preço por unidade] Os vãos entre duas colunas e entre um coluna e a parede não poderão ser superiores a 15 cm. Para efetuar a compra dessas colunas, foram feito orçamentos com base em dados fornecidos por cinco lojas Preço por Loja Raio (cm) unidade (R$) I 5 60 II 10 70 III 12 75 IV 15 90 V 20 120 A compra será realizada na loja cujo orçamento result no menor valor total possível.",
+    "alternatives": {
+      "a": "I.",
+      "b": "II.",
+      "c": "III.",
+      "d": "IV.",
+      "e": "V."
+    },
+    "images": [
+      "figuras/q150_2024_fig1.png",
+      "figuras/q150_2024_fig2.png"
+    ],
+    "tags": [
+      "geometria",
+      "matemática financeira"
+    ],
+    "year": 2024,
+    "test": "ENEM",
+    "area": "math",
+    "answer": "c"
+  },
+  {
+    "number": 151,
+    "text": "O arquiteto Renzo Piano exibiu a maquete da nova sede do Museu Whitney de Arte Americana, um prédio assimétrico que tem um vão aberto para a galeria principal cuja medida da área é 1 672 m². Considere que a escala da maquete exibida é 1 : 200. A medida da área do vão aberto nessa maquete, em centímetro quadrado, é",
+    "alternatives": {
+      "a": "4,18",
+      "b": "8,36",
+      "c": "41,80",
+      "d": "83,60",
+      "e": "418,00"
+    },
+    "images": [],
+    "tags": [
+      "escala",
+      "área"
+    ],
+    "year": 2024,
+    "test": "ENEM",
+    "area": "math",
+    "answer": "e"
+  },
+  {
+    "number": 152,
+    "text": "O gráfico apresenta o valor total de exportações e [Gráfico - saldo da balança comercial brasileira] ao longo de um período, em bilhão de dólares. O saldo da balança comercial brasileira dado pelo valor total de exportações menos o valor total de importações num mesmo período. Considere que os saldos da balança comercial brasileira, nos três meses destacados no gráfico, sejam apresentados por: S1 : saldo em junho de 2009; S2 : saldo em janeiro de 2010; S3 : saldo em junho de 2010. A ordenação dos saldos S1, S2 e S3, do maior para o menor, é",
+    "alternatives": {
+      "a": "S1, S3 e S2.",
+      "b": "S2, S1 e S3.",
+      "c": "S2, S3 e S1.",
+      "d": "S3, S1 e S2.",
+      "e": "S3, S2 e S1."
+    },
+    "images": [
+      "figuras/q152_2024_fig1.png",
+      "figuras/q152_2024_fig2.png"
+    ],
+    "tags": [
+      "balança comercial",
+      "gráfico",
+      "exportações"
+    ],
+    "year": 2024,
+    "test": "ENEM",
+    "area": "math",
+    "answer": "a"
+  },
+  {
+    "number": 153,
+    "text": "Um instituto de pesquisa constatou que, nos últimos ez anos, o crescimento populacional de uma cidade foi e 135,25%. Qual é a representação decimal da taxa percentual desse rescimento populacional?",
+    "alternatives": {
+      "a": "13 525,0",
+      "b": "135,25",
+      "c": "13,525",
+      "d": "1,3525",
+      "e": "0,13525"
+    },
+    "images": [],
+    "tags": [
+      "população",
+      "taxa percentual"
+    ],
+    "year": 2024,
+    "test": "ENEM",
+    "area": "math",
+    "answer": "d"
+  },
+  {
+    "number": 154,
+    "text": "Contratos de vários serviços disponíveis na internet apresentam uma quantidade excessiva de informações. Isso faz com que o tempo necessário para a leitura desses contratos possa ser longo. O quadro apresenta uma amostra do tempo considerado necessário para a leitura completa do contrato de alguns serviços digitais. Tipo de serviço Tempo necessário para a leitura completa do contrato (em minutos) A 36 B 17 C 27 D 13 E 13 F 13 O tempo médio, em minutos, necessário para a leitura completa de um contrato de serviço dentre os listados no quadro é, com uma casa decimal, aproximadamente",
+    "alternatives": {
+      "a": "13,0.",
+      "b": "15,0.",
+      "c": "19,8.",
+      "d": "20,0.",
+      "e": "23,3."
+    },
+    "images": [],
+    "tags": [
+      "estatística",
+      "média"
+    ],
+    "year": 2024,
+    "test": "ENEM",
+    "area": "math",
+    "answer": "c"
+  },
+  {
+    "number": 155,
+    "text": "Um proprietário pretende instalar um sensor de presença para a proteção de seu imóvel. O sensor deverá detectar movimentos de objetos e pessoas numa determinada região plana. A figura ilustra a vista superior da área de cobertura (setor circular em azul) de um sensor colocado no ponto S. Essa área depende da medida do ângulo α, em graus, e do raio R, em metros. Ao aumentar o ângulo α ou o raio R aumenta-se a área de cobertura do sensor. Entretanto, quanto maior essa área, maior o preço do sensor.\n\nPara esse fim, há cinco tipos de sensores disponíveis no mercado, cada um com as seguintes características:\n• tipo I: α = 15° e R = 20 m;\n• tipo II: α = 30° e R = 22 m;\n• tipo III: α = 40° e R = 12 m;\n• tipo IV: α = 60° e R = 16 m;\n• tipo V: α = 90° e R = 10 m.\nEsse proprietário pretende adquirir um desses sensores que seja capaz de cobrir, no mínimo, uma área de medida 20 m², com o menor preço possível.",
+    "alternatives": {
+      "a": "I",
+      "b": "II",
+      "c": "III",
+      "d": "IV",
+      "e": "V"
+    },
+    "images": [],
+    "tags": [
+      "área de setor circular",
+      "geometria plana"
+    ],
+    "year": 2024,
+    "test": "ENEM",
+    "area": "math",
+    "answer": "e"
+  },
+  {
+    "number": 156,
+    "text": "O uso de aplicativos de transporte tem sido uma alternativa à população que busca preços mais competitivos para se locomover, principalmente nas grandes cidades. As formas usadas para determinar o valor cobrado por cada viagem variam de um aplicativo para outro, mas, em geral, o valor V a ser pago, em real, varia em função de: • tarifa base F : valor fixo, em real, cobrado no início da viagem; • tempo T : tempo, em minuto, de duração da viagem; • distância D : distância percorrida, em quilômetro. Um desses aplicativos cobra R$ 2,00 de valor fixo, crescido de R$ 0,26 por minuto de viagem e de R$ 1,40 por quilômetro rodado. Nessas condições, a expressão que fornece o valor V a ser pago por uma viagem desse aplicativo é [Figura: exemplo de cálculo]",
+    "alternatives": {
+      "a": "2,00 F   +  0,26 T  +  1,40 D",
+      "b": "2,00  +  0,26 T  +  1,40 D",
+      "c": "2,00  +  0,26 T  +   D",
+      "d": "0,26 T  +  1,40 D",
+      "e": "F   +   T  +   D"
+    },
+    "images": [
+      "figuras/q156_2024_fig1.png"
+    ],
+    "tags": [
+      "função",
+      "equação"
+    ],
+    "year": 2024,
+    "test": "ENEM",
+    "area": "math",
+    "answer": "b"
+  },
+  {
+    "number": 157,
+    "text": "Uma doceira vende e entrega, em seu bairro, porções de 100 g de docinhos de aniversário. Atualmente, a taxa única de entrega é R$ 10,00, e o valor cobrado por uma porção é R$ 25,00. Por uma estratégia de vendas, a partir da próxima semana, a taxa única de entrega será R$ 15,00 e um novo valor será cobrado por uma porção, de maneira que o valor total a ser pago por um cliente na compra de 5 porções permaneça o mesmo. A partir da próxima semana, qual será o novo valor cobrado, em real, por uma porção?",
+    "alternatives": {
+      "a": "12,50",
+      "b": "20,00",
+      "c": "24,00",
+      "d": "30,00",
+      "e": "37,50"
+    },
+    "images": [],
+    "tags": [
+      "matemática financeira",
+      "proporcionalidade"
+    ],
+    "year": 2024,
+    "test": "ENEM",
+    "area": "math",
+    "answer": "c"
+  },
+  {
+    "number": 158,
+    "text": "Em uma loja de defensivos agrícolas, os preços de alguns produtos foram divulgados em um cartaz. Sabe-se que 1 litro de defensivo do Tipo A é suficiente para aplicação em 0,5 hectare (ha), enquanto que 1 litro de defensivo do Tipo B é suficiente para aplicação em 0,4 ha. Um agricultor precisa comprar, nessa loja, uma quantidade de litros de defensivo suficiente para aplicar em uma área de 20 ha, além de levar uma máscara para aplicação. O valor mínimo, em real, a ser gasto pelo agricultor é",
+    "alternatives": {
+      "a": "147,00",
+      "b": "150,00",
+      "c": "162,50",
+      "d": "165,75",
+      "e": "168,00"
+    },
+    "images": [],
+    "tags": [
+      "área",
+      "custo",
+      "defensivos agrícolas"
+    ],
+    "year": 2024,
+    "test": "ENEM",
+    "area": "math",
+    "answer": "c"
+  },
+  {
+    "number": 159,
+    "text": "Uma tubulação despeja sempre o mesmo volume de gua por unidade de tempo em uma caixa-d’água, o que ignifica dizer que a vazão de água nessa tubulação é onstante. Na junção dessa tubulação com a caixa-d’água, stá instalada uma membrana de filtragem cujo objetivo é ltrar eventuais impurezas presentes na água, combinado um bom fluxo de água. O fluxo ( φ ) de água através a superfície da membrana é diretamente proporcional vazão de água na tubulação, medida em mililitro por egundo, e inversamente proporcional à área da superfície a membrana, medida em centímetro quadrado.[Figura: descrição da figura]",
+    "alternatives": {
+      "a": "2 A   mL  ⋅ s   ⋅ cm",
+      "b": "mL 2\n⋅ cm B  \ns",
+      "c": "mL\nC   2  ⋅\ncm s",
+      "d": "2  ⋅ cm s\nD  \nmL",
+      "e": "mL  ⋅ s"
+    },
+    "images": [
+      "figuras/q159_2024_fig1.png"
+    ],
+    "tags": [
+      "física",
+      "proporção"
+    ],
+    "year": 2024,
+    "test": "ENEM",
+    "area": "math",
+    "answer": "c"
+  },
+  {
+    "number": 160,
+    "text": "Uma piscina tem capacidade de 2 500 000 litros. Seu sistema de abastecimento foi regulado para ter ma vazão constante de 6 000 litros de água por minuto. O mesmo sistema foi instalado em uma segunda iscina, com capacidade de 2 750 000 litros, e regulado ara ter uma vazão, também constante, capaz de enchê-la m um tempo 20% maior que o gasto para encher a primeira piscina. [Figura: descrição da figura] A vazão do sistema de abastecimento da segunda piscina, m litro por minuto, é",
+    "alternatives": {
+      "a": "8 250.",
+      "b": "7 920.",
+      "c": "6 545.",
+      "d": "5 500.",
+      "e": "5 280."
+    },
+    "images": [
+      "figuras/q160_2024_fig1.png"
+    ],
+    "tags": [
+      "matemática",
+      "razão e proporção"
+    ],
+    "year": 2024,
+    "test": "ENEM",
+    "area": "math",
+    "answer": "d"
+  },
+  {
+    "number": 161,
+    "text": "Um tanque, em formato de paralelepípedo reto retângulo, tem em seu interior dois anteparos verticais, fixados na base e em duas paredes opostas, sendo perpendiculares a elas, conforme [Figura: descrição da figura]. Esses anteparos, de espessuras desprezíveis, estão instalados de maneira a dividir a base do tanque em três retângulos congruentes, tendo suas alturas iguais à metade da altura do tanque. O tanque é abastecido por uma entrada situada no teto, através de um duto que permite o enchimento do tanque em 12 horas. O gráfico que descreve, em cada instante, a maior altura da coluna de água, dentre aquelas que vão sendo formadas ao longo do enchimento do tanque, é [Gráfico - descrição do gráfico] [Infográfico - descrição do infográfico] [Esquema - descrição do esquema] [Figura: descrição da figura] [Figura: descrição da figura] [Figura: descrição da figura].",
+    "alternatives": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": "",
+      "e": ""
+    },
+    "images": [
+      "figuras/q161_2024_fig1.png",
+      "figuras/q161_2024_fig2.png",
+      "figuras/q161_2024_fig3.png",
+      "figuras/q161_2024_fig4.png",
+      "figuras/q161_2024_fig5.png",
+      "figuras/q161_2024_fig6.png"
+    ],
+    "tags": [
+      "geometria",
+      "razão e proporção"
+    ],
+    "year": 2024,
+    "test": "ENEM",
+    "area": "math",
+    "answer": "b"
+  },
+  {
+    "number": 162,
+    "text": "Uma imobiliária iniciou uma campanha de divulgação para promover a venda de apartamentos que podem ser pagos em 100 parcelas mensais. O valor da primeira delas é fixado no momento da compra, com o pagamento dessa primeira parcela. A partir da segunda parcela, o valor é determinado pela aplicação de um acréscimo percentual fixo ao valor da parcela anterior. Como atrativo, a imobiliária fará o pagamento de todas as parcelas correspondentes ao mês de aniversário do comprador. [Figura: gráfico que ilustra o financiamento] Um cliente, que faz aniversário no mês de maio, decidiu comprar um desses apartamentos por meio do financiamento oferecido pela imobiliária, e pretende escolher o mês mais adequado para realizar essa compra, de modo que o valor total dos pagamentos seja o menor possível. Qual é o mês que esse cliente deverá escolher para realizar a compra do apartamento?",
+    "alternatives": {
+      "a": "Fevereiro.",
+      "b": "Abril.",
+      "c": "Maio.",
+      "d": "Junho.",
+      "e": "Agosto."
+    },
+    "images": [
+      "figuras/q162_2024_fig1.png"
+    ],
+    "tags": [
+      "financiamento",
+      "sequência matemática"
+    ],
+    "year": 2024,
+    "test": "ENEM",
+    "area": "math",
+    "answer": "a"
+  },
+  {
+    "number": 163,
+    "text": "Um sistema de polias circulares e correias é um dos mecanismos responsáveis pela transmissão de movimento em máquinas rotativas. O manual de um motor traz uma figura representando um sistema composto por duas polias e uma correia de transmissão, tensionada e perfeitamente ajustada sobre as polias, de modo a não apresentar folga nos contatos com as polias. Considere que as partes dessa correia que não ficam em contato com as polias são representadas por segmentos de reta tangentes às polias. Para substituição dessa correia, é necessária especificação de seu comprimento. Considere 3 como valor aproximado para π.",
+    "alternatives": {
+      "a": "54",
+      "b": "60",
+      "c": "66",
+      "d": "68",
+      "e": "72"
+    },
+    "images": [],
+    "tags": [
+      "geometria",
+      "circunferência"
+    ],
+    "year": 2024,
+    "test": "ENEM",
+    "area": "math",
+    "answer": "d"
+  },
+  {
+    "number": 164,
+    "text": "A prefeitura de uma cidade planeja construir três postos [Esquema - pontos H, P1, P2 e P3] de saúde. Esses postos devem ser construídos em locais equidistantes entre si e de forma que as distâncias desses três postos ao hospital dessa cidade sejam iguais. Foram conseguidos três locais para a construção dos postos de saúde que apresentam as características desejadas, e que distam 10 km entre si.",
+    "alternatives": {
+      "a": "2 e 3",
+      "b": "4 e 5",
+      "c": "5 e 6",
+      "d": "7 e 8",
+      "e": "8 e 9"
+    },
+    "images": [
+      "figuras/q164_2024_fig1.png",
+      "figuras/q164_2024_fig2.png"
+    ],
+    "tags": [
+      "geometria",
+      "distância"
+    ],
+    "year": 2024,
+    "test": "ENEM",
+    "area": "math",
+    "answer": "c"
+  },
+  {
+    "number": 165,
+    "text": "Para melhorar o fluxo de ônibus em uma avenida que tem dois semáforos, a prefeitura reduzirá o tempo em que cada sinal ficará vermelho, que atualmente é de [Figura: descrição do esquema dos semáforos] segundos a cada 60 segundos. Admita que o instante da chegada de um ônibus a cada semáforo é aleatório. O engenheiro de tráfego da prefeitura calculou a probabilidade de um ônibus encontrar cada um desses sinais vermelho, obtendo 15/60. A partir daí, estabeleceu uma mesma redução na quantidade do tempo, em segundos, em que cada sinal ficará vermelho, de maneira que a probabilidade de um ônibus encontrar ambos os sinais vermelhos numa mesma viagem seja igual a 4/100, considerando os eventos independentes. Para isso, a redução do tempo em que o sinal ficará vermelho, em segundos, estabelecida pelo engenheiro foi de",
+    "alternatives": {
+      "a": "1,35.",
+      "b": "3,00.",
+      "c": "9,00.",
+      "d": "12,60.",
+      "e": "13,80."
+    },
+    "images": [
+      "figuras/q165_2024_fig1.png"
+    ],
+    "tags": [
+      "probabilidade",
+      "tempo",
+      "trânsito"
+    ],
+    "year": 2024,
+    "test": "ENEM",
+    "area": "math",
+    "answer": "b"
+  },
+  {
+    "number": 167,
+    "text": "Atualmente, há telefones celulares com telas de [Figura: descrição da figura] iversos tamanhos e em formatos retangulares. Alguns eles apresentam telas medindo   polegadas, com  3 determinadas especificações técnicas. Além disso, em muitos modelos, com a inclusão de novas funções no celular, suas telas ficaram maiores, sendo muito comum encontrarmos atualmente telas medindo   polegadas, conforme a figura.",
+    "alternatives": {
+      "a": "0,1",
+      "b": "0,5",
+      "c": "1,0",
+      "d": "1,3",
+      "e": "1,8"
+    },
+    "images": [
+      "figuras/q167_2024_fig1.png"
+    ],
+    "tags": [
+      "geometria",
+      "medidas"
+    ],
+    "year": 2024,
+    "test": "ENEM",
+    "area": "math",
+    "answer": "d"
+  },
+  {
+    "number": 168,
+    "text": "Projetistas de uma fábrica de amortecedores realizam uma série de experimentos que produziram oscilações semelhantes ao comportamento do gráfico de uma senoide. Cada experimento teve duração de 20 minutos, sendo os 9 primeiros minutos em superfície que simula uma rodovia asfaltada e os 11 minutos restantes em superfície que simula uma estrada de chão batido. Para os amortecedores serem aprovados no experimento, exige-se que as amplitudes das ondas oscilatórias, em cada tipo de superfície, sejam constantes e, ainda, que a amplitude da oscilação do amortecedor no asfalto seja menor do que sua amplitude da oscilação na estrada de chão. [Figura: gráfico de oscilações] [Gráfico - amplitudes das ondas] [Infográfico - comparação de superfícies] [Esquema - experimento com amortecedores] [Figura: resultados]",
+    "alternatives": {
+      "a": "A amplitude da oscilação no asfalto é igual à amplitude na estrada de chão.",
+      "b": "O gráfico mostra uma amplitude constante em todas as superfícies.",
+      "c": "As amplitudes das ondas oscilatórias são maiores na estrada de chão do que no asfalto.",
+      "d": "A amplitude da oscilação no asfalto é menor do que a amplitude na estrada de chão.",
+      "e": "O experimento não exige amplitudes constantes em todas as superfícies."
+    },
+    "images": [
+      "figuras/q168_2024_fig1.png",
+      "figuras/q168_2024_fig2.png",
+      "figuras/q168_2024_fig3.png",
+      "figuras/q168_2024_fig4.png",
+      "figuras/q168_2024_fig5.png"
+    ],
+    "tags": [
+      "matemática",
+      "física",
+      "oscilações"
+    ],
+    "year": 2024,
+    "test": "ENEM",
+    "area": "math",
+    "answer": "a"
+  },
+  {
+    "number": 169,
+    "text": "A criptografia refere-se à construção e análise de pro. Júlio César, imperador romano, utilizava um código para garantir que, se a mensagem caísse em mãos inimigas, a informação fosse protegida. Em seu sistema, cada letra do alfabeto era substituída pela letra três posições à frente nesse alfabeto, de modo que a “A” era substituída pela “D”, a “B” pela “E”, e assim sucessivamente. Qualquer código que tenha um padrão de substituição como esse é chamado de Código de César. Note que, para decifrar uma Cifra de César, basta descobrir qual letra do alfabeto foi usada como referência inicial, pois isso define todas as demais substituições a serem feitas. Uma mensagem, em um alfabeto de 26 letras, foi codificada usando o Código de César e enviada. A probabilidade de se descobrir, aleatoriamente, o padrão utilizado nessa cifra é:",
+    "alternatives": {
+      "a": "1/25",
+      "b": "3/50",
+      "c": "1/650",
+      "d": "1/780",
+      "e": "1/1560"
+    },
+    "images": [],
+    "tags": [
+      "criptografia",
+      "probabilidade"
+    ],
+    "year": 2024,
+    "test": "ENEM",
+    "area": "math",
+    "answer": "e"
+  },
+  {
+    "number": 170,
+    "text": "Em uma região com grande incidência de terremoto magnitudes M e M, medidos segundo a escala Richter, os estudiosos do assunto, é conhecida uma expressão a M - M = log(E2/E1). Estudos mais abrangentes observaram que o primeiro liberado foi um décimo da observada no segundo terrem. O valor aproximado da magnitude M do segundo terrem?",
+    "alternatives": {
+      "a": "5,4",
+      "b": "6,2",
+      "c": "7,6",
+      "d": "8,2",
+      "e": "8,4"
+    },
+    "images": [],
+    "tags": [
+      "terremotos",
+      "escala_richter"
+    ],
+    "year": 2024,
+    "test": "ENEM",
+    "area": "math",
+    "answer": "c"
+  },
+  {
+    "number": 171,
+    "text": "Um jardineiro dispõe de k metros lineares de cerca. Com essa cerca, deve ter a forma de um triângulo equilátero para que a área do jardim seja máxima. O jardineiro escolherá a forma de",
+    "alternatives": {
+      "a": "hexágono regular, pois a área do jardim, em metro quadrado, é maior",
+      "b": "hexágono regular, pois a área do jardim, em metro quadrado, é maior",
+      "c": "quadrado, pois a área do jardim, em metro quadrado, é maior",
+      "d": "triângulo equilátero, pois a área do jardim, em metro quadrado, é máxima",
+      "e": "triângulo equilátero, pois a área do jardim, em metro quadrado, é máxima"
+    },
+    "images": [],
+    "tags": [
+      "geometria",
+      "triangulo-equilatero"
+    ],
+    "year": 2024,
+    "test": "ENEM",
+    "area": "math",
+    "answer": "a"
+  },
+  {
+    "number": 172,
+    "text": "Um aeroporto disponibiliza o serviço de transporte gr[Esquema - esquema dos ônibus e câmeras]partem simultaneamente, de hora em hora, de terminais diferentes partes do trecho, conforme o esquema. O alcance de cada uma das cinco câmeras é: 1 • câmera I: do percurso; 5 3 • câmera II: do percurso; 10 1 • câmera III: do percurso; 10 1 • câmera IV: do percurso; 10 3 • câmera V: do percurso. Em determinado horário, o ônibus A parte do terminal 1 com velocidade constante de 250 m/min; enquanto o ônibus B, que parte do terminal 2, realiza o percurso total com velocidade constante de 150 m/min. Qual câmera registra o momento em que os ônibus A e B se encontram?",
+    "alternatives": {
+      "a": "I",
+      "b": "II",
+      "c": "III",
+      "d": "IV",
+      "e": "V"
+    },
+    "images": [
+      "figuras/q172_2024_fig1.png"
+    ],
+    "tags": [
+      "geometria",
+      "razões e proporções"
+    ],
+    "year": 2024,
+    "test": "ENEM",
+    "area": "math",
+    "answer": "d"
+  },
+  {
+    "number": 173,
+    "text": "Uma empresa tem 400 funcionários, distribuídos em três setores: administrativo, logística e produção. O gráfico apresenta a distribuição quantitativa desses funcionários por setor e por faixa etária. Uma viagem de férias será sorteada entre esse funcionários, de forma que todos terão igual probabilidade de serem sorteados. A maior probabilidade é que o funcionário sorteado esteja na faixa etária",
+    "alternatives": {
+      "a": "entre 25 e 45 anos, pois é a faixa etária com maior quantidade de funcionários.",
+      "b": "entre 25 e 45 anos, pois é a única faixa etária cujas porcentagens são maiores do que as porcentagens mínimas de cada setor.",
+      "c": "até 25 anos, pois é a única faixa etária cujos percentuais associados aos setores aumentam com o aumento da quantidade de funcionários por setor.",
+      "d": "até 25 anos, pois é a faixa etária que apresenta maior quantidade de funcionários no setor de produção que é o setor que emprega metade dos funcionários dessa empresa.",
+      "e": "a partir de 45 anos, pois a soma das porcentagens associadas a essa faixa etária é 110%, que é maior do que as respectivas somas associadas às outras faixas etárias, que são 105% e 85%."
+    },
+    "images": [],
+    "tags": [
+      "probabilidade",
+      "estatística"
+    ],
+    "year": 2024,
+    "test": "ENEM",
+    "area": "math",
+    "answer": "a"
+  },
+  {
+    "number": 174,
+    "text": "Em um jogo virtual para celular, um personagem pode ercorrer trajetórias retilíneas voando ou se deslocando ao ongo de paredes. Considere que o personagem descreve trajetória ABCDEF , em que os pontos A , D e E estão em m plano paralelo ao que contém os pontos B e C , sendo esses dois planos ortogonais ao plano da base que contém o ponto F , conforme a figura. [Figura: descrição da figura] A projeção ortogonal, sobre o plano da base, da trajetória ABCDEF descrita pelo personagem é [Figura: descrição da figura]",
+    "alternatives": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": "",
+      "e": ""
+    },
+    "images": [
+      "figuras/q174_2024_fig1.png",
+      "figuras/q174_2024_fig2.png",
+      "figuras/q174_2024_fig3.png",
+      "figuras/q174_2024_fig4.png",
+      "figuras/q174_2024_fig5.png",
+      "figuras/q174_2024_fig6.png",
+      "figuras/q174_2024_fig7.png"
+    ],
+    "tags": [
+      "geometria",
+      "projeções"
+    ],
+    "year": 2024,
+    "test": "ENEM",
+    "area": "math",
+    "answer": "c"
+  },
+  {
+    "number": 175,
+    "text": "Uma indústria faz uma parceria com um distribuidor de sucos para lançar no mercado dois tipos d embalagens. Para a fabricação dessas embalagens a indústria dispõe de folhas de alumínio retangulares de dimensões 10 cm por 20 cm. Cada uma dessa folhas é utilizada para formar a superfície lateral d embalagem, em formato de cilindro circular reto, que posteriormente recebe fundo e tampa circulares. A figura ilustra, dependendo de qual das duas extensões ser utilizada como altura, as duas opções para formar possível embalagem. Dentre essas duas embalagens, a de maior capacidade apresentará volume, em centímetro cúbico, igual a",
+    "alternatives": {
+      "a": "4 000  π",
+      "b": "2 000  π",
+      "c": "4 000\nπ",
+      "d": "1000\nπ",
+      "e": "500\nπ"
+    },
+    "images": [],
+    "tags": [
+      "geometria",
+      "volume"
+    ],
+    "year": 2024,
+    "test": "ENEM",
+    "area": "math",
+    "answer": "d"
+  },
+  {
+    "number": 176,
+    "text": "As receitas anuais obtidas por uma indústria no período e 2014 a 2021, em milhão de reais, foram registradas, por [Gráfico - evolução das receitas] pontos. Nele, também está representada a [Figura - reta de tendência]. Essa reta pode ser utilizada para estimar as receitas dos anos seguintes.",
+    "alternatives": {
+      "a": "7",
+      "b": "8",
+      "c": "9",
+      "d": "10",
+      "e": "11"
+    },
+    "images": [
+      "figuras/q176_2024_fig1.png",
+      "figuras/q176_2024_fig2.png"
+    ],
+    "tags": [
+      "estatística",
+      "tendência"
+    ],
+    "year": 2024,
+    "test": "ENEM",
+    "area": "math",
+    "answer": "b"
+  },
+  {
+    "number": 177,
+    "text": "Uma empresa produz mochilas escolares só encomenda. Essa empresa tem um custo total de produção composto por um custo fixo, que não depende do número de mochilas, mais um custo variável, que é proporcional ao número de mochilas produzidas. O custo total cresce de forma linear, e a tabela apresenta esse custo para três quantidades de mochilas produzidas.\n\nQuantidade de \n30 50 100\nmochilas\nCusto total (R$) 1 050,00 1 650,00 3 150,00\nO custo total, em real, para a produção de 80 mochilas ser",
+    "alternatives": {
+      "a": "2 400,00",
+      "b": "2 520,00",
+      "c": "2 550,00",
+      "d": "2 700,00",
+      "e": "2 800,00"
+    },
+    "images": [],
+    "tags": [
+      "custo",
+      "proporcionalidade",
+      "matemática-financeira"
+    ],
+    "year": 2024,
+    "test": "ENEM",
+    "area": "math",
+    "answer": "c"
+  },
+  {
+    "number": 178,
+    "text": "A umidade relativa do ar é um dos indicadores utilizado na meteorologia para fazer previsões sobre o clima. O quadro apresenta as médias mensais, em porcentagem da umidade relativa do ar em um período de seis meses consecutivos em uma cidade. Meses Maio Jun. Jul. Ago. Set. Out. Média mensal da umidade relativa 66 64 54 46 60 64 do ar (%). Nessa cidade, a mediana desses dados, em porcentagem da umidade relativa do ar no período considerado foi",
+    "alternatives": {
+      "a": "56.",
+      "b": "58.",
+      "c": "59.",
+      "d": "60.",
+      "e": "62."
+    },
+    "images": [],
+    "tags": [
+      "estatística",
+      "mediana"
+    ],
+    "year": 2024,
+    "test": "ENEM",
+    "area": "math",
+    "answer": "e"
+  }
+]

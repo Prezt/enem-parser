@@ -1,0 +1,25 @@
+{
+  "number": 82,
+  "text": "[Figura - Mapa espacializando a ocorrência de rochas ígneas na Amazônia Legal]",
+  "alternatives": {
+    "a": "Abalos sísmicos periódicos.",
+    "b": "Jazidas de minerais metálicos.",
+    "c": "Reservas de combustíveis fósseis.",
+    "d": "Aquíferos sedimentares profundos.",
+    "e": "Estruturas geológicas metamórficas."
+  },
+  "answer": "b",
+  "tags": [
+    "geografia",
+    "rochas ígneas"
+  ],
+  "year": 2022,
+  "test": "ENEM",
+  "area": "humanas",
+  "images": [
+    "figuras/q082_2022_fig1.png"
+  ],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

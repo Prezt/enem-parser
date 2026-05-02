@@ -1,0 +1,23 @@
+{
+  "number": 120,
+  "text": "O vírus linfotrópico de células T humanas tipo (HTLV-1) é um retrovírus do mesmo grupo do vírus d imunodeficiência humana (HIV). Ambos são transmitidos da mesma forma e infectam as mesmas células de defesa do organismo, os linfócitos T. A diferença entre eles é que HTLV-1 estimula o aumento da produção desses linfócitos enquanto o HIV causa destruição dessas células.",
+  "alternatives": {
+    "a": "aids",
+    "b": "câncer",
+    "c": "diabetes",
+    "d": "hepatite B",
+    "e": "hemorragia"
+  },
+  "answer": "b",
+  "tags": [
+    "virologia",
+    "sistema imunológico"
+  ],
+  "year": 2024,
+  "test": "ENEM",
+  "area": "nature",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

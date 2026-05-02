@@ -1,0 +1,961 @@
+[
+  {
+    "number": 91,
+    "text": "Por qual motivo ocorre a eletrização ilustrada na tirinha?\n[Figura: tirinha mostrando eletrização entre calça e pelos de gato]",
+    "alternatives": {
+      "a": "Troca de átomos entre a calça e os pelos do gato.",
+      "b": "Diminuição do número de prótons nos pelos do gato.",
+      "c": "Criação de novas partículas eletrizadas nos pelos do gato.",
+      "d": "Movimentação de elétrons entre a calça e os pelos do gato.",
+      "e": "Repulsão entre partículas elétricas da calça e dos pelos do gato."
+    },
+    "images": [
+      "figuras/q091_2020_fig1.png"
+    ],
+    "tags": [
+      "eletricidade e magnetismo",
+      "física"
+    ],
+    "difficulty": 4,
+    "year": 2020,
+    "test": "ENEM",
+    "area": "nature",
+    "answer": "d"
+  },
+  {
+    "number": 92,
+    "text": "A enorme quantidade de resíduos gerados pelo consumo crescente da sociedade traz para a humanidade uma preocupação socioambiental, em especial pela quantidade de lixo produzido. Além da reciclagem e do reúso, pode-se melhorar ainda mais a qualidade de vida substituindo polímeros convencionais por polímeros biodegradáveis. Esses polímeros têm grandes vantagens socioambientais porque",
+    "alternatives": {
+      "a": "não são tóxicos.",
+      "b": "não precisam ser reciclados.",
+      "c": "não causam poluição ambiental quando descartados.",
+      "d": "são degradados em um tempo bastante menor que os convencionais.",
+      "e": "apresentam propriedades mecânicas semelhantes aos convencionais."
+    },
+    "images": [],
+    "tags": [
+      "meio ambiente e sustentabilidade",
+      "química geral e inorgânica"
+    ],
+    "difficulty": 4,
+    "year": 2020,
+    "test": "ENEM",
+    "area": "nature",
+    "answer": "d"
+  },
+  {
+    "number": 93,
+    "text": "Uma pessoa percebe que a bateria de seu veículo está descarregando rapidamente. Desse período, a bateria funcionava normalmente e existe a possibilidade de haver uma corrente de fuga, que drena a bateria mesmo com o veículo desligados. Ele associa um amperímetro digital para medir essa corrente de fuga. Qual dos esquemas indica a maneira com que o amperímetro deve ser conectado ao circuito para realizar essa medição?\n\n[Esquema - três alternativas de circuito com bateria, amperímetro e circuito do veículo]",
+    "alternatives": {
+      "a": "[Esquema A: Amperímetro em paralelo com o circuito do veículo, leitura de 0,5 A]",
+      "b": "[Esquema B: Amperímetro em paralelo com o circuito do veículo, leitura de 0,5 A]",
+      "c": "[Esquema C: Amperímetro em série com a bateria e o circuito do veículo, leitura de 2,5 A]",
+      "d": "[Esquema D não descrito na questão]",
+      "e": "[Esquema E não descrito na questão]"
+    },
+    "images": [
+      "figuras/q093_2020_fig1.png"
+    ],
+    "tags": [
+      "eletricidade e magnetismo"
+    ],
+    "difficulty": 6,
+    "year": 2020,
+    "test": "ENEM",
+    "area": "nature",
+    "answer": "b"
+  },
+  {
+    "number": 94,
+    "text": "Um microempresário do ramo de cosméticos utiliza óleos essenciais e quer produzir um creme com fragrância de rosas. O principal componente do óleo de rosas tem ideia poli-insaturada e hidroxila em carbono terminal. O catálogo dos óleos essenciais apresenta, para escolha de substância o empresário deverá utilizar, estas estruturas químicas:",
+    "alternatives": {
+      "a": "1",
+      "b": "2",
+      "c": "3",
+      "d": "4",
+      "e": "5"
+    },
+    "images": [],
+    "tags": [
+      "química orgânica",
+      "química geral e inorgânica"
+    ],
+    "difficulty": 6,
+    "year": 2020,
+    "test": "ENEM",
+    "area": "nature",
+    "answer": "a"
+  },
+  {
+    "number": 95,
+    "text": "A fragmentação dos hábitats é caracterizada pela formação de ilhas da paisagem original, circundada por áreas transformadas. Esse tipo de interferência no ambiente ameaça a biodiversidade. Imagine que uma população de onças foi isolada em uma mata pequena. Elas se extinguiriam mesmo sem terem sido abatidas. Diversos componentes da ilha de hábitat, como o tamanho, a heterogeneidade, o seu entorno, a sua conectividade e o efeito de borda são determinantes para a persistência ou não das espécies originais. Uma medida que auxilia na conservação da biodiversidade nas ilhas mencionadas no texto compreende a",
+    "alternatives": {
+      "a": "formação de micro-hábitats.",
+      "b": "ampliação do efeito de borda.",
+      "c": "construção de corredores ecológicos.",
+      "d": "promoção da sucessão ecológica.",
+      "e": "introdução de novas espécies de animais e vegetais"
+    },
+    "images": [],
+    "tags": [
+      "ecologia",
+      "meio ambiente e sustentabilidade"
+    ],
+    "difficulty": 6,
+    "year": 2020,
+    "test": "ENEM",
+    "area": "nature",
+    "answer": "c"
+  },
+  {
+    "number": 96,
+    "text": "A sacarase (ou invertase) é uma enzima que atua no intestino humano hidrolisando o dissacarídeo sacarose nos monossacarídeos glicose e frutose. Em um estudo cinético da reação de hidrólise da sacarose (C₁₂H₂₂O₁₁), foram dissolvidos 171 g de sacarose em 500 mL de água. Observou-se que, a cada 100 minutos de reação, a concentração de sacarose foi reduzida à metade, qualquer que fosse o momento escolhido como tempo inicial. As massas molares dos elementos H, C e O são iguais a 1, 12 e 16 g mol⁻¹, respectivamente.\n\nQual é a concentração de sacarose depois de 400 minutos do início da reação de hidrólise?",
+    "alternatives": {
+      "a": "2,50 × 10⁻³ mol L⁻¹",
+      "b": "6,25 × 10⁻² mol L⁻¹",
+      "c": "1,25 × 10⁻¹ mol L⁻¹",
+      "d": "2,50 × 10⁻¹ mol L⁻¹",
+      "e": "4,27 × 10⁻¹ mol L⁻¹"
+    },
+    "images": [],
+    "tags": [
+      "termoquímica e cinética",
+      "estequiometria"
+    ],
+    "difficulty": 6,
+    "year": 2020,
+    "test": "ENEM",
+    "area": "nature",
+    "answer": "b"
+  },
+  {
+    "number": 97,
+    "text": "Grandes reservatórios de óleo leve de melhor qualidade e que produz petróleo mais fino foram descobertos no litoral brasileiro numa camada denominada pré-sal, formada há 150 milhões de anos. A utilização desse recurso energético acarreta para o ambiente um desequilíbrio no ciclo do",
+    "alternatives": {
+      "a": "nitrogênio, devido à nitrificação ambiental transformando amônia em nitrito.",
+      "b": "nitrogênio, devido ao aumento dos compostos nitrogenados no ambiente terrestre.",
+      "c": "carbono, devido ao aumento dos carbonatos dissolvidos no ambiente marinho.",
+      "d": "carbono, devido à liberação das cadeias carbônicas aprisionadas abaixo dos sedimentos.",
+      "e": "fósforo, devido à liberação dos fosfatos acumulados no ambiente marinho."
+    },
+    "images": [],
+    "tags": [
+      "ecologia",
+      "ciclos biogeoquímicos",
+      "impacto ambiental"
+    ],
+    "difficulty": 6,
+    "year": 2020,
+    "test": "ENEM",
+    "area": "nature",
+    "answer": "d"
+  },
+  {
+    "number": 98,
+    "text": "Em uma usina geradora de energia elétrica, seja através de uma queda-d'água ou através de vapor sob pressão, as pás do gerador são postas a girar. O movimento relativo de um ímã em relação a um conjunto de bobinas produz um fluxo magnético variável através delas, gerando uma diferença de potencial em seus terminais. Durante o funcionamento de um dos geradores, o operador da usina percebeu que houve um aumento inesperado da diferença de potencial elétrico nos terminais das bobinas.\nNessa situação, o aumento do módulo da diferença de potencial obtida nos terminais das bobinas resulta do aumento do(a)",
+    "alternatives": {
+      "a": "intervalo de tempo em que as bobinas ficam imersas no campo magnético externo, por meio de uma diminuição de velocidade no eixo de rotação do gerador.",
+      "b": "fluxo magnético através das bobinas, por meio de um aumento em sua área interna exposta ao campo magnético aplicado.",
+      "c": "intensidade do campo magnético no qual as bobinas estão imersas, por meio de aplicação de campos magnéticos mais intensos.",
+      "d": "rapidez com que o fluxo magnético varia através das bobinas, por meio de um aumento em sua velocidade angular.",
+      "e": "resistência interna do condutor que constitui as bobinas, por meio de um aumento na espessura dos terminais."
+    },
+    "images": [],
+    "tags": [
+      "eletricidade e magnetismo",
+      "física moderna"
+    ],
+    "difficulty": 6,
+    "year": 2020,
+    "test": "ENEM",
+    "area": "nature",
+    "answer": "d"
+  },
+  {
+    "number": 99,
+    "text": "Você foi contratado para sincronizar os quatro semáforos de uma avenida, indicados pelas letras O, A, B e C, conforme a figura.\n\n[Figura: diagrama de semáforos em sequência]\n\nOs semáforos estão separados por uma distância de 500 m. Segundo os dados estatísticos da companhia controladora de trânsito, um veículo, que está inicialmente parado no semáforo O, tipicamente parte com aceleração constante de 1 m·s⁻² até atingir velocidade de 72 km·h⁻¹ e, a partir daí, prossegue com velocidade constante. Você deve ajustar os semáforos A, B e C de modo que eles mudem para a cor verde quando o veículo estiver a 100 m de cruzá-los, para que ele não tenha que reduzir a velocidade em nenhum momento.\n\nConsiderando essas condições, aproximadamente quanto tempo depois da abertura do semáforo O os semáforos A, B e C devem abrir, respectivamente?",
+    "alternatives": {
+      "a": "20 s, 45 s e 70 s",
+      "b": "25 s, 50 s e 75 s",
+      "c": "28 s, 42 s e 53 s",
+      "d": "30 s, 55 s e 80 s",
+      "e": "35 s, 60 s e 85 s"
+    },
+    "images": [],
+    "tags": [
+      "mecânica newtoniana",
+      "cinemática"
+    ],
+    "difficulty": 6,
+    "year": 2020,
+    "test": "ENEM",
+    "area": "nature",
+    "answer": "d"
+  },
+  {
+    "number": 100,
+    "text": "Nos dias atuais, o amplo uso de objetos de plástico gera bastante lixo, que muitas vezes é eliminado pela população por meio da queima. Esse procedimento é prejudicial ao meio ambiente por lançar substâncias poluentes. Para constatar esse problema, um estudante analisou a decomposição térmica do policloreto de vinila (PVC), um tipo de plástico, cuja estrutura é representada na figura. Para realizar esse experimento, o estudante colocou uma amostra de filme de PVC em um tubo de ensaio e o aqueceu, promovendo a decomposição térmica. Houve liberação majoritária de um gás diatômico heteronuclear que foi recolhido em um recipiente acoplado ao tubo de ensaio. Esse gás, quando borbulhado em solução alcalina diluída contendo indicador ácido-base, alterou a cor da solução. Além disso, em contato com uma solução aquosa de carbonato de sódio (Na₂CO₃), liberou gás carbônico. Qual foi o gás liberado majoritariamente na decomposição térmica desse tipo de plástico?",
+    "alternatives": {
+      "a": "H₂",
+      "b": "Cl₂",
+      "c": "CO",
+      "d": "CO₂",
+      "e": "HCl"
+    },
+    "images": [],
+    "tags": [
+      "química geral e inorgânica",
+      "química orgânica"
+    ],
+    "difficulty": 6,
+    "year": 2020,
+    "test": "ENEM",
+    "area": "nature",
+    "answer": "e"
+  },
+  {
+    "number": 101,
+    "text": "Uma população (momento A) sofre isolamento em duas subpopulações (momento B) por um fator de isolamento (I). Passado um tempo, essas subpopulações apresentam características fenotípicas e genotípicas que as distinguem (momento C), representadas na figura pelas tonalidades de cor. O posterior desaparecimento do fator de isolamento I pode levar, no momento D, às situações D1 e D2. A representação indica que, no momento D, na situação",
+    "alternatives": {
+      "a": "D1 ocorre um novo fator de isolamento geográfico.",
+      "b": "D1 existe uma única população distribuída em gradiente.",
+      "c": "D1 ocorrem duas populações separadas por isolamento reprodutivo.",
+      "d": "D2 coexistem duas populações com características fenotípicas distintas.",
+      "e": "D2 foram preservadas as mesmas características fenotípicas da população original A."
+    },
+    "images": [],
+    "tags": [
+      "genética e hereditariedade",
+      "evolução"
+    ],
+    "difficulty": 6,
+    "year": 2020,
+    "test": "ENEM",
+    "area": "nature",
+    "answer": "c"
+  },
+  {
+    "number": 102,
+    "text": "A obtenção de óleos vegetais, de maneira geral, passa pelas etapas mostradas no diagrama. Qual das subetapas do processo é realizada em função da separação de fases do sistema?",
+    "alternatives": {
+      "a": "Trituração.",
+      "b": "Cozimento.",
+      "c": "Prensagem.",
+      "d": "Extração.",
+      "e": "Destilação."
+    },
+    "images": [],
+    "tags": [
+      "química geral e inorgânica",
+      "processos químicos industriais"
+    ],
+    "difficulty": 6,
+    "year": 2020,
+    "test": "ENEM",
+    "area": "nature",
+    "answer": "d"
+  },
+  {
+    "number": 103,
+    "text": "O dióxido de carbono passa para o estado sólido (gelo seco) à temperatura ambiente. O gás é facilmente solubilizado em água, capaz de formar ácido fraco e não conduz eletricidade. Ele é utilizado como matéria-prima na fotossíntese. Após ser consumido pelos organismos autotróficos, o gás retorna ao meio ambiente através da respiração celular ou por resíduos industriais, queima de combustíveis fósseis e decomposição. Seu excesso causa perturbações no equilíbrio ambiental. Considerando as propriedades descritas, o aumento atmosférico de CO₂ é prejudicial à vida aquática pela razão da",
+    "alternatives": {
+      "a": "redução do potencial hidrogeniônico da água.",
+      "b": "restrição da aerobiose pelo excesso de poluentes.",
+      "c": "diminuição da emissão de oxigênio pelos autótrofos.",
+      "d": "limitação de transferência de energia entre os seres vivos.",
+      "e": "retração dos oceanos pelo congelamento do gás."
+    },
+    "images": [],
+    "tags": [
+      "química geral e inorgânica",
+      "ecologia",
+      "equilíbrio químico"
+    ],
+    "difficulty": 6,
+    "year": 2020,
+    "test": "ENEM",
+    "area": "nature",
+    "answer": "a"
+  },
+  {
+    "number": 104,
+    "text": "Grupos de proteção ao meio ambiente conseguem resgatar muitas aves aquáticas vítimas de vazamentos de petróleo. Essas aves são lavadas com água e detergente neutro para a retirada completa do óleo de seu corpo e, posteriormente, são aquecidas, medicadas, desintoxicadas e alimentadas. Mesmo após esses cuidados, o retorno ao ambiente não pode ser imediato, pois elas precisam recuperar a capacidade de flutuação. Para flutuar, essas aves precisam",
+    "alternatives": {
+      "a": "recuperar o tônus muscular.",
+      "b": "restaurar a massa corporal.",
+      "c": "substituir as penas danificadas.",
+      "d": "restabelecer a capacidade de homeotermia.",
+      "e": "refazer a camada de cera impermeabilizante das penas."
+    },
+    "images": [],
+    "tags": [
+      "zoologia",
+      "fisiologia humana",
+      "ecologia"
+    ],
+    "difficulty": 6,
+    "year": 2020,
+    "test": "ENEM",
+    "area": "nature",
+    "answer": "e"
+  },
+  {
+    "number": 105,
+    "text": "Os manuais de refrigerador apresentam recomendação de que o equipamento não deve ser instalado próximo a fontes de calor, como fogão ou aquecedores, ou em local onde incida diretamente luz do sol. A instalação em local inadequado prejudica o funcionamento do refrigerador e aumenta o consumo de energia. O não atendimento dessa recomendação resulta em aumento do consumo de energia porque",
+    "alternatives": {
+      "a": "o fluxo de calor por condução no condensador sofre considerável redução.",
+      "b": "a temperatura da substância refrigerante no condensador diminui mais rapidamente.",
+      "c": "o fluxo de calor promove significativa elevação de temperatura no interior do refrigerador.",
+      "d": "a liquefação da substância refrigerante no condensador exige mais trabalho do compressor.",
+      "e": "as correntes de convecção nas proximidades do condensador ocorrem com maior dificuldade."
+    },
+    "images": [],
+    "tags": [
+      "termologia",
+      "fisiologia humana"
+    ],
+    "difficulty": 6,
+    "year": 2020,
+    "test": "ENEM",
+    "area": "nature",
+    "answer": "d"
+  },
+  {
+    "number": 106,
+    "text": "Um mergulhador fica preso ao explorar uma caverna no oceano. Dentro da caverna formou-se um bolsão de ar, como mostrado na figura, onde o mergulhador se abrigou.\n\n[Figura: mergulhador em caverna com bolsão de ar no oceano]\n\nDurante o resgate, para evitar danos a seu organismo, foi necessário que o mergulhador passasse por um processo de descompressão antes de retornar à superfície para que seu corpo ficasse novamente sob pressão atmosférica. O gráfico mostra a relação entre os tempos de descompressão recomendados para indivíduos nessa situação e a variação de pressão.\n\n[Gráfico - relação entre tempo de descompressão (min) no eixo x de 0 a 700 e variação de pressão (kPa) no eixo y de 0 a 100]\n\nConsidere que a aceleração da gravidade seja igual a 10 m·s⁻² e que a densidade da água seja de ρ = 1 000 kg·m⁻³.\n\nEm minutos, qual é o tempo de descompressão a que o mergulhador deverá ser submetido?",
+    "alternatives": {
+      "a": "100/80",
+      "b": "80/60",
+      "c": "60/40",
+      "d": "40/20",
+      "e": "20"
+    },
+    "images": [
+      "figuras/q106_2020_fig1.png"
+    ],
+    "tags": [
+      "física moderna",
+      "fisiologia humana"
+    ],
+    "difficulty": 6,
+    "year": 2020,
+    "test": "ENEM",
+    "area": "nature",
+    "answer": "c"
+  },
+  {
+    "number": 107,
+    "text": "A Torre Eiffel, com seus 324 metros de altura, feita com treliças de ferro, pesava 7 300 toneladas quando terminou de ser construída em 1889. Um arquiteto resolve construir um protótipo dessa torre em escala 1:100, usando os mesmos materiais (cada dimensão linear em escala de 1:100 do monumento real). Considere que a torre real tenha uma massa M_torre e exerça na fundação sobre a qual foi erguida uma pressão P_torre. O modelo construído pelo arquiteto terá uma massa M_modelo e exercerá uma pressão P_modelo. Como a pressão exercida pela torre se compara com a pressão exercida pelo protótipo? Ou seja, qual é a razão entre as pressões (P_torre)/(P_modelo)?",
+    "alternatives": {
+      "a": "10⁰",
+      "b": "10¹",
+      "c": "10²",
+      "d": "10⁴",
+      "e": "10⁶"
+    },
+    "images": [],
+    "tags": [
+      "mecânica newtoniana",
+      "geometria espacial"
+    ],
+    "difficulty": 7,
+    "year": 2020,
+    "test": "ENEM",
+    "area": "nature",
+    "answer": "c"
+  },
+  {
+    "number": 108,
+    "text": "Na indústria farmacêutica, é muito comum o emprego de substâncias de revestimento em medicamentos de uso oral, pois trazem uma série de benefícios como alteração do sabor em medicamentos que tenham gosto ruim, melhoria da assimilação do composto, entre outras ações. Alguns compostos poliméricos à base do polissacarídeo celulose são utilizados para garantir que o fármaco somente seja liberado quando em contato com soluções aquosas cujo pH se encontre próximo da faixa da neutralidade. Qual é a finalidade do uso desse revestimento à base de celulose?",
+    "alternatives": {
+      "a": "Diminuir a absorção do princípio ativo no intestino.",
+      "b": "Impedir que o fármaco seja solubilizado no intestino.",
+      "c": "Garantir que o fármaco não seja afetado pelas secreções gástricas.",
+      "d": "Permitir a liberação do princípio ativo pela ação da amilases salivares.",
+      "e": "Facilitar a liberação do fármaco pela ação dos sais biliares sobre o revestimento."
+    },
+    "images": [],
+    "tags": [
+      "química geral e inorgânica",
+      "fisiologia humana",
+      "biotecnologia"
+    ],
+    "difficulty": 6,
+    "year": 2020,
+    "test": "ENEM",
+    "area": "nature",
+    "answer": "c"
+  },
+  {
+    "number": 109,
+    "text": "As panelas de pressão reduzem o tempo de cozimento dos alimentos por elevar a temperatura de ebulição da água. Os usuários conhecedores do utensílio normalmente abaixam a intensidade do fogo em panelas de pressão após estas iniciarem a saída dos vapores. Ao abaixar o fogo, reduz-se a chama, pois assim evita-se o(a)",
+    "alternatives": {
+      "a": "aumento da pressão interna e os riscos de explosão",
+      "b": "dilatação da panela e a desconexão com sua tampa",
+      "c": "perda da qualidade nutritiva do alimento",
+      "d": "deformação da borracha de vedação",
+      "e": "consumo de gás desnecessário"
+    },
+    "images": [],
+    "tags": [
+      "termologia",
+      "fisiologia humana"
+    ],
+    "difficulty": 5,
+    "year": 2020,
+    "test": "ENEM",
+    "area": "nature",
+    "answer": "e"
+  },
+  {
+    "number": 110,
+    "text": "A nanotecnologia pode ser caracterizada quando os compostos estão na ordem de milionésimos de milímetros como na utilização de nanomateriais catalíticos nos processos industriais. O uso desses materiais aumenta a eficiência da produção, consome menos energia e gera menores quantidades de resíduos. O sucesso dessa aplicação tecnológica muitas vezes está relacionado ao aumento da velocidade da reação química envolvida. O êxito da aplicação dessa tecnologia é por causa da realização de reações químicas que ocorrem em condições de",
+    "alternatives": {
+      "a": "alta pressão",
+      "b": "alta temperatura",
+      "c": "excesso de reagentes",
+      "d": "maior superfície de contato",
+      "e": "elevada energia de ativação"
+    },
+    "images": [],
+    "tags": [
+      "química geral e inorgânica",
+      "termoquímica e cinética",
+      "biotecnologia"
+    ],
+    "difficulty": 6,
+    "year": 2020,
+    "test": "ENEM",
+    "area": "nature",
+    "answer": "d"
+  },
+  {
+    "number": 111,
+    "text": "A tecnologia redutora de ruído CR utilizada na produção de fones de ouvido baseia-se em qual fenômeno ondulatório?",
+    "alternatives": {
+      "a": "Absorção",
+      "b": "Interferência",
+      "c": "Polarização",
+      "d": "Reflexão",
+      "e": "Difração"
+    },
+    "images": [],
+    "tags": [
+      "ondulatória e acústica"
+    ],
+    "difficulty": 6,
+    "year": 2020,
+    "test": "ENEM",
+    "area": "nature",
+    "answer": "b",
+    "contextId": "enem_2020_nature_111_ctx1"
+  },
+  {
+    "number": 112,
+    "text": "Para garantir que produtos eletrônicos estejam armazenados de forma adequada antes da venda, algumas empresas utilizam cartões indicadores de umidade nas embalagens desses produtos. Alguns desses cartões contêm um sal de cobalto que muda de cor em presença de água, de acordo com a equação química:\n\n∆H < 0\n(azul) (rosa)\n\nComo você procederia para reutilizar, num curto intervalo de tempo, um cartão que já estivesse com a coloração rosa?",
+    "alternatives": {
+      "a": "Resfriaria no congelador.",
+      "b": "Borrifaria com spray de água.",
+      "c": "Envolveria com papel alumínio.",
+      "d": "Aqueceria com secador de cabelos.",
+      "e": "Embrulharia em guardanapo de papel."
+    },
+    "images": [],
+    "tags": [
+      "termoquímica e cinética",
+      "equilíbrio químico"
+    ],
+    "difficulty": 6,
+    "year": 2020,
+    "test": "ENEM",
+    "area": "nature",
+    "answer": "d"
+  },
+  {
+    "number": 113,
+    "text": "Nos desenhos animados, com frequência se vê um personagem correndo na direção de um abismo, mas, a invés de cair, ele continua andando no vazio e só quando percebe que não há nada sob seus pés é que ele para de andar e cai verticalmente. No entanto, para observar uma trajetória de queda num experimento real, pode-se lançar uma bolinha, com velocidade constante (V₀), sobre a superfície de uma mesa e verificar o seu movimento de queda até o chão.\n\nQual figura melhor representa a trajetória de queda da bolinha?",
+    "alternatives": {
+      "a": "Figura A",
+      "b": "Figura B",
+      "c": "Figura C",
+      "d": "Figura D",
+      "e": "Figura E"
+    },
+    "images": [],
+    "tags": [
+      "mecânica newtoniana",
+      "gravitação e astronomia"
+    ],
+    "difficulty": 4,
+    "year": 2020,
+    "test": "ENEM",
+    "area": "nature",
+    "answer": "d"
+  },
+  {
+    "number": 114,
+    "text": "Dois engenheiros estão verificando se uma cavidade perfurada no solo está de acordo com o planejamento de uma obra, cuja profundidade requerida é de 30 m. O teste é feito por um dispositivo denominado oscilador de áudio de frequência variável, que permite relacionar profundidade com os valores da frequência de duas ressonâncias consecutivas, assim como em um tubo sonoro fechado. A menor frequência de ressonância que o aparelho mediu foi 135 Hz. Considere que a velocidade do som dentro da cavidade perfurada é de 360 m/s. Se a profundidade estiver de acordo com o projeto, qual será o valor da próxima frequência de ressonância que será medida?",
+    "alternatives": {
+      "a": "137 Hz",
+      "b": "138 Hz",
+      "c": "141 Hz",
+      "d": "144 Hz",
+      "e": "159 Hz"
+    },
+    "images": [],
+    "tags": [
+      "ondulatória e acústica"
+    ],
+    "difficulty": 6,
+    "year": 2020,
+    "test": "ENEM",
+    "area": "nature",
+    "answer": "c"
+  },
+  {
+    "number": 115,
+    "text": "A técnica para gerar essa leguminosa é um exemplo de",
+    "alternatives": {
+      "a": "hibridismo.",
+      "b": "transgenia.",
+      "c": "conjugação.",
+      "d": "terapia gênica.",
+      "e": "melhoramento genético."
+    },
+    "images": [],
+    "tags": [
+      "biotecnologia",
+      "genética e hereditariedade"
+    ],
+    "difficulty": 5,
+    "year": 2020,
+    "test": "ENEM",
+    "area": "nature",
+    "answer": "b",
+    "contextId": "enem_2020_nature_q115_ctx1"
+  },
+  {
+    "number": 116,
+    "text": "Um estudante tem uma fonte de tensão com corrente contínua que opera em tensão fixa de 12 V. Com precisão, precisa alimentar equipamentos que operam em tensões menores, ele emprega quatro resistores de 100 Ω para construir um divisor de tensão. Obtém-se este divisor associando os resistores, como exibido na figura. Os aparelhos podem ser ligados entre os pontos A, B, C, D e E, dependendo da tensão especificada. Ele tem um equipamento que opera em 9,0 V com uma resistência interna de 10 kΩ. Entre quais pontos do divisor de tensão esse equipamento deve ser ligado para funcionar corretamente e qual será o valor da intensidade da corrente nele estabelecida?",
+    "alternatives": {
+      "a": "Entre A e C; 30 mA.",
+      "b": "Entre B e E; 30 mA.",
+      "c": "Entre A e D; 1,2 mA.",
+      "d": "Entre B e E; 0,9 mA.",
+      "e": "Entre A e E; 0,9 mA."
+    },
+    "images": [],
+    "tags": [
+      "eletricidade e magnetismo"
+    ],
+    "difficulty": 6,
+    "year": 2020,
+    "test": "ENEM",
+    "area": "nature",
+    "answer": "d"
+  },
+  {
+    "number": 117,
+    "text": "Pesquisadores dos Estados Unidos desenvolveram uma nova técnica, que utiliza raios de luz infravermelha (invisíveis a olho nu) para destruir tumores. Primeiramente, o paciente recebe uma injeção com versões modificadas de anticorpos que têm a capacidade de \"grudar\" apenas nas células cancerosas. Sozinhos, eles não fazem nada contra o tumor. Entretanto, esses anticorpos estão ligados a uma molécula, denominada IR700, que funcionará como uma \"microbomba\", que irá destruir o câncer. Em seguida, o paciente recebe raios infravermelhos. Esses raios penetram o corpo e chegam até a molécula IR700, que é ativada e libera uma substância que ataca a célula cancerosa. Com base nas etapas de desenvolvimento, o nome apropriado para a técnica descrita é:",
+    "alternatives": {
+      "a": "Radioterapia.",
+      "b": "Cromoterapia.",
+      "c": "Quimioterapia.",
+      "d": "Fotoimunoterapia.",
+      "e": "Terapia magnética."
+    },
+    "images": [],
+    "tags": [
+      "biotecnologia",
+      "fisiologia humana"
+    ],
+    "difficulty": 6,
+    "year": 2020,
+    "test": "ENEM",
+    "area": "nature",
+    "answer": "d"
+  },
+  {
+    "number": 118,
+    "text": "Aranhas, escorpiões, carrapatos e ácaros são representantes da classe dos Aracnídeos. Esses animais são terrestres em sua grande maioria e ocupam os mais variados hábitats, tais como montanhas altas, pântanos, desertos e solos arenosos. Podem ter sido os primeiros representantes do filo Arthropoda a habitar a terra seca. A característica que justifica o sucesso adaptativo desse grupo na ocupação do ambiente terrestre é a presença de",
+    "alternatives": {
+      "a": "quelíceras e pedipalpos que coordenam o movimento corporal.",
+      "b": "excreção de ácido úrico que confere estabilidade ao pH corporal.",
+      "c": "exoesqueleto constituído de quitina que auxilia no controle hídrico corporal.",
+      "d": "circulação sanguínea aberta que impede a desidratação dos tecidos corporais.",
+      "e": "sistema nervoso ganglionar que promove a coordenação central do movimento corporal."
+    },
+    "images": [],
+    "tags": [
+      "zoologia",
+      "ecologia"
+    ],
+    "difficulty": 5,
+    "year": 2020,
+    "test": "ENEM",
+    "area": "nature",
+    "answer": "c"
+  },
+  {
+    "number": 119,
+    "text": "Pesquisadores coletaram amostras de água de um rio em pontos diferentes, distantes alguns quilômetros um do outro. Ao longo do rio, há locais de águas limpas como também locais que recebem descarga de esgoto de área urbana, e locais onde há decomposição ativa com ausência de peixes. Os pesquisadores analisaram dois parâmetros: oxigênio dissolvido (OD) e demanda bioquímica de oxigênio (DBO) em cada ponto de coleta de água, obtendo o gráfico apresentado.\n\nValores limites permitidos para águas doces destinadas ao abastecimento para o consumo humano após tratamento convencional, segundo Resolução Conama n. 357/2005: OD ≥ 5 mg L⁻¹ e DBO ≤ 5 mg L⁻¹.\n\nO OD é proveniente da atmosfera e da fotossíntese que ocorre no curso-d'água e sua concentração é função das variáveis físicas, químicas e bioquímicas locais. A DBO é a quantidade de oxigênio consumido por microrganismos em condições aeróbicas para degradar uma determinada quantidade de matéria orgânica, durante um período de tempo, numa temperatura de incubação específica.\n\nQual ponto de amostragem da água do rio está mais próximo ao local em que o rio recebe despejo de esgoto?",
+    "alternatives": {
+      "a": "1",
+      "b": "2",
+      "c": "3",
+      "d": "4",
+      "e": "5"
+    },
+    "images": [],
+    "tags": [
+      "ecologia",
+      "meio ambiente e sustentabilidade"
+    ],
+    "difficulty": 5,
+    "year": 2020,
+    "test": "ENEM",
+    "area": "nature",
+    "answer": "a"
+  },
+  {
+    "number": 120,
+    "text": "O crescimento da frota de veículos em circulação no mundo tem levado à busca e desenvolvimento de tecnologias que permitam minimizar emissões de poluentes atmosféricos. O uso de veículos elétricos é uma das propostas mais propagandeadas por serem de emissão zero. Podemos comparar a emissão de carbono na forma de CO₂ (massa molar igual a 44 g mol⁻¹) para dois tipos de carros (a combustão e elétrico). Considere que os veículos tradicionais a combustão, movidos a etanol (massa molar igual a 46 g mol⁻¹), emitem uma média de 2,6 mol de CO₂ por quilômetro rodado, e os elétricos emitem o equivalente a 0,45 mol de CO₂ por quilômetro rodado (considerando as emissões na geração e transmissão da eletricidade). A reação de combustão do etanol pode ser representada pela equação química: C₂H₅OH (l) + 3 O₂ (g) → 2 CO₂ (g) + 3 H₂O (g). Foram analisadas as emissões de CO₂ envolvidas em dois veículos, um movido a etanol e outro elétrico, em um mesmo trajeto de 1 000 km. A quantidade equivalente de etanol economizada, em quilograma, com o uso do veículo elétrico nesse trajeto, é mais próxima de",
+    "alternatives": {
+      "a": "50",
+      "b": "60",
+      "c": "95",
+      "d": "99",
+      "e": "120"
+    },
+    "images": [],
+    "tags": [
+      "estequiometria",
+      "química geral e inorgânica",
+      "termoquímica e cinética"
+    ],
+    "difficulty": 6,
+    "year": 2020,
+    "test": "ENEM",
+    "area": "nature",
+    "answer": "a"
+  },
+  {
+    "number": 121,
+    "text": "Em uma aula sobre metabolismo energético, foi apresentado um experimento clássico realizado por Engelmann. Um recipiente contendo bactérias aeróbias e uma alga verde filamentosa foi submetido a iluminação de uma fonte de luz, representada pelo microespectro. Após a explicação, um aluno esquematizou na lousa o resultado do referido experimento.\n\nConsiderando a figura, a faixa do microespectro em que a alga possui maior taxa de realização fotossintética é a do:",
+    "alternatives": {
+      "a": "Anil.",
+      "b": "Verde.",
+      "c": "Violeta.",
+      "d": "Amarelo.",
+      "e": "Vermelho."
+    },
+    "images": [],
+    "tags": [
+      "fotossíntese",
+      "bioenergética",
+      "citologia"
+    ],
+    "difficulty": 6,
+    "year": 2020,
+    "test": "ENEM",
+    "area": "nature",
+    "answer": "e"
+  },
+  {
+    "number": 122,
+    "text": "O exame parasitológico de fezes é utilizado para detectar ovos de parasitos. Um dos métodos utilizados, denominado de centrífugo-flutuação, considera a densidade dos ovos em relação a uma solução de densidade 1,15 g mL−1. Assim, ovos que flutuam na superfície dessa solução são detectados. Os dados de densidade dos ovos de alguns parasitos estão apresentados na tabela.\n\n- Ancylostoma: 1,06 g mL−1\n- Ascaris lumbricoides: 1,11 g mL−1\n- Ascaris suum: 1,13 g mL−1\n- Schistosoma mansoni: 1,18 g mL−1\n- Taenia saginata: 1,30 g mL−1\n\nConsiderando-se a densidade dos ovos e da solução, ovos de quais parasitos podem ser detectados por esse método?",
+    "alternatives": {
+      "a": "A. lumbricoides, A. suum e S. mansoni.",
+      "b": "S. mansoni, T. saginata e Ancylostoma.",
+      "c": "Ancylostoma, A. lumbricoides e A. suum.",
+      "d": "T. saginata, S. mansoni e A. lumbricoides.",
+      "e": "A. lumbricoides, A. suum e T. saginata."
+    },
+    "images": [],
+    "tags": [
+      "microbiologia e imunologia",
+      "química geral e inorgânica"
+    ],
+    "difficulty": 6,
+    "year": 2020,
+    "test": "ENEM",
+    "area": "nature",
+    "answer": "c"
+  },
+  {
+    "number": 123,
+    "text": "Em seu laboratório, um técnico em química foi incumbido de tratar um resíduo, evitando seu descarte direto no meio ambiente. Ao encontrar o frasco, observou a seguinte informação: \"Resíduo: mistura de acetato de etila e água\".\n\nConsidere os dados do acetato de etila:\n  - Baixa solubilidade em água;\n  - Massa específica = 0,9 g cm⁻³;\n  - Temperatura de fusão = −83 °C;\n  - Pressão de vapor maior que a da água.\n\nA fim de tratar o resíduo, recuperando o acetato de etila, o técnico deve",
+    "alternatives": {
+      "a": "evaporar o acetato de etila sem alterar o conteúdo de água.",
+      "b": "filtrar a mistura utilizando um funil comum e um papel de filtro.",
+      "c": "realizar uma destilação simples para separar a água do acetato de etila.",
+      "d": "proceder a uma centrifugação da mistura para remover o acetato de etila.",
+      "e": "decantar a mistura separando os dois componentes em um funil adequado."
+    },
+    "images": [],
+    "tags": [
+      "química geral e inorgânica",
+      "soluções e solubilidade"
+    ],
+    "difficulty": 6,
+    "year": 2020,
+    "test": "ENEM",
+    "area": "nature",
+    "answer": "e"
+  },
+  {
+    "number": 124,
+    "text": "Em 2011, uma falha no processo de perfuração realizado por uma empresa petrolífera ocasionou derramamento de petróleo na bacia hidrográfica de Campos, no Rio de Janeiro. Os impactos decorrentes desse derramamento ocorrem porque os componentes do petróleo",
+    "alternatives": {
+      "a": "reagem com a água do mar e sofrem degradação, gerando compostos com elevada toxicidade.",
+      "b": "acidificam o meio, promovendo o desgaste das conchas calcárias de moluscos e a morte de corais.",
+      "c": "dissolvem-se na água, causando a mortandade dos seres marinhos por ingestão da água contaminada.",
+      "d": "têm caráter hidrofóbico e baixa densidade, impedindo as trocas gasosas entre o meio aquático e a atmosfera.",
+      "e": "têm cadeia pequena e elevada volatilidade, contaminando a atmosfera local e regional em função dos ventos nas orlas marítimas."
+    },
+    "images": [],
+    "tags": [
+      "ecologia",
+      "química orgânica",
+      "meio ambiente e sustentabilidade"
+    ],
+    "difficulty": 6,
+    "year": 2020,
+    "test": "ENEM",
+    "area": "nature",
+    "answer": "d"
+  },
+  {
+    "number": 125,
+    "text": "Uma população encontra-se em equilíbrio genético quanto ao sistema ABO, em que 25% dos indivíduos pertencem ao grupo O e 16%, ao grupo A homozigotos. Considerando que: p = frequência de I^A; q = frequência de I^B; e r = frequência de i, espera-se encontrar:\n\n| Grupo | Genótipos | Frequências |\n|---|---|---|\n| A | I^A I^A e I^A i | p² + 2pr |\n| B | I^B I^B e I^B i | q² + 2qr |\n| AB | I^A I^B | 2pq |\n| O | ii | r² |\n\nA porcentagem de doadores compatíveis para alguém do grupo B nessa população deve ser de",
+    "alternatives": {
+      "a": "11%",
+      "b": "19%",
+      "c": "26%",
+      "d": "36%",
+      "e": "60%"
+    },
+    "images": [],
+    "tags": [
+      "genética e hereditariedade",
+      "equilíbrio Hardy-Weinberg"
+    ],
+    "difficulty": 6,
+    "year": 2020,
+    "test": "ENEM",
+    "area": "nature",
+    "answer": "d"
+  },
+  {
+    "number": 126,
+    "text": "Embora a energia nuclear possa ser utilizada para fins pacíficos, recentes conflitos geopolíticos têm trazido preocupações em várias partes do planeta e estimulado discussões visando o combate ao uso de armas de destruição em massa. Além do potencial destrutivo da bomba atômica, uma grande preocupação associada ao emprego desse artefato bélico é a poeira radioativa deixada após a bomba ser detonada. Qual é o processo envolvido na detonação dessa bomba?",
+    "alternatives": {
+      "a": "Fissão nuclear do urânio, provocada por nêutrons.",
+      "b": "Fusão nuclear do hidrogênio, provocada por prótons.",
+      "c": "Desintegração nuclear do plutônio, provocada por elétrons.",
+      "d": "Associação em cadeia de chumbo, provocada por pósitrons.",
+      "e": "Decaimento radioativo do carbono, provocado por partículas beta."
+    },
+    "images": [],
+    "tags": [
+      "física nuclear e radioatividade",
+      "geopolítica e relações internacionais"
+    ],
+    "difficulty": 6,
+    "year": 2020,
+    "test": "ENEM",
+    "area": "nature",
+    "answer": "a"
+  },
+  {
+    "number": 127,
+    "text": "Plantas pioneiras são as que iniciam o processo natural de cicatrização de uma área desprovida de vegetação. Em geral, têm pequeno porte e crescem muito rápido, desenvolvem-se a pleno sol e são pouco exigentes quanto às condições do solo. Produzem grande quantidade de sementes e possuem ciclo de vida curto. Essas plantas são importantes em um projeto de restauração ambiental, pois promovem, no solo,",
+    "alternatives": {
+      "a": "aumento da incidência de luz solar",
+      "b": "diminuição da absorção de água",
+      "c": "estabilização da umidade",
+      "d": "elevação de temperatura",
+      "e": "liberação de oxigênio"
+    },
+    "images": [],
+    "tags": [
+      "ecologia",
+      "botânica"
+    ],
+    "difficulty": 5,
+    "year": 2020,
+    "test": "ENEM",
+    "area": "nature",
+    "answer": "c"
+  },
+  {
+    "number": 128,
+    "text": "Mesmo para peixes de aquário, como o peixe arco-íris, a temperatura da água fora da faixa ideal (26 °C a 28 °C), bem como sua variação brusca, pode afetar a saúde do animal. Para manter a temperatura da água dentro do aquário na média desejada, utilizam-se dispositivos de aquecimento com termostato. Por exemplo, para um aquário de 50 L, pode-se utilizar um sistema de aquecimento de 50 W otimizado para suprir sua taxa de resfriamento. Essa taxa pode ser considerada praticamente constante, já que a temperatura externa ao aquário é mantida pelas estufas. Utilize para a água o calor específico 4,0 kJ kg⁻¹ K⁻¹ e a densidade 1 kg L⁻¹. Se o sistema de aquecimento for desligado por 1 h, qual valor mais próximo para a redução da temperatura da água do aquário?",
+    "alternatives": {
+      "a": "4,0 °C",
+      "b": "3,6 °C",
+      "c": "0,9 °C",
+      "d": "0,6 °C",
+      "e": "0,3 °C"
+    },
+    "images": [],
+    "tags": [
+      "termologia",
+      "fisiologia humana"
+    ],
+    "difficulty": 6,
+    "year": 2020,
+    "test": "ENEM",
+    "area": "nature",
+    "answer": "c"
+  },
+  {
+    "number": 129,
+    "text": "Em uma pesquisa estão sendo testados cinco quimioterápicos quanto à sua capacidade antitumoral. No entanto, para o tratamento de pacientes, sabe-se que é necessário verificar também quanto cada composto agride células normais. Para o experimento, partiu-se de cultivos de células tumorais (colunas escuras na figura) e células normais (colunas claras) com o mesmo número de células iniciais. Dois grupos-controle não receberam quimioterápicos: controle de células tumorais (CT) e de células normais (CN). As colunas I, II, III, IV e V correspondem aos grupos tratados com os cinco compostos. O número de células viáveis após os tratamentos está representado pelas colunas.\n\nQual quimioterápico deve ser escolhido para tratamento desse tipo de tumor?",
+    "alternatives": {
+      "a": "I",
+      "b": "II",
+      "c": "III",
+      "d": "IV",
+      "e": "V"
+    },
+    "images": [],
+    "tags": [
+      "biotecnologia",
+      "fisiologia humana"
+    ],
+    "difficulty": 6,
+    "year": 2020,
+    "test": "ENEM",
+    "area": "nature",
+    "answer": "b"
+  },
+  {
+    "number": 130,
+    "text": "Herschel, em 1880, começou a escrever sobre a convicção de que maneira os raios coloridos contribuem para o aquecimento solar. Em um experimento com um prisma, colocou termômetros nas diferentes posições e as leituras dos termômetros iluminados indicou um aumento de temperatura.\n\nPara verificar a hipótese de Herschel, um estudante monta um experimento com cinco recipientes contendo água, à mesma temperatura inicial, posicionados lado a lado (A, B, C, D e E) no interior de uma caixa. Uma fonte de luz branca na caixa, atravessa o prisma e incide sobre os recipientes. Aguarda um tempo e a afere em cada recipiente.\n\n[Figura: Prisma dispersando luz branca em espectro de cores sobre recipientes A, B, C, D, E]\n\nEm qual dos recipientes a água terá maior temperatura?",
+    "alternatives": {
+      "a": "A",
+      "b": "B",
+      "c": "C",
+      "d": "D",
+      "e": "E"
+    },
+    "images": [
+      "figuras/q130_2020_fig1.png"
+    ],
+    "tags": [
+      "óptica",
+      "termologia"
+    ],
+    "difficulty": 4,
+    "year": 2020,
+    "test": "ENEM",
+    "area": "nature",
+    "answer": "a"
+  },
+  {
+    "number": 131,
+    "text": "A Química Verde é um ramo da química que prega o desenvolvimento de processos eficientes, que transformem a maior parte do reagente em produto, de forma mais rápida e seletiva, que utilizem poucos reagentes, que produzam somente o produto desejado, evitando a formação de coprodutos, e que utilizem solventes não agressivos ao meio ambiente. Assim, as indústrias contornariam problemas relacionados à poluição ambiental e ao desperdício de água e energia. O perfil de um processo que segue todos os princípios da Química Verde pode ser representado por:",
+    "alternatives": {
+      "a": "A + B + C → D (a reação ocorre a altas pressões)",
+      "b": "A + B → C + D (a reação é fortemente endotérmica)",
+      "c": "A + 3B → C (a reação ocorre com uso de solvente orgânico)",
+      "d": "3A + 2B → 2C → 3D + 2E (a reação ocorre sob pressão atmosférica)",
+      "e": "A + B → C (a reação ocorre com o uso de um catalisador contendo um metal não tóxico)"
+    },
+    "images": [],
+    "tags": [
+      "química geral e inorgânica",
+      "meio ambiente e sustentabilidade"
+    ],
+    "difficulty": 6,
+    "year": 2020,
+    "test": "ENEM",
+    "area": "nature",
+    "answer": "e"
+  },
+  {
+    "number": 132,
+    "text": "Megaespetáculos com queima de grande quantidade de fogos de artifício em festas de final de ano são muito comuns no Brasil. Após a queima, grande quantidade de material particulado permanece suspensa no ar. Entre os resíduos, encontram-se compostos de sódio, potássio, bário, cálcio, chumbo, antimônio, cromo, além de percloratos e gases, como os dióxidos de nitrogênio e enxofre.\n\nEsses espetáculos promovem riscos ambientais, porque",
+    "alternatives": {
+      "a": "as substâncias resultantes da queima de fogos de artifício são inflamáveis.",
+      "b": "os resíduos produzidos na queima de fogos de artifício ainda são explosivos.",
+      "c": "o sódio e o potássio são os principais responsáveis pela toxicidade do produto da queima.",
+      "d": "os produtos da queima contêm metais pesados e gases tóxicos que resultam em poluição atmosférica.",
+      "e": "o material particulado gerado se deposita na superfície das folhas das plantas impedindo os processos de respiração celular."
+    },
+    "images": [],
+    "tags": [
+      "química geral e inorgânica",
+      "meio ambiente e sustentabilidade"
+    ],
+    "difficulty": 5,
+    "year": 2020,
+    "test": "ENEM",
+    "area": "nature",
+    "answer": "d"
+  },
+  {
+    "number": 133,
+    "text": "Há muitos mitos em relação a como se proteger de raios, cobrir espelhos e não pegar em facas, garfos e outros objetos metálicos, por exemplo. Mas, de fato, se houver uma tempestade com raios, alguns cuidados são importantes, como evitar ambientes abertos. Um bom abrigo para proteção é o interior de um automóvel, desde que este não seja conversível. Qual o motivo físico da proteção fornecida pelos automóveis, conforme citado no texto?",
+    "alternatives": {
+      "a": "Isolamento elétrico dos pneus.",
+      "b": "Efeito de para-raios da antena.",
+      "c": "Blindagem pela carcaça metálica.",
+      "d": "Escoamento da água pela lataria.",
+      "e": "Aterramento pelo fio terra da bateria."
+    },
+    "images": [],
+    "tags": [
+      "eletricidade e magnetismo",
+      "física moderna"
+    ],
+    "difficulty": 6,
+    "year": 2020,
+    "test": "ENEM",
+    "area": "nature",
+    "answer": "c"
+  },
+  {
+    "number": 134,
+    "text": "As moedas despertam o interesse de colecionadores numismatas e investidores há bastante tempo. Uma moeda de 100% cobre, circulante no período do Brasil Colônia, pode ser bastante valiosa. O elevado valor gera a necessidade de realização de testes que validem a procedência da moeda, bem como a veracidade de sua composição. Sabendo que a densidade do cobre metálico é próxima de 9 g cm⁻³, um investidor negocia a aquisição de um lote de quatro moedas A, B, C e D fabricadas supostamente de 100% cobre e massas 26 g, 27 g, 10 g e 36 g, respectivamente. Com o objetivo de testar a densidade das moedas, foi realizado um procedimento em que elas foram sequencialmente inseridas em uma proveta contendo 5 mL de água, conforme esquematizado.\n\n[Gráfico mostra volume de água (mL) em eixo Y de 0 a 16, com 5 provetas distintas. Proveta 1 (apenas A): volume 2 mL. Proveta 2 (A e B): volume 4 mL. Proveta 3 (A, B e C): volume 6 mL. Proveta 4 (A, B, C): volume 8 mL com marca em D. Proveta 5: volume não especificado]\n\nCom base nos dados obtidos, o investidor adquiriu as moedas",
+    "alternatives": {
+      "a": "A e B",
+      "b": "A e C",
+      "c": "B e C",
+      "d": "B e D",
+      "e": "C e D"
+    },
+    "images": [],
+    "tags": [
+      "química geral e inorgânica",
+      "estequiometria"
+    ],
+    "difficulty": 6,
+    "year": 2020,
+    "test": "ENEM",
+    "area": "nature",
+    "answer": "d"
+  },
+  {
+    "number": 135,
+    "text": "Os diferentes tipos de café que consumimos nem sempre vêm da mesma espécie de planta. As duas espécies de café mais utilizadas são Coffea canephora e Coffea arabica. A primeira é diploide (2n = 22) e a segunda é tetraploide (2n = 44). Acredita-se que a espécie tetraploide surgiu de um cruzamento natural entre C. canephora e C. eugenioides, ambas diploides, há milhões de anos. De fato, as análises genéticas atuais nos cromossomos de C. arabica detectam os alelos de ambas as origens. A alteração cromossômica que poderia explicar o surgimento do café da espécie C. arabica é:",
+    "alternatives": {
+      "a": "Duplicação em uma das plantas parentais antes do cruzamento.",
+      "b": "Inversão durante a meiose gamética em ambas as plantas parentais.",
+      "c": "Separação desigual na meiose gamética de uma das plantas parentais.",
+      "d": "Falha na separação durante a meiose gamética em ambas as plantas parentais.",
+      "e": "Deleções durante as primeiras mitoses zigóticas na planta descendente C. arabica."
+    },
+    "images": [],
+    "tags": [
+      "genética e hereditariedade",
+      "citologia"
+    ],
+    "difficulty": 6,
+    "year": 2020,
+    "test": "ENEM",
+    "area": "nature",
+    "answer": "annulled"
+  }
+]

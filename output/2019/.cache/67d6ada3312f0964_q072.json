@@ -1,0 +1,26 @@
+{
+  "number": 72,
+  "text": "De acordo com os artigos do dispositivo legal apresentado, o sistema eleitoral instituído no início do Império é marcado pelo(a)",
+  "alternatives": {
+    "a": "representação popular e sigilo individual.",
+    "b": "voto indireto e perfil censitário.",
+    "c": "liberdade pública e abertura política.",
+    "d": "ética partidária e supervisão estatal.",
+    "e": "caráter liberal e sistema parlamentar."
+  },
+  "answer": "b",
+  "tags": [
+    "história do brasil imperial",
+    "direitos humanos e cidadania"
+  ],
+  "year": 2019,
+  "test": "ENEM",
+  "area": "humanas",
+  "difficulty": 5,
+  "images": [],
+  "contextId": null,
+  "contextIds": [
+    "enem_2019_humanas_ctx1"
+  ],
+  "language": null
+}

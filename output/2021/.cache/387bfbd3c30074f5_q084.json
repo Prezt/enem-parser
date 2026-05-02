@@ -1,0 +1,21 @@
+{
+  "number": 84,
+  "text": "[CORRUPTED TEXT - UNABLE TO EXTRACT]",
+  "alternatives": {
+    "a": "[CORRUPTED]",
+    "b": "[CORRUPTED]",
+    "c": "[CORRUPTED]",
+    "d": "[CORRUPTED]",
+    "e": "[CORRUPTED]"
+  },
+  "answer": "b",
+  "tags": [],
+  "year": 2021,
+  "test": "ENEM",
+  "area": "humanas",
+  "difficulty": 5,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

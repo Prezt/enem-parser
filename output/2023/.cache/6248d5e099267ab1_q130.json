@@ -1,0 +1,23 @@
+{
+  "number": 130,
+  "text": "Uma cafeteria adotou copos fabricados a partir e uma composição de 50% de plástico reciclado não iodegradável e 75% de casca de café. O copo é reutilizável retornável, pois o material, semelhante a uma cerâmica, uporta a lavagem. Embora ele seja comercializado por m preço considerado alto quando comparado ao de um opo de plástico descartável, essa cafeteria possibilita aos clietes retornarem o copo sujo e levarem o café quente ervido em outro copo já limpo e higienizado. O material esse copo oferece também o conforto de não esquentar a parte externa.",
+  "alternatives": {
+    "a": "Ter a durabilidade de uma cerâmica e ser totalmente biodegradável.",
+    "b": "Ser tão durável quanto uma cerâmica e ter alta condutividade térmica.",
+    "c": "Ser um mau condutor térmico e aumentar o resíduo biodegradável na natureza.",
+    "d": "Ter baixa condutividade térmica e reduzir o resíduo não biodegradável na natureza.",
+    "e": "Ter alta condutividade térmica e possibilitar a degradação do material no meio ambiente."
+  },
+  "answer": "d",
+  "tags": [
+    "reciclagem",
+    "sustentabilidade"
+  ],
+  "year": 2023,
+  "test": "ENEM",
+  "area": "nature",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

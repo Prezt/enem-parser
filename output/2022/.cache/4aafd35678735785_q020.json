@@ -1,0 +1,23 @@
+{
+  "number": 20,
+  "text": "Com base na pesquisa e em uma visão ampliada de saúde, para a prática regular de exercícios ter influência significativa na saúde dos brasileiros, é necessário o desenvolvimento de estratégias que",
+  "alternatives": {
+    "a": "promovam a melhoria da aptidão física da população, dedicando-se mais tempo aos esportes.",
+    "b": "combata o sedentarismo presente em parcela significativa da população no território nacional.",
+    "c": "facilitem a adoção da prática de exercícios, com ações relacionadas à educação e à distribuição de renda.",
+    "d": "auxiliem na construção de mais instalações esportivas e espaços adequados para a prática de atividades físicas e esportes.",
+    "e": "estimulem o incentivo fiscal para a iniciativa privada destinar verbas aos programas nacionais de promoção da saúde pelo esporte."
+  },
+  "answer": "c",
+  "tags": [
+    "saúde",
+    "atividade física"
+  ],
+  "year": 2022,
+  "test": "ENEM",
+  "area": "linguagens",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

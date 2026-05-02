@@ -1,0 +1,24 @@
+{
+  "number": 144,
+  "text": "Uma torneira está gotejando água em um balde com capacidade de 18 litros. No instante atual, o balde se encontra com ocupação de 50% de sua capacidade. A cada segundo caem 5 gotas de água da torneira, e uma gota é formada, em média, por 5 × 10⁻² mL de água.\n\nQuanto tempo, em hora, será necessário para encher completamente o balde, partindo do instante atual?",
+  "alternatives": {
+    "a": "2 × 10¹",
+    "b": "1 × 10¹",
+    "c": "2 × 10⁻²",
+    "d": "1 × 10⁻²",
+    "e": "1 × 10⁻³"
+  },
+  "answer": "b",
+  "tags": [
+    "aritmética e números",
+    "matemática financeira"
+  ],
+  "year": 2020,
+  "test": "ENEM",
+  "area": "math",
+  "difficulty": 6,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

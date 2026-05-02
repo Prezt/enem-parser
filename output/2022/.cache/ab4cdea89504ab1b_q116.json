@@ -1,0 +1,23 @@
+{
+  "number": 116,
+  "text": "O manual de uma ducha elétrica informa que seus três níveis de aquecimento (morno, quente e superquente) apresentam as seguintes variações de temperatura da água em função de sua vazão: Utiliza-se um disjuntor para proteger o circuito dessa ducha contra sobrecargas elétricas em qualquer nível de aquecimento. Por padrão, o disjuntor é especificado pelo múltiplo de 5 A imediatamente superior à corrente máxima do circuito. Considere que a ducha deve ser ligada em 220 V e que toda a energia dissipada através da resistência do chuveiro e convertida em energia térmica transferida para a água, que apresenta calor específico de 4,2 J/g°C e densidade de 1 000 g/L. O disjuntor adequado para a proteção dessa ducha é especificado por:",
+  "alternatives": {
+    "a": "60 A",
+    "b": "30 A",
+    "c": "20 A",
+    "d": "10 A",
+    "e": "5 A"
+  },
+  "answer": "b",
+  "tags": [
+    "física",
+    "eletricidade"
+  ],
+  "year": 2022,
+  "test": "ENEM",
+  "area": "nature",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

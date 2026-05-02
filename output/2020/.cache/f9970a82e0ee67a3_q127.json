@@ -1,0 +1,24 @@
+{
+  "number": 127,
+  "text": "Plantas pioneiras são as que iniciam o processo natural de cicatrização de uma área desprovida de vegetação. Em geral, têm pequeno porte e crescem muito rápido, desenvolvem-se a pleno sol e são pouco exigentes quanto às condições do solo. Produzem grande quantidade de sementes e possuem ciclo de vida curto. Essas plantas são importantes em um projeto de restauração ambiental, pois promovem, no solo,",
+  "alternatives": {
+    "a": "aumento da incidência de luz solar",
+    "b": "diminuição da absorção de água",
+    "c": "estabilização da umidade",
+    "d": "elevação de temperatura",
+    "e": "liberação de oxigênio"
+  },
+  "answer": "c",
+  "tags": [
+    "ecologia",
+    "botânica"
+  ],
+  "year": 2020,
+  "test": "ENEM",
+  "area": "nature",
+  "difficulty": 5,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

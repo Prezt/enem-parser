@@ -1,0 +1,24 @@
+{
+  "number": 168,
+  "text": "Uma empresa tem diversos funcionários. Um dele é o gerente, que recebe R$ 1 000,00 por semana. Os outros funcionários são diaristas. Cada um deles trabalha 2 dias por semana, recebendo R$ 80,00 por dia trabalhado. Chamando de X a quantidade total de funcionários da empresa, a quantia Y, em reais, que esta empresa gasta semanalmente para pagar seus funcionários é expressa por",
+  "alternatives": {
+    "a": "Y = 80X + 920",
+    "b": "Y = 80X + 1 000",
+    "c": "Y = 80X + 1 080",
+    "d": "Y = 160X + 840",
+    "e": "Y = 160X + 1 000"
+  },
+  "answer": "d",
+  "tags": [
+    "aritmética e números",
+    "álgebra"
+  ],
+  "year": 2019,
+  "test": "ENEM",
+  "area": "math",
+  "difficulty": 3,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

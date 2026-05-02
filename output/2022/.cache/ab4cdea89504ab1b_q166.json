@@ -1,0 +1,23 @@
+{
+  "number": 166,
+  "text": "Qual o número de ultrapassagens, após o início da competição, efetuadas pelo veículo que chegou em último lugar?",
+  "alternatives": {
+    "a": "0",
+    "b": "1",
+    "c": "2",
+    "d": "3",
+    "e": "4"
+  },
+  "answer": "a",
+  "tags": [
+    "velocidade",
+    "gráfico"
+  ],
+  "year": 2022,
+  "test": "ENEM",
+  "area": "math",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

@@ -1,0 +1,23 @@
+{
+  "number": 149,
+  "text": "Um controlador de voo dispõe de um instrumento que escreve a altitude de uma aeronave em voo, em função a distância em solo. Essa distância em solo é a medida na orizontal entre o ponto de origem do voo até o ponto que representa a projeção ortogonal da posição da aeronave, m voo, no solo. Essas duas grandezas são dadas numa mesma unidade de medida. A tela do instrumento representa proporcionalmente s dimensões reais das distâncias associadas ao voo. A figura apresenta a tela do instrumento depois de concluída a viagem de um avião, sendo a medida do lado e cada quadradinho da malha igual a 1 cm. Altitude Origem Destino Distância do voo Essa tela apresenta os dados de um voo cuja maior altitude alcançada foi de 5 km.",
+  "alternatives": {
+    "a": "1 : 5",
+    "b": "1 : 11",
+    "c": "1 : 55",
+    "d": "1 : 5 000",
+    "e": "1 : 500 000"
+  },
+  "answer": "e",
+  "tags": [
+    "geometria",
+    "proporção"
+  ],
+  "year": 2023,
+  "test": "ENEM",
+  "area": "math",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

@@ -1,0 +1,28 @@
+{
+  "number": 50,
+  "text": "Esse ônibus relaciona-se ao ato praticado, em 1955 por Rosa Parks, apresentada em fotografia ao lado de Martin Luther King. O veículo alcançou o estatuto de obra museológica por simbolizar o(a)",
+  "alternatives": {
+    "a": "impacto do medo da corrida armamentista.",
+    "b": "democratização do acesso à escola pública.",
+    "c": "preconceito de gênero no transporte coletivo.",
+    "d": "deflagração do movimento por igualdade civil.",
+    "e": "eclosão da rebeldia no comportamento juvenil."
+  },
+  "answer": "d",
+  "tags": [
+    "história contemporânea",
+    "direitos humanos e cidadania",
+    "geopolítica e relações internacionais"
+  ],
+  "year": 2018,
+  "test": "ENEM",
+  "area": "humanas",
+  "difficulty": 5,
+  "images": [],
+  "contextId": null,
+  "contextIds": [
+    "enem_2018_humanas_ctx1",
+    "enem_2018_humanas_ctx2"
+  ],
+  "language": null
+}

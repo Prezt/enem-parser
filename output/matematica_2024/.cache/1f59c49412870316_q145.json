@@ -1,0 +1,23 @@
+{
+  "number": 145,
+  "text": "O estádio do Maracanã passou por algumas modificações estruturais para a realização da Copa do Mundo de 2014, como, por exemplo, as dimensões do ampo retangular. Para se adaptar aos padrões da Fifa, s dimensões do campo foram reduzidas de 110 m × 75 m ara 105 m × 68 m. Disponível em: http://virgula.uol.com.br. Acesso em: 14 ago. 2013 (adaptado). Em quantos metros quadrados a área do campo do Maracanã foi reduzida?",
+  "alternatives": {
+    "a": "24",
+    "b": "35",
+    "c": "555",
+    "d": "1 110",
+    "e": "1 145"
+  },
+  "answer": "d",
+  "tags": [
+    "área",
+    "geometria"
+  ],
+  "year": 2024,
+  "test": "ENEM",
+  "area": "math",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

@@ -1,0 +1,24 @@
+{
+  "number": 21,
+  "text": "O uso da norma-padrão na letra do Hino Nacional do Brasil é justificado por tratar-se de um(a)",
+  "alternatives": {
+    "a": "reverência de um povo a seu país.",
+    "b": "gênero solene de característica protocolar.",
+    "c": "canção concebida sem interferência da oralidade.",
+    "d": "escrita de uma fase mais antiga da língua portuguesa.",
+    "e": "artefato cultural respeitado por todo o povo brasileiro."
+  },
+  "answer": "b",
+  "tags": [
+    "linguística e variação linguística",
+    "gêneros textuais"
+  ],
+  "year": 2018,
+  "test": "ENEM",
+  "area": "linguagens",
+  "difficulty": 6,
+  "images": [],
+  "contextId": "enem_2018_linguagens_ctx21",
+  "contextIds": null,
+  "language": null
+}

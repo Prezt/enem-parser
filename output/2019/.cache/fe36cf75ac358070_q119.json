@@ -1,0 +1,24 @@
+{
+  "number": 119,
+  "text": "Dois amigos se encontram em um posto de gasolina e decidem calibrar os pneus de suas bicicletas. Uma das bicicletas é de corrida (bicicleta A) e a outra, de passeio (bicicleta B). Os pneus têm as mesmas características, exceto que a largura do pneu B é maior que a largura do pneu A. Ao calibrarem os pneus das bicicletas A e B, respectivamente, ambos os amigos usam o mesmo compressor de ar, observam que o pneu da bicicleta A deforma, sob mesmo esforço de deformação, menos do que o pneu da bicicleta B. Pode-se considerar que as massas de ar comprimido nos pneus são diretamente proporcionais aos seus volumes. Comparando as pressões e massas de ar comprimido nos pneus das bicicletas A e B, tem-se:",
+  "alternatives": {
+    "a": "p_A < p_B e m_A < m_B",
+    "b": "p_A > p_B e m_A < m_B",
+    "c": "p_A > p_B e m_A = m_B",
+    "d": "p_A < p_B e m_A = m_B",
+    "e": "p_A > p_B e m_A > m_B"
+  },
+  "answer": "b",
+  "tags": [
+    "física moderna",
+    "termologia"
+  ],
+  "year": 2019,
+  "test": "ENEM",
+  "area": "nature",
+  "difficulty": 6,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

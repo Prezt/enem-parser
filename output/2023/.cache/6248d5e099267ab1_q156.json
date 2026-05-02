@@ -1,0 +1,23 @@
+{
+  "number": 156,
+  "text": "Uma pessoa caminha por 30 minutos e utiliza um aplicativo instalado em seu celular para monitorar a variação da intensidade do sinal de internet recebido pelo aparelho durante o deslocamento. Chegando ao seu destino, o aplicativo forneceu este gráfico: Intensidade do sinal de internet 0 2 4 6 8 10   12   14 16 18   20 22   24 26   28   30 Tempo (min) Por quantos minutos, durante essa caminhada, o celular dessa pessoa ficou sem receber sinal de internet?",
+  "alternatives": {
+    "a": "6",
+    "b": "8",
+    "c": "10",
+    "d": "14",
+    "e": "24"
+  },
+  "answer": "a",
+  "tags": [
+    "tempo",
+    "internet"
+  ],
+  "year": 2023,
+  "test": "ENEM",
+  "area": "math",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

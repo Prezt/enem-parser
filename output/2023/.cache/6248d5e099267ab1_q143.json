@@ -1,0 +1,23 @@
+{
+  "number": 143,
+  "text": "Em janeiro do ano passado, a direção de uma fábrica com 10 salas, cada uma com capacidade para atender 10 crianças, realizou um sorteio entre os filhos dos funcionários inscritos. Dos contemplados, 25% foram colocados na lista de espera. A lista de espera teve 400 nomes e, neste ano, esse número cresceu 10%. A direção da fábrica realizou uma pesquisa e constatou que a quantidade de nomes da lista de espera deste ano é maior em relação ao ano passado. Decidiram então construir, ao longo desse ano, novas salas para a creche, também com capacidade de atendimento para 10 crianças cada, de modo que o número de nomes na lista de espera no próximo ano seja 25% menor que o deste ano. O número mínimo de salas que deverão ser construídas é:",
+  "alternatives": {
+    "a": "10",
+    "b": "11.",
+    "c": "13.",
+    "d": "30.",
+    "e": "33."
+  },
+  "answer": "b",
+  "tags": [
+    "matemática",
+    "probabilidade"
+  ],
+  "year": 2023,
+  "test": "ENEM",
+  "area": "math",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

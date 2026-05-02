@@ -1,0 +1,24 @@
+{
+  "number": 31,
+  "text": "Pelas características do texto lido, que trata das consequências da perda de um animal de estimação, considera-se que ele se enquadra no gênero",
+  "alternatives": {
+    "a": "conto, pois exibe a história de vida de Joanie Simpson.",
+    "b": "depoimento, pois expõe o sofrimento da dona do animal.",
+    "c": "reportagem, pois discute cientificamente a cardiomiopatia.",
+    "d": "relato, pois narra um fato estressante vivido pela paciente.",
+    "e": "notícia, pois divulga fatos sobre a síndrome do coração partido."
+  },
+  "answer": "e",
+  "tags": [
+    "gêneros textuais",
+    "interpretação de texto"
+  ],
+  "year": 2020,
+  "test": "ENEM",
+  "area": "linguagens",
+  "difficulty": 4,
+  "images": [],
+  "contextId": "enem_2020_linguagens_031_ctx1",
+  "contextIds": null,
+  "language": null
+}

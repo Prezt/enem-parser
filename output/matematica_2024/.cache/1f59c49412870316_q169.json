@@ -1,0 +1,23 @@
+{
+  "number": 169,
+  "text": "A criptografia refere-se à construção e análise de pro. Júlio César, imperador romano, utilizava um código para garantir que, se a mensagem caísse em mãos inimigas, a informação fosse protegida. Em seu sistema, cada letra do alfabeto era substituída pela letra três posições à frente nesse alfabeto, de modo que a “A” era substituída pela “D”, a “B” pela “E”, e assim sucessivamente. Qualquer código que tenha um padrão de substituição como esse é chamado de Código de César. Note que, para decifrar uma Cifra de César, basta descobrir qual letra do alfabeto foi usada como referência inicial, pois isso define todas as demais substituições a serem feitas. Uma mensagem, em um alfabeto de 26 letras, foi codificada usando o Código de César e enviada. A probabilidade de se descobrir, aleatoriamente, o padrão utilizado nessa cifra é:",
+  "alternatives": {
+    "a": "1/25",
+    "b": "3/50",
+    "c": "1/650",
+    "d": "1/780",
+    "e": "1/1560"
+  },
+  "answer": "e",
+  "tags": [
+    "criptografia",
+    "probabilidade"
+  ],
+  "year": 2024,
+  "test": "ENEM",
+  "area": "math",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

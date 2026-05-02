@@ -1,0 +1,24 @@
+{
+  "number": 135,
+  "text": "Um exemplo desse polímero é representado pela estrutura",
+  "alternatives": {
+    "a": "A",
+    "b": "B",
+    "c": "C",
+    "d": "D",
+    "e": "E"
+  },
+  "answer": "d",
+  "tags": [
+    "química orgânica",
+    "biotecnologia"
+  ],
+  "year": 2021,
+  "test": "ENEM",
+  "area": "nature",
+  "difficulty": 6,
+  "images": [],
+  "contextId": "enem_2021_nature_135_ctx",
+  "contextIds": null,
+  "language": null
+}

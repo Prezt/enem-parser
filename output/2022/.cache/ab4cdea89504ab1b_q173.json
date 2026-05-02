@@ -1,0 +1,23 @@
+{
+  "number": 173,
+  "text": "Qual foi o número total de candidatos inscritos nesse processo seletivo?",
+  "alternatives": {
+    "a": "200",
+    "b": "400",
+    "c": "1 200",
+    "d": "1 235",
+    "e": "7 200"
+  },
+  "answer": "d",
+  "tags": [
+    "estatística",
+    "matemática"
+  ],
+  "year": 2022,
+  "test": "ENEM",
+  "area": "math",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

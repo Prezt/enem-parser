@@ -1,0 +1,26 @@
+{
+  "number": 22,
+  "text": "A fotografia exibe a fachada de um supermercado em Foz do Iguaçu, cuja localização transfronteiriça é marcada tanto pelo limite com Argentina e Paraguai quanto pela presença de outros povos. [Figura: fachada de supermercado] Essa fachada revela o(a)",
+  "alternatives": {
+    "a": "apagamento da identidade linguística.",
+    "b": "planejamento linguístico no espaço urbano.",
+    "c": "presença marcante da tradição oral na cidade.",
+    "d": "disputa de comunidades linguísticas diferentes.",
+    "e": "poluição visual promovida pelo multilinguismo."
+  },
+  "answer": "b",
+  "tags": [
+    "linguística e variação linguística",
+    "comunicação e mídia"
+  ],
+  "year": 2018,
+  "test": "ENEM",
+  "area": "linguagens",
+  "difficulty": 6,
+  "images": [
+    "figuras/q022_2018_fig1.png"
+  ],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

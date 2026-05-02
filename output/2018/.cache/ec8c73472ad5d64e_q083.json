@@ -1,0 +1,24 @@
+{
+  "number": 83,
+  "text": "A questão da eternidade, tal como abordada pelo autor, é um exemplo da reflexão filosófica sobre a(s)",
+  "alternatives": {
+    "a": "essência da ética cristã.",
+    "b": "natureza universal da tradição.",
+    "c": "certezas inabaláveis da experiência.",
+    "d": "abrangência da compreensão humana.",
+    "e": "interpretações da realidade circundante."
+  },
+  "answer": "d",
+  "tags": [
+    "filosofia antiga e medieval",
+    "epistemologia e lógica"
+  ],
+  "year": 2018,
+  "test": "ENEM",
+  "area": "humanas",
+  "difficulty": 6,
+  "images": [],
+  "contextId": "enem_2018_humanas_ctx1",
+  "contextIds": null,
+  "language": null
+}

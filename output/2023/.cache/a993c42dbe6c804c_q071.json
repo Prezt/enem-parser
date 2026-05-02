@@ -1,0 +1,24 @@
+{
+  "number": 71,
+  "text": "Alternativas logísticas estão servindo de instrumento que ativam os mercados especuladores de terra nas diferentes regiões da Amazônia e constituem em indicadores utilizados por diferentes atores para defender ou denunciar o avanço da cultura da soja na região e com ela, a retomada do desmatamento. É evidente que o crescimento do desmatamento tem a ver também com a expansão da soja, porém atribuir a ela o fator principal parece não totalmente correto. Parto da compreensão central de que a lógica que gera o desmatamento está articulada pelo tripé grileiros, madeireiros e pecuaristas",
+  "alternatives": {
+    "a": "apropriação de áreas devolutas.",
+    "b": "sonegação de impostos federais.",
+    "c": "incorporação de exportação ilegal.",
+    "d": "desoneração de setores produtivos.",
+    "e": "flexibilização de legislação ambiental."
+  },
+  "answer": "a",
+  "tags": [
+    "Amazônia",
+    "desmatamento",
+    "soja"
+  ],
+  "year": 2023,
+  "test": "ENEM",
+  "area": "humanas",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

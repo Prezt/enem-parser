@@ -1,0 +1,25 @@
+{
+  "number": 37,
+  "text": "Da perspectiva do usuário, o pajubá ganha status de dialeto, caracterizando-se como elemento de patrimônio linguístico, especialmente por",
+  "alternatives": {
+    "a": "ter mais de mil palavras conhecidas.",
+    "b": "ter palavras diferentes de uma linguagem secreta.",
+    "c": "ser consolidado por objetos formais de registro.",
+    "d": "ser utilizado por advogados em situações formais.",
+    "e": "ser comum em conversas no ambiente de trabalho."
+  },
+  "answer": "c",
+  "tags": [
+    "linguística e variação linguística",
+    "cultura e identidade",
+    "interpretação de texto"
+  ],
+  "year": 2018,
+  "test": "ENEM",
+  "area": "linguagens",
+  "difficulty": 6,
+  "images": [],
+  "contextId": "enem_2018_linguagens_ctx1",
+  "contextIds": null,
+  "language": null
+}

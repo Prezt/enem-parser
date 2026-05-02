@@ -1,0 +1,23 @@
+{
+  "number": 170,
+  "text": "Analisando as vendas de uma empresa, o gerente concluiu que o montante diário arrecadado, em milhar de real, poderia ser calculado pela expressão V = x^2/4 - 10x + 105, onde os valores de x representam os dias do mês, variando de 1 a 30. Um dos fatores para avaliar o desempenho mensal da empresa é verificar qual é o menor montante diário V arrecadado ao longo do mês e classificar o desempenho conforme as categorias apresentadas a seguir, em que as quantidades estão expressas em milhar de real. No caso analisado, qual seria a classificação do desempenho da empresa?",
+  "alternatives": {
+    "a": "Ótimo.",
+    "b": "Bom.",
+    "c": "Normal.",
+    "d": "Ruim.",
+    "e": "Péssimo."
+  },
+  "answer": "d",
+  "tags": [
+    "álgebra",
+    "funções"
+  ],
+  "year": 2023,
+  "test": "ENEM",
+  "area": "math",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

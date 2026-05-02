@@ -1,0 +1,24 @@
+{
+  "number": 38,
+  "text": "O êxito e as limitações da tecnologia utilizada na composição do conto evidenciam a",
+  "alternatives": {
+    "a": "indistinção entre personagens produzidos por máquinas e seres humanos.",
+    "b": "necessidade de reformulação da base de dados elaborada por cientistas.",
+    "c": "autonomia de programas computacionais no desenvolvimento ficcional.",
+    "d": "diferença entre a estrutura e a criatividade da linguagem humana.",
+    "e": "qualidade artística de textos produzidos por computadores."
+  },
+  "answer": "d",
+  "tags": [
+    "interpretação de texto",
+    "comunicação e mídia"
+  ],
+  "year": 2019,
+  "test": "ENEM",
+  "area": "linguagens",
+  "difficulty": 6,
+  "images": [],
+  "contextId": "enem_2019_linguagens_38_ctx1",
+  "contextIds": null,
+  "language": null
+}

@@ -1,0 +1,25 @@
+{
+  "number": 165,
+  "text": "A figura representa uma escada com três degraus, con[Nova descrição da figura aqui]Nessa escada, pisos e espelhos têm formato retangular, com lados adjacentes perpendiculares. Pisos, espelhos e redes laterais serão revestidos em cerâmica. A área a ser revestida em metro quadrado é [Figura: descrição da figura].",
+  "alternatives": {
+    "a": "1,20.",
+    "b": "1,35.",
+    "c": "1,65.",
+    "d": "1,80.",
+    "e": "1,95."
+  },
+  "answer": "e",
+  "tags": [
+    "área",
+    "geometria"
+  ],
+  "year": 2023,
+  "test": "ENEM",
+  "area": "math",
+  "images": [
+    "figuras/q165_2023_fig1.png"
+  ],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

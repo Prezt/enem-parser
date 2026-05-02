@@ -1,0 +1,24 @@
+{
+  "number": 78,
+  "text": "O toyotismo, a partir dos anos 1970, teve grande impacto no mundo ocidental, quando se mostrou para os países avançados como uma opção possível para a superação de uma crise de acumulação. A característica organizacional do modelo em questão, requerida no contexto de crise, foi o(a)",
+  "alternatives": {
+    "a": "expansão dos grandes estoques.",
+    "b": "incremento da fabricação em massa.",
+    "c": "adequação da produção à demanda.",
+    "d": "aumento da mecanização do trabalho.",
+    "e": "centralização das etapas de planejamento."
+  },
+  "answer": "c",
+  "tags": [
+    "sociologia e estrutura social",
+    "história contemporânea"
+  ],
+  "year": 2020,
+  "test": "ENEM",
+  "area": "humanas",
+  "difficulty": 6,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

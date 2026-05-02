@@ -1,0 +1,23 @@
+{
+  "number": 49,
+  "text": "Com base nos textos I e II, a política demográfica para a província mencionada é parte da seguinte ação estratégica do governo chinês:",
+  "alternatives": {
+    "a": "Promover a ocupação rural.",
+    "b": "Favorecer a liberdade religiosa.",
+    "c": "Descentralizar a gestão pública.",
+    "d": "Incentivar a pluralidade cultural.",
+    "e": "Assegurar a integridade territorial."
+  },
+  "answer": "e",
+  "tags": [
+    "política",
+    "demografia"
+  ],
+  "year": 2023,
+  "test": "ENEM",
+  "area": "humanas",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

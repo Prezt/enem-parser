@@ -1,0 +1,24 @@
+{
+  "number": 162,
+  "text": "A tabela apresenta a alíquota (porcentagem) do imposto sobre produtos industrializados (IPI) que uma indústria deve recolher ao Estado para diferentes faixas de preço:\n\n[Tabela: Preço do produto e alíquota de imposto]\n\nPreço do produto (R$) | Alíquota do imposto (%)\nR$ ≤ 5.000 | isento\n5.000 < R$ ≤ 10.000 | 5%\n10.000 < R$ ≤ 15.000 | 10%\n\nDe acordo com a tabela, qual dos gráficos a seguir melhor representa a relação entre o preço do produto (R$) e seu respectivo imposto devido (I)?",
+  "alternatives": {
+    "a": "[Gráfico A - Imposto devido (I) em função do preço (R$)]",
+    "b": "[Gráfico B - Imposto devido (I) em função do preço (R$)]",
+    "c": "[Gráfico C - Imposto devido (I) em função do preço (R$)]",
+    "d": "[Gráfico D - Imposto devido (I) em função do preço (R$)]",
+    "e": "[Gráfico E - Imposto devido (I) em função do preço (R$)]"
+  },
+  "answer": "a",
+  "tags": [
+    "funções",
+    "matemática financeira"
+  ],
+  "year": 2021,
+  "test": "ENEM",
+  "area": "math",
+  "difficulty": 5,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

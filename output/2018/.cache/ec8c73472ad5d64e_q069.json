@@ -1,0 +1,24 @@
+{
+  "number": 69,
+  "text": "No referido contexto histórico, a manifestação do cartunista Henfil expressava uma crítica ao(à)",
+  "alternatives": {
+    "a": "censura moral das produções culturais.",
+    "b": "limite do processo de distensão política.",
+    "c": "interferência militar de países estrangeiros.",
+    "d": "representação social das agremiações partidárias.",
+    "e": "impedimento de eleição das assembleias estaduais."
+  },
+  "answer": "b",
+  "tags": [
+    "história do brasil república",
+    "direitos humanos e cidadania"
+  ],
+  "year": 2018,
+  "test": "ENEM",
+  "area": "humanas",
+  "difficulty": 6,
+  "images": [],
+  "contextId": "enem_2018_humanas_q69_ctx1",
+  "contextIds": null,
+  "language": null
+}

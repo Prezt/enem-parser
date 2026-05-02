@@ -1,0 +1,25 @@
+{
+  "number": 154,
+  "text": "Pesquisadores da Universidade de Tecnologia e Viena, na Áustria, produziram miniaturas de objetos em impressoras 3D de alta precisão. Ao serem ativadas, tais impressoras lançam feixes de laser sobre um tipo de resina, esculpindo o objeto desejado. O produto final da impressão é uma escultura microscópica de três dimensões, como visto na imagem ampliada.\n\n[Figura: miniatura de carro de Fórmula 1 em escala microscópica]\n\nA escultura apresentada é uma miniatura de um carro de Fórmula 1, com 100 micrômetros de comprimento. Um micrômetro é a milionésima parte de um metro.\n\nUsando notação científica, qual é a representação do comprimento dessa miniatura, em metro?",
+  "alternatives": {
+    "a": "1,0 × 10⁻¹",
+    "b": "1,0 × 10⁻³",
+    "c": "1,0 × 10⁻⁴",
+    "d": "1,0 × 10⁻⁶",
+    "e": "1,0 × 10⁻⁷"
+  },
+  "answer": "c",
+  "tags": [
+    "aritmética e números"
+  ],
+  "year": 2020,
+  "test": "ENEM",
+  "area": "math",
+  "difficulty": 2,
+  "images": [
+    "figuras/q154_2020_fig1.png"
+  ],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

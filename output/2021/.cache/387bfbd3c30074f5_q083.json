@@ -1,0 +1,21 @@
+{
+  "number": 83,
+  "text": "O texto apresentado não é legível devido a problemas graves de extração ou digitalização. Não é possível extrair uma questão válida desta imagem.",
+  "alternatives": {
+    "a": "",
+    "b": "",
+    "c": "",
+    "d": "",
+    "e": ""
+  },
+  "answer": "a",
+  "tags": [],
+  "year": 2021,
+  "test": "ENEM",
+  "area": "humanas",
+  "difficulty": 5,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

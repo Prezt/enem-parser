@@ -1,0 +1,25 @@
+{
+  "number": 80,
+  "text": "[Figura] Os vínculos entre os fenômenos indicados no trecho oram fortalecidos pelo surgimento de uma categoria de ensadores, a saber:",
+  "alternatives": {
+    "a": "Os epicuristas, envolvidos com o ideal de vida feliz.",
+    "b": "Os estoicos, dedicados à superação dos infortúnios.",
+    "c": "Os sofistas, comprometidos com o ensino da retórica.",
+    "d": "Os peripatéticos, empenhados na dinâmica do ensino.",
+    "e": "Os poetas rapsodos, responsáveis pela narrativa do mito."
+  },
+  "answer": "c",
+  "tags": [
+    "filosofia",
+    "história da filosofia"
+  ],
+  "year": 2022,
+  "test": "ENEM",
+  "area": "humanas",
+  "images": [
+    "figuras/q080_2022_fig1.png"
+  ],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

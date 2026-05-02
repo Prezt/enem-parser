@@ -1,0 +1,29 @@
+{
+  "number": 132,
+  "text": "Uma caixa decorativa utiliza duas pequenas lâmpadas, L (6 V – 9 W) e  L  (12 V – 18 W), ligadas em série a [Figura: esquema do circuito] ma bateria de tensão  V . Um fio resistivo  QR , de  QR  8 centímetros, está ligado em paralelo à bateria. Cinco pontos,  A ,  B ,  C ,  D  e  E , dividem o fio  QR  em seis segmentos e comprimentos iguais. O circuito também tem um amperímetro com dois terminais. Um dos terminais ( P ) está ligado ao fio entre as duas lâmpadas. O outro terminal ( S ) está livre e será ligado ao fio  QR . Dependendo do ponto em que esse terminal livre for conectado, ocorrerá a mudança na tensão à qual as lâmpadas são submetidas. Os demais pontos do circuito têm resistências elétricas desprezíveis.",
+  "alternatives": {
+    "a": "A",
+    "b": "B",
+    "c": "C",
+    "d": "D",
+    "e": "E"
+  },
+  "answer": "b",
+  "tags": [
+    "física",
+    "circuito elétrico"
+  ],
+  "year": 2024,
+  "test": "ENEM",
+  "area": "nature",
+  "images": [
+    "figuras/q132_2024_fig1.png",
+    "figuras/q132_2024_fig2.png",
+    "figuras/q132_2024_fig3.png",
+    "figuras/q132_2024_fig4.png",
+    "figuras/q132_2024_fig5.png"
+  ],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

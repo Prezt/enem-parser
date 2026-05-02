@@ -1,0 +1,23 @@
+{
+  "number": 143,
+  "text": "[Figura: planificação de um cubo] Em um cubo, foram pintados, em três de suas faces quadrados de cor cinza escura, que ocupam um quarto dessas faces, tendo esses três quadrados um vértice em comum, conforme ilustrado na [Figura 2]. A planificação do cubo da Figura 2, conforme o tipo de lanificação apresentada na Figura 1, é",
+  "alternatives": {
+    "a": "A",
+    "b": "B",
+    "c": "C",
+    "d": "D",
+    "e": "E"
+  },
+  "answer": "d",
+  "tags": [
+    "geometria",
+    "planificação"
+  ],
+  "year": 2022,
+  "test": "ENEM",
+  "area": "math",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

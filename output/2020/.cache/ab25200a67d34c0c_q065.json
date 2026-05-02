@@ -1,0 +1,26 @@
+{
+  "number": 65,
+  "text": "O conjunto representado pelo agronegócio demanda territórios. Como há uma elevação da formação de fluxos em escalas que vão do local ao global, terminam por pressionar a implantação de fixos diversos, bem como de uma regulação específica.\n\n[Figura: mapa do Brasil mostrando fluxos e territórios do agronegócio]\n\nO mapa e o texto se complementam indicando que a expansão do agronegócio implica em:",
+  "alternatives": {
+    "a": "alteração da matriz econômica",
+    "b": "substituição do modal hidroviário",
+    "c": "retração do contingente demográfico",
+    "d": "projeção do escoamento produtivo",
+    "e": "estagnação de lavouras policultoras"
+  },
+  "answer": "d",
+  "tags": [
+    "Geografia: geografia humana e urbana",
+    "Geopolítica e território"
+  ],
+  "year": 2020,
+  "test": "ENEM",
+  "area": "humanas",
+  "difficulty": 6,
+  "images": [
+    "figuras/q065_2020_fig1.png"
+  ],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

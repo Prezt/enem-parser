@@ -1,0 +1,25 @@
+{
+  "number": 103,
+  "text": "O dióxido de carbono passa para o estado sólido (gelo seco) à temperatura ambiente. O gás é facilmente solubilizado em água, capaz de formar ácido fraco e não conduz eletricidade. Ele é utilizado como matéria-prima na fotossíntese. Após ser consumido pelos organismos autotróficos, o gás retorna ao meio ambiente através da respiração celular ou por resíduos industriais, queima de combustíveis fósseis e decomposição. Seu excesso causa perturbações no equilíbrio ambiental. Considerando as propriedades descritas, o aumento atmosférico de CO₂ é prejudicial à vida aquática pela razão da",
+  "alternatives": {
+    "a": "redução do potencial hidrogeniônico da água.",
+    "b": "restrição da aerobiose pelo excesso de poluentes.",
+    "c": "diminuição da emissão de oxigênio pelos autótrofos.",
+    "d": "limitação de transferência de energia entre os seres vivos.",
+    "e": "retração dos oceanos pelo congelamento do gás."
+  },
+  "answer": "a",
+  "tags": [
+    "química geral e inorgânica",
+    "ecologia",
+    "equilíbrio químico"
+  ],
+  "year": 2020,
+  "test": "ENEM",
+  "area": "nature",
+  "difficulty": 6,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

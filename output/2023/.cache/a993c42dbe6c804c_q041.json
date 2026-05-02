@@ -1,0 +1,24 @@
+{
+  "number": 41,
+  "text": "\"Ganhei 25 medalhas em mundiais, sete em Jogos Olímpicos, e sou uma sobrevivente de abuso sexual.\" oi assim que Simone Biles se apresentou ao comitê do Senado norte-americano que investiga as supostas falhas o FBI no caso Larry Nassar. Biles e outras três atletas, ítimas dos abusos do ex-médico da equipe de ginástica eminina dos EUA, exigiram que os agentes da investigação ejam processados por falta de ação prévia contra Nassar, agora preso. Biles esclareceu que culpa Larry Nassar todo o sistema que o permitiu e o perpetrou\", acusando Federação de Ginástica e o Comitê Olímpico dos Estados Unidos de saberem muito antes que ela havia sofrido busos. A melhor ginasta do mundo é um ícone. Nos Jogos Olímpicos de Tóquio, uma lesão psicológica a impediu de competir como previa. No entanto, ela chegou ao topo como ma líder no trabalho de acabar com o preconceito com s problemas de saúde mental. \"Não quero que nenhum outro atleta olímpico sofra o horror que eu e outras centenas uportamos e continuamos suportando até hoje\", afirmou.",
+  "alternatives": {
+    "a": "o desempenho atlético internacional",
+    "b": "a dimensão emocional dos atletas",
+    "c": "os comitês olímpicos nacionais",
+    "d": "as instituições de inteligência",
+    "e": "as federações esportivas"
+  },
+  "answer": "b",
+  "tags": [
+    "esporte",
+    "saúde mental",
+    "justiça"
+  ],
+  "year": 2023,
+  "test": "ENEM",
+  "area": "linguagens",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

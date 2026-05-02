@@ -1,0 +1,23 @@
+{
+  "number": 67,
+  "text": "No sul da Bahia, desde o século XVIII, tem-se registros de um tipo de sistema agroflorestal. Até hoje esse sistema é característica marcante da paisagem da região, conhecido como cabruca, que consiste na cultivo do cacau à sombra do dossel da floresta nativa Esse sistema de cultivo do cacau (graças à tolerância da espécie à sombra) é considerado amigável para a vida silvestre, pois apresenta superioridade em termos de conservação da biodiversidade quando comparada com outras plantações tropicais (monoculturas de dendê seringa ou café), agricultura ou pastagens.",
+  "alternatives": {
+    "a": "difusão comercial de lavouras temporárias",
+    "b": "utilização sustentável dos recursos naturais",
+    "c": "ampliação tecnológica da pecuária intensiva",
+    "d": "padronização alimentar dos povos tradicionais",
+    "e": "modernização logística de plantios convencionais"
+  },
+  "answer": "b",
+  "tags": [
+    "agroflorestal",
+    "sustentabilidade"
+  ],
+  "year": 2023,
+  "test": "ENEM",
+  "area": "humanas",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

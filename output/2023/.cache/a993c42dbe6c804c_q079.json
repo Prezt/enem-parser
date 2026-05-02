@@ -1,0 +1,23 @@
+{
+  "number": 79,
+  "text": "A postura determinista adotada pelo personagem Gerineldo contrasta com a ideia existencialista contida o pensamento filosófico de Sartre porque",
+  "alternatives": {
+    "a": "evidencia a manifestação do inconsciente.",
+    "b": "negra a possibilidade de transcendência.",
+    "c": "contraria o conhecimento difuso.",
+    "d": "sustenta a fugacidade da vida.",
+    "e": "refuta a evolução biológica."
+  },
+  "answer": "b",
+  "tags": [
+    "literatura",
+    "filosofia"
+  ],
+  "year": 2023,
+  "test": "ENEM",
+  "area": "humanas",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

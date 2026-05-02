@@ -1,0 +1,24 @@
+{
+  "number": 44,
+  "text": "Segundo o texto, a ferramenta Farejador de Plágio alcança seu objetivo por meio da",
+  "alternatives": {
+    "a": "seleção de cópias integrais.",
+    "b": "busca em sites especializados.",
+    "c": "simulação da atividade docente.",
+    "d": "comparação de padrões estruturais.",
+    "e": "identificação de sequência de fonemas."
+  },
+  "answer": "d",
+  "tags": [
+    "interpretação de texto",
+    "gêneros textuais"
+  ],
+  "year": 2018,
+  "test": "ENEM",
+  "area": "linguagens",
+  "difficulty": 4,
+  "images": [],
+  "contextId": "enem_2018_linguagens_44_ctx1",
+  "contextIds": null,
+  "language": null
+}

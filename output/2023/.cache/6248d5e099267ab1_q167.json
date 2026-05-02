@@ -1,0 +1,24 @@
+{
+  "number": 167,
+  "text": "A cada bimestre, a diretora de uma escola compra um número de folhas de papel ofício proporcional ao número de alunos matriculados. No bimestre passado, ela comprou 6 000 folhas para serem utilizadas pelos 1 200 alunos matriculados. Neste bimestre, alguns alunos cancelaram suas matrículas e a escola tem, agora, 1 150 alunos. O fornecedor da escola vende as folhas de papel ofício em embalagens de 100 unidades a R$ 4,00 a embalagem com um desconto à escola, de modo que seja possível comprar a quantidade total de papel ofício necessária para o bimestre. O desconto necessário no preço final da compra, em porcentagem, pertence ao intervalo",
+  "alternatives": {
+    "a": "(5,0 ; 5,5)",
+    "b": "(8,0 ; 8,5)",
+    "c": "(11,5 ; 12,5)",
+    "d": "(19,5 ; 20,5)",
+    "e": "(3,5 ; 4,0)"
+  },
+  "answer": "a",
+  "tags": [
+    "matemática",
+    "proporcionalidade",
+    "porcentagem"
+  ],
+  "year": 2023,
+  "test": "ENEM",
+  "area": "math",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

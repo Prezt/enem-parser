@@ -1,0 +1,25 @@
+{
+  "number": 87,
+  "text": "O anúncio publicitário da década de 1940 reforça os seguintes estereótipos atribuídos historicamente a uma suposta natureza feminina:",
+  "alternatives": {
+    "a": "Pudor inato e instinto maternal.",
+    "b": "Fragilidade física e necessidade de aceitação.",
+    "c": "Isolamento social e procura de autoconhecimento.",
+    "d": "Dependência econômica e desejo de ostentação.",
+    "e": "Mentalidade fútil e conduta hedonista."
+  },
+  "answer": "b",
+  "tags": [
+    "história contemporânea",
+    "cultura e identidade",
+    "história da cultura e arte"
+  ],
+  "year": 2018,
+  "test": "ENEM",
+  "area": "humanas",
+  "difficulty": 6,
+  "images": [],
+  "contextId": "enem_2018_humanas_87_ctx1",
+  "contextIds": null,
+  "language": null
+}

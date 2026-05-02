@@ -1,0 +1,24 @@
+{
+  "number": 100,
+  "text": "No ciclo celular atuam moléculas reguladoras. Dentre elas, a proteína p53 é ativada em resposta a mutações do DNA, evitando a progressão do ciclo até que os danos sejam reparados, ou induzindo a célula à autodestruição. A ausência dessa proteína poderá favorecer a",
+  "alternatives": {
+    "a": "redução da síntese de DNA, acelerando o ciclo celular.",
+    "b": "saída imediata do ciclo celular, antecipando a proteção do DNA.",
+    "c": "ativação de outras proteínas reguladoras, induzindo a apoptose.",
+    "d": "manutenção da estabilidade genética, favorecendo a longevidade.",
+    "e": "proliferação celular exagerada, resultando na formação de um tumor."
+  },
+  "answer": "e",
+  "tags": [
+    "citologia",
+    "genética e hereditariedade"
+  ],
+  "year": 2018,
+  "test": "ENEM",
+  "area": "nature",
+  "difficulty": 6,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

@@ -1,0 +1,25 @@
+{
+  "number": 45,
+  "text": "Carta aberta à população brasileira [Figura: descrição da imagem]",
+  "alternatives": {
+    "a": "sensibilizar o idoso a respeito dos cuidados com a saúde.",
+    "b": "alertar os governantes sobre os cuidados requeridos pelo idoso.",
+    "c": "divulgar o trabalho da Sociedade Brasileira de Geriatria e Gerontologia.",
+    "d": "informar o setor público sobre o retrocesso da legislação destinada à população idosa.",
+    "e": "chamar a atenção da população sobre a qualidade dos serviços de saúde pública para o idoso."
+  },
+  "answer": "e",
+  "tags": [
+    "saúde",
+    "envelhecimento populacional"
+  ],
+  "year": 2023,
+  "test": "ENEM",
+  "area": "linguagens",
+  "images": [
+    "figuras/q045_2023_fig1.png"
+  ],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

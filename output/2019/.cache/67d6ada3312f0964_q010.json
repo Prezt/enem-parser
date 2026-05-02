@@ -1,0 +1,24 @@
+{
+  "number": 10,
+  "text": "Essa campanha se destaca pela maneira como utiliza a estratégia de se acabar com o bullying. Tal estratégia está centrada em:",
+  "alternatives": {
+    "a": "chamamento de diferentes atores sociais pelo uso de diferentes vozes",
+    "b": "variedade linguística caracterizadora do português brasileiro",
+    "c": "restrição a um grupo específico de vítimas ao apresentar casos particulares",
+    "d": "combinação do significado de palavras escritas em diferentes idiomas",
+    "e": "enunciado de cunho esperançoso \"passe à história\""
+  },
+  "answer": "a",
+  "tags": [
+    "interpretação de texto",
+    "comunicação e mídia"
+  ],
+  "year": 2019,
+  "test": "ENEM",
+  "area": "linguagens",
+  "difficulty": 5,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

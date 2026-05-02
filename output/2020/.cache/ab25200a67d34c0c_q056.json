@@ -1,0 +1,24 @@
+{
+  "number": 56,
+  "text": "A demanda mundial para a produção de alimento aumenta progressivamente a taxas muito altas. Atualmente, na maioria dos países, continentes e regiões a água consumida na agricultura é de cerca de 70% da disponibilidade total. Para que haja a redução da pressão sobre o recurso natural mencionado, a expansão da agricultura demanda melhorias no(a)",
+  "alternatives": {
+    "a": "fertilização química do solo.",
+    "b": "escoamento hídrico do terreno.",
+    "c": "manutenção de poços artesianos.",
+    "d": "eficiência das técnicas de irrigação.",
+    "e": "velocidade das máquinas colheitadeiras."
+  },
+  "answer": "d",
+  "tags": [
+    "geografia física e geologia",
+    "meio ambiente e sustentabilidade"
+  ],
+  "year": 2020,
+  "test": "ENEM",
+  "area": "humanas",
+  "difficulty": 4,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

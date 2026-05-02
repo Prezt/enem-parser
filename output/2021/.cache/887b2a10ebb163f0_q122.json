@@ -1,0 +1,24 @@
+{
+  "number": 122,
+  "text": "Qual é a função da caixa de gordura no sistema de tratamento de esgoto residencial?",
+  "alternatives": {
+    "a": "Reter os detritos da pia e cozinha, liberando água quase isenta de gordura.",
+    "b": "Receber o que vem dos banheiros e lavanderia, reunindo todo o esgoto residencial.",
+    "c": "Realizar o tratamento primário do esgoto através de processos químicos.",
+    "d": "Armazenar permanentemente os resíduos sólidos do esgoto residencial.",
+    "e": "Separar os gases produzidos durante a decomposição dos detritos."
+  },
+  "answer": "c",
+  "tags": [
+    "meio ambiente e sustentabilidade",
+    "fisiologia humana"
+  ],
+  "year": 2021,
+  "test": "ENEM",
+  "area": "nature",
+  "difficulty": 3,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

@@ -1,0 +1,24 @@
+{
+  "number": 95,
+  "text": "Usando um densímetro cuja menor divisão da escala, isto é, a diferença entre duas marcações consecutivas, é 2 × 10⁻³ g cm⁻³, um estudante realizou um teste de densidade: colocou este instrumento na água pura e observou que ele atingiu o repouso na posição mostrada. Em dois outros recipientes A e B contendo 2 litros de água pura, em cada um, ele adicionou 100 g e 200 g de NaCl, respectivamente. Quando o cloreto de sódio é adicionado à água pura ocorre sua dissociação formando os íons Na⁺ e Cl⁻. Considere que esses íons ocupam os espaços intermoleculares na solução. Nestes recipientes, a posição de equilíbrio do densímetro está representada em:",
+  "alternatives": {
+    "a": "A B (representação visual do densímetro em posições diferentes nos recipientes A e B)",
+    "b": "A B (representação visual do densímetro em posições diferentes nos recipientes A e B)",
+    "c": "A B (representação visual do densímetro em posições diferentes nos recipientes A e B)",
+    "d": "A B (representação visual do densímetro em posições diferentes nos recipientes A e B)",
+    "e": "A B (representação visual do densímetro em posições diferentes nos recipientes A e B)"
+  },
+  "answer": "d",
+  "tags": [
+    "química geral e inorgânica",
+    "soluções e solubilidade"
+  ],
+  "year": 2018,
+  "test": "ENEM",
+  "area": "nature",
+  "difficulty": 6,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

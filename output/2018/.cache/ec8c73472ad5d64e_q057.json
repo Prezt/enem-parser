@@ -1,0 +1,24 @@
+{
+  "number": 57,
+  "text": "As práticas culturais narradas remetem, historicamente, ao movimento",
+  "alternatives": {
+    "a": "feminista.",
+    "b": "sufragista.",
+    "c": "socialista.",
+    "d": "republicano.",
+    "e": "abolicionista."
+  },
+  "answer": "e",
+  "tags": [
+    "história do brasil república",
+    "história da cultura e arte"
+  ],
+  "year": 2018,
+  "test": "ENEM",
+  "area": "humanas",
+  "difficulty": 6,
+  "images": [],
+  "contextId": "enem_2018_humanas_ctx57",
+  "contextIds": null,
+  "language": null
+}

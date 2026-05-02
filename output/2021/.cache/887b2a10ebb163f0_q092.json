@@ -1,0 +1,23 @@
+{
+  "number": 92,
+  "text": "O sino dos ventos é composto por várias barras metálicas de mesmo material e espessura, mas de comprimentos diferentes. Considere f₁ e v₁, respectivamente, como a frequência e a velocidade do som emitido pela barra de menor comprimento, e f₂ e v₂ as mesmas grandezas para o som emitido pela barra de maior comprimento. As relações entre as frequências fundamentais e entre as velocidades do som são:",
+  "alternatives": {
+    "a": "f₁ > f₂ e v₁ = v₂",
+    "b": "f₁ < f₂ e v₁ = v₂",
+    "c": "f₁ > f₂ e v₁ > v₂",
+    "d": "f₁ < f₂ e v₁ > v₂",
+    "e": "f₁ = f₂ e v₁ = v₂"
+  },
+  "answer": "d",
+  "tags": [
+    "ondulatória e acústica"
+  ],
+  "year": 2021,
+  "test": "ENEM",
+  "area": "nature",
+  "difficulty": 5,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

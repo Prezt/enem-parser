@@ -1,0 +1,23 @@
+{
+  "number": 88,
+  "text": "O excerto refere-se a uma carta de Sêneca na qual se apresenta como um bem fundamental da filosofia promover a",
+  "alternatives": {
+    "a": "valorização de disputas dialógicas.",
+    "b": "rejeição das convenções sociais.",
+    "c": "inspiração de natureza religiosa.",
+    "d": "exaltação do sofrimento.",
+    "e": "moderação das paixões."
+  },
+  "answer": "e",
+  "tags": [
+    "filosofia",
+    "ética"
+  ],
+  "year": 2022,
+  "test": "ENEM",
+  "area": "humanas",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

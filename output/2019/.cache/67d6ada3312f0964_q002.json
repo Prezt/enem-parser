@@ -1,0 +1,25 @@
+{
+  "number": 2,
+  "text": "Ao abordar o assunto \"obesidade\", em uma seção de jornal, o autor",
+  "alternatives": {
+    "a": "defende o consumo liberado de açúcar.",
+    "b": "aponta a gordura como o grande vilão da saúde.",
+    "c": "demonstra acreditar que a obesidade não é preocupante.",
+    "d": "indica a necessidade de mais pesquisas sobre o assunto.",
+    "e": "enfatiza a redução de ingestão de calorias pelos americanos."
+  },
+  "answer": "d",
+  "tags": [
+    "interpretação de texto",
+    "língua inglesa",
+    "comunicação e mídia"
+  ],
+  "year": 2019,
+  "test": "ENEM",
+  "area": "linguagens",
+  "difficulty": 5,
+  "images": [],
+  "contextId": "enem_2019_linguagens_en_ctx1",
+  "contextIds": null,
+  "language": "en"
+}

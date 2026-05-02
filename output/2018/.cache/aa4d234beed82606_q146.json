@@ -1,0 +1,24 @@
+{
+  "number": 146,
+  "text": "Numa atividade de treinamento realizada no Exército de um determinado país, três equipes – Alpha, Beta e Gama – foram designadas a percorrer diferentes caminhos, todos com os mesmos pontos de partida e de chegada.\n  - A equipe Alpha realizou seu percurso em 90 minutos com uma velocidade média de 6,0 km/h.\n  - A equipe Beta também percorreu sua trajetória em 90 minutos, mas sua velocidade média foi de 5,0 km/h.\n  - Com uma velocidade média de 6,5 km/h, a equipe Gama concluiu seu caminho em 60 minutos.\n\nCom base nesses dados, foram comparadas as distâncias d_Beta, d_Alpha e d_Gama percorridas pelas três equipes.\n\nA ordem das distâncias percorridas pelas equipes Alpha, Beta e Gama é",
+  "alternatives": {
+    "a": "d_Gama < d_Beta < d_Alpha",
+    "b": "d_Alpha = d_Beta < d_Gama",
+    "c": "d_Gama < d_Beta = d_Alpha",
+    "d": "d_Beta < d_Alpha < d_Gama",
+    "e": "d_Gama < d_Alpha < d_Beta"
+  },
+  "answer": "a",
+  "tags": [
+    "aritmética e números",
+    "matemática financeira"
+  ],
+  "year": 2018,
+  "test": "ENEM",
+  "area": "math",
+  "difficulty": 3,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

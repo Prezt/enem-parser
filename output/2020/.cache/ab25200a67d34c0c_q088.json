@@ -1,0 +1,27 @@
+{
+  "number": 88,
+  "text": "Considerando a análise dos textos, a condição atual desse rio tem como origem a",
+  "alternatives": {
+    "a": "valorização do sítio urbano",
+    "b": "extinção da vegetação nativa",
+    "c": "recepção de densa carga de dejetos",
+    "d": "captação desordenada do regime pluvial",
+    "e": "expansão do uso de defensivos químicos"
+  },
+  "answer": "c",
+  "tags": [
+    "geografia humana e urbana",
+    "meio ambiente e sustentabilidade"
+  ],
+  "year": 2020,
+  "test": "ENEM",
+  "area": "humanas",
+  "difficulty": 5,
+  "images": [],
+  "contextId": null,
+  "contextIds": [
+    "enem_2020_humanas_ctx1",
+    "enem_2020_humanas_ctx2"
+  ],
+  "language": null
+}

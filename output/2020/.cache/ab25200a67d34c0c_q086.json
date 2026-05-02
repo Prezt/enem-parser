@@ -1,0 +1,24 @@
+{
+  "number": 86,
+  "text": "Esse documento, elaborado no contexto da Revolução Francesa, reflete uma profunda mudança social ao estabelecer a",
+  "alternatives": {
+    "a": "manutenção das terras comunais.",
+    "b": "supressão do poder constituinte.",
+    "c": "falência da sociedade burguesa.",
+    "d": "paridade do tratamento jurídico.",
+    "e": "abolição dos partidos políticos."
+  },
+  "answer": "d",
+  "tags": [
+    "história moderna",
+    "direitos humanos e cidadania"
+  ],
+  "year": 2020,
+  "test": "ENEM",
+  "area": "humanas",
+  "difficulty": 5,
+  "images": [],
+  "contextId": "enem_2020_humanas_ctx86",
+  "contextIds": null,
+  "language": null
+}

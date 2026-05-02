@@ -1,0 +1,24 @@
+{
+  "number": 84,
+  "text": "Erico Verissimo tematiza em obra ficcional o seguinte aspecto característico da vida política durante a Primeira República:",
+  "alternatives": {
+    "a": "Identificação forçada de homens analfabetos.",
+    "b": "Monitoramento legal dos pleitos legislativos.",
+    "c": "Repressão explícita ao exercício de direito.",
+    "d": "Propaganda direcionada à população do campo.",
+    "e": "Cerceamento policial dos operários sindicalizados."
+  },
+  "answer": "c",
+  "tags": [
+    "história do brasil república",
+    "direitos humanos e cidadania"
+  ],
+  "year": 2018,
+  "test": "ENEM",
+  "area": "humanas",
+  "difficulty": 6,
+  "images": [],
+  "contextId": "enem_2018_humanas_84_ctx1",
+  "contextIds": null,
+  "language": null
+}

@@ -1,0 +1,25 @@
+{
+  "number": 179,
+  "text": "As características culturais variam de povo para povo. Há notícias de um povo que possuía formas de contar diferentes das nossas, como indicado no quadrinho a seguir. Segundo o padrão de contagem indicado na figura, as representações dos numerais cinco e sete, nessa cultura, viriam ser, respectivamente, [Figura: padrão de contagem].",
+  "alternatives": {
+    "a": "okosa urapum urapum urapum e okosa okosa urapum urapum urapum.",
+    "b": "okosa okosa urapum e okosa okosa okosa okosa urapum.",
+    "c": "okosa okosa urapum e okosa okosa okosa urapum.",
+    "d": "okosa urapum urapum e okosa urapum okosa urapum urapum.",
+    "e": "okosa okosa urapum e okosa okosa okosa okosa."
+  },
+  "answer": "c",
+  "tags": [
+    "numeração",
+    "cultura"
+  ],
+  "year": 2023,
+  "test": "ENEM",
+  "area": "math",
+  "images": [
+    "figuras/q179_2023_fig1.png"
+  ],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

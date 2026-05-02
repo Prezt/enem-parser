@@ -1,0 +1,24 @@
+{
+  "number": 172,
+  "text": "Um ciclista amador de 61 anos de idade utilizou um monitor cardíaco para medir suas frequências cardíacas em quatro diferentes tipos de trechos de percurso. Os resultados das frequências cardíacas máximas alcançadas nesses trechos foram:\n  - Leve no plano: 90 bpm\n  - Forte no plano: 120 bpm\n  - Subida moderada: 130 bpm\n  - Subida forte: 140 bpm\n\nA frequência cardíaca máxima (Fc máx.), que por sua vez é determinada pela fórmula: Fc máx. = 220 – idade, em que a idade é dada em anos e Fc máx. é dada em bpm (batimento por minuto).\n\nOs trechos do percurso nos quais esse ciclista se mantém dentro de sua faixa aeróbica ideal, para o ganho de condicionamento cardiorrespiratório, são aqueles em que sua frequência cardíaca está entre 50% e 85% da Fc máx.",
+  "alternatives": {
+    "a": "leve no plano, forte no plano, subida moderada e subida forte.",
+    "b": "leve no plano, forte no plano e subida moderada.",
+    "c": "forte no plano, subida moderada e subida forte.",
+    "d": "forte no plano e subida moderada.",
+    "e": "leve no plano e subida forte."
+  },
+  "answer": "d",
+  "tags": [
+    "aritmética e números",
+    "estatística"
+  ],
+  "year": 2021,
+  "test": "ENEM",
+  "area": "math",
+  "difficulty": 4,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

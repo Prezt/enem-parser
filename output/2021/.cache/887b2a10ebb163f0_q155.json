@@ -1,0 +1,24 @@
+{
+  "number": 155,
+  "text": "A questão apresenta um contexto sobre quantidade de frango em refeições. Portanto, terá que reduzir a quantidade de frango.",
+  "alternatives": {
+    "a": "12,5",
+    "b": "28,0",
+    "c": "30,0",
+    "d": "50,0",
+    "e": "50,0"
+  },
+  "answer": "c",
+  "tags": [
+    "aritmética e números",
+    "matemática financeira"
+  ],
+  "year": 2021,
+  "test": "ENEM",
+  "area": "math",
+  "difficulty": 5,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

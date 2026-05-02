@@ -1,0 +1,23 @@
+{
+  "number": 111,
+  "text": "Próximo a que região se situa a residência onde as placas foram instaladas?",
+  "alternatives": {
+    "a": "Trópico de Capricórnio.",
+    "b": "Trópico de Câncer.",
+    "c": "Polo Norte.",
+    "d": "Polo Sul.",
+    "e": "Equador."
+  },
+  "answer": "a",
+  "tags": [
+    "geografia",
+    "física"
+  ],
+  "year": 2022,
+  "test": "ENEM",
+  "area": "nature",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

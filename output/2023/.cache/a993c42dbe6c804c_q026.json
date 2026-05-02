@@ -1,0 +1,23 @@
+{
+  "number": 26,
+  "text": "A escravidão\nEsses meninos que aí andam jogando peteca nã\nviram nunca um escravo... Quando crescerem, saberã\nque já houve no Brasil uma raça triste, votada à escravidã\ne ao desespero; e verão nos museus a coleção hediond\ndos troncos, dos vira-mundos e dos bacalhaus; e terã\nnotícias dos trágicos horrores de uma época maldita: filho\narrancados ao seio das mães, virgens violadas em pranto\nhomens assados lentamente em fornos de cal, mulhere\nnuas recebendo na sua mísera nudez desvalida o dupl\nultraje das chicotadas e dos olhares do feitor bestial. [...]\nMas a sua indignação nunca poderá ser tão grande com\na daqueles que nasceram e cresceram em pleno horro\nno meio desse horrível drama de sangue e lodo, sentind\n dentro do ouvido e da alma, numa arrastada e contínu\nmelopeia, o longo gemer da raça mártir — orquestraçã\nsatânica de todos os soluços, de todas as impressões, d\ntodos os lamentos que a tortura e a injustiça podem arranca\na gargantas humanas.",
+  "alternatives": {
+    "a": "descrever de modo impessoal as consequências da exploração racial sobre as gerações futuras.",
+    "b": "contrapor a infância privilegiada das crianças da época à infância violentada das crianças escravizadas.",
+    "c": "antecipar o futuro apagamento das marcas da escravidão no contexto social.",
+    "d": "criticar a atenuação da violência contra os povos escravizados nas memórias retratadas pelos museus",
+    "e": "imaginar a reação de indiferença de seu contemporâneos com os escravizados libertos."
+  },
+  "answer": "c",
+  "tags": [
+    "literatura",
+    "escravidão"
+  ],
+  "year": 2023,
+  "test": "ENEM",
+  "area": "linguagens",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

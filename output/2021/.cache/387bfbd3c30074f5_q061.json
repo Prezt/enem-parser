@@ -1,0 +1,24 @@
+{
+  "number": 61,
+  "text": "As intervenções urbanas descritas derivam de um processo socioespacial que busca a",
+  "alternatives": {
+    "a": "requalificação de espaços públicos mediante políticas de financiamento privado",
+    "b": "valorização do patrimônio histórico através da manutenção das funções tradicionais",
+    "c": "transformação de áreas portuárias em espaços de consumo e circulação de capital",
+    "d": "democratização do acesso à moradia em regiões de waterfronts",
+    "e": "preservação das atividades econômicas tradicionais nas áreas portuárias"
+  },
+  "answer": "a",
+  "tags": [
+    "geografia humana e urbana",
+    "geopolítica e território"
+  ],
+  "year": 2021,
+  "test": "ENEM",
+  "area": "humanas",
+  "difficulty": 6,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

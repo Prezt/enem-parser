@@ -1,0 +1,23 @@
+{
+  "number": 140,
+  "text": "A gripe é uma infecção respiratória aguda de curta duração causada pelo vírus influenza. Ao entrar no nosso organismo pelo nariz, esse vírus multiplica-se disseminando-se para a garganta e demais partes das vias respiratórias, incluindo os pulmões. O vírus influenza é uma partícula esférica que tem um diâmetro interno de 0,00011 mm. Em notação científica, o diâmetro interno do vírus influenza, em mm, é",
+  "alternatives": {
+    "a": "1,1 × 10⁻¹",
+    "b": "1,1 × 10⁻²",
+    "c": "1,1 × 10⁻³",
+    "d": "1,1 × 10⁻⁴",
+    "e": "1,1 × 10⁻⁵"
+  },
+  "answer": "d",
+  "tags": [
+    "aritmética e números"
+  ],
+  "year": 2019,
+  "test": "ENEM",
+  "area": "math",
+  "difficulty": 3,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

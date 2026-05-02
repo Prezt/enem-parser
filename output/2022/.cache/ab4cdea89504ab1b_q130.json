@@ -1,0 +1,23 @@
+{
+  "number": 130,
+  "text": "Um animal que tem bastonetes mais sensíveis irá",
+  "alternatives": {
+    "a": "apresentar daltonismo.",
+    "b": "perceber cores fora do espectro do visível.",
+    "c": "enxergar bem em ambientes mal iluminados.",
+    "d": "necessitar de mais luminosidade para enxergar.",
+    "e": "fazer uma pequena distinção de cores em ambientes iluminados."
+  },
+  "answer": "c",
+  "tags": [
+    "visão",
+    "física"
+  ],
+  "year": 2022,
+  "test": "ENEM",
+  "area": "nature",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

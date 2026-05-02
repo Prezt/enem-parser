@@ -1,0 +1,24 @@
+{
+  "number": 80,
+  "text": "De acordo com a perspectiva apresentada, central na sociologia do desenvolvimento é a questão:",
+  "alternatives": {
+    "a": "racionalidade dos atores sociais",
+    "b": "antagonismo entre forças sociais progressistas e conservadoras",
+    "c": "descompassos na construção de quadro institucional",
+    "d": "ilegitimidade na atuação dos movimentos de caráter popular",
+    "e": "variabilidade nas formas de atuação do Estado"
+  },
+  "answer": "c",
+  "tags": [
+    "sociologia e estrutura social",
+    "história contemporânea"
+  ],
+  "year": 2021,
+  "test": "ENEM",
+  "area": "humanas",
+  "difficulty": 5,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

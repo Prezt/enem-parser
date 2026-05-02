@@ -1,0 +1,23 @@
+{
+  "number": 162,
+  "text": "Uma loja de roupas fixou uma meta de vendas de 7 000 reais para um determinado mês de 30 dias. O gráfico mostra o volume de vendas dessa loja, em real, os dez primeiros dias do mês e entre o dia dez e o dia inte desse mês, nos seus dois únicos setores (infantil e dulto). Suponha que a variação no volume de vendas, ara o período registrado, tenha se dado de forma linear, omomo mostrado no gráfico, e que essa tendência se mantenha a mesma para os próximos dez dias. Ao final do trigésimo dia, quanto faltará no volume de vendas, m real, para que a meta fixada para o mês seja alcançada?",
+  "alternatives": {
+    "a": "5 000",
+    "b": "7 000",
+    "c": "11 000",
+    "d": "18 000",
+    "e": "29 000"
+  },
+  "answer": "c",
+  "tags": [
+    "gráfico",
+    "matemática financeira"
+  ],
+  "year": 2022,
+  "test": "ENEM",
+  "area": "math",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

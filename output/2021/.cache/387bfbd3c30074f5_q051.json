@@ -1,0 +1,24 @@
+{
+  "number": 51,
+  "text": "O texto apresenta informações sobre o desenvolvimento dos recursos hídricos. Qual é a principal preocupação abordada no Relatório Mundial das Nações Unidas sobre Desenvolvimento dos Recursos Hídricos?",
+  "alternatives": {
+    "a": "A abundância de água doce em todas as regiões do planeta",
+    "b": "A distribuição desigual dos recursos hídricos",
+    "c": "O aumento da poluição industrial nas cidades",
+    "d": "A redução do consumo de água nas zonas rurais",
+    "e": "A preservação de ecossistemas aquáticos intocados"
+  },
+  "answer": "a",
+  "tags": [
+    "meio ambiente e sustentabilidade",
+    "geopolítica e território"
+  ],
+  "year": 2021,
+  "test": "ENEM",
+  "area": "humanas",
+  "difficulty": 5,
+  "images": [],
+  "contextId": "enem_2021_humanas_ctx1",
+  "contextIds": null,
+  "language": null
+}

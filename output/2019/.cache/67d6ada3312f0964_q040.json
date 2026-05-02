@@ -1,0 +1,24 @@
+{
+  "number": 40,
+  "text": "O documento de Marinetti, de 1909, propõe os referenciais estéticos do Futurismo, que valorizam a",
+  "alternatives": {
+    "a": "composição estática.",
+    "b": "inovação tecnológica.",
+    "c": "suspensão do tempo.",
+    "d": "retomada do helenismo.",
+    "e": "manutenção das tradições."
+  },
+  "answer": "b",
+  "tags": [
+    "literatura mundial",
+    "gêneros textuais"
+  ],
+  "year": 2019,
+  "test": "ENEM",
+  "area": "linguagens",
+  "difficulty": 4,
+  "images": [],
+  "contextId": "enem_2019_linguagens_40_ctx1",
+  "contextIds": null,
+  "language": null
+}

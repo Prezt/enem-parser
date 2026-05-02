@@ -1,0 +1,24 @@
+{
+  "number": 136,
+  "text": "Um torcedor, preparando-se para a Copa do Mundo e dispondo de cortes de tecidos verde (180 cm x 150 cm) e amarelo (o quanto baste), deseja confeccionar a maior Bandeira Nacional possível a partir das medidas do tecido verde.\n\nQual a medida, em centímetro, do lado do menor quadrado de tecido azul que deverá ser comprado para a confecção do círculo da bandeira desejada?",
+  "alternatives": {
+    "a": "27",
+    "b": "32",
+    "c": "53",
+    "d": "63",
+    "e": "90"
+  },
+  "answer": "d",
+  "tags": [
+    "aritmética e números",
+    "geometria plana"
+  ],
+  "year": 2020,
+  "test": "ENEM",
+  "area": "math",
+  "difficulty": 6,
+  "images": [],
+  "contextId": "enem_2020_math_ctx1",
+  "contextIds": null,
+  "language": null
+}

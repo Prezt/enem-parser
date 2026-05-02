@@ -1,0 +1,24 @@
+{
+  "number": 102,
+  "text": "O sulfeto de mercúrio(II) foi usado como pigmento vermelho para pinturas de quadros e murais. Esse pigmento, conhecido como vermilion, escurece com o passar dos anos, fenômeno cuja origem é alvo de pesquisas. Aventou-se a hipótese de que o vermilion seja decomposto sob a ação da luz, produzindo uma fina camada de mercúrio metálico na superfície. Essa reação seria catalisada por íon cloreto presente na umidade do ar. Segundo a hipótese proposta, o íon cloreto atua na decomposição fotoquímica do vermilion",
+  "alternatives": {
+    "a": "reagindo como agente oxidante.",
+    "b": "deslocando o equilíbrio químico.",
+    "c": "diminuindo a energia de ativação.",
+    "d": "precipitando cloreto de mercúrio.",
+    "e": "absorvendo a energia da luz visível."
+  },
+  "answer": "c",
+  "tags": [
+    "química geral e inorgânica",
+    "termoquímica e cinética"
+  ],
+  "year": 2018,
+  "test": "ENEM",
+  "area": "nature",
+  "difficulty": 6,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

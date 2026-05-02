@@ -1,0 +1,25 @@
+{
+  "number": 88,
+  "text": "O texto apresenta uma reflexão sobre a vida cristã e a busca pela simplicidade espiritual. A partir dessa perspectiva, qual é a principal mensagem transmitida pela passagem?",
+  "alternatives": {
+    "a": "A satisfação material é fundamental para a vida cristã equilibrada.",
+    "b": "A mortificação dos sentidos é essencial para alcançar a perfeição espiritual.",
+    "c": "A riqueza e os prazeres são caminhos válidos para a virtude.",
+    "d": "A renúncia aos desejos corporais deve ser acompanhada de contentamento com o pouco.",
+    "e": "A simplicidade é apenas uma virtude secundária na doutrina cristã."
+  },
+  "answer": "e",
+  "tags": [
+    "filosofia antiga e medieval",
+    "ética e política",
+    "história da cultura e arte"
+  ],
+  "year": 2021,
+  "test": "ENEM",
+  "area": "humanas",
+  "difficulty": 6,
+  "images": [],
+  "contextId": "enem_2021_humanas_ctx88",
+  "contextIds": null,
+  "language": null
+}

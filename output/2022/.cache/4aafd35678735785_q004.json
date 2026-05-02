@@ -1,0 +1,23 @@
+{
+  "number": 4,
+  "text": "O termo “ downsides ” introduz a ideia de que o Instagram é responsável por",
+  "alternatives": {
+    "a": "oferecer recursos de fotografia.",
+    "b": "divulgar problemas dos usuários.",
+    "c": "estimular aceitação dos seguidores.",
+    "d": "provocar ansiedade nos adolescentes.",
+    "e": "aproximar pessoas ao redor do mundo."
+  },
+  "answer": "d",
+  "tags": [
+    "redação",
+    "interpretação de texto"
+  ],
+  "year": 2022,
+  "test": "ENEM",
+  "area": "linguagens",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

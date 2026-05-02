@@ -1,0 +1,23 @@
+{
+  "number": 44,
+  "text": "Essa campanha publicitária do Ministério da Saúde visa",
+  "alternatives": {
+    "a": "divulgar um conjunto de benefícios proporcionados pela amamentação.",
+    "b": "apresentar tratamentos para infecções respiratórias em bebês.",
+    "c": "defender o direito das mulheres de amamentar em público.",
+    "d": "orientar sobre os exercícios para uma boa amamentação.",
+    "e": "informar sobre o aumento de anticorpos nas mães."
+  },
+  "answer": "a",
+  "tags": [
+    "saúde",
+    "publicidade"
+  ],
+  "year": 2023,
+  "test": "ENEM",
+  "area": "linguagens",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

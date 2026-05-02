@@ -1,0 +1,23 @@
+{
+  "number": 65,
+  "text": "O ápice da ilustração se traduz por uma conduta social aracterizada pela",
+  "alternatives": {
+    "a": "cultura do cancelamento.",
+    "b": "prática do feminicídio.",
+    "c": "postura negacionista.",
+    "d": "ação involuntária.",
+    "e": "defesa da honra."
+  },
+  "answer": "b",
+  "tags": [
+    "ética",
+    "sociedade"
+  ],
+  "year": 2022,
+  "test": "ENEM",
+  "area": "humanas",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

@@ -1,0 +1,21 @@
+{
+  "number": 56,
+  "text": "A questão apresenta um texto com problemas de extração que impedem a leitura clara do enunciado e das alternativas.",
+  "alternatives": {
+    "a": "Texto ilegível",
+    "b": "Texto ilegível",
+    "c": "Texto ilegível",
+    "d": "Texto ilegível",
+    "e": "Texto ilegível"
+  },
+  "answer": "d",
+  "tags": [],
+  "year": 2021,
+  "test": "ENEM",
+  "area": "humanas",
+  "difficulty": 5,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

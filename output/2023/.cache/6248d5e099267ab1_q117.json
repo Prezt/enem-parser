@@ -1,0 +1,24 @@
+{
+  "number": 117,
+  "text": "Os raios cósmicos são fontes de radiação ionizante potencialmente perigosas para o organismo humano. Para quantificar a dose de radiação recebida, utiliza-se sievert (Sv), definido como a unidade de energia recebida por unidade de massa. A exposição à radiação proveniente de raios cósmicos aumenta com a altitude, que pode representar um problema para as tripulações e aeronaves. Recentemente, foram realizadas medições curadas das doses de radiação ionizante para voos entre Rio de Janeiro e Roma. Os resultados têm indicado que a dose média de radiação recebida na fase de cruzeiro (que geralmente representa 80% do tempo total de voo) desse trecho intercontinental é 2 μSv/h. As normas internacionais para aviação civil limitam em 1 000 horas por ano o tempo de trabalho para as tripulações que atuem em voos intercontinentais. Considere que a dose de radiação ionizante para uma radiografia torácica é estimada em 0,2 mSv.",
+  "alternatives": {
+    "a": "8",
+    "b": "10",
+    "c": "80",
+    "d": "100",
+    "e": "1 000"
+  },
+  "answer": "a",
+  "tags": [
+    "radiação",
+    "avião",
+    "saúde"
+  ],
+  "year": 2023,
+  "test": "ENEM",
+  "area": "nature",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

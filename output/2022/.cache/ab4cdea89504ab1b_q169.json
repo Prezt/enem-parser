@@ -1,0 +1,23 @@
+{
+  "number": 169,
+  "text": "Uma loja comercializa cinco modelos de caixas-d’água (I, II, III, IV e V), todos em formato de cilindro reto de base circular. Os modelos II, III, IV e V têm as especificações de suas dimensões dadas em relação às dimensões do modelo I, cuja profundidade é P e área da base é A, como segue: \n• modelo II: o dobro da profundidade e a metade da área da base do modelo I;\n• modelo III: o dobro da profundidade e a metade do raio da base do modelo I;\n• modelo IV: a metade da profundidade e o dobro da área da base do modelo I;\n• modelo V: a metade da profundidade e o dobro do raio da base do modelo I.\nUma pessoa pretende comprar nessa loja o modelo de caixa-d’água que ofereça a maior capacidade volumétrica. O modelo escolhido deve ser o",
+  "alternatives": {
+    "a": "I.",
+    "b": "II.",
+    "c": "III.",
+    "d": "IV.",
+    "e": "V."
+  },
+  "answer": "e",
+  "tags": [
+    "geometria",
+    "cilindro"
+  ],
+  "year": 2022,
+  "test": "ENEM",
+  "area": "math",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

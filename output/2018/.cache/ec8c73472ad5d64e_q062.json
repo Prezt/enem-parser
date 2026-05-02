@@ -1,0 +1,24 @@
+{
+  "number": 62,
+  "text": "A situação demográfica de Israel é muito particular. Desde 1967, a esquerda sionista afirma que Israel deveria se desfazer rapidamente da Cisjordânia e da Faixa de Gaza, argumentando a partir de uma lógica demográfica aparentemente inexorável. Devido à taxa de nascimento árabe ser muito mais elevada, a anexação dos territórios palestinos, formal ou informal, acarretaria dentro de uma ou duas gerações uma maioria árabe \"entre o rio e o mar\". A preocupação apresentada no texto revela um aspecto da condução política desse Estado identificado ao(à)",
+  "alternatives": {
+    "a": "abdicação da interferência militar em conflito local.",
+    "b": "busca da preeminência étnica sobre o espaço nacional.",
+    "c": "admissão da participação proativa em blocos regionais.",
+    "d": "rompimento com os interesses geopolíticos das potências globais.",
+    "e": "compromisso com as resoluções emanadas dos organismos internacionais."
+  },
+  "answer": "b",
+  "tags": [
+    "geopolítica e relações internacionais",
+    "história contemporânea"
+  ],
+  "year": 2018,
+  "test": "ENEM",
+  "area": "humanas",
+  "difficulty": 6,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

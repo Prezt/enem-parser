@@ -1,0 +1,23 @@
+{
+  "number": 77,
+  "text": "De acordo com o texto, a importância da medicina se justifica no âmbito dos objetivos",
+  "alternatives": {
+    "a": "econômicos das elites.",
+    "b": "naturalistas dos viajantes.",
+    "c": "abolicionistas dos letrados.",
+    "d": "tradicionalistas dos nativos.",
+    "e": "emancipadores das metrópoles."
+  },
+  "answer": "a",
+  "tags": [
+    "história",
+    "sociedade"
+  ],
+  "year": 2022,
+  "test": "ENEM",
+  "area": "humanas",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

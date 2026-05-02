@@ -1,0 +1,23 @@
+{
+  "number": 104,
+  "text": "O vidro contendo alumínio em sua composição é m excelente material para acondicionar medicamentos suplementos, porque pode ser esterilizado por quecimento. No entanto, quando o medicamento u suplemento contém substâncias que se ligam ortemente ao íon desse metal, a dissolução do lumínio é promovida em função do deslocamento o equilíbrio químico estabelecido entre a espécie mobilizada no vidro e a espécie em solução. Por essa azão, recomenda-se que suplementos de nutrição de ecém-nascidos contendo gluconato de cálcio sejam condicionados em embalagens plásticas, e não nesse po de vidro.",
+  "alternatives": {
+    "a": "vidro do frasco for translúcido",
+    "b": "concentração de gluconato de cálcio for alta",
+    "c": "frasco de vidro apresentar uma maior espessura",
+    "d": "vidro for previamente esterilizado em altas temperaturas",
+    "e": "reação do alumínio com gluconato de cálcio for endotérmica"
+  },
+  "answer": "b",
+  "tags": [
+    "química",
+    "material"
+  ],
+  "year": 2023,
+  "test": "ENEM",
+  "area": "nature",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

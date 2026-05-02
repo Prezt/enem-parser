@@ -1,0 +1,23 @@
+{
+  "number": 31,
+  "text": "Entre a toalha branca e um bule de café\nseria inapropriado dizer\neu não te amo mais.\nEra necessário algo mais solene,\num jardim japonês\npara as perdas pensadas,\num noturno de tempestade\npara arrebentar de dor,\numa praia de pedras para chorar\nem silêncio, uma cama alta\npara o incenso da despedida,\numa janela\ndando para o abismo.\nNo entanto você abaixa os olhos\ne recolhe lentamente as migalhas de pão\nsobre a mesa posta para dois.",
+  "alternatives": {
+    "a": "invocar o interlocutor para uma tomada de posição",
+    "b": "questionar a validade do envolvimento romântico",
+    "c": "diluir em banalidade a comoção de um amor frustrado",
+    "d": "transformar em paz as emoções conflituosas do casal",
+    "e": "condicionar a existência da paixão a espaços idealizados"
+  },
+  "answer": "c",
+  "tags": [
+    "poesia",
+    "literatura"
+  ],
+  "year": 2023,
+  "test": "ENEM",
+  "area": "linguagens",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

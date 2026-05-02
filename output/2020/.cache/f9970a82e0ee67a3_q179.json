@@ -1,0 +1,24 @@
+{
+  "number": 179,
+  "text": "Um pé de eucalipto em idade adequada para o corte rende, em média, 20 mil folhas de papel A4. A densidade superficial do papel A4, medida pela razão da massa de uma folha desse papel por sua área, é de 75 gramas por metro quadrado, e a área de uma folha de A4 é 0,062 metro quadrado. Nessas condições, quantos quilogramas de papel rende, em média, um pé de eucalipto?",
+  "alternatives": {
+    "a": "4 301",
+    "b": "1 500",
+    "c": "930",
+    "d": "267",
+    "e": "93"
+  },
+  "answer": "e",
+  "tags": [
+    "aritmética e números",
+    "matemática financeira"
+  ],
+  "year": 2020,
+  "test": "ENEM",
+  "area": "math",
+  "difficulty": 4,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

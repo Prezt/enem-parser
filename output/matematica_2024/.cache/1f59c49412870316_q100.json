@@ -1,0 +1,27 @@
+{
+  "number": 100,
+  "text": "Mirascópio 3D: produtor de ilusão instantânea [Figura] O equipamento ilustrado na figura, de dimensões apresentadas no esquema, é composto por dois espelhos côncavos E e E, apoiados um sobre o outro por suas ordas, de tal forma que o vértice de E coincide com foco de E e vice-versa. Na abertura circular de E, é formada uma imagem tridimensional de um objeto posicionado sobre o vértice de E. Essa imagem é formada a partir dos raios procedentes do objeto, refletidos por E e E, respectivamente, conforme o esquema. Os observadores julgam visualizar o objeto quando estão, em fato, visualizando sua imagem. O efeito só é possível porque as superfícies de ambos os espelhos são de extrema qualidade. [Esquema]",
+  "alternatives": {
+    "a": "real e 5 cm.",
+    "b": "real e 3,8 cm.",
+    "c": "real e 7,6 cm.",
+    "d": "virtual e 7,6 cm.",
+    "e": "virtual e 3,8 cm."
+  },
+  "answer": "c",
+  "tags": [
+    "optica",
+    "espelhos",
+    "tecnologia"
+  ],
+  "year": 2024,
+  "test": "ENEM",
+  "area": "nature",
+  "images": [
+    "figuras/q100_2024_fig1.png",
+    "figuras/q100_2024_fig2.png"
+  ],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

@@ -1,0 +1,24 @@
+{
+  "number": 49,
+  "text": "O Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis (Ibama) está investigando extermínio de abelhas por intoxicação por agrotóxicos em colmeias de São Paulo e Minas Gerais. Os estudos com inseticidas do tipo neonicotinoides devem estar concluídos no primeiro semestre de 2015. Trata-se de um problema de escala mundial, presente, inclusive, em países do chamado primeiro mundo, e que traz, como consequência, grave ameaça aos seres vivos do planeta, inclusive ao homem. Qual solução para o problema apresentado garante a produtividade da agricultura moderna?",
+  "alternatives": {
+    "a": "Preservação da área de mata ciliar.",
+    "b": "Adoção da prática de adubação química.",
+    "c": "Utilização da técnica de controle biológico.",
+    "d": "Ampliação do modelo de monocultura tropical.",
+    "e": "Intensificação da drenagem do solo de várzea."
+  },
+  "answer": "c",
+  "tags": [
+    "meio ambiente e sustentabilidade",
+    "ecologia"
+  ],
+  "year": 2019,
+  "test": "ENEM",
+  "area": "humanas",
+  "difficulty": 5,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

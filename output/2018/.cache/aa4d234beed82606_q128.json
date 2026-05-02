@@ -1,0 +1,25 @@
+{
+  "number": 128,
+  "text": "Em desenhos animados é comum vermos a personagem tentando impulsionar um barco soprando ar contra uma vela para compensar a falta de vento. Algumas vezes usam o próprio fôlego, foles ou ventiladores. Estudantes de um laboratório didático resolveram investigar essa possibilidade. Para isso, usaram dois pequenos carros de plástico, A e B, instalaram sobre estes pequenas ventoinhas e fixaram verticalmente uma cartolina de curvatura parabólica para desempenhar uma função análoga à de um barco. No carro B inverteu-se o sentido da ventoinha e manteve-se a vela, a fim de manter as características físicas do barco, massa e formato da cartolina.\n\n[Figura: Carro A com ventoinha e vela]\n\n[Figura: Carro B com ventoinha invertida e vela]\n\nA montagem do carro A busca simular a situação dos desenhos animados, pois a ventoinha está direcionada para a vela.\n\nCom os carros orientados de acordo com as figuras, estudantes ligaram as ventoinhas, aguardaram o fluxo de ar ficar permanente e determinaram os módulos das velocidades médias dos carros A (VA) e B (VB) para o mesmo intervalo de tempo.\n\nA respeito das intensidades das velocidades médias e do sentido de movimento do carro A, os estudantes observaram que:",
+  "alternatives": {
+    "a": "VA = 0; VB > 0; o carro A não se move.",
+    "b": "0 < VA < VB; o carro A se move para a direita.",
+    "c": "0 < VA < VB; o carro A se move para a esquerda.",
+    "d": "0 < VB < VA; o carro A se move para a direita.",
+    "e": "0 < VB < VA; o carro A se move para a esquerda."
+  },
+  "answer": "b",
+  "tags": [
+    "mecânica newtoniana"
+  ],
+  "year": 2018,
+  "test": "ENEM",
+  "area": "nature",
+  "difficulty": 6,
+  "images": [
+    "figuras/q128_2018_fig1.png"
+  ],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

@@ -1,0 +1,24 @@
+{
+  "number": 62,
+  "text": "A industrialização do Brasil ante a nova divisão internacional do trabalho",
+  "alternatives": {
+    "a": "A inserção brasileira nas novas tecnologias ancoradas na indústria de base",
+    "b": "O aprofundamento da especialização em produtos relacionados a commodities",
+    "c": "A manutenção da dependência tecnológica e da vulnerabilidade estrutural",
+    "d": "A diversificação produtiva com redução da importância do setor primário",
+    "e": "A substituição completa da indústria tradicional pela indústria de ponta"
+  },
+  "answer": "d",
+  "tags": [
+    "história do brasil república",
+    "geopolítica e relações internacionais"
+  ],
+  "year": 2021,
+  "test": "ENEM",
+  "area": "humanas",
+  "difficulty": 5,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

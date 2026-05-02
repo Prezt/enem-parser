@@ -1,0 +1,24 @@
+{
+  "number": 95,
+  "text": "Glicólise é um processo que ocorre nas células, convertendo glicose em piruvato para gerar energia em atividades físicas que demandam grande quantidade de esforço muscular. Entretanto, em alguns casos, as células musculares podem realizar fermentação láctica, convertendo piruvato em duas moléculas de ácido lático. As equações termoquímicas para a oxidação completa da glicose e do ácido lático são, respectivamente, mostradas a seguir:\nC₆H₁₂O₆(s) + 6 O₂(g) → 6 CO₂(g) + 6 H₂O(l)  ΔH = −2 800 kJ/mol\nCH₃CH(OH)COOH(s) + 3 O₂(g) → 3 CO₂(g) + 3 H₂O(l)  ΔH = −1 344 kJ/mol\nO processo anaeróbico é menos vantajoso energeticamente do que o aeróbico. Qual é a quantidade de energia que a fermentação láctica libera a menos em relação à oxidação completa de uma molécula de glicose?",
+  "alternatives": {
+    "a": "libera 112 kJ por mol de glicose.",
+    "b": "libera 467 kJ por mol de glicose.",
+    "c": "libera 2 688 kJ por mol de glicose.",
+    "d": "absorve 1 344 kJ por mol de glicose.",
+    "e": "absorve 2 800 kJ por mol de glicose."
+  },
+  "answer": "a",
+  "tags": [
+    "química geral e inorgânica",
+    "termoquímica e cinética"
+  ],
+  "year": 2019,
+  "test": "ENEM",
+  "area": "nature",
+  "difficulty": 6,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

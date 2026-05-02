@@ -1,0 +1,23 @@
+{
+  "number": 154,
+  "text": "As figuras pintadas no quadro da sala de estar d\numa residência representam as silhuetas de parte da\ntorres de um castelo e, ao fundo, a de uma lua cheia.\nA lua foi pintada na forma de um círculo, e o telhado d\ntorre mais alta, na forma de triângulo equilátero, foi pintad\nsobrepondo parte da lua. O centro da lua coincide com um\ndos vértices do telhado da torre mais alta.\nNesse quadro, a parte da lua escondida atrás da torr\nmais alta do castelo pode ser representada por um",
+  "alternatives": {
+    "a": "cone.",
+    "b": "setor circular.",
+    "c": "segmento circular.",
+    "d": "triângulo isósceles.",
+    "e": "arco de circunferência."
+  },
+  "answer": "b",
+  "tags": [
+    "geometria",
+    "figuras geométricas"
+  ],
+  "year": 2023,
+  "test": "ENEM",
+  "area": "math",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

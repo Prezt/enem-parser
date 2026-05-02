@@ -1,0 +1,26 @@
+{
+  "number": 42,
+  "text": "Observando a obra \"Garota com bola\", de Roy Lichtenstein, identifique qual alternativa melhor descreve as características do movimento Pop Art representado nesta obra.",
+  "alternatives": {
+    "a": "Valorização da arte clássica e rejeição aos temas populares.",
+    "b": "Uso de cores vibrantes e referências à cultura de massa.",
+    "c": "Foco exclusivo em temas abstratos e geométricos.",
+    "d": "Imitação fotográfica dos objetos representados.",
+    "e": "Prioridade ao realismo tradicional e técnicas renascentistas."
+  },
+  "answer": "c",
+  "tags": [
+    "artes visuais",
+    "história da cultura e arte"
+  ],
+  "year": 2021,
+  "test": "ENEM",
+  "area": "linguagens",
+  "difficulty": 5,
+  "images": [
+    "[Figura: Garota com bola, obra de Roy Lichtenstein]"
+  ],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

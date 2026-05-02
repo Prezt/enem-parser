@@ -1,0 +1,24 @@
+{
+  "number": 112,
+  "text": "A consanguinidade é favorecida, proporcionando aparecimento de enfermidades, como o albinismo, defeitos cardíacos, entre outros. Separar os animais de forma adequada minimizaria a ocorrência desses problemas. Qual procedimento biotecnológico prévio é recomendado?",
+  "alternatives": {
+    "a": "Transgenia.",
+    "b": "Terapia gênica.",
+    "c": "Vacina de DNA.",
+    "d": "Clonagem terapêutica.",
+    "e": "Mapeamento genético."
+  },
+  "answer": "e",
+  "tags": [
+    "biotecnologia",
+    "genética e hereditariedade"
+  ],
+  "year": 2021,
+  "test": "ENEM",
+  "area": "nature",
+  "difficulty": 6,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

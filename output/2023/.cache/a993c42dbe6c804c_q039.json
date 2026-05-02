@@ -1,0 +1,23 @@
+{
+  "number": 39,
+  "text": "A petição on-line criada por um cidadão paulist\nsurtiu efeito: casado há três anos com seu companheiro\nele pedia a alteração da definição de “casamento” n\ntradicional dicionário Michaelis em português. Na definiçã\nanterior, casamento aparecia como “união legítima entr\nhomem e mulher” e “união legal entre homem e mulhe\npara constituir família”. O novo verbete não traz em nenhum momento a\npalavras homem ou mulher — agora a definição d\ncasamento se refere a “pessoas”. Para o diretor de comunicação do site onde a petição fo\npublicada, a iniciativa mostra a “eficiência da mobilização\n“Em dois dias, mudou-se uma definição que permaneci\na mesma há décadas”, afirma. E conclui: “A plataform\nserve para todos os tipos de causas, para as mudança\nque importam para as pessoas.”.",
+  "alternatives": {
+    "a": "inclusão de informações no verbete",
+    "b": "relevância social da instituição casamento",
+    "c": "utilização pública da petição pelos cidadãos",
+    "d": "rapidez na disseminação digital do verbete",
+    "e": "divulgação de plataformas para a criação de petição"
+  },
+  "answer": "c",
+  "tags": [
+    "língua portuguesa",
+    "sociedade"
+  ],
+  "year": 2023,
+  "test": "ENEM",
+  "area": "linguagens",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

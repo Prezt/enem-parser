@@ -1,0 +1,23 @@
+{
+  "number": 176,
+  "text": "Em uma cidade europeia há uma placa indicando MCDXLIV. Segundo as regras de numeração romana apresentadas, qual é o número natural correspondente?",
+  "alternatives": {
+    "a": "1444",
+    "b": "1481",
+    "c": "1644",
+    "d": "1681",
+    "e": "1691"
+  },
+  "answer": "d",
+  "tags": [
+    "aritmética e números"
+  ],
+  "year": 2021,
+  "test": "ENEM",
+  "area": "math",
+  "difficulty": 3,
+  "images": [],
+  "contextId": "enem_2021_math_176_ctx1",
+  "contextIds": null,
+  "language": null
+}

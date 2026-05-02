@@ -1,0 +1,24 @@
+{
+  "number": 18,
+  "text": "A criação de softwares livres contribui para a produção de conhecimento na sociedade porque",
+  "alternatives": {
+    "a": "democratiza o acesso a produtos construídos coletivamente.",
+    "b": "complexifica os sistemas operacionais disponíveis no mercado.",
+    "c": "qualifica um maior número de pessoas para o uso de tecnologias.",
+    "d": "possibilita a coleta de dados confidenciais para seu desenvolvimento.",
+    "e": "insere profissionalmente os hackers na área de inovação tecnológica."
+  },
+  "answer": "a",
+  "tags": [
+    "interpretação de texto",
+    "comunicação e mídia"
+  ],
+  "year": 2019,
+  "test": "ENEM",
+  "area": "linguagens",
+  "difficulty": 5,
+  "images": [],
+  "contextId": "enem_2019_linguagens_ctx1",
+  "contextIds": null,
+  "language": null
+}

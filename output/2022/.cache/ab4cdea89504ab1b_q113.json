@@ -1,0 +1,23 @@
+{
+  "number": 113,
+  "text": "A nanotecnologia é responsável pelo aprimoramento de diversos materiais, incluindo os que são impactados com a presença de poluentes e da umidade na atmosfera causadores de corrosão. Uma forma de garantir a durabilidade da estrutura metálica e a sua resistência à umidade consiste na deposição de filmes finos nanocerâmicos à base de zircônia (ZrO₂) e alumina (Al₂O₃) sobre a superfície do objeto que se deseja proteger. Essa nanotecnologia aplicada na proteção contra corrosão se baseia no(a)",
+  "alternatives": {
+    "a": "proteção catódica, que utiliza um metal fortemente redutor.",
+    "b": "uso de metais de sacrifício, que se oxidam no lugar do ferro.",
+    "c": "passivação do ferro, que fica revestido pelo seu próprio óxido.",
+    "d": "efeito de barreira, que impede o contato com o agente oxidante.",
+    "e": "galvanização, que usa outros metais de menor potencial de redução."
+  },
+  "answer": "d",
+  "tags": [
+    "nanotecnologia",
+    "corrosão"
+  ],
+  "year": 2022,
+  "test": "ENEM",
+  "area": "nature",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

@@ -1,0 +1,24 @@
+{
+  "number": 153,
+  "text": "Segundo o Instituto Brasileiro de Geografia e Estatística (IBGE), o rendimento médio mensal dos trabalhadores brasileiros, no ano 2000, era de R$ 1 250,00. Já o Censo 2010 mostrou que, em 2010, esse valor teve um aumento de 7,2% em relação a 2000. Esse mesmo instituto projeta que, em 2020, o rendimento médio mensal dos trabalhadores brasileiros poderá ser 10% maior do que foi em 2010. Supondo que as projeções do IBGE se realizem, o rendimento médio mensal dos brasileiros em 2020 será de",
+  "alternatives": {
+    "a": "R$ 1 340,00",
+    "b": "R$ 1 349,00",
+    "c": "R$ 1 375,00",
+    "d": "R$ 1 465,00",
+    "e": "R$ 1 474,00"
+  },
+  "answer": "e",
+  "tags": [
+    "aritmética e números",
+    "matemática financeira"
+  ],
+  "year": 2019,
+  "test": "ENEM",
+  "area": "math",
+  "difficulty": 3,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

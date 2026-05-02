@@ -1,0 +1,23 @@
+{
+  "number": 105,
+  "text": "Barbatimão é o nome popular de uma árvore cuja asca é utilizada para fins medicinais. Essa casca é onstituída principalmente de dois tecidos vegetais: eriderme e floema. A extração da casca tem levado à morte muitos indivíduos dessa espécie, quando o corte etira um anel completo ao longo da circunferência do tronco. Aqueles que têm parte da casca retirada sem ompletar essa circunferência podem sobreviver.",
+  "alternatives": {
+    "a": "fotossíntese",
+    "b": "transpiração",
+    "c": "troca de gases",
+    "d": "formação de brotos",
+    "e": "nutrição das raízes"
+  },
+  "answer": "e",
+  "tags": [
+    "botânica",
+    "anatomia vegetal"
+  ],
+  "year": 2023,
+  "test": "ENEM",
+  "area": "nature",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

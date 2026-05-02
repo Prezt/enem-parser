@@ -1,0 +1,23 @@
+{
+  "number": 138,
+  "text": "Visando atrair mais clientes, o gerente de uma loja nunciou uma promoção em que cada cliente que realizar ma compra pode ganhar um voucher para ser usado m sua próxima compra. Para ganhar seu voucher, cliente precisa retirar, ao acaso, uma bolinha de dentro e cada uma das duas urnas A e B disponibilizadas pelo erente, nas quais há apenas bolinhas pretas e brancas. Atualmente, a probabilidade de se escolher, ao acaso, ma bolinha preta na urna A é igual a 20% e a probabilidade e se escolher uma bolinha preta na urna B é 25%. Ganha o voucher o cliente que retirar duas bolinhas pretas, ma de cada urna. Com o passar dos dias, o gerente percebeu que, para a promoção ser viável aos negócios, era preciso alterar probabilidade de acerto do cliente sem alterar a regra a promoção. Para isso, resolveu alterar a quantidade de bolinhas brancas na urna B de forma que a probabilidade e um cliente ganhar o voucher passasse a ser menor ou gual a 1%. Sabe-se que a urna B tem 4 bolinhas pretas e ue, em ambas as urnas, todas as bolinhas têm a mesma robabilidade de serem retiradas. Qual é o número mínimo de bolinhas brancas que o erente deve adicionar à urna B?",
+  "alternatives": {
+    "a": "20",
+    "b": "60",
+    "c": "64",
+    "d": "68",
+    "e": "80"
+  },
+  "answer": "c",
+  "tags": [
+    "probabilidade",
+    "estatística"
+  ],
+  "year": 2023,
+  "test": "ENEM",
+  "area": "math",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

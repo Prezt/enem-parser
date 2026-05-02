@@ -1,0 +1,24 @@
+{
+  "number": 123,
+  "text": "Como funciona a estação individual de tratamento de água?",
+  "alternatives": {
+    "a": "Cisternas",
+    "b": "Caixa de inspeção",
+    "c": "Tanque séptico",
+    "d": "Filtro biológico",
+    "e": "Tratamento com cloro"
+  },
+  "answer": "d",
+  "tags": [
+    "meio ambiente e sustentabilidade",
+    "fisiologia humana"
+  ],
+  "year": 2021,
+  "test": "ENEM",
+  "area": "nature",
+  "difficulty": 5,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

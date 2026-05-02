@@ -1,0 +1,23 @@
+{
+  "number": 2,
+  "text": "O texto aborda relações interpessoais com o objetivo de",
+  "alternatives": {
+    "a": "problematizar o papel de gênero em casamento modernos.",
+    "b": "apontar a relevância da educação formal na escolha de parceiros.",
+    "c": "comparar a expectativa de parceiros amorosos em épocas distintas.",
+    "d": "discutir o uso de aplicativos para proporcionar encontros românticos.",
+    "e": "valorizar a importância da aparência física na seleção de pretendentes."
+  },
+  "answer": "c",
+  "tags": [
+    "relações interpessoais",
+    "expectativas sociais"
+  ],
+  "year": 2022,
+  "test": "ENEM",
+  "area": "linguagens",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

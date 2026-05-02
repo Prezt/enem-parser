@@ -1,0 +1,23 @@
+{
+  "number": 100,
+  "text": "Em um dia de calor intenso, dois colegas estão brincando com a água da mangueira. Um deles quer saber até que altura o jato de água alcança, a partir da saída de água, quando a mangueira está posicionada totalmente na direção vertical. O outro colega propõe então o seguinte experimento: eles posicionarem a saída de água da mangueira na direção horizontal, a 1 m de altura em relação ao chão, e então medirem a distância horizontal entre a mangueira e o local onde a água atinge o chão. A medida dessa distância foi de 3 m e a partir disso eles calcularam o alcance vertical do jato de água.",
+  "alternatives": {
+    "a": "1,50 m",
+    "b": "2,25 m",
+    "c": "4,00 m",
+    "d": "4,50 m",
+    "e": "5,00 m"
+  },
+  "answer": "b",
+  "tags": [
+    "física",
+    "mecânica"
+  ],
+  "year": 2022,
+  "test": "ENEM",
+  "area": "nature",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

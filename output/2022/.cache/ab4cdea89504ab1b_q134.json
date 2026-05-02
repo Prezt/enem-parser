@@ -1,0 +1,23 @@
+{
+  "number": 134,
+  "text": "A distância L, em metro, entre o barco e a geleira é mais róxima de",
+  "alternatives": {
+    "a": "339 000.",
+    "b": "78 900.",
+    "c": "14 400.",
+    "d": "5 240.",
+    "e": "100."
+  },
+  "answer": "d",
+  "tags": [
+    "física",
+    "som"
+  ],
+  "year": 2022,
+  "test": "ENEM",
+  "area": "nature",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

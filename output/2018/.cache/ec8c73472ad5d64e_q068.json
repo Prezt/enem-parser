@@ -1,0 +1,24 @@
+{
+  "number": 68,
+  "text": "No contexto da conquista, conforme análise apresentada no texto, uma estratégia para superar as disparidades levantadas foi",
+  "alternatives": {
+    "a": "implantar as missões cristãs entre as comunidades submetidas.",
+    "b": "utilizar a superioridade física dos mercenários africanos.",
+    "c": "explorar as rivalidades existentes entre os povos nativos.",
+    "d": "introduzir vetores para a disseminação de doenças epidêmicas.",
+    "e": "comprar terras para o enfraquecimento das teocracias autóctones."
+  },
+  "answer": "c",
+  "tags": [
+    "história moderna",
+    "geopolítica e relações internacionais"
+  ],
+  "year": 2018,
+  "test": "ENEM",
+  "area": "humanas",
+  "difficulty": 6,
+  "images": [],
+  "contextId": "enem_2018_humanas_q68_ctx1",
+  "contextIds": null,
+  "language": null
+}

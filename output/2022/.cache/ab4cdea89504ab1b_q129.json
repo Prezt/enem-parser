@@ -1,0 +1,25 @@
+{
+  "number": 129,
+  "text": "[Esquema - ciclo do nitrogênio] A chuva ácida interfere no ciclo do nitrogênio, principalmente, por proporcionar uma diminuição do pH do solo e da atmosfera, alterando a concentração dos compostos presentes nesse ciclo. Em um solo de menor pH, será favorecida a formação de:",
+  "alternatives": {
+    "a": "N 2",
+    "b": "NH 3",
+    "c": "NH 4 +",
+    "d": "NO 2 −",
+    "e": "NO 3"
+  },
+  "answer": "c",
+  "tags": [
+    "Ciclo do nitrogênio",
+    "Ecologia"
+  ],
+  "year": 2022,
+  "test": "ENEM",
+  "area": "nature",
+  "images": [
+    "figuras/q129_2022_fig1.png"
+  ],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

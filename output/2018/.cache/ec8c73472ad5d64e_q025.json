@@ -1,0 +1,27 @@
+{
+  "number": 25,
+  "text": "A imagem integra uma adaptação em quadrinhos da obra Grande sertão: veredas, de Guimarães Rosa. Na representação gráfica, a inter-relação de diferentes linguagens caracteriza-se por\n\n[Figura: Adaptação em quadrinhos de Grande sertão: veredas]",
+  "alternatives": {
+    "a": "romper com a linearidade das ações da narrativa literária.",
+    "b": "ilustrar de modo fidedigno passagens representativas da história.",
+    "c": "articular a tensão do romance à desproporcionalidade das formas.",
+    "d": "potencializar a dramaticidade do episódio com recursos das artes visuais.",
+    "e": "desconstruir a diagramação do texto literário pelo desequilíbrio da composição."
+  },
+  "answer": "d",
+  "tags": [
+    "interpretação de texto",
+    "gêneros textuais",
+    "artes visuais"
+  ],
+  "year": 2018,
+  "test": "ENEM",
+  "area": "linguagens",
+  "difficulty": 6,
+  "images": [
+    "figuras/q025_2018_fig1.png"
+  ],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

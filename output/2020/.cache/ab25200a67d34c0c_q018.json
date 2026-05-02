@@ -1,0 +1,24 @@
+{
+  "number": 18,
+  "text": "No poema, a descrição lírica do objeto representado é orientada por um olhar que",
+  "alternatives": {
+    "a": "desvela sentimentos de vazio e angústia sob a aparente austeridade.",
+    "b": "expressa desilusão ante a possibilidade de superação do sofrimento.",
+    "c": "contrapõe a fragilidade emocional ao uso desmedido da força física.",
+    "d": "associa a incomunicabilidade emocional às determinações culturais.",
+    "e": "privilegia imagens relacionadas à exposição do dinamismo urbano."
+  },
+  "answer": "a",
+  "tags": [
+    "interpretação de texto",
+    "literatura brasileira"
+  ],
+  "year": 2020,
+  "test": "ENEM",
+  "area": "linguagens",
+  "difficulty": 6,
+  "images": [],
+  "contextId": "enem_2020_linguagens_ctx1",
+  "contextIds": null,
+  "language": null
+}

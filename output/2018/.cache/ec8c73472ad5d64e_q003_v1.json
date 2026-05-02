@@ -1,0 +1,24 @@
+{
+  "number": 3,
+  "text": "As ações solidárias contribuem para o enfrentamento de problemas sociais. No texto, a ação solidária ocorre quando o contribuinte",
+  "alternatives": {
+    "a": "delega ao governo o destino de seus impostos.",
+    "b": "escolhe projetos que terão isenção de impostos.",
+    "c": "destina parte de seus impostos para custeio de programas sociais.",
+    "d": "determina a criação de impostos para implantação de projetos sociais.",
+    "e": "seleciona programas para beneficiar cidadãos vulneráveis socialmente."
+  },
+  "answer": "d",
+  "tags": [
+    "interpretação de texto",
+    "língua espanhola"
+  ],
+  "year": 2018,
+  "test": "ENEM",
+  "area": "linguagens",
+  "difficulty": 4,
+  "images": [],
+  "contextId": "enem_2018_linguagens_es_ctx3",
+  "contextIds": null,
+  "language": "es"
+}

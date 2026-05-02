@@ -1,0 +1,24 @@
+{
+  "number": 1,
+  "text": "Na introdução do romance, o narrador resgata lembranças de Plácida Linero relacionadas a seu filho Santiago Nasar. Nessa introdução, o uso da expressão augurio aciago remete ao(à)",
+  "alternatives": {
+    "a": "relação mística que se estabelece entre Plácida e seu filho Santiago.",
+    "b": "destino trágico de Santiago, que Plácida foi incapaz de prever nos sonhos.",
+    "c": "descompasso entre a felicidade de Santiago nos sonhos e seu azar na realidade.",
+    "d": "crença de Plácida na importância da interpretação dos sonhos para mudar o futuro.",
+    "e": "presença recorrente de elementos sombrios que se revelam nos sonhos de Santiago."
+  },
+  "answer": "b",
+  "tags": [
+    "literatura mundial",
+    "interpretação de texto"
+  ],
+  "year": 2018,
+  "test": "ENEM",
+  "area": "linguagens",
+  "difficulty": 6,
+  "images": [],
+  "contextId": "enem_2018_linguagens_ctx1",
+  "contextIds": null,
+  "language": "es"
+}

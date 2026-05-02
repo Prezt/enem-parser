@@ -1,0 +1,24 @@
+{
+  "number": 86,
+  "text": "Que tipo de intervenção do poder público no espaço rural é capaz de reduzir a marginalização produtiva apresentada no texto?",
+  "alternatives": {
+    "a": "Subsidiar os cultivos de base familiar.",
+    "b": "Favorecer as práticas de fertilização química.",
+    "c": "Restringir o emprego de maquinário moderno.",
+    "d": "Controlar a expansão de sistemas de irrigação.",
+    "e": "Regulamentar o uso de sementes selecionadas."
+  },
+  "answer": "a",
+  "tags": [
+    "geografia humana e urbana",
+    "meio ambiente e sustentabilidade"
+  ],
+  "year": 2018,
+  "test": "ENEM",
+  "area": "humanas",
+  "difficulty": 5,
+  "images": [],
+  "contextId": "enem_2018_humanas_86_ctx1",
+  "contextIds": null,
+  "language": null
+}

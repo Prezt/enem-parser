@@ -1,0 +1,23 @@
+{
+  "number": 105,
+  "text": "Na mitologia grega, Nióbia era a filha de Tântalo, dois personagens conhecidos pelo sofrimento. O elemento químico de número atômico (Z) igual a 41 tem propriedades químicas e físicas tão parecidas com as do elemento de número atômico 73 que chegaram a ser confundidos. Por isso, em homenagem a esses dois personagens da mitologia grega, foi conferido a esses elementos os nomes de nióbio (Z = 41) e tântalo (Z = 73). Esses dois elementos químicos adquiriram grande importância econômica na metalurgia, na produção de supercondutores e em outras aplicações na indústria de ponta, exatamente pelas propriedades químicas e físicas comuns aos dois.\n\nA importância econômica e tecnológica desses elementos, pela similaridade de suas propriedades químicas e físicas, deve-se a",
+  "alternatives": {
+    "a": "terem elétrons no subnível f.",
+    "b": "serem elementos de transição interna.",
+    "c": "pertencerem ao mesmo grupo na tabela periódica.",
+    "d": "terem seus elétrons mais externos nos níveis 4 e 5, respectivamente.",
+    "e": "estarem localizados na família dos alcalinos terrosos e alcalinos, respectivamente."
+  },
+  "answer": "c",
+  "tags": [
+    "química geral e inorgânica"
+  ],
+  "year": 2018,
+  "test": "ENEM",
+  "area": "nature",
+  "difficulty": 6,
+  "images": [],
+  "contextId": "enem_2018_nature_105_ctx1",
+  "contextIds": null,
+  "language": null
+}

@@ -1,0 +1,23 @@
+{
+  "number": 12,
+  "text": "Nesse texto, o uso da norma-padrão defendido por um os personagens torna-se inadequado em razão do(a)",
+  "alternatives": {
+    "a": "A falta de compreensão causada pelo choque entre gerações.",
+    "b": "B contexto de comunicação em que a conversa se dá.",
+    "c": "C grau de polidez distinto entre os interlocutores.",
+    "d": "D diferença de escolaridade entre os falantes.",
+    "e": "E nível social dos participantes da situação."
+  },
+  "answer": "b",
+  "tags": [
+    "linguística",
+    "literatura"
+  ],
+  "year": 2022,
+  "test": "ENEM",
+  "area": "linguagens",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

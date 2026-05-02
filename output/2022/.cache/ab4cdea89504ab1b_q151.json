@@ -1,0 +1,23 @@
+{
+  "number": 151,
+  "text": "Um médico faz o acompanhamento clínico de um grupo de pessoas. Ele observou que a perda média de massa dessas pessoas durante uma atividade física é de 0,8 kg por hora e, considerando que a massa de 1 L de água é de 1 kg, ele recomendou que essas pessoas consumissem uma quantidade total de água correspondente à sua perda de massa para evitar desidratação. Seguindo a recomendação médica, uma dessas pessoas terminar seus exercícios físicos.",
+  "alternatives": {
+    "a": "30 minutos ou menos.",
+    "b": "mais de 35 e menos de 45 minutos.",
+    "c": "mais de 45 e menos de 55 minutos.",
+    "d": "mais de 60 e menos de 70 minutos.",
+    "e": "70 minutos ou mais."
+  },
+  "answer": "c",
+  "tags": [
+    "massa",
+    "tempo"
+  ],
+  "year": 2022,
+  "test": "ENEM",
+  "area": "math",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

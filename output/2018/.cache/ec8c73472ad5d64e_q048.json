@@ -1,0 +1,26 @@
+{
+  "number": 48,
+  "text": "O modelo político das sociedades discutidas no texto contrasta com o do Estado liberal burguês porque se baseia em:",
+  "alternatives": {
+    "a": "Imposição ideológica e normas hierárquicas.",
+    "b": "Determinação divina e soberania monárquica.",
+    "c": "Intervenção consensual e autonomia comunitária.",
+    "d": "Mediação jurídica e regras contratualistas.",
+    "e": "Gestão coletiva e obrigações tributárias."
+  },
+  "answer": "c",
+  "tags": [
+    "filosofia moderna e contemporânea",
+    "sociologia e estrutura social",
+    "direitos humanos e cidadania",
+    "ética e política"
+  ],
+  "year": 2018,
+  "test": "ENEM",
+  "area": "humanas",
+  "difficulty": 6,
+  "images": [],
+  "contextId": "enem_2018_humanas_q48_ctx1",
+  "contextIds": null,
+  "language": null
+}

@@ -1,0 +1,24 @@
+{
+  "number": 59,
+  "text": "O desencadeamento dessa revolta na América portuguesa quinhentista foi o resultado do(a)",
+  "alternatives": {
+    "a": "fraqueza bélica dos protestantes batavos.",
+    "b": "comércio transatlântico da África ocidental.",
+    "c": "auxílio financeiro dos negociantes flamengos.",
+    "d": "diplomacia internacional dos Estados ibéricos.",
+    "e": "interesse econômico dos senhores de engenho."
+  },
+  "answer": "e",
+  "tags": [
+    "história do brasil colonial",
+    "geopolítica e relações internacionais"
+  ],
+  "year": 2018,
+  "test": "ENEM",
+  "area": "humanas",
+  "difficulty": 6,
+  "images": [],
+  "contextId": "enem_2018_humanas_ctx59",
+  "contextIds": null,
+  "language": null
+}

@@ -1,0 +1,23 @@
+{
+  "number": 21,
+  "text": "— Admira-me —, disse uma senhora de sentimento sinceramente abolicionistas; faz-me até pasmar com se possa sentir, e expressar sentimentos escravocratas no presente século, no século dezenove! A mora religiosa e a moral cívica aí se erguem, e falam bem alto esmagando a hidra que envenena a família no mais sagrado santuário seu, e desmoraliza, e avilta a nação inteira! Levantai os olhos ao Gólgota, ou percorrei-os em torno da sociedade, e dizei-me: — Para que se deu em sacrifício o Homem Deus que ali exalou seu derradeiro alento? Ah! Então não é verdade que seu sangue era o resgate do homem! É então uma mentira abominável ter esse sangue comprado a liberdade!? E depois, olhai a sociedade... Não vedes o abutre que a corrói constantemente!… Não sentis a desmoralização que a enerva, o cancro que a destrói? Por qualquer modo que encaremos a escravidão, ela é, e será sempre um grande mal. Dela a decadência do comércio; porque o comércio e a lavoura caminham das mãos dadas, e o escravo não pode fazer florescer a lavoura porque o seu trabalho é forçado.",
+  "alternatives": {
+    "a": "revelar a imposição de crenças religiosas a pessoa escravizadas",
+    "b": "apontar a hipocrisia do discurso conservador na defesa da escravidão",
+    "c": "sugerir práticas de violência física e moral em nome do progresso material",
+    "d": "relacionar o declínio da produção agrícola comercial a questões raciais",
+    "e": "ironizar o comportamento dos proprietários da terra na exploração do trabalho"
+  },
+  "answer": "b",
+  "tags": [
+    "literatura",
+    "escravidão"
+  ],
+  "year": 2022,
+  "test": "ENEM",
+  "area": "linguagens",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

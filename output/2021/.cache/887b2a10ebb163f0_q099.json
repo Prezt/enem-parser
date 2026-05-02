@@ -1,0 +1,24 @@
+{
+  "number": 99,
+  "text": "Ao cruzar a ilha de calor, a brisa marítima absorve energia térmica das superfícies quentes e transfere essa energia para a atmosfera. No processo de fortes chuvas no centro da cidade, a ilha de calor afasta as chuvas de regiões próximas. O diagrama apresenta os três subsistemas que trocam energia nesse fenômeno. Identifique os processos de transferência de calor: entre o Sol e a ilha de calor, e entre a ilha de calor e a brisa marítima.",
+  "alternatives": {
+    "a": "Radiação; condução",
+    "b": "Radiação; convecção",
+    "c": "Condução; convecção",
+    "d": "Convecção; radiação",
+    "e": "Convecção; condução"
+  },
+  "answer": "a",
+  "tags": [
+    "termologia",
+    "climatologia"
+  ],
+  "year": 2021,
+  "test": "ENEM",
+  "area": "nature",
+  "difficulty": 6,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

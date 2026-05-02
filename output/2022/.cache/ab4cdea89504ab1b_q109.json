@@ -1,0 +1,23 @@
+{
+  "number": 109,
+  "text": "O elemento iodo (I) tem função biológica e é acumulad na tireoide. Nos acidentes nucleares de Chernobyl Fukushima, ocorreu a liberação para a atmosfera do radioisótopo I-131, responsável por enfermidades nas pessoas que foram expostas a ele. O decaimento de uma massa de 12 microgramas do isótopo I foi monitorada por 14 dias, conforme o quadro. Após o período de 40 dias, a massa residual deste isótopo é mais próxima de",
+  "alternatives": {
+    "a": "2,4 µg.",
+    "b": "1,5 µg.",
+    "c": "0,8 µg.",
+    "d": "0,4 µg.",
+    "e": "0,2 µg."
+  },
+  "answer": "d",
+  "tags": [
+    "radioatividade",
+    "química"
+  ],
+  "year": 2022,
+  "test": "ENEM",
+  "area": "nature",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

@@ -1,0 +1,26 @@
+{
+  "number": 67,
+  "text": "Os aspectos físicos apresentados originam-se da atuação da força natural de [Figura: Vale da Grande, Fenda, Vulcões]",
+  "alternatives": {
+    "a": "colisão de placas tectônicas",
+    "b": "rifteamento da crosta terrestre",
+    "c": "subducção da plataforma oceânica",
+    "d": "formação de cadeias montanhosas",
+    "e": "metamorfismo de bordas continentais"
+  },
+  "answer": "b",
+  "tags": [
+    "geografia física e geologia",
+    "geopolítica e território"
+  ],
+  "year": 2020,
+  "test": "ENEM",
+  "area": "humanas",
+  "difficulty": 6,
+  "images": [
+    "figuras/q067_2020_fig1.png"
+  ],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

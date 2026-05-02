@@ -1,0 +1,23 @@
+{
+  "number": 90,
+  "text": "Uma característica de práticas tradicionais como a exemplificada no texto é a vinculação entre os recursos do mundo natural e a",
+  "alternatives": {
+    "a": "manutenção dos modos de vida.",
+    "b": "conservação dos plantios da roça.",
+    "c": "atualização do modelo de gestão.",
+    "d": "participação na sociedade de consumo.",
+    "e": "especialização nas etapas de produção."
+  },
+  "answer": "a",
+  "tags": [
+    "cultura",
+    "tradição"
+  ],
+  "year": 2022,
+  "test": "ENEM",
+  "area": "humanas",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

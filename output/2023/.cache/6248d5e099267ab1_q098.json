@@ -1,0 +1,23 @@
+{
+  "number": 98,
+  "text": "Há muito tempo são conhecidas espécies desses lesmas-do-mar com uma capacidade ímpar: guardam parte da maquinaria das células das algas que consomem — os cloroplastos — e mantê-los funcionais dentro das suas próprias células, obtendo assim parte do seu alimento. Investigadores portugueses descobriram que essas lesmas-do-mar podem ser mais eficientes nesse processo do que as próprias algas que consomem.",
+  "alternatives": {
+    "a": "ácidos nucleicos",
+    "b": "carboidratos",
+    "c": "proteínas",
+    "d": "vitaminas",
+    "e": "lipídios"
+  },
+  "answer": "b",
+  "tags": [
+    "biologia",
+    "cloroplastos"
+  ],
+  "year": 2023,
+  "test": "ENEM",
+  "area": "nature",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

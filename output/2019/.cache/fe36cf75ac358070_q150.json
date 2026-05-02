@@ -1,0 +1,24 @@
+{
+  "number": 150,
+  "text": "Uma pessoa se interessou em adquirir um produto anunciado em uma loja. Negociou com o gerente e conseguiu comprá-lo a uma taxa de juros compostos de 1% ao mês. O primeiro pagamento será um mês após a aquisição do produto, e no valor de R$ 202,00. O segundo pagamento será efetuado um mês após o primeiro, e terá o valor de R$ 204,02. Para concretizar a compra, o gerente emitirá uma nota fiscal com o valor do produto à vista negociado com o cliente, correspondendo ao financiamento aprovado. O valor à vista, em real, que deverá constar na nota fiscal é de",
+  "alternatives": {
+    "a": "398,02",
+    "b": "400,00",
+    "c": "401,94",
+    "d": "404,00",
+    "e": "406,02"
+  },
+  "answer": "b",
+  "tags": [
+    "matemática financeira",
+    "álgebra"
+  ],
+  "year": 2019,
+  "test": "ENEM",
+  "area": "math",
+  "difficulty": 6,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

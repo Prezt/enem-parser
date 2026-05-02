@@ -1,0 +1,26 @@
+{
+  "number": 106,
+  "text": "O processo de formação de novas espécies é lento e envolve a diminuição da viabilidade entre cruzamentos. Assim, populações que divergem mais entre si podem ser consideradas como uma espécie em formação. Um estudo investigou esse processo em nove populações — denominadas de acordo com suas localidades — de orquídea (Epidendrum denticulatum). No diagrama apresentado, estão os resultados dos cruzamentos entre essas populações. Considere que o doador fornece o pólen para o receptor.\n\n[Figura: Diagrama de cruzamentos entre populações de orquídea com resultados indicando viabilidade de híbridos]\n\nEm populações de quais localidades se observa um processo de especiação em andamento?",
+  "alternatives": {
+    "a": "Bertioga e Marambaia; Alcobaça e Olivença.",
+    "b": "Itirapina e Itapeva; Marambaia e Massambaba.",
+    "c": "Itirapina e Marambaia; Alcobaça e Itirapina.",
+    "d": "Itirapina e Peti; Alcobaça e Marambaia.",
+    "e": "Itirapina e Olivença; Marambaia e Peti."
+  },
+  "answer": "d",
+  "tags": [
+    "evolução",
+    "genética e hereditariedade"
+  ],
+  "year": 2018,
+  "test": "ENEM",
+  "area": "nature",
+  "difficulty": 6,
+  "images": [
+    "figuras/q106_2018_fig1.png"
+  ],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

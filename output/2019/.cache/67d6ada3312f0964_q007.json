@@ -1,0 +1,25 @@
+{
+  "number": 7,
+  "text": "Essa letra de canção foi composta especialmente para uma campanha de combate à violência contra as mulheres, buscando conscientizá-las acerca do limite entre relacionamento amoroso e relacionamento abusivo. Para tanto, a estratégia empregada na letra é a",
+  "alternatives": {
+    "a": "revelação da submissão da mulher à situação de violência, que muitas vezes a leva à morte.",
+    "b": "ênfase na necessidade de se ouvirem os apelos da mulher agredida, que continuamente pede socorro.",
+    "c": "exploração de situação de duplo sentido, que mostra que atos de dominação e violência não configuram amor.",
+    "d": "divulgação da importância de denunciar a violência doméstica, que atinge um grande número de mulheres no país.",
+    "e": "naturalização de situações opressivas, que fazem parte da vida de mulheres que vivem em uma sociedade patriarcal."
+  },
+  "answer": "c",
+  "tags": [
+    "interpretação de texto",
+    "gêneros textuais",
+    "comunicação e mídia"
+  ],
+  "year": 2019,
+  "test": "ENEM",
+  "area": "linguagens",
+  "difficulty": 6,
+  "images": [],
+  "contextId": "enem_2019_linguagens_ctx7",
+  "contextIds": null,
+  "language": null
+}

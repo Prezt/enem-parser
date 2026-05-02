@@ -1,0 +1,25 @@
+{
+  "number": 19,
+  "text": "Qual é o efeito de sentido provocado pelo uso da expressão \"estão mais sobrecarregadas por deveres e atividades\" em relação às crianças mencionadas no texto?",
+  "alternatives": {
+    "a": "Demonstra que as crianças têm mais tempo livre para brincar",
+    "b": "Indica que as crianças possuem menos oportunidades de lazer",
+    "c": "Incentivaram a criação de novos espaços para se brincar",
+    "d": "Mostra que as famílias investem em educação formal",
+    "e": "Revela a falta de interesse das crianças em atividades ao ar livre"
+  },
+  "answer": "d",
+  "tags": [
+    "interpretação de texto",
+    "gêneros textuais",
+    "comunicação e mídia"
+  ],
+  "year": 2021,
+  "test": "ENEM",
+  "area": "linguagens",
+  "difficulty": 5,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

@@ -1,0 +1,24 @@
+{
+  "number": 6,
+  "text": "Defendendo a ideia de que \"os direitos humanos devem ser o alicerce para todo o progresso\", a diretora-geral da Unesco aponta, como estratégia para atingir esse fim, a",
+  "alternatives": {
+    "a": "inclusão de todos na Agenda 2030.",
+    "b": "extinção da intolerância entre os indivíduos.",
+    "c": "discussão desse tema desde a educação básica.",
+    "d": "conquista de direitos para todos os povos e nações.",
+    "e": "promoção da dignidade humana em todos os lugares"
+  },
+  "answer": "c",
+  "tags": [
+    "interpretação de texto",
+    "comunicação e mídia"
+  ],
+  "year": 2018,
+  "test": "ENEM",
+  "area": "linguagens",
+  "difficulty": 4,
+  "images": [],
+  "contextId": "enem_2018_linguagens_q6_ctx1",
+  "contextIds": null,
+  "language": null
+}

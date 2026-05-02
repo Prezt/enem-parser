@@ -1,0 +1,24 @@
+{
+  "number": 83,
+  "text": "A partir da ocupação desordenada exposta no texto, o que impede a recuperação do recurso natural destacado é a",
+  "alternatives": {
+    "a": "elevação da biomassa.",
+    "b": "redução da salinização.",
+    "c": "diminuição da fertilidade.",
+    "d": "ampliação da microfauna.",
+    "e": "decomposição do substrato."
+  },
+  "answer": "c",
+  "tags": [
+    "degradação",
+    "recuperação",
+    "solo"
+  ],
+  "year": 2023,
+  "test": "ENEM",
+  "area": "humanas",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

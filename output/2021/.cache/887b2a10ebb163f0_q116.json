@@ -1,0 +1,26 @@
+{
+  "number": 116,
+  "text": "As águas subterrâneas têm sido contaminadas pelo pesticida. [Figura: estruturas moleculares de compostos com cloro, nitrogênio e oxigênio] O teste positivo será observado com o pesticida",
+  "alternatives": {
+    "a": "I",
+    "b": "II",
+    "c": "III",
+    "d": "IV",
+    "e": "V"
+  },
+  "answer": "c",
+  "tags": [
+    "química geral e inorgânica",
+    "chemistry estrutura molecular"
+  ],
+  "year": 2021,
+  "test": "ENEM",
+  "area": "nature",
+  "difficulty": 5,
+  "images": [
+    "figuras/q116_2021_fig1.png"
+  ],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

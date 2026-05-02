@@ -1,0 +1,23 @@
+{
+  "number": 30,
+  "text": "No trecho do romance naturalista, a forma como o narrador julga comportamentos e emoções das personagens femininas revela influência do pensamento",
+  "alternatives": {
+    "a": "capitalista, marcado pela distribuição funcional do trabalho.",
+    "b": "liberal, buscando a igualdade entre pessoas escravizadas e livres.",
+    "c": "científico, considerando o ser humano como um fenômeno biológico.",
+    "d": "religioso, fundamentado na fé e na aceitação dos dogmas do cristianismo.",
+    "e": "afetivo, manifesto na determinação de acolher familiares e no respeito mútuo."
+  },
+  "answer": "c",
+  "tags": [
+    "literatura",
+    "filosofia"
+  ],
+  "year": 2022,
+  "test": "ENEM",
+  "area": "linguagens",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

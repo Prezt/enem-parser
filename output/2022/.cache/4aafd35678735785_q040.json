@@ -1,0 +1,23 @@
+{
+  "number": 40,
+  "text": "A passagem registra um momento em que expressividade lírica é reforçada pela",
+  "alternatives": {
+    "a": "plasticidade da imagem do rebanho reunido.",
+    "b": "sugestão da firmeza do sertanejo ao arrear o cavalo",
+    "c": "situação de pobreza encontrada nos sertões brasileiros.",
+    "d": "afetividade demonstrada ao noticiar a morte do cantador.",
+    "e": "preocupação do vaqueiro em demonstrar sua virilidade."
+  },
+  "answer": "d",
+  "tags": [
+    "literatura",
+    "expressividade lírica"
+  ],
+  "year": 2022,
+  "test": "ENEM",
+  "area": "linguagens",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

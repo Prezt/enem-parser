@@ -1,0 +1,23 @@
+{
+  "number": 2,
+  "text": "No texto, o autor faz uma crítica ao(à)",
+  "alternatives": {
+    "a": "conhecimento das pessoas sobre as tecnologias.",
+    "b": "uso do celular alheio por pessoas desautorizadas.",
+    "c": "funcionamento de recursos tecnológicos obsoletos",
+    "d": "ingerência do celular sobre as escolhas do\nusuários.",
+    "e": "falta de informação sobre a configuração de alerta\nno celular."
+  },
+  "answer": "c",
+  "tags": [
+    "crítica",
+    "tecnologia"
+  ],
+  "year": 2022,
+  "test": "ENEM",
+  "area": "linguagens",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

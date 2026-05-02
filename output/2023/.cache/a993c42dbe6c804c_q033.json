@@ -1,0 +1,23 @@
+{
+  "number": 33,
+  "text": "Quase cinquenta obras de Lasar Segall foram confiscadas pelo regime totalitário alemão na primeira metade do século XX, entre elas a obra Eternos caminhantes, considerada degenerada por",
+  "alternatives": {
+    "a": "representar uma estética tida como inconveniente para o ideário político vigente.",
+    "b": "manifestar um posicionamento político-cultural concebido por grupos de oposição.",
+    "c": "expressar a cultura artística por meio da representação parcial do corpo humano.",
+    "d": "apresentar uma composição que antecipa o imaginário artístico germânico.",
+    "e": "estimular discussões sobre o papel da arte na construção coletiva de cultura."
+  },
+  "answer": "a",
+  "tags": [
+    "arte",
+    "história"
+  ],
+  "year": 2023,
+  "test": "ENEM",
+  "area": "linguagens",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

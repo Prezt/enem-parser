@@ -1,0 +1,23 @@
+{
+  "number": 138,
+  "text": "O gráfico apresenta os totais de receitas e despesas de uma empresa, expressos em milhão de reais, no decorrer dos meses de um determinado ano. A empresa obtém lucro quando a diferença entre receita e despesa é positiva e tem prejuízo quando essa diferença é negativa. Qual é a mediana, em milhões de reais, dos valores dos lucros apurados pela empresa nesse ano?",
+  "alternatives": {
+    "a": "1,5",
+    "b": "2,0",
+    "c": "2,9",
+    "d": "3,0",
+    "e": "5,5"
+  },
+  "answer": "d",
+  "tags": [
+    "estatística",
+    "gráfico"
+  ],
+  "year": 2022,
+  "test": "ENEM",
+  "area": "math",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

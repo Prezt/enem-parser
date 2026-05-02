@@ -1,0 +1,24 @@
+{
+  "number": 134,
+  "text": "Um experimento simples, que pode ser realizado com materiais encontrados em casa, é realizado da seguinte forma: adiciona-se um volume de etanol em um copo de vidro e, em seguida, uma folha de papel. Com o passar do tempo, observa-se um comportamento peculiar: o etanol se desloca sobre a superfície do papel, superando a gravidade que o atrai no sentido oposto, como mostra a imagem. Para parte dos estudantes, isso ocorre por causa da absorção do líquido pelo papel.\n\nDo ponto de vista científico, o que explica o movimento do líquido é a",
+  "alternatives": {
+    "a": "evaporação do líquido.",
+    "b": "diferença de densidades.",
+    "c": "reação química com o papel.",
+    "d": "capilaridade nos poros do papel.",
+    "e": "resistência ao escoamento do líquido."
+  },
+  "answer": "d",
+  "tags": [
+    "química geral e inorgânica",
+    "propriedades dos líquidos"
+  ],
+  "year": 2019,
+  "test": "ENEM",
+  "area": "nature",
+  "difficulty": 6,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

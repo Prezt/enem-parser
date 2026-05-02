@@ -1,0 +1,943 @@
+[
+  {
+    "number": 46,
+    "text": "No experimento descrito, a relação com a paisagem com a religiosidade permite que o sertanejo seja",
+    "alternatives": {
+      "a": "afeito à devoção ao aceitar destinos sacralizados.",
+      "b": "acostumado à pobreza ao admitir acasos naturais.",
+      "c": "habituado ao solo ao conhecer terrenos cultiváveis.",
+      "d": "íntimo à Caatinga ao interpretar condições ambientais",
+      "e": "próximo à vegetação ao identificar espécies arbustivas"
+    },
+    "images": [],
+    "tags": [
+      "cultura",
+      "religião"
+    ],
+    "year": 2022,
+    "test": "ENEM",
+    "area": "humanas",
+    "answer": "d"
+  },
+  {
+    "number": 47,
+    "text": "No trecho, a filósofa Hannah Arendt mostra a importância da linguagem no processo de",
+    "alternatives": {
+      "a": "entendimento da cultura.",
+      "b": "aumento da criatividade.",
+      "c": "percepção da individualidade.",
+      "d": "melhoria da técnica.",
+      "e": "construção da sociabilidade."
+    },
+    "images": [],
+    "tags": [
+      "filosofia",
+      "sociedade"
+    ],
+    "year": 2022,
+    "test": "ENEM",
+    "area": "humanas",
+    "answer": "e"
+  },
+  {
+    "number": 48,
+    "text": "O texto expõe uma característica da sociedade brasileira, que é o(a):",
+    "alternatives": {
+      "a": "Racismo estrutural.",
+      "b": "Desemprego latente.",
+      "c": "Concentração de renda.",
+      "d": "Exclusão informacional.",
+      "e": "Precariedade da educação."
+    },
+    "images": [],
+    "tags": [
+      "sociedade",
+      "racismo"
+    ],
+    "year": 2022,
+    "test": "ENEM",
+    "area": "humanas",
+    "answer": "a"
+  },
+  {
+    "number": 49,
+    "text": "A intensificação da ocupação urbana demonstrada afeta e forma imediata o(a)",
+    "alternatives": {
+      "a": "nível altimétrico.",
+      "b": "ciclo hidrológico.",
+      "c": "padrão climático.",
+      "d": "tectônica de placas.",
+      "e": "estrutura das rochas."
+    },
+    "images": [],
+    "tags": [
+      "urbanização",
+      "hidrologia"
+    ],
+    "year": 2022,
+    "test": "ENEM",
+    "area": "humanas",
+    "answer": "b"
+  },
+  {
+    "number": 50,
+    "text": "No texto, há uma crítica ao modo de ocupação do espaço amazônico pautada na",
+    "alternatives": {
+      "a": "discrepância entre engenharia ambiental e equilíbrio da fauna.",
+      "b": "incoerência entre maquinaria estrangeira e controle da floresta.",
+      "c": "incompatibilidade entre investimento estatal e proteção aos nativos.",
+      "d": "competição entre farmacologia internacional e produtos da fitoterapia.",
+      "e": "contradição entre desenvolvimento nacional e respeito aos trabalhadores."
+    },
+    "images": [],
+    "tags": [
+      "crítica social",
+      "história"
+    ],
+    "year": 2022,
+    "test": "ENEM",
+    "area": "humanas",
+    "answer": "e"
+  },
+  {
+    "number": 51,
+    "text": "Qual mudança estrutural é resultado da forma de organização econômica descrita no texto?",
+    "alternatives": {
+      "a": "Fabricação em série",
+      "b": "Ampliação de estoques",
+      "c": "Fragilização dos cartéis",
+      "d": "Padronização de mercadorias",
+      "e": "Desterritorialização da produção"
+    },
+    "images": [],
+    "tags": [
+      "sociedade",
+      "economia"
+    ],
+    "year": 2022,
+    "test": "ENEM",
+    "area": "humanas",
+    "answer": "e"
+  },
+  {
+    "number": 52,
+    "text": "A letra da canção valoriza uma dimensão do espaço rural brasileiro em sua relação com a cidade ao ressaltar sua unção de",
+    "alternatives": {
+      "a": "fornecer a mão de obra qualificada.",
+      "b": "incorporar a inovação tecnológica.",
+      "c": "preservar a diversidade biológica.",
+      "d": "promover a produção alimentar.",
+      "e": "garantir a moradia básica."
+    },
+    "images": [],
+    "tags": [
+      "cultura",
+      "sociedade"
+    ],
+    "year": 2022,
+    "test": "ENEM",
+    "area": "humanas",
+    "answer": "d"
+  },
+  {
+    "number": 53,
+    "text": "O registro das atividades descritas associa a inserção da figura feminina nos espaços de leitura e escrita do Segundo Reinado ao(à)",
+    "alternatives": {
+      "a": "surgimento de novas práticas culturais.",
+      "b": "contestação de antigos hábitos masculinos.",
+      "c": "valorização de recentes publicações juvenis.",
+      "d": "circulação de variados manuais pedagógicos.",
+      "e": "aparecimento de diversas editoras comerciais."
+    },
+    "answer": "a",
+    "tags": [
+      "humanas",
+      "história",
+      "gênero"
+    ],
+    "year": 2022,
+    "test": "ENEM",
+    "area": "humanas",
+    "images": [],
+    "contextId": null,
+    "contextIds": null,
+    "language": null
+  },
+  {
+    "number": 54,
+    "text": "[Figura] Os caixeiros do comércio a retalho do Rio de Janeiro estiveram entre as primeiras categorias de trabalhadores a se organizar em associações e a exigir a intervenção dos poderes públicos na mediação de suas lutas por direitos. Na década de 1880, os caixeiros participaram da arena política e ganharam as ruas com vários outros como os republicanos e os abolicionistas.",
+    "alternatives": {
+      "a": "manutenção das regras patronais",
+      "b": "desprendimento das ideias liberais",
+      "c": "fortalecimento dos contratos laborais",
+      "d": "consolidação das estruturas sindicais",
+      "e": "contestação dos princípios monárquicos"
+    },
+    "images": [
+      "figuras/q054_2022_fig1.png"
+    ],
+    "tags": [
+      "história",
+      "trabalhismo"
+    ],
+    "year": 2022,
+    "test": "ENEM",
+    "area": "humanas",
+    "answer": "e"
+  },
+  {
+    "number": 55,
+    "text": "As atividades agrícolas, desenvolvidas na região mencionada, intensificam o problema ambiental exposto a",
+    "alternatives": {
+      "a": "realizar florestamentos de pinus, desrespeitando a prática do pousio.",
+      "b": "utilizar sistemas de irrigação, desprezando uma drenagem adequada.",
+      "c": "instalar açudes nos grotões, retardando a velocidade da vazão fluvial.",
+      "d": "desmatar áreas de preservação permanente causando assoreamento.",
+      "e": "aplicar fertilizantes de origem orgânica, modificando a química da terra."
+    },
+    "images": [],
+    "tags": [
+      "ambiente",
+      "agricultura"
+    ],
+    "year": 2022,
+    "test": "ENEM",
+    "area": "humanas",
+    "answer": "b"
+  },
+  {
+    "number": 56,
+    "text": "[Figura: TÁ ESTUDANDO, JÚNIOR? CALMA, TÔ TENTANDO ACHAR UM SINAL DE WI-FI!] A crítica contida no texto e na figura evidencia o seguinte aspecto da sociedade contemporânea:",
+    "alternatives": {
+      "a": "Exclusão social.",
+      "b": "Expansão digital.",
+      "c": "Manifestação cultural.",
+      "d": "Organização espacial.",
+      "e": "Valorização intelectual."
+    },
+    "images": [
+      "figuras/q056_2022_fig1.png"
+    ],
+    "tags": [
+      "sociedade",
+      "educação"
+    ],
+    "year": 2022,
+    "test": "ENEM",
+    "area": "humanas",
+    "answer": "a"
+  },
+  {
+    "number": 57,
+    "text": "O leproso é visto dentro de uma prática da rejeição do exílio-cerca; deixa-se que se perca lá dentro numa massa que não tem muita importância. Os pestilentos são considerados num policiamento tático meticuloso onde as diferenciações individuais são os efeitos limitantes de um poder que se multiplica, se articula e se subdivide. O grande fechamento por um lado; o bom treinamento por outro. A lepra e sua divisão; peste e seus recortes. Uma é marcada; a outra, analisada e repartida. O exílio do leproso e a prisão da peste não trazem consigo o mesmo sonho político.",
+    "alternatives": {
+      "a": "Formação de sociedade disciplinar",
+      "b": "Flexibilização do regramento social",
+      "c": "Banimento da autoridade repressora",
+      "d": "Condenação da degradação humana",
+      "e": "Hierarquização da burocracia estatal"
+    },
+    "images": [],
+    "tags": [
+      "sociedade",
+      "filosofia"
+    ],
+    "year": 2022,
+    "test": "ENEM",
+    "area": "humanas",
+    "answer": "a"
+  },
+  {
+    "number": 58,
+    "text": "As práticas religiosas mencionadas nos textos estã associadas, respectivamente, à:",
+    "alternatives": {
+      "a": "Delimitação de paisagens urbanas e abandono d componentes espiritualistas.",
+      "b": "Demarcação de patrimônios afetivos e apropriaçã de elementos judaizantes.",
+      "c": "Expansão de fronteiras regionais e subjetivação d cristianismo medieval.",
+      "d": "Circunscrição de bens simbólicos e admissão d cerimônias ecumênicas.",
+      "e": "Criação de lugares místicos e experiências d catolicismo popular."
+    },
+    "images": [],
+    "tags": [
+      "religião",
+      "história"
+    ],
+    "year": 2022,
+    "test": "ENEM",
+    "area": "humanas",
+    "answer": "e"
+  },
+  {
+    "number": 59,
+    "text": "Em 2003, teve início o Programa de Aquisição de Alimentos e, com ele, várias mudanças na perspectiva dos mercados institucionais. Trata-se do primeiro programa e compras públicas com uma orientação exclusiva para a agricultura familiar, articulando-a explicitamente com a segurança alimentar e nutricional.",
+    "alternatives": {
+      "a": "Inovação tecnológica",
+      "b": "Reestruturação fundiária",
+      "c": "Comercialização garantida",
+      "d": "Eliminação no custo do frete",
+      "e": "Negociação na bolsa de valores"
+    },
+    "images": [],
+    "tags": [
+      "agricultura familiar",
+      "políticas públicas"
+    ],
+    "year": 2022,
+    "test": "ENEM",
+    "area": "humanas",
+    "answer": "c"
+  },
+  {
+    "number": 60,
+    "text": "Contrariando a visão prevalente sobre o impacto econômico nas relações humanas, o texto revela que os celulares podem desempenhar uma função",
+    "alternatives": {
+      "a": "recreativa, promovendo o lazer em redes integradas.",
+      "b": "social, estimulando a reciprocidade por meios digitais.",
+      "c": "laboral, convertendo o desenvolvedor em usuário final.",
+      "d": "comercial, direcionando a escolha por produtos industrializados.",
+      "e": "cognitiva, favorecendo a aprendizagem pelas ferramentas virtuais."
+    },
+    "images": [],
+    "tags": [
+      "tecnologia",
+      "sociedade"
+    ],
+    "year": 2022,
+    "test": "ENEM",
+    "area": "humanas",
+    "answer": "b"
+  },
+  {
+    "number": 61,
+    "text": "A consequência da mudança tecnológica apresentada neste texto é a",
+    "alternatives": {
+      "a": "proteção da economia nacional.",
+      "b": "valorização da cultura tradicional.",
+      "c": "diminuição da formação acadêmica.",
+      "d": "estagnação da manifestação artística.",
+      "e": "ampliação do desemprego estrutural."
+    },
+    "images": [],
+    "tags": [
+      "tecnologia",
+      "mercado de trabalho"
+    ],
+    "year": 2022,
+    "test": "ENEM",
+    "area": "humanas",
+    "answer": "e"
+  },
+  {
+    "number": 62,
+    "text": "A necessidade de negociação diplomática para viabilizar o acordo tarifário mencionado é explicada pela seguinte característica do Mercosul:",
+    "alternatives": {
+      "a": "Limitação da circulação financeira.",
+      "b": "Padronização da política monetária.",
+      "c": "Funcionamento da união aduaneira.",
+      "d": "Dependência da exportação agrícola.",
+      "e": "Equivalência da legislação trabalhista."
+    },
+    "images": [],
+    "tags": [
+      "Mercosul",
+      "Economia"
+    ],
+    "year": 2022,
+    "test": "ENEM",
+    "area": "humanas",
+    "answer": "c"
+  },
+  {
+    "number": 63,
+    "text": "Na conjuntura histórica destacada no texto, o dever de gir em face da situação de crise apresentada pertencia à urisdição",
+    "alternatives": {
+      "a": "da nobreza, proveniente da obrigação de proteção ao campesinato livre.",
+      "b": "da realeza, decorrente do conceito de governo subjacente à monarquia cristã.",
+      "c": "dos mosteiros, resultante do caráter fraternal afirmado nas regras monásticas.",
+      "d": "dos bispados, consequente da participação dos clérigos nos assuntos comunitários.",
+      "e": "das corporações, procedente do padrão assistencialista previsto nas normas estatutárias."
+    },
+    "images": [],
+    "tags": [
+      "história",
+      "idade média"
+    ],
+    "year": 2022,
+    "test": "ENEM",
+    "area": "humanas",
+    "answer": "b"
+  },
+  {
+    "number": 64,
+    "text": "A interação dinâmica entre as forças naturais citadas avorece a ocupação do espaço geográfico, na medida que provoca a formação de",
+    "alternatives": {
+      "a": "solos vulcânicos.",
+      "b": "dorsais oceânicas.",
+      "c": "relevos escarpados.",
+      "d": "superfícies lateríticas.",
+      "e": "dobramentos modernos."
+    },
+    "images": [],
+    "tags": [
+      "geografia",
+      "ciências naturais"
+    ],
+    "year": 2022,
+    "test": "ENEM",
+    "area": "humanas",
+    "answer": "a"
+  },
+  {
+    "number": 65,
+    "text": "O ápice da ilustração se traduz por uma conduta social aracterizada pela",
+    "alternatives": {
+      "a": "cultura do cancelamento.",
+      "b": "prática do feminicídio.",
+      "c": "postura negacionista.",
+      "d": "ação involuntária.",
+      "e": "defesa da honra."
+    },
+    "images": [],
+    "tags": [
+      "ética",
+      "sociedade"
+    ],
+    "year": 2022,
+    "test": "ENEM",
+    "area": "humanas",
+    "answer": "b"
+  },
+  {
+    "number": 66,
+    "text": "[Figura] [Gráfico] [Infográfico] Os discursos expressam pontos de vista divergentes, respectivamente pela oposição entre ...",
+    "alternatives": {
+      "a": "A liberdade de gênero e controle social.",
+      "b": "B equidade de escolha e imposição cultural.",
+      "c": "C dominação de corpos e igualdade humana.",
+      "d": "D geração de oportunidade e restrição profissional.",
+      "e": "E exclusão de competências e participação política."
+    },
+    "images": [
+      "figuras/q066_2022_fig1.png",
+      "figuras/q066_2022_fig2.png",
+      "figuras/q066_2022_fig3.png"
+    ],
+    "tags": [
+      "educação",
+      "história"
+    ],
+    "year": 2022,
+    "test": "ENEM",
+    "area": "humanas",
+    "answer": "c"
+  },
+  {
+    "number": 67,
+    "text": "O texto apresenta uma estratégia usada pelo movimento social para",
+    "alternatives": {
+      "a": "fragilizar o poder público.",
+      "b": "fomentar a economia solidária.",
+      "c": "controlar a propriedade estatal.",
+      "d": "garantir o preceito constitucional.",
+      "e": "incentivar a especulação imobiliária."
+    },
+    "images": [],
+    "tags": [
+      "direitos humanos",
+      "movimentos sociais"
+    ],
+    "year": 2022,
+    "test": "ENEM",
+    "area": "humanas",
+    "answer": "d"
+  },
+  {
+    "number": 68,
+    "text": "[Figura] A Marinha identifica, na voz de Thomas Barnett, uma mpla região potencialmente insubmissa ou simplesmente redutível às normas gerais de funcionamento promovidas elos Estados Unidos e sancionadas pelo Fundo Monetário Internacional, pela Organização Mundial do Comércio e pelo Banco Mundial. E não necessariamente or sua consciência rebelde, mas sim, em muitos casos, ela insubstancialidade de suas instituições estatais. [Figura] As preocupações do governo estadunidense expressas o texto e no mapa evidenciam uma estratégia para",
+    "alternatives": {
+      "a": "compartilhamento de inovações tecnológicas.",
+      "b": "promoção de independência financeira.",
+      "c": "incremento de intercâmbios culturais.",
+      "d": "ampliação de influência econômica.",
+      "e": "preservação de recursos naturais."
+    },
+    "images": [
+      "figuras/q068_2022_fig1.png",
+      "figuras/q068_2022_fig2.png",
+      "figuras/q068_2022_fig3.png"
+    ],
+    "tags": [
+      "geopolítica",
+      "economia internacional"
+    ],
+    "year": 2022,
+    "test": "ENEM",
+    "area": "humanas",
+    "answer": "d"
+  },
+  {
+    "number": 69,
+    "text": "Considerando a dinâmica geopolítica subjacente ao texto, justificativa utilizada por Vladimir Putin, em 2014, para nexação dessa península apela para o argumento de que",
+    "alternatives": {
+      "a": "as populações com idioma comum devem estar submetidas à mesma autoridade estatal.",
+      "b": "o imperialismo soviético havia se acomodado às pretensões das potências vizinhas.",
+      "c": "os organismos transnacionais são incapazes de solucionar disputas territoriais.",
+      "d": "a integração regional supõe a livre circulação de pessoas e mercadorias.",
+      "e": "a expulsão das forças navais ocidentais garantiria a soberania nacional."
+    },
+    "images": [],
+    "tags": [
+      "geopolítica",
+      "história"
+    ],
+    "year": 2022,
+    "test": "ENEM",
+    "area": "humanas",
+    "answer": "a"
+  },
+  {
+    "number": 70,
+    "text": "Considerando o conceito apresentado no Texto I e os dados apresentados no Texto II, no Brasil, são fatores que intensificam o fenômeno da discriminação:",
+    "alternatives": {
+      "a": "Raça e gênero.",
+      "b": "Etnia e habitação.",
+      "c": "Idade e nupcialidade.",
+      "d": "Profissão e sexualidade.",
+      "e": "Escolaridade e fecundidade."
+    },
+    "images": [],
+    "tags": [
+      "discriminação",
+      "sociedade"
+    ],
+    "year": 2022,
+    "test": "ENEM",
+    "area": "humanas",
+    "answer": "a"
+  },
+  {
+    "number": 71,
+    "text": "Nas sociedades contemporâneas, consiste em violação do princípio básico enunciado no texto:",
+    "alternatives": {
+      "a": "Supressão de eleições de representantes políticos.",
+      "b": "Intervenção em áreas de vulnerabilidade pela Igreja",
+      "c": "Disseminação de projetos sociais em universidades",
+      "d": "Ampliação dos processos de concentração de renda",
+      "e": "Regulamentação das relações de trabalho pelo Legislativo."
+    },
+    "images": [],
+    "tags": [
+      "direito",
+      "estado"
+    ],
+    "year": 2022,
+    "test": "ENEM",
+    "area": "humanas",
+    "answer": "a"
+  },
+  {
+    "number": 72,
+    "text": "A pesquisa desenvolvida retrata a seguinte dinâmica populacional:",
+    "alternatives": {
+      "a": "Fluxo de retorno.",
+      "b": "Migração interna.",
+      "c": "Mudança sazonal.",
+      "d": "Movimento pendular.",
+      "e": "Deslocamento forçado."
+    },
+    "answer": "d",
+    "tags": [
+      "humanas",
+      "geografia",
+      "dinâmica populacional"
+    ],
+    "year": 2022,
+    "test": "ENEM",
+    "area": "humanas",
+    "images": [],
+    "contextId": null,
+    "contextIds": null,
+    "language": null
+  },
+  {
+    "number": 73,
+    "text": "Com base no texto, a fixação dessa data comemorativa nha por objetivo",
+    "alternatives": {
+      "a": "valorizar um sentimento burguês.",
+      "b": "afirmar uma identidade coletiva.",
+      "c": "edificar uma memória nacional.",
+      "d": "criar uma comunidade cívica.",
+      "e": "definir uma tradição popular."
+    },
+    "images": [],
+    "tags": [
+      "história",
+      "classe operária"
+    ],
+    "year": 2022,
+    "test": "ENEM",
+    "area": "humanas",
+    "answer": "b"
+  },
+  {
+    "number": 74,
+    "text": "[Figura] Uma característica regional que justifica o maior potencial anual médio para o aproveitamento de energia solar é a reduzida [Figura]",
+    "alternatives": {
+      "a": "declividade do relevo.",
+      "b": "extensão longitudinal.",
+      "c": "nebulosidade atmosférica.",
+      "d": "irregularidade pluviométrica.",
+      "e": "influência da continentalidade."
+    },
+    "images": [
+      "figuras/q074_2022_fig1.png",
+      "figuras/q074_2022_fig2.png",
+      "figuras/q074_2022_fig3.png",
+      "figuras/q074_2022_fig4.png",
+      "figuras/q074_2022_fig5.png"
+    ],
+    "tags": [
+      "energia solar",
+      "geografia"
+    ],
+    "year": 2022,
+    "test": "ENEM",
+    "area": "humanas",
+    "answer": "c"
+  },
+  {
+    "number": 75,
+    "text": "O povo Kambeba é o povo das águas. Nessa gota estavam duas gotículas: o homem e a mulher. Por essa narrativa e cosmologia indígena de que nós somos o povo das águas é que o rio nos tem fundamental importância. Rios amazônicos influenciam no agro e em reservatórios do Sudeste.",
+    "alternatives": {
+      "a": "objeto tombado e museográfico",
+      "b": "herança religiosa e sacralizada",
+      "c": "cenário bucólico e paisagístico",
+      "d": "riqueza individual e efêmera",
+      "e": "patrimônio cultural e afetivo"
+    },
+    "images": [],
+    "tags": [
+      "cultura",
+      "geografia"
+    ],
+    "year": 2022,
+    "test": "ENEM",
+    "area": "humanas",
+    "answer": "e"
+  },
+  {
+    "number": 76,
+    "text": "[Figura] Na construção do empreendimento descrito, destaca-se presença de",
+    "alternatives": {
+      "a": "engenheiros na execução de canais fluviais.",
+      "b": "coronéis na ampliação de antigas fazendas.",
+      "c": "operários na distribuição dos recursos hídricos.",
+      "d": "trabalhadores na formação de novos espaços.",
+      "e": "negociantes na organização de redes comerciais."
+    },
+    "images": [
+      "figuras/q076_2022_fig1.png",
+      "figuras/q076_2022_fig2.png",
+      "figuras/q076_2022_fig3.png",
+      "figuras/q076_2022_fig4.png",
+      "figuras/q076_2022_fig5.png"
+    ],
+    "tags": [
+      "história",
+      "sociedade"
+    ],
+    "year": 2022,
+    "test": "ENEM",
+    "area": "humanas",
+    "answer": "d"
+  },
+  {
+    "number": 77,
+    "text": "De acordo com o texto, a importância da medicina se justifica no âmbito dos objetivos",
+    "alternatives": {
+      "a": "econômicos das elites.",
+      "b": "naturalistas dos viajantes.",
+      "c": "abolicionistas dos letrados.",
+      "d": "tradicionalistas dos nativos.",
+      "e": "emancipadores das metrópoles."
+    },
+    "images": [],
+    "tags": [
+      "história",
+      "sociedade"
+    ],
+    "year": 2022,
+    "test": "ENEM",
+    "area": "humanas",
+    "answer": "a"
+  },
+  {
+    "number": 78,
+    "text": "[Figura: Possível trajeto do voo MH370 da Malaysia Airlines antes da queda, em 2014]",
+    "alternatives": {
+      "a": "1 : 12 500",
+      "b": "1 : 125 000",
+      "c": "1 : 1 250 000",
+      "d": "1 : 12 500 000",
+      "e": "1 : 125 000 000"
+    },
+    "images": [
+      "figuras/q078_2022_fig1.png"
+    ],
+    "tags": [
+      "geografia",
+      "matemática"
+    ],
+    "year": 2022,
+    "test": "ENEM",
+    "area": "humanas",
+    "answer": "e"
+  },
+  {
+    "number": 79,
+    "text": "Ao descrever-se como patrimônio museológico, o objeto abordado no texto associa a sua história às...",
+    "alternatives": {
+      "a": "habilidades artísticas e culturais dos sujeitos.",
+      "b": "vocações religiosas e pedagógicas dos mestres.",
+      "c": "naturezas antropológica e etnográfica dos expositores.",
+      "d": "preservações arquitetônica e visual dos conservatórios.",
+      "e": "competências econômica e financeira dos comerciantes."
+    },
+    "images": [],
+    "tags": [
+      "patrimônio",
+      "museu"
+    ],
+    "year": 2022,
+    "test": "ENEM",
+    "area": "humanas",
+    "answer": "a"
+  },
+  {
+    "number": 80,
+    "text": "[Figura] Os vínculos entre os fenômenos indicados no trecho oram fortalecidos pelo surgimento de uma categoria de ensadores, a saber:",
+    "alternatives": {
+      "a": "Os epicuristas, envolvidos com o ideal de vida feliz.",
+      "b": "Os estoicos, dedicados à superação dos infortúnios.",
+      "c": "Os sofistas, comprometidos com o ensino da retórica.",
+      "d": "Os peripatéticos, empenhados na dinâmica do ensino.",
+      "e": "Os poetas rapsodos, responsáveis pela narrativa do mito."
+    },
+    "images": [
+      "figuras/q080_2022_fig1.png"
+    ],
+    "tags": [
+      "filosofia",
+      "história da filosofia"
+    ],
+    "year": 2022,
+    "test": "ENEM",
+    "area": "humanas",
+    "answer": "c"
+  },
+  {
+    "number": 81,
+    "text": "Com base nos trechos do decreto, as finalidades do órgão criado permitiram ao governo promover o(a)",
+    "alternatives": {
+      "a": "diversificação da opinião pública.",
+      "b": "mercantilização da cultura popular.",
+      "c": "controle das organizações sindicais.",
+      "d": "cerceamento da liberdade de expressão.",
+      "e": "privatização dos meios de comunicação."
+    },
+    "images": [],
+    "tags": [
+      "história",
+      "política"
+    ],
+    "year": 2022,
+    "test": "ENEM",
+    "area": "humanas",
+    "answer": "d"
+  },
+  {
+    "number": 82,
+    "text": "[Figura - Mapa espacializando a ocorrência de rochas ígneas na Amazônia Legal]",
+    "alternatives": {
+      "a": "Abalos sísmicos periódicos.",
+      "b": "Jazidas de minerais metálicos.",
+      "c": "Reservas de combustíveis fósseis.",
+      "d": "Aquíferos sedimentares profundos.",
+      "e": "Estruturas geológicas metamórficas."
+    },
+    "images": [
+      "figuras/q082_2022_fig1.png"
+    ],
+    "tags": [
+      "geografia",
+      "rochas ígneas"
+    ],
+    "year": 2022,
+    "test": "ENEM",
+    "area": "humanas",
+    "answer": "b"
+  },
+  {
+    "number": 83,
+    "text": "Em situações como a apresentada no texto, as pessoas nascem já se encontram na condição sociopolítica de",
+    "alternatives": {
+      "a": "exiladas.",
+      "b": "apátridas.",
+      "c": "foragidas.",
+      "d": "refugiadas.",
+      "e": "clandestinas."
+    },
+    "images": [],
+    "tags": [
+      "direitos humanos",
+      "política"
+    ],
+    "year": 2022,
+    "test": "ENEM",
+    "area": "humanas",
+    "answer": "b"
+  },
+  {
+    "number": 84,
+    "text": "[Figura] De que modo os textos sustentam a existência de um saber ancorado na sensibilidade?",
+    "alternatives": {
+      "a": "Admitindo o belo como fenômeno transcendental.",
+      "b": "Reafirmando a vivência estética como juízo de gosto.",
+      "c": "Considerando o olhar como experiência de conhecimento.",
+      "d": "Apontando as formas de expressão como auxiliares da razão.",
+      "e": "Estabelecendo a inteligência como implicação das representações."
+    },
+    "images": [
+      "figuras/q084_2022_fig1.png"
+    ],
+    "tags": [
+      "filosofia",
+      "arte"
+    ],
+    "year": 2022,
+    "test": "ENEM",
+    "area": "humanas",
+    "answer": "c"
+  },
+  {
+    "number": 85,
+    "text": "O rito mencionado nos textos demonstra a capacidade da Igreja em",
+    "alternatives": {
+      "a": "abrandar cerimônias de punição.",
+      "b": "favorecer anseios de violência.",
+      "c": "criticar políticas de disciplina.",
+      "d": "produzir padrões de conduta.",
+      "e": "ordenar cultos de heresia."
+    },
+    "images": [],
+    "tags": [
+      "inquisição",
+      "rito",
+      "igreja"
+    ],
+    "year": 2022,
+    "test": "ENEM",
+    "area": "humanas",
+    "answer": "d"
+  },
+  {
+    "number": 86,
+    "text": "O texto propõe uma reflexão sobre o entendimento de Empédocles acerca da arché, uma preocupação típica do pensamento pré-socrático, porque",
+    "alternatives": {
+      "a": "exalta a investigação filosófica.",
+      "b": "transcende ao mundo sensível.",
+      "c": "evoca a discussão cosmogônica.",
+      "d": "fundamenta as paixões humanas.",
+      "e": "corresponde à explicação mitológica."
+    },
+    "images": [],
+    "tags": [
+      "filosofia",
+      "pré-socráticos"
+    ],
+    "year": 2022,
+    "test": "ENEM",
+    "area": "humanas",
+    "answer": "c"
+  },
+  {
+    "number": 87,
+    "text": "Macrocefalia urbana pode ser entendida como massiva concentração das atividades econômicas em algumas metrópoles que propicia o desencadeament de processos descompassados: redirecionamento convergência de fluxos migratórios, déficit no númer de empregos, ocupação desordenada de determinada regiões da cidade e estigmatização de estratos sociais que comprometem substancialmente a segurança públic urbana. O processo de concentração espacial apresentado foi estimulado por qual fator geográfico?",
+    "alternatives": {
+      "a": "Limitação da área ocupada",
+      "b": "Êxodo da população do campo",
+      "c": "Ampliação do risco habitacional",
+      "d": "Deficiência do transporte alternativo",
+      "e": "Crescimento da taxa de fecundidade"
+    },
+    "images": [],
+    "tags": [
+      "urbanismo",
+      "geografia"
+    ],
+    "year": 2022,
+    "test": "ENEM",
+    "area": "humanas",
+    "answer": "b"
+  },
+  {
+    "number": 88,
+    "text": "O excerto refere-se a uma carta de Sêneca na qual se apresenta como um bem fundamental da filosofia promover a",
+    "alternatives": {
+      "a": "valorização de disputas dialógicas.",
+      "b": "rejeição das convenções sociais.",
+      "c": "inspiração de natureza religiosa.",
+      "d": "exaltação do sofrimento.",
+      "e": "moderação das paixões."
+    },
+    "images": [],
+    "tags": [
+      "filosofia",
+      "ética"
+    ],
+    "year": 2022,
+    "test": "ENEM",
+    "area": "humanas",
+    "answer": "e"
+  },
+  {
+    "number": 89,
+    "text": "As sociedades mencionadas deixaram como legado uma diversidade de",
+    "alternatives": {
+      "a": "bens religiosos inspirados na matriz cristã.",
+      "b": "materiais bélicos pilhados em batalhas coloniais.",
+      "c": "heranças culturais constituídas em saberes próprios.",
+      "d": "costumes laborais moldados em estilos estrangeiros.",
+      "e": "práticas medicinais alicerçadas no conhecimento científico."
+    },
+    "images": [],
+    "tags": [
+      "história",
+      "cultura"
+    ],
+    "year": 2022,
+    "test": "ENEM",
+    "area": "humanas",
+    "answer": "c"
+  },
+  {
+    "number": 90,
+    "text": "Uma característica de práticas tradicionais como a exemplificada no texto é a vinculação entre os recursos do mundo natural e a",
+    "alternatives": {
+      "a": "manutenção dos modos de vida.",
+      "b": "conservação dos plantios da roça.",
+      "c": "atualização do modelo de gestão.",
+      "d": "participação na sociedade de consumo.",
+      "e": "especialização nas etapas de produção."
+    },
+    "images": [],
+    "tags": [
+      "cultura",
+      "tradição"
+    ],
+    "year": 2022,
+    "test": "ENEM",
+    "area": "humanas",
+    "answer": "a"
+  }
+]

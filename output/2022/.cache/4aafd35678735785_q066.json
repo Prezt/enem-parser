@@ -1,0 +1,27 @@
+{
+  "number": 66,
+  "text": "[Figura] [Gráfico] [Infográfico] Os discursos expressam pontos de vista divergentes, respectivamente pela oposição entre ...",
+  "alternatives": {
+    "a": "A liberdade de gênero e controle social.",
+    "b": "B equidade de escolha e imposição cultural.",
+    "c": "C dominação de corpos e igualdade humana.",
+    "d": "D geração de oportunidade e restrição profissional.",
+    "e": "E exclusão de competências e participação política."
+  },
+  "answer": "c",
+  "tags": [
+    "educação",
+    "história"
+  ],
+  "year": 2022,
+  "test": "ENEM",
+  "area": "humanas",
+  "images": [
+    "figuras/q066_2022_fig1.png",
+    "figuras/q066_2022_fig2.png",
+    "figuras/q066_2022_fig3.png"
+  ],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

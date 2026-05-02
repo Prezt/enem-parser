@@ -1,0 +1,24 @@
+{
+  "number": 105,
+  "text": "Os manuais de refrigerador apresentam recomendação de que o equipamento não deve ser instalado próximo a fontes de calor, como fogão ou aquecedores, ou em local onde incida diretamente luz do sol. A instalação em local inadequado prejudica o funcionamento do refrigerador e aumenta o consumo de energia. O não atendimento dessa recomendação resulta em aumento do consumo de energia porque",
+  "alternatives": {
+    "a": "o fluxo de calor por condução no condensador sofre considerável redução.",
+    "b": "a temperatura da substância refrigerante no condensador diminui mais rapidamente.",
+    "c": "o fluxo de calor promove significativa elevação de temperatura no interior do refrigerador.",
+    "d": "a liquefação da substância refrigerante no condensador exige mais trabalho do compressor.",
+    "e": "as correntes de convecção nas proximidades do condensador ocorrem com maior dificuldade."
+  },
+  "answer": "d",
+  "tags": [
+    "termologia",
+    "fisiologia humana"
+  ],
+  "year": 2020,
+  "test": "ENEM",
+  "area": "nature",
+  "difficulty": 6,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

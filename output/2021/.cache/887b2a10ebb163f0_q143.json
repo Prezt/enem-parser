@@ -1,0 +1,24 @@
+{
+  "number": 143,
+  "text": "A tabela e o gráfico abaixo mostram o nível dos reservatórios de água que abasteciam uma cidade em 2 de fevereiro de 2015. Nessa data, o reservatório com o maior volume de água era o",
+  "alternatives": {
+    "a": "I",
+    "b": "II",
+    "c": "III",
+    "d": "IV",
+    "e": "V"
+  },
+  "answer": "d",
+  "tags": [
+    "aritmética e números",
+    "análise de dados"
+  ],
+  "year": 2021,
+  "test": "ENEM",
+  "area": "math",
+  "difficulty": 3,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

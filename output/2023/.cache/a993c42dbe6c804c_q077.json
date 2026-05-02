@@ -1,0 +1,23 @@
+{
+  "number": 77,
+  "text": "Havia já muito tempo que a Europa desfrutava o benefícios da vacina e arrancava à morte milhares d inocentes, condenados a serem vítimas do terrível flagel das bexigas, e o governo de Portugal nunca se lembrara d transmitir ao Brasil a mais útil das descobertas humanas quando aliás nenhum país mais do que ele carecia dest salutar invento ou se atendesse às vantagens da população ou ao perdimento de imensas somas na mortandad contínua de escravos, que este flagelo devorava. O certo é que mais ocupado de seu ouro que de seus habitantes Portugal, como em outros muitos casos, esperou que Brasil por seu próprio impulso remediasse a este mal.",
+  "alternatives": {
+    "a": "As leis observáveis regem o mundo material.",
+    "b": "O monarca racional promove a sociedade justa.",
+    "c": "O direito natural justifica a liberdade dos homens.",
+    "d": "A produção da terra garante a riqueza das nações.",
+    "e": "A responsabilidade dos governantes assegura a saúde dos povos."
+  },
+  "answer": "e",
+  "tags": [
+    "história",
+    "ciências sociais"
+  ],
+  "year": 2023,
+  "test": "ENEM",
+  "area": "humanas",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

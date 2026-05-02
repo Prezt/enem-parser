@@ -1,0 +1,24 @@
+{
+  "number": 172,
+  "text": "O gráfico a seguir mostra a evolução mensal das vendas de certo produto de julho a novembro de 2011.\n\nSabe-se que o mês de julho foi o pior momento da empresa em 2011 e que o número de unidades vendidas esse produto em dezembro de 2011 foi igual à média aritmética do número de unidades vendidas nos meses de julho a novembro do mesmo ano.\n\nO gerente de vendas disse, em uma reunião da diretoria, que, se essa redução no número de unidades vendidas de novembro para dezembro de 2011 se mantivesse constante nos meses subsequentes, as vendas só voltariam a ficar piores que julho de 2011 apenas no final de 2012.\n\nO diretor financeiro rebateu imediatamente esse argumento mostrando que, mantida a tendência, isso aconteceria já em",
+  "alternatives": {
+    "a": "janeiro.",
+    "b": "fevereiro.",
+    "c": "março.",
+    "d": "abril.",
+    "e": "maio."
+  },
+  "answer": "d",
+  "tags": [
+    "estatística",
+    "análise combinatória"
+  ],
+  "year": 2019,
+  "test": "ENEM",
+  "area": "math",
+  "difficulty": 6,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

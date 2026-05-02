@@ -1,0 +1,24 @@
+{
+  "number": 147,
+  "text": "Muitos modelos atuais de veículos possuem computador de bordo. Os computadores informam em uma tela diversas variações de grandezas associadas ao desempenho do carro, dentre elas o consumo médio de combustível. Um veículo, de um determinado modelo, pode vir munido de um dos dois tipos de computadores de bordo:\n  - Tipo A: informa a quantidade X de litro de combustível gasto para percorrer 100 quilômetros;\n  - Tipo B: informa a quantidade de quilômetro que o veículo é capaz de percorrer com um litro de combustível.\n\nUm veículo utiliza o computador do Tipo A, e ao final de uma viagem o condutor viu apresentada na tela a informação \"X/100\".\n\nCaso o seu veículo utilizasse o computador do Tipo B, o valor informado na tela seria obtido pela operação",
+  "alternatives": {
+    "a": "X ∙ 100",
+    "b": "100/X",
+    "c": "100/100",
+    "d": "1/X",
+    "e": "1 ∙ X"
+  },
+  "answer": "c",
+  "tags": [
+    "aritmética e números",
+    "matemática financeira"
+  ],
+  "year": 2020,
+  "test": "ENEM",
+  "area": "math",
+  "difficulty": 4,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

@@ -1,0 +1,23 @@
+{
+  "number": 42,
+  "text": "A partir da intimação recebida pelo filho de 9 anos, autora faz uma reflexão em que transparece a",
+  "alternatives": {
+    "a": "lição de vida comunicada pelo tenente.",
+    "b": "predisposição materna para se emocionar.",
+    "c": "atividade política marcante da comunidade.",
+    "d": "resposta irônica ante o discurso da autoridade.",
+    "e": "necessidade de revelar seus anseios mais íntimos."
+  },
+  "answer": "d",
+  "tags": [
+    "reflexão",
+    "sociedade"
+  ],
+  "year": 2022,
+  "test": "ENEM",
+  "area": "linguagens",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

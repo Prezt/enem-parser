@@ -1,0 +1,24 @@
+{
+  "number": 23,
+  "text": "A representação da mulher apresentada no Texto I pode ser explicada pelo Texto II no que diz respeito à(às)",
+  "alternatives": {
+    "a": "censura a formas de expressão femininas.",
+    "b": "ausência da figura feminina na vida pública.",
+    "c": "construções imaginárias cristalizadas na sociedade.",
+    "d": "limitações inerentes às figuras femininas e masculinas.",
+    "e": "dificuldade na atribuição de papéis masculinos e femininos."
+  },
+  "answer": "c",
+  "tags": [
+    "representação",
+    "sociedade",
+    "gênero"
+  ],
+  "year": 2023,
+  "test": "ENEM",
+  "area": "linguagens",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

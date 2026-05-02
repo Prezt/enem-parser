@@ -1,0 +1,24 @@
+{
+  "number": 111,
+  "text": "Uma escola iniciou o processo educativo para a implantação de coleta seletiva de resíduos, implementando as seguintes ações:\n1) sensibilizar a comunidade escolar, desenvolvendo atividades em sala e extraclasse de maneira contínua;\n2) capacitar o pessoal responsável pela limpeza da escola quanto aos novos procedimentos adotados com a coleta seletiva; e\n3) distribuir coletores de materiais recicláveis para acondicionamento dos resíduos.\nQual ação ainda falta ser inserida no planejamento?",
+  "alternatives": {
+    "a": "Promover campanhas nas ruas dos bairros vizinhos para fortalecer a coleta seletiva.",
+    "b": "Firmar parceria com a prefeitura ou cooperativa de catadores para recolhimento dos materiais recicláveis.",
+    "c": "Julgar ambiental e socialmente a necessidade de coletores nas escolas a partir do descarte de resíduos na comunidade.",
+    "d": "Divulgar na rádio local, no jornal impresso e nas redes sociais que a escola está realizando a coleta seletiva.",
+    "e": "Colocar recipientes coletores de lixo reciclável fora da escola para atender à comunidade externa."
+  },
+  "answer": "b",
+  "tags": [
+    "ecologia",
+    "meio ambiente e sustentabilidade"
+  ],
+  "year": 2021,
+  "test": "ENEM",
+  "area": "nature",
+  "difficulty": 5,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

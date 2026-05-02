@@ -1,0 +1,24 @@
+{
+  "number": 168,
+  "text": "A raiva é uma doença viral e infecciosa, transmitida por mamíferos. A campanha nacional de vacinação antirrábica tem o objetivo de controlar a circulação do vírus da raiva canina e felina, prevenindo a raiva humana. O gráfico mostra a cobertura (porcentagem de vacinados) da campanha, em cães, nos anos de 2013, 2015 e 2017, no município de Belo Horizonte, em Minas Gerais. Os valores das coberturas dos anos de 2014 e 2016 não estão informados no gráfico e deseja-se estimá-los. Para tal, levou-se em consideração que a variação na cobertura de vacinação da campanha antirrábica, nos períodos de 2013 a 2015 e de 2015 a 2017, deu-se de forma linear. Qual teria sido a cobertura dessa campanha no ano de 2014?",
+  "alternatives": {
+    "a": "62,3%",
+    "b": "63,0%",
+    "c": "63,5%",
+    "d": "64,0%",
+    "e": "65,5%"
+  },
+  "answer": "b",
+  "tags": [
+    "aritmética e números",
+    "análise combinatória"
+  ],
+  "year": 2018,
+  "test": "ENEM",
+  "area": "math",
+  "difficulty": 4,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

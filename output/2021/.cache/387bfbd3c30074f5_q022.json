@@ -1,0 +1,24 @@
+{
+  "number": 22,
+  "text": "A questão aborda a variação linguística do uso de pronomes de segunda pessoa em diferentes regiões do Brasil. Qual das alternativas melhor descreve o fenômeno de variação entre 'tu' e 'você' nas regiões mencionadas?",
+  "alternatives": {
+    "a": "O pronome 'tu' é exclusivamente utilizado na região Sul do Brasil.",
+    "b": "O pronome 'você' é empregado de forma uniforme em todo o território brasileiro.",
+    "c": "O pronome 'tu' tem sido empregado em situações cada vez menos formais.",
+    "d": "A variação entre 'tu' e 'você' não representa diferenças sociolinguísticas significativas.",
+    "e": "O pronome 'você' é uma forma conservadora de tratamento em relação ao 'tu'."
+  },
+  "answer": "b",
+  "tags": [
+    "linguística e variação linguística",
+    "interpretação de texto"
+  ],
+  "year": 2021,
+  "test": "ENEM",
+  "area": "linguagens",
+  "difficulty": 5,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

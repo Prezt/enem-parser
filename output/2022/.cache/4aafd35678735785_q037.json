@@ -1,0 +1,25 @@
+{
+  "number": 37,
+  "text": "[Figura] Associada ao ideário de uma “vida perfeita”, a positividade tóxica mencionada no texto é um fenômeno social recente, que se constitui com base em",
+  "alternatives": {
+    "a": "representações estereotipadas e superficiais da felicidade.",
+    "b": "ressignificações contemporâneas do conceito de alegria.",
+    "c": "estilos de vida inacessíveis para a sociedade brasileira.",
+    "d": "atitudes contraditórias de influenciadores digitais.",
+    "e": "padrões idealizados e nocivos de beleza física."
+  },
+  "answer": "a",
+  "tags": [
+    "redes-sociais",
+    "saude-mental"
+  ],
+  "year": 2022,
+  "test": "ENEM",
+  "area": "linguagens",
+  "images": [
+    "figuras/q037_2022_fig1.png"
+  ],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

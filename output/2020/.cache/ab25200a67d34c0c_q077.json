@@ -1,0 +1,24 @@
+{
+  "number": 77,
+  "text": "No fragmento, Aristóteles promove uma reflexão que associa dois elementos essenciais à discussão sobre a vida em comunidade, a saber:",
+  "alternatives": {
+    "a": "Ética e política, pois conduzem à eudaimonia.",
+    "b": "Retórica e linguagem, pois cuidam dos discursos na ágora.",
+    "c": "Metafísica e ontologia, pois tratam da filosofia primeira.",
+    "d": "Democracia e sociedade, pois se referem a relações sociais.",
+    "e": "Geração e corrupção, pois abarcam o campo da physis."
+  },
+  "answer": "a",
+  "tags": [
+    "ética e política",
+    "filosofia antiga e medieval"
+  ],
+  "year": 2020,
+  "test": "ENEM",
+  "area": "humanas",
+  "difficulty": 6,
+  "images": [],
+  "contextId": "enem_2020_humanas_77_ctx1",
+  "contextIds": null,
+  "language": null
+}

@@ -1,0 +1,27 @@
+{
+  "number": 52,
+  "text": "Os trechos apresentam divergências conceituais entre autores que sustentam um entendimento segundo o qual igualdade entre os homens se dá em razão de uma",
+  "alternatives": {
+    "a": "predisposição ao conhecimento.",
+    "b": "submissão ao transcendente.",
+    "c": "tradição epistemológica.",
+    "d": "condição original.",
+    "e": "vocação política."
+  },
+  "answer": "d",
+  "tags": [
+    "filosofia moderna e contemporânea",
+    "ética e política"
+  ],
+  "year": 2018,
+  "test": "ENEM",
+  "area": "humanas",
+  "difficulty": 6,
+  "images": [],
+  "contextId": null,
+  "contextIds": [
+    "enem_2018_humanas_ctx1",
+    "enem_2018_humanas_ctx2"
+  ],
+  "language": null
+}

@@ -1,0 +1,23 @@
+{
+  "number": 28,
+  "text": "A função emotiva presente no poema cumpre o propósito o eu lírico de",
+  "alternatives": {
+    "a": "revelar as desilusões amorosas.",
+    "b": "refletir sobre a censura à sua voz.",
+    "c": "expressar a dificuldade de comunicação.",
+    "d": "ressaltar a existência de pressões externas.",
+    "e": "manifestar as dores do processo de criação."
+  },
+  "answer": "c",
+  "tags": [
+    "poesia",
+    "literatura"
+  ],
+  "year": 2023,
+  "test": "ENEM",
+  "area": "linguagens",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

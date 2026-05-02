@@ -1,0 +1,24 @@
+{
+  "number": 102,
+  "text": "A obtenção de óleos vegetais, de maneira geral, passa pelas etapas mostradas no diagrama. Qual das subetapas do processo é realizada em função da separação de fases do sistema?",
+  "alternatives": {
+    "a": "Trituração.",
+    "b": "Cozimento.",
+    "c": "Prensagem.",
+    "d": "Extração.",
+    "e": "Destilação."
+  },
+  "answer": "d",
+  "tags": [
+    "química geral e inorgânica",
+    "processos químicos industriais"
+  ],
+  "year": 2020,
+  "test": "ENEM",
+  "area": "nature",
+  "difficulty": 6,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

@@ -1,0 +1,24 @@
+{
+  "number": 28,
+  "text": "[Figura: captura de tela de rede social com postagem e comentários]",
+  "alternatives": {
+    "a": "A busca por uma comunicação mais direta e objetiva.",
+    "b": "As redes sociais como espaço de debate político.",
+    "c": "A preferência dos usuários por mensagens mais breves.",
+    "d": "A importância da segmentação para direcionar anúncios publicitários.",
+    "e": "A evolução contínua das estratégias de marketing digital."
+  },
+  "answer": "b",
+  "tags": [
+    "comunicação e mídia",
+    "linguística e variação linguística"
+  ],
+  "year": 2021,
+  "test": "ENEM",
+  "area": "linguagens",
+  "difficulty": 5,
+  "images": [],
+  "contextId": "enem_2021_linguagens_ctx1",
+  "contextIds": null,
+  "language": null
+}

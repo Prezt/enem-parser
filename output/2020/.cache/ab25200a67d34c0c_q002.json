@@ -1,0 +1,26 @@
+{
+  "number": 2,
+  "text": "Nesse pôster de divulgação de uma campanha que aborda a diversidade e a inclusão, a interação dos elementos verbais e não verbais faz referência ao ato de",
+  "alternatives": {
+    "a": "estereotipar povos de certas culturas.",
+    "b": "discriminar hábitos de grupos minoritários.",
+    "c": "banir imigrantes de determinadas origens.",
+    "d": "julgar padrões de beleza de diversas etnias.",
+    "e": "desvalorizar costumes de algumas sociedades."
+  },
+  "answer": "a",
+  "tags": [
+    "interpretação de texto",
+    "comunicação e mídia"
+  ],
+  "year": 2020,
+  "test": "ENEM",
+  "area": "linguagens",
+  "difficulty": 5,
+  "images": [],
+  "contextId": null,
+  "contextIds": [
+    "enem_2020_linguagens_ctx1"
+  ],
+  "language": null
+}

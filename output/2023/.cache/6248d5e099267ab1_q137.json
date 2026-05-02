@@ -1,0 +1,23 @@
+{
+  "number": 137,
+  "text": "Os 100 funcionários de uma empresa estão distribuídos em dois setores: Produção e Administração. Os funcionários de um mesmo setor recebem salários com valores iguais. O quadro apresenta a quantidade de funcionários por setor e seus respectivos salários.\nQuantidade de Salário\nSetor\nfuncionários (em real)\nProdução 75 2 000,00\nAdministração 25 7 000,00\nA média dos salários dos 100 funcionários dessa empresa, em real, é",
+  "alternatives": {
+    "a": "2 000,00",
+    "b": "2 500,00",
+    "c": "3 250,00",
+    "d": "4 500,00",
+    "e": "9 000,00"
+  },
+  "answer": "c",
+  "tags": [
+    "estatística",
+    "média"
+  ],
+  "year": 2023,
+  "test": "ENEM",
+  "area": "math",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

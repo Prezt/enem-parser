@@ -1,0 +1,27 @@
+{
+  "number": 108,
+  "text": "Considerando os versos da sextilha e as informações da tabela, a qual planeta o cordel faz referência?",
+  "alternatives": {
+    "a": "Mercúrio.",
+    "b": "Júpiter.",
+    "c": "Urano.",
+    "d": "Saturno.",
+    "e": "Netuno."
+  },
+  "answer": "d",
+  "tags": [
+    "gravitação e astronomia",
+    "interpretação de texto"
+  ],
+  "year": 2021,
+  "test": "ENEM",
+  "area": "nature",
+  "difficulty": 6,
+  "images": [],
+  "contextId": null,
+  "contextIds": [
+    "enem_2021_nature_ctx1",
+    "enem_2021_nature_ctx2"
+  ],
+  "language": null
+}

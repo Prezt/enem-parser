@@ -1,0 +1,24 @@
+{
+  "number": 133,
+  "text": "O quadro lista alguns dispositivos eletrônicos que necessitam de uma força eletromotriz para seu funcionamento. Considere que uma bateria é construída pela ligação em série de células galvânicas. Uma célula de zinco-carbono apresenta força eletromotriz de 0,54 V e uma célula de lítio apresenta força eletromotriz de 3,05 V. Essa bateria é adequada para o funcionamento de qual dispositivo eletrônico?",
+  "alternatives": {
+    "a": "Relógio de parede",
+    "b": "Celular",
+    "c": "Câmera digital",
+    "d": "Carrinho de controle remoto",
+    "e": "Notebook/Laptop"
+  },
+  "answer": "d",
+  "tags": [
+    "eletricidade e magnetismo",
+    "química geral e inorgânica"
+  ],
+  "year": 2021,
+  "test": "ENEM",
+  "area": "nature",
+  "difficulty": 6,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

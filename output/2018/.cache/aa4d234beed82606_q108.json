@@ -1,0 +1,25 @@
+{
+  "number": 108,
+  "text": "Ao pesquisar um resistor feito de um novo tipo de material, um cientista observou o comportamento mostrado no gráfico tensão versus corrente. Após a análise do gráfico, ele concluiu que a tensão em função da corrente é dada pela equação V = 10i + i². O gráfico da resistência elétrica (R) do resistor em função da corrente (i) é",
+  "alternatives": {
+    "a": "[Gráfico A mostrando R (Ω) no eixo y de 0 a 20, com i (A) no eixo x de 0 a 7, apresentando uma curva crescente não linear]",
+    "b": "[Gráfico B mostrando R (Ω) no eixo y de 0 a 30, com i (A) no eixo x de 0 a 7, apresentando uma curva crescente não linear]",
+    "c": "[Gráfico C mostrando R (Ω) no eixo y de 0 a 8, com i (A) no eixo x de 0 a 7, apresentando uma curva crescente não linear]",
+    "d": "[Gráfico D mostrando R (Ω) no eixo y de 0 a 18, com i (A) no eixo x de 0 a 7, apresentando uma curva crescente não linear]",
+    "e": "[Gráfico E mostrando R (Ω) no eixo y de 0 a 60, com i (A) no eixo x de 0 a 7, apresentando uma curva crescente não linear]"
+  },
+  "answer": "d",
+  "tags": [
+    "eletricidade e magnetismo",
+    "álgebra",
+    "funções"
+  ],
+  "year": 2018,
+  "test": "ENEM",
+  "area": "nature",
+  "difficulty": 6,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

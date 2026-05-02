@@ -1,0 +1,24 @@
+{
+  "number": 117,
+  "text": "Em uma aula experimental de calorimetria, um professor queimou 2,5 g de castanha-de-caju crua para aquecer 350 g de água, em um recipiente apropriado para diminuir as perdas de calor. Com base na leitura da tabela nutricional a seguir e da medida da temperatura da água, após a queima total do combustível, ela conclui que 50% da energia disponível foi aproveitada. O calor específico da água é 1 cal g⁻¹ °C⁻¹, e sua temperatura inicial era de 20 °C. Qual foi a temperatura da água, em grau Celsius, medida ao final do experimento?",
+  "alternatives": {
+    "a": "25",
+    "b": "27",
+    "c": "45",
+    "d": "50",
+    "e": "70"
+  },
+  "answer": "c",
+  "tags": [
+    "termologia",
+    "estequiometria"
+  ],
+  "year": 2019,
+  "test": "ENEM",
+  "area": "nature",
+  "difficulty": 6,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

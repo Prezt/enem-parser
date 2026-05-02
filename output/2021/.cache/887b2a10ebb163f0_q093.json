@@ -1,0 +1,27 @@
+{
+  "number": 93,
+  "text": "O polvo mimético apresenta padrões cromáticos e comportamentos muito curiosos. Frequentemente, muda de cor e forma para se camuflar ou se comunicar, imitando o padrão de alguns animais. As imagens 1, 3 e 5 apresentam polvos em seu habitat natural, e as imagens 2, 4 e 6 mostram o mesmo polvo imitando o padrão de outros organismos.\n\n[Figura: Sequência de 6 imagens mostrando polvo mimético em diferentes padrões]\n\nDo ponto de vista evolutivo, a capacidade apresentada se estabeleceu porque os polvos",
+  "alternatives": {
+    "a": "possuem os mesmos ancestrais dos animais que imitam, apresentando as mesmas características genéticas.",
+    "b": "passaram por mutações similares a esses organismos.",
+    "c": "observaram esses animais em seus nichos ecológicos.",
+    "d": "resultaram de convergência adaptativa com essas espécies.",
+    "e": "sobreviveram às pressões seletivas com esses comportamentos."
+  },
+  "answer": "e",
+  "tags": [
+    "evolução",
+    "ecologia",
+    "comportamento animal"
+  ],
+  "year": 2021,
+  "test": "ENEM",
+  "area": "nature",
+  "difficulty": 6,
+  "images": [
+    "figuras/q093_2021_fig1.png"
+  ],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

@@ -1,0 +1,24 @@
+{
+  "number": 118,
+  "text": "A gasolina é uma mistura de hidrocarbonetos de cadeias saturadas contendo de 8 a 12 átomos de carbono. Além disso, a gasolina de alto desempenho deve conter elevados teores de hidrocarbonetos de cadeias ramificadas de forma a resistir à compressão e entrar em ignição apenas quando a vela aciona uma centelha elétrica no motor. No quadro, estão apresentados compostos que podem ser utilizados como combustíveis.\n\nComposto Nomenclatura\nI n-decano\nII n-heptano\nIII 2,2,4-trimetilpentano\nIV 3-etil-4-metilex-1-eno\nV 3-etil-2-metilpentan-1-ol\nEntre esses compostos, aquele que conferirá maior desempenho como combustível é o",
+  "alternatives": {
+    "a": "I.",
+    "b": "II.",
+    "c": "III.",
+    "d": "IV.",
+    "e": "V."
+  },
+  "answer": "c",
+  "tags": [
+    "combustíveis",
+    "hidrocarbonetos",
+    "gasolina"
+  ],
+  "year": 2023,
+  "test": "ENEM",
+  "area": "nature",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

@@ -1,0 +1,23 @@
+{
+  "number": 6,
+  "text": "Nesse texto de opinião, as marcas linguísticas revelam uma situação distensa e de pouca formalidade, o que se videncia pelo(a)",
+  "alternatives": {
+    "a": "impessoalização ao longo do texto, como em: “se não há mais tempo”.",
+    "b": "construção de uma atmosfera de urgência, em palavras como: “pressa”.",
+    "c": "repetição de uma determinada estrutura sintática, como em: “Se tudo é para ontem”.",
+    "d": "ênfase no emprego da hipérbole, como em: “uma refeição que pode durar uma vida”.",
+    "e": "emprego de metáforas, como em: “a vida engata uma primeira e sai em disparada”."
+  },
+  "answer": "e",
+  "tags": [
+    "linguagens",
+    "marcas linguísticas"
+  ],
+  "year": 2022,
+  "test": "ENEM",
+  "area": "linguagens",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

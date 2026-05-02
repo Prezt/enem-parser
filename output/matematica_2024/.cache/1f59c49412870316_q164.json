@@ -1,0 +1,26 @@
+{
+  "number": 164,
+  "text": "A prefeitura de uma cidade planeja construir três postos [Esquema - pontos H, P1, P2 e P3] de saúde. Esses postos devem ser construídos em locais equidistantes entre si e de forma que as distâncias desses três postos ao hospital dessa cidade sejam iguais. Foram conseguidos três locais para a construção dos postos de saúde que apresentam as características desejadas, e que distam 10 km entre si.",
+  "alternatives": {
+    "a": "2 e 3",
+    "b": "4 e 5",
+    "c": "5 e 6",
+    "d": "7 e 8",
+    "e": "8 e 9"
+  },
+  "answer": "c",
+  "tags": [
+    "geometria",
+    "distância"
+  ],
+  "year": 2024,
+  "test": "ENEM",
+  "area": "math",
+  "images": [
+    "figuras/q164_2024_fig1.png",
+    "figuras/q164_2024_fig2.png"
+  ],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

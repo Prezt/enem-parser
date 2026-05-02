@@ -1,0 +1,24 @@
+{
+  "number": 40,
+  "text": "O Twitter é reconhecido por promover o compartilhamento de textos. Nessa notícia, essa rede social foi utilizada como veículo/suporte para um concurso literário por causa do(a)",
+  "alternatives": {
+    "a": "limite predeterminado de extensão do texto.",
+    "b": "interesse pela participação de jovens.",
+    "c": "atualidade do enredo proposto.",
+    "d": "fidelidade a fatos cotidianos.",
+    "e": "dinâmica da sequência narrativa."
+  },
+  "answer": "a",
+  "tags": [
+    "comunicação e mídia",
+    "interpretação de texto"
+  ],
+  "year": 2018,
+  "test": "ENEM",
+  "area": "linguagens",
+  "difficulty": 4,
+  "images": [],
+  "contextId": "enem_2018_linguagens_ctx1",
+  "contextIds": null,
+  "language": null
+}

@@ -1,0 +1,25 @@
+{
+  "number": 81,
+  "text": "A partir da segunda metade do século XVIII, o número de escravos recém-chegados cresce no Rio e se estabiliza na Bahia. Nenhum lugar servia tão bem à recepção de escravos quanto o Rio de Janeiro. Na matéria, o jornalista informa uma mudança na dinâmica do tráfico atlântico que está relacionada à seguinte atividade:",
+  "alternatives": {
+    "a": "Coleta de drogas do sertão.",
+    "b": "Extração de metais preciosos.",
+    "c": "Adoção da pecuária extensiva.",
+    "d": "Retirada de madeira do litoral.",
+    "e": "Exploração da lavoura de tabaco."
+  },
+  "answer": "b",
+  "tags": [
+    "história do brasil colonial",
+    "história do brasil império",
+    "geopolítica e relações internacionais"
+  ],
+  "year": 2019,
+  "test": "ENEM",
+  "area": "humanas",
+  "difficulty": 6,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

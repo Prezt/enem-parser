@@ -1,0 +1,24 @@
+{
+  "number": 121,
+  "text": "O manejo adequado do solo possibilita a manutenção de sua fertilidade à medida que as trocas de nutrientes entre matéria orgânica, água, solo e o ar são mantidas para garantir a produção. Algumas espécies iônicas de alumínio são tóxicas, não só para a planta, mas para muitos organismos como as bactérias responsáveis pelas transformações no ciclo do nitrogênio. O alumínio danifica as membranas das células das raízes e restringe a expansão de suas paredes, com isso, a planta não cresce adequadamente. Para promover benefícios para a produção agrícola, é recomendada a remediação do solo utilizando calcário (CaCO₃). Essa remediação promove no solo o(a)",
+  "alternatives": {
+    "a": "diminuição do pH, deixando-o fértil.",
+    "b": "solubilização do alumínio, ocorrendo sua lixiviação pela chuva.",
+    "c": "interação do íon cálcio com o íon alumínio, produzindo uma liga metálica.",
+    "d": "reação do carbonato de cálcio com os íons alumínio, formando alumínio metálico.",
+    "e": "aumento da sua alcalinidade, tornando os íons alumínio menos disponíveis."
+  },
+  "answer": "e",
+  "tags": [
+    "química geral e inorgânica",
+    "ecologia"
+  ],
+  "year": 2018,
+  "test": "ENEM",
+  "area": "nature",
+  "difficulty": 6,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

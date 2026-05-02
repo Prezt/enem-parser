@@ -1,0 +1,24 @@
+{
+  "number": 57,
+  "text": "No Hemisfério Sul, a sequência latitudinal dos desertos representada na imagem sofre uma interrupção no Brasil devido à seguinte razão:",
+  "alternatives": {
+    "a": "Existência de superfícies de intensa refletividade.",
+    "b": "Preponderância de altas pressões atmosféricas.",
+    "c": "Influência de umidade das áreas florestais.",
+    "d": "Predomínio de correntes marinhas frias.",
+    "e": "Ausência de massas de ar continentais."
+  },
+  "answer": "c",
+  "tags": [
+    "geografia física e geologia",
+    "climatologia"
+  ],
+  "year": 2019,
+  "test": "ENEM",
+  "area": "humanas",
+  "difficulty": 6,
+  "images": [],
+  "contextId": "enem_2019_humanas_q57_ctx",
+  "contextIds": null,
+  "language": null
+}

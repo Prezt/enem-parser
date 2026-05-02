@@ -1,0 +1,26 @@
+{
+  "number": 89,
+  "text": "No início da década de 1990, dois biólogos importantes aceitaram o conceito de \"produção sustentável\" que previa quantos indivíduos poderiam ser explorados de forma sustentável baseado nas suas taxas de reprodução. O modelo foi contestado por pesquisadores que afirmavam que estavam caçando acima do sustentável. A limitação do modelo anterior da caça dependia da existência de áreas de refúgio e conectividade entre populações, levando a um novo modelo batizado de \"fonte-ralo\" proposto dez anos após o primeiro.\n\nNo contexto da produção científica, a necessidade de reformulação de um modelo teórico é determinada pelo confronto com um(a)",
+  "alternatives": {
+    "a": "conclusão operacional obtida por lógica dedutiva.",
+    "b": "visão de mundo marcada por preconceitos morais.",
+    "c": "hábito social condicionado pela religiosidade popular.",
+    "d": "conhecimento empírico apropriado pelo senso comum.",
+    "e": "padrão de preservação construído por experimentação sistemática."
+  },
+  "answer": "d",
+  "tags": [
+    "Filosofia e Sociologia",
+    "epistemologia e lógica",
+    "Biologia",
+    "ecologia"
+  ],
+  "year": 2018,
+  "test": "ENEM",
+  "area": "humanas",
+  "difficulty": 6,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

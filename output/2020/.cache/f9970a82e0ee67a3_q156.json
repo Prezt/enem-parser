@@ -1,0 +1,24 @@
+{
+  "number": 156,
+  "text": "O gerente de uma loja de cosméticos colocou à venda cinco diferentes tipos de perfume, tendo em estoque na loja as mesmas quantidades de cada um deles. O setor de controle de estoque encaminhou ao gerente registros gráficos descrevendo os preços unitários de cada perfume, em real, e a quantidade vendida de cada um deles, em percentual, ocorrida no mês de novembro.\n\nPreços unitários:\n  - Perfume I: R$ 200\n  - Perfume II: R$ 170\n  - Perfume III: R$ 150\n  - Perfume IV: R$ 100\n  - Perfume V: R$ 80\n\nPercentual de quantidade vendida:\n  - Perfume I: 13%\n  - Perfume II: 10%\n  - Perfume III: 16%\n  - Perfume IV: 29%\n  - Perfume V: 32%\n\nDados a chegada do final de ano e o aumento das vendas, a gerência pretende aumentar a quantidade estocada do perfume do tipo que gerou a maior arrecadação em espécie, em real, no mês de novembro. Nessas condições, qual o tipo de perfume que deverá ter maior reposição no estoque?",
+  "alternatives": {
+    "a": "I",
+    "b": "II",
+    "c": "III",
+    "d": "IV",
+    "e": "V"
+  },
+  "answer": "d",
+  "tags": [
+    "matemática financeira",
+    "aritmética e números"
+  ],
+  "year": 2020,
+  "test": "ENEM",
+  "area": "math",
+  "difficulty": 5,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

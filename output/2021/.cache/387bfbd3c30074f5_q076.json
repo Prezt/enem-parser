@@ -1,0 +1,24 @@
+{
+  "number": 76,
+  "text": "O comportamento desse religioso demonstra um",
+  "alternatives": {
+    "a": "desprezo pela vida espiritual",
+    "b": "interesse pela vida intelectual",
+    "c": "medo pela salvação da alma",
+    "d": "conflito entre a fé e a razão",
+    "e": "compromisso com a vida contemplativa"
+  },
+  "answer": "b",
+  "tags": [
+    "história medieval",
+    "filosofia e religião"
+  ],
+  "year": 2021,
+  "test": "ENEM",
+  "area": "humanas",
+  "difficulty": 5,
+  "images": [],
+  "contextId": "enem_2021_humanas_ctx1",
+  "contextIds": null,
+  "language": null
+}

@@ -1,0 +1,24 @@
+{
+  "number": 110,
+  "text": "Com base nos experimentos de plantas de Mendel, conhecidos como leis da uniformidade, segregação e distribuição independente, há um conceito que se refere ao fato de que os membros de pares diferentes de alelos se separam durante a meiose e cada gameta recebe apenas um alelo, que se distribui aleatoriamente entre os filhos, para a prole. Qual desses conceitos NÃO se aplica em TODOS os organismos diploides estudados, da mesma forma?\nHoje, sabe-se que isso nem sempre é verdade. Por quê?",
+  "alternatives": {
+    "a": "A distribuição depende do caráter de dominância ou recessividade do alelo",
+    "b": "Os organismos nem sempre herdam cada um dos alelos parentais de forma íntegra",
+    "c": "As alterações cromossômicas podem levar a falhas nos processos de segregação",
+    "d": "Os genes localizados fisicamente próximos no mesmo cromossomo não se segregam independentemente",
+    "e": "O cromossomo que contém dois determinados genes pode sofrer crossing-over"
+  },
+  "answer": "d",
+  "tags": [
+    "genética e hereditariedade",
+    "evolução"
+  ],
+  "year": 2019,
+  "test": "ENEM",
+  "area": "nature",
+  "difficulty": 6,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

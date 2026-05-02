@@ -1,0 +1,24 @@
+{
+  "number": 147,
+  "text": "Para quebrar um código de cifra de deslocamento, realiza-se uma análise de frequência das letras no texto cifrado e compara-se com a frequência esperada das letras na língua original. Uma análise do texto do romance O Guarani, de José de Alencar, forneceu a frequência das letras apresentada no gráfico. Considerando que o código foi feito com deslocamento cíclico e comparando o gráfico com a frequência esperada para o português, qual conjunto de letras do texto original tinha frequência máxima?",
+  "alternatives": {
+    "a": "A, E, O e S",
+    "b": "D, H, R e V",
+    "c": "D, H, R e V",
+    "d": "R, S e T",
+    "e": "S, T e U"
+  },
+  "answer": "c",
+  "tags": [
+    "análise combinatória",
+    "estatística"
+  ],
+  "year": 2021,
+  "test": "ENEM",
+  "area": "math",
+  "difficulty": 6,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

@@ -1,0 +1,25 @@
+{
+  "number": 127,
+  "text": "[Figura - ilustração da célula] Em qual etapa do metabolismo energético celular a termogenina interfere?",
+  "alternatives": {
+    "a": "Glicólise.",
+    "b": "Fermentação lática.",
+    "c": "Ciclo do ácido cítrico.",
+    "d": "Oxidação do piruvato.",
+    "e": "Fosforilação oxidativa."
+  },
+  "answer": "e",
+  "tags": [
+    "metabolismo",
+    "biologia celular"
+  ],
+  "year": 2022,
+  "test": "ENEM",
+  "area": "nature",
+  "images": [
+    "figuras/q127_2022_fig1.png"
+  ],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

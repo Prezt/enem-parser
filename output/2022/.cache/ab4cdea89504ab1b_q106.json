@@ -1,0 +1,23 @@
+{
+  "number": 106,
+  "text": "A penicilamina é um medicamento de uso oral tilitizado no tratamento de várias doenças. Esse composto é excretado na urina, cujo pH se situa entre e 7. Sabe-se que p K  = −log  K . Qual estrutura derivada da penicilamina é redominantemente encontrada na urina?",
+  "alternatives": {
+    "a": "- C C\nS COO A\nNH CH 2 3",
+    "b": "- C C\nS COOH B\nNH CH 2 3",
+    "c": "− H S C C\nCOO C\n+ CH\nNH 3 3",
+    "d": "- C C\nS COOH D\n+ CH\nNH 3 3",
+    "e": "H S C C COOH E\n+ CH\nNH 3 3"
+  },
+  "answer": "c",
+  "tags": [
+    "química",
+    "medicina"
+  ],
+  "year": 2022,
+  "test": "ENEM",
+  "area": "nature",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

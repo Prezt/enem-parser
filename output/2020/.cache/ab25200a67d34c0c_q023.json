@@ -1,0 +1,25 @@
+{
+  "number": 23,
+  "text": "As repetições e as frases curtas constituem procedimento linguísticos importantes para a compreensão da temática do texto, pois",
+  "alternatives": {
+    "a": "expressam a futilidade do discurso de poder e de distinção do narrador.",
+    "b": "disfarçam a falta de densidade das angústias existenciais narradas.",
+    "c": "ironizam a valorização da cultura norte-americana pelos brasileiros.",
+    "d": "explicitam a ganância financeira do capitalismo contemporâneo.",
+    "e": "criticam os estereótipos sociais das visões de mundo elitistas."
+  },
+  "answer": "a",
+  "tags": [
+    "interpretação de texto",
+    "gêneros textuais",
+    "linguística e variação linguística"
+  ],
+  "year": 2020,
+  "test": "ENEM",
+  "area": "linguagens",
+  "difficulty": 6,
+  "images": [],
+  "contextId": "enem_2020_linguagens_ctx23",
+  "contextIds": null,
+  "language": null
+}

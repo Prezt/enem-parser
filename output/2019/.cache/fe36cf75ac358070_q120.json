@@ -1,0 +1,25 @@
+{
+  "number": 120,
+  "text": "A utilização de corantes na indústria de alimentos é constantemente difundida e a escolha por corantes naturais vem sendo mais explorada por diversas razões. A seguir são mostradas três estruturas de corantes naturais.\n\n[Figura: Estruturas de Bixina, Licopeno e β-caroteno]\n\nA propriedade comum às estruturas que confere cor a estes compostos é a presença de",
+  "alternatives": {
+    "a": "cadeia conjugada.",
+    "b": "cadeia ramificada.",
+    "c": "átomos de carbonos terciários.",
+    "d": "ligações duplas de configuração cis.",
+    "e": "átomos de carbonos de hibridação sp³."
+  },
+  "answer": "a",
+  "tags": [
+    "química orgânica"
+  ],
+  "year": 2019,
+  "test": "ENEM",
+  "area": "nature",
+  "difficulty": 6,
+  "images": [
+    "figuras/q120_2019_fig1.png"
+  ],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

@@ -1,0 +1,23 @@
+{
+  "number": 27,
+  "text": "A articulação entre os elementos verbais e os não verbais o texto tem como propósito desencadear a",
+  "alternatives": {
+    "a": "identificação de distinções entre mulheres e homens.",
+    "b": "revisão de representações estereotipadas de gênero.",
+    "c": "adoção de medidas preventivas de combate ao sexismo.",
+    "d": "ratificação de comportamentos femininos e masculinos.",
+    "e": "retomada de opiniões a respeito da diversidade dos papéis sociais."
+  },
+  "answer": "b",
+  "tags": [
+    "gênero",
+    "representações estereotipadas"
+  ],
+  "year": 2022,
+  "test": "ENEM",
+  "area": "linguagens",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

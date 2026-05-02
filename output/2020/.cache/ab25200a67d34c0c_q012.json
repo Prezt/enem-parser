@@ -1,0 +1,28 @@
+{
+  "number": 12,
+  "text": "Ao situar a composição no panorama cultural brasileiro, o Texto II destaca o(a)",
+  "alternatives": {
+    "a": "diálogo que a letra da canção estabelece com diferentes tradições da cultura nacional.",
+    "b": "singularidade com que o compositor converte referências eruditas em populares.",
+    "c": "caráter inovador com que o compositor concebe o processo de criação artística.",
+    "d": "relativização que a letra da canção promove na concepção tradicional de originalidade.",
+    "e": "resgate que a letra da canção promove de obras pouco conhecidas pelo público no país."
+  },
+  "answer": "a",
+  "tags": [
+    "interpretação de texto",
+    "literatura brasileira",
+    "gêneros textuais"
+  ],
+  "year": 2020,
+  "test": "ENEM",
+  "area": "linguagens",
+  "difficulty": 5,
+  "images": [],
+  "contextId": null,
+  "contextIds": [
+    "enem_2020_linguagens_ctx1",
+    "enem_2020_linguagens_ctx2"
+  ],
+  "language": null
+}

@@ -1,0 +1,23 @@
+{
+  "number": 35,
+  "text": "No texto, ao refletir sobre a atividade de cronista, a autora questiona características do gênero crônica, como",
+  "alternatives": {
+    "a": "A relação distanciada entre os interlocutores.",
+    "b": "B articulação de vários núcleos narrativos.",
+    "c": "C brevidade no tratamento da temática.",
+    "d": "D descrição minuciosa dos personagens.",
+    "e": "E público leitor exclusivo."
+  },
+  "answer": "c",
+  "tags": [
+    "cronista",
+    "gênero literário"
+  ],
+  "year": 2022,
+  "test": "ENEM",
+  "area": "linguagens",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

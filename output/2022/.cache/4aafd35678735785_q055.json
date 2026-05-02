@@ -1,0 +1,23 @@
+{
+  "number": 55,
+  "text": "As atividades agrícolas, desenvolvidas na região mencionada, intensificam o problema ambiental exposto a",
+  "alternatives": {
+    "a": "realizar florestamentos de pinus, desrespeitando a prática do pousio.",
+    "b": "utilizar sistemas de irrigação, desprezando uma drenagem adequada.",
+    "c": "instalar açudes nos grotões, retardando a velocidade da vazão fluvial.",
+    "d": "desmatar áreas de preservação permanente causando assoreamento.",
+    "e": "aplicar fertilizantes de origem orgânica, modificando a química da terra."
+  },
+  "answer": "b",
+  "tags": [
+    "ambiente",
+    "agricultura"
+  ],
+  "year": 2022,
+  "test": "ENEM",
+  "area": "humanas",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

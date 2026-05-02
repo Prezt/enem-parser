@@ -1,0 +1,23 @@
+{
+  "number": 34,
+  "text": "A história da prática do mountainboard representa uma das principais marcas das atividades de aventura, caracterizada pela",
+  "alternatives": {
+    "a": "competitividade entre seus praticantes.",
+    "b": "atividade com padrões técnicos definidos.",
+    "c": "modalidade com regras predeterminadas.",
+    "d": "criatividade para adaptações a novos espaços.",
+    "e": "necessidade de espaços definidos para a sua realização."
+  },
+  "answer": "d",
+  "tags": [
+    "linguagens",
+    "esporte e aventura"
+  ],
+  "year": 2022,
+  "test": "ENEM",
+  "area": "linguagens",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

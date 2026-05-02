@@ -1,0 +1,24 @@
+{
+  "number": 166,
+  "text": "Construir figuras de diversos tipos, apenas dobrando e cortando papel, sem cola e sem tesoura, é arte do origami (ori = dobrar; kami = papel), que tem significado altamente simbólico no Japão. A base do origami é o conhecimento do mundo por base do ato. Uma jovem resolveu construir um cisne usando técnica do origami, utilizando uma folha de papel de 8 cm por 12 cm. Assim, começou por dobrar a folha conforme a figura.\n\nApós essa primeira dobradura, a medida do segmento AE é",
+  "alternatives": {
+    "a": "2√22 cm",
+    "b": "6√3 cm",
+    "c": "12 cm",
+    "d": "6√5 cm",
+    "e": "12√2 cm"
+  },
+  "answer": "d",
+  "tags": [
+    "geometria plana",
+    "análise combinatória"
+  ],
+  "year": 2019,
+  "test": "ENEM",
+  "area": "math",
+  "difficulty": 6,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

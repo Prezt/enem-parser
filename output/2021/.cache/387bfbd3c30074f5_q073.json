@@ -1,0 +1,24 @@
+{
+  "number": 73,
+  "text": "O texto apresenta uma reflexão sobre a importância da imprensa no contexto histórico brasileiro. Com base na análise do trecho, qual é a função primordial da imprensa mencionada no texto?",
+  "alternatives": {
+    "a": "Servir como instrumento de propaganda do Estado",
+    "b": "Garantir a liberdade de expressão e informação",
+    "c": "Manter a ordem social estabelecida",
+    "d": "Educar a população sobre valores morais",
+    "e": "Promover entretenimento e diversão"
+  },
+  "answer": "a",
+  "tags": [
+    "história do brasil república",
+    "direitos humanos e cidadania"
+  ],
+  "year": 2021,
+  "test": "ENEM",
+  "area": "humanas",
+  "difficulty": 5,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

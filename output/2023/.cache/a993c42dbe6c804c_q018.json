@@ -1,0 +1,26 @@
+{
+  "number": 18,
+  "text": "Embora oriundas de momentos históricos diferentes, essas letras de canção têm em comum a",
+  "alternatives": {
+    "a": "referência às cores como elemento de crítica a hábitos contemporâneos.",
+    "b": "percepção da profusão de informações gerada pela tecnologia.",
+    "c": "contraposição entre os vícios e as virtudes da vida moderna.",
+    "d": "busca constante pela liberdade de expressão individual.",
+    "e": "crítica à finalidade comercial das notícias."
+  },
+  "answer": "b",
+  "tags": [
+    "literatura",
+    "comparação"
+  ],
+  "year": 2023,
+  "test": "ENEM",
+  "area": "linguagens",
+  "images": [],
+  "contextId": null,
+  "contextIds": [
+    "enem_2023_linguagens_ctx1",
+    "enem_2023_linguagens_ctx2"
+  ],
+  "language": null
+}

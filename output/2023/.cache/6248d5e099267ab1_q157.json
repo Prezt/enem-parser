@@ -1,0 +1,23 @@
+{
+  "number": 157,
+  "text": "Um professor, para promover a aprendizagem dos estudantes em estatística, propôs uma atividade. O objetivo era verificar o percentual de estudantes com massa corporal abaixo da média e altura acima da média de um grupo de estudantes. Para isso, usando uma balança e uma fita métrica, avaliou uma amostra de dez estudantes, anotando as medidas observadas. O gráfico apresenta a massa corporal em quilogramas e a altura, em metros, obtidas na atividade. Após a coleta dos dados, os estudantes calcularam a média dos valores obtidos, referentes à massa corporal e à altura, obtendo, respectivamente, 80 kg e 1,65 m. Qual é o percentual de estudantes dessa amostra com massa corporal abaixo da média e altura acima da média?",
+  "alternatives": {
+    "a": "10",
+    "b": "20",
+    "c": "30",
+    "d": "50",
+    "e": "70"
+  },
+  "answer": "b",
+  "tags": [
+    "estatística",
+    "percentual"
+  ],
+  "year": 2023,
+  "test": "ENEM",
+  "area": "math",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

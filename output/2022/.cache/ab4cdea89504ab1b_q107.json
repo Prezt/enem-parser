@@ -1,0 +1,24 @@
+{
+  "number": 107,
+  "text": "A biomassa celulósica pode ser utilizada para a prod que os polissacarídeos sejam convertidos em mon e ácido, conforme mostra o esquema: Nessa conversão de polissacarídeos, a função do íon H",
+  "alternatives": {
+    "a": "dissolver os reagentes.",
+    "b": "deslocar o equilíbrio químico.",
+    "c": "aumentar a velocidade da reação.",
+    "d": "mudar a constante de equilíbrio da reação.",
+    "e": "formar ligações de hidrogênio com o polissacarídeo"
+  },
+  "answer": "c",
+  "tags": [
+    "biomassa",
+    "polissacarídeos",
+    "química"
+  ],
+  "year": 2022,
+  "test": "ENEM",
+  "area": "nature",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

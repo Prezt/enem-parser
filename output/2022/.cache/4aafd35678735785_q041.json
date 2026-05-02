@@ -1,0 +1,23 @@
+{
+  "number": 41,
+  "text": "No texto, o personagem vincula ao carnaval atitudes e reações coletivas diante das quais expressa",
+  "alternatives": {
+    "a": "consagração da alegria do povo.",
+    "b": "atração e asco perante atitudes libertinas.",
+    "c": "espanto com a quantidade de foliões nas ruas.",
+    "d": "intenção de confraternizar com desconhecidos.",
+    "e": "reconhecimento da festa como manifestação cultural."
+  },
+  "answer": "b",
+  "tags": [
+    "linguagens",
+    "literatura"
+  ],
+  "year": 2022,
+  "test": "ENEM",
+  "area": "linguagens",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

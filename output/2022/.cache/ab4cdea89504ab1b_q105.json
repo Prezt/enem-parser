@@ -1,0 +1,23 @@
+{
+  "number": 105,
+  "text": "Em um autódromo, os carros podem derrapar em uma curva e bater na parede de proteção. Para diminuição do impacto de uma batida, pode-se colocar na parede uma barreira de pneus, isso faz com que a colisão seja mais demorada e o carro retorne com velocidade reduzida. Outra opção é colocar uma barreira de blocos de um material que se deforma, tornando-a tão demorada quanto a colisão com os pneus, mas que não permite a volta do carro após a colisão. Comparando as duas situações, como ficam a força média exercida sobre o carro e a energia mecânica dissipada?",
+  "alternatives": {
+    "a": "A força é maior na colisão com a barreira de pneus, a energia dissipada é maior na colisão com a barreira de blocos.",
+    "b": "A força é maior na colisão com a barreira de blocos, a energia dissipada é maior na colisão com a barreira de pneus.",
+    "c": "A força é maior na colisão com a barreira de blocos, a energia dissipada é a mesma nas duas situações.",
+    "d": "A força é maior na colisão com a barreira de pneus, a energia dissipada é maior na colisão com a barreira de pneus.",
+    "e": "A força é maior na colisão com a barreira de blocos, a energia dissipada é maior na colisão com a barreira de blocos."
+  },
+  "answer": "a",
+  "tags": [
+    "física",
+    "dinâmica"
+  ],
+  "year": 2022,
+  "test": "ENEM",
+  "area": "nature",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

@@ -1,0 +1,26 @@
+{
+  "number": 135,
+  "text": "O petróleo é uma matéria-prima muito valiosa [Figura: esquema de camadas geológicas] métodos geofísicos são úteis na sua prospecção. É possível identificar a composição de materiais stratificados medindo-se a velocidade de propagação o som (onda mecânica) através deles. Considere que ma camada de 450 m de um líquido se encontra presa o subsolo entre duas camadas rochosas, conforme o esquema. Um pulso acústico (que gera uma vibração mecânica) é emitido a partir da superfície do solo, onde ão posteriormente recebidas duas vibrações refletidas ecos). A primeira corresponde à reflexão do pulso na interface superior do líquido com a camada rochosa. A segunda vibração deve-se à reflexão do pulso na interface inferior. O tempo entre a emissão do pulso e chegada do primeiro eco é de 0,5 s. O segundo eco hega 1,1 s após a emissão do pulso.",
+  "alternatives": {
+    "a": "270",
+    "b": "540",
+    "c": "818",
+    "d": "1 500",
+    "e": "1 800"
+  },
+  "answer": "d",
+  "tags": [
+    "geofísica",
+    "física"
+  ],
+  "year": 2023,
+  "test": "ENEM",
+  "area": "nature",
+  "images": [
+    "figuras/q135_2023_fig1.png",
+    "figuras/q135_2023_fig2.png"
+  ],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

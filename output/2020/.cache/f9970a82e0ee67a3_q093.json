@@ -1,0 +1,25 @@
+{
+  "number": 93,
+  "text": "Uma pessoa percebe que a bateria de seu veículo está descarregando rapidamente. Desse período, a bateria funcionava normalmente e existe a possibilidade de haver uma corrente de fuga, que drena a bateria mesmo com o veículo desligados. Ele associa um amperímetro digital para medir essa corrente de fuga. Qual dos esquemas indica a maneira com que o amperímetro deve ser conectado ao circuito para realizar essa medição?\n\n[Esquema - três alternativas de circuito com bateria, amperímetro e circuito do veículo]",
+  "alternatives": {
+    "a": "[Esquema A: Amperímetro em paralelo com o circuito do veículo, leitura de 0,5 A]",
+    "b": "[Esquema B: Amperímetro em paralelo com o circuito do veículo, leitura de 0,5 A]",
+    "c": "[Esquema C: Amperímetro em série com a bateria e o circuito do veículo, leitura de 2,5 A]",
+    "d": "[Esquema D não descrito na questão]",
+    "e": "[Esquema E não descrito na questão]"
+  },
+  "answer": "b",
+  "tags": [
+    "eletricidade e magnetismo"
+  ],
+  "year": 2020,
+  "test": "ENEM",
+  "area": "nature",
+  "difficulty": 6,
+  "images": [
+    "figuras/q093_2020_fig1.png"
+  ],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

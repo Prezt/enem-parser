@@ -1,0 +1,23 @@
+{
+  "number": 152,
+  "text": "A exposição a alguns níveis sonoros pode causar esões auditivas. Por isso, em uma indústria, são adotadas medidas preventivas de acordo com a máquina que o uncionário opera e o nível N de intensidade do som, medido em decibel (dB), a que o operário é exposto, sendo N = log I − log 10^(-12) W/m². Quando o som é considerado baixo, ou seja, N = 48 dB ou menos, deve ser utilizada a medida preventiva I. No caso de o som ser moderado, quando N está no intervalo (48 dB, 55 dB), deve ser utilizada a medida preventiva II. Quando o som é moderado alto, que equivale a N no intervalo (55 dB, 80 dB), a medida preventiva a ser usada é a III. Se N estiver no intervalo (80 dB, 115 dB), quando o som é considerado alto, deve-se utilizar a medida preventiva IV. E se o som é considerado muito alto, com N maior que 115 dB, deve-se utilizar a medida preventiva V. Uma nova máquina, com I = 8 × 10^(-8) W/m², foi adquirida e será classificada de acordo com o nível de ruído que produz. Considere 0,3 como aproximação para log 2. O funcionário que operará a nova máquina deverá adotar medida preventiva",
+  "alternatives": {
+    "a": "I.",
+    "b": "II.",
+    "c": "III.",
+    "d": "IV.",
+    "e": "V."
+  },
+  "answer": "b",
+  "tags": [
+    "física",
+    "logaritmo"
+  ],
+  "year": 2023,
+  "test": "ENEM",
+  "area": "math",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

@@ -1,0 +1,23 @@
+{
+  "number": 47,
+  "text": "No trecho, a filósofa Hannah Arendt mostra a importância da linguagem no processo de",
+  "alternatives": {
+    "a": "entendimento da cultura.",
+    "b": "aumento da criatividade.",
+    "c": "percepção da individualidade.",
+    "d": "melhoria da técnica.",
+    "e": "construção da sociabilidade."
+  },
+  "answer": "e",
+  "tags": [
+    "filosofia",
+    "sociedade"
+  ],
+  "year": 2022,
+  "test": "ENEM",
+  "area": "humanas",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

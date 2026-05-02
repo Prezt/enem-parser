@@ -1,0 +1,24 @@
+{
+  "number": 112,
+  "text": "Para garantir que produtos eletrônicos estejam armazenados de forma adequada antes da venda, algumas empresas utilizam cartões indicadores de umidade nas embalagens desses produtos. Alguns desses cartões contêm um sal de cobalto que muda de cor em presença de água, de acordo com a equação química:\n\n∆H < 0\n(azul) (rosa)\n\nComo você procederia para reutilizar, num curto intervalo de tempo, um cartão que já estivesse com a coloração rosa?",
+  "alternatives": {
+    "a": "Resfriaria no congelador.",
+    "b": "Borrifaria com spray de água.",
+    "c": "Envolveria com papel alumínio.",
+    "d": "Aqueceria com secador de cabelos.",
+    "e": "Embrulharia em guardanapo de papel."
+  },
+  "answer": "d",
+  "tags": [
+    "termoquímica e cinética",
+    "equilíbrio químico"
+  ],
+  "year": 2020,
+  "test": "ENEM",
+  "area": "nature",
+  "difficulty": 6,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

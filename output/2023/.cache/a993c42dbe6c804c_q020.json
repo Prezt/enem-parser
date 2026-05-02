@@ -1,0 +1,23 @@
+{
+  "number": 20,
+  "text": "No princípio era o verbo. A frase que abre o primeiro capítulo do Evangelho de João e remete à criação do mundo, assim como também faz o Gênesis, é a mais famosa da Bíblia. A ideia de que o mundo é criado pela palavra, porém, é tão estruturante que está presente em outras religiões, para muito além das fundadas no cristianismo. Como humanos, a linguagem é o mundo que habitamos. Basta tentar imaginar um mundo em que não podemos usar palavras para dizer de nós e dos outros para compreender o que isso significa. Ou um mundo em que aquilo que você diz não é entendido pelo outro e o que o outro diz não é entendido por você.",
+  "alternatives": {
+    "a": "revelar a origem religiosa da linguagem",
+    "b": "questionar o temor sobre o futuro da linguagem",
+    "c": "descrever a relação entre sociedade e linguagem",
+    "d": "apresentar as consequências do esfacelamento da linguagem",
+    "e": "criticar o obstáculo promovido pelos usos especializados da linguagem"
+  },
+  "answer": "e",
+  "tags": [
+    "linguística",
+    "sociedade"
+  ],
+  "year": 2023,
+  "test": "ENEM",
+  "area": "linguagens",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

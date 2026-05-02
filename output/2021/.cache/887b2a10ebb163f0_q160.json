@@ -1,0 +1,24 @@
+{
+  "number": 160,
+  "text": "Um cliente tem falta de 800 mg do mineral A, de 1.000 mg do mineral B e de 1.200 mg do mineral C. A compra de suplementos alimentares que forneçam os referidos minerais, porém, sem que o cliente consumisse mais desses minerais do que o recomendado. O cliente encontrou cinco suplementos, vendidos em sachês unitários, cujos preços e as quantidades dos minerais estão apresentados no quadro.\n\n  - Suplemento I: contém 150 mg do mineral A, 250 mg do mineral B, 200 mg do mineral C e custa R$ 5,00;\n  - Suplemento II: contém 200 mg do mineral A, 150 mg do mineral B, 150 mg do mineral C e custa R$ 4,00;\n  - Suplemento III: contém 100 mg do mineral A, 200 mg do mineral B, 300 mg do mineral C e custa R$ 3,00;\n  - Suplemento IV: contém 250 mg do mineral A, 100 mg do mineral B, 100 mg do mineral C e custa R$ 6,00;\n  - Suplemento V: contém 400 mg do mineral A, 800 mg do mineral B, 600 mg do mineral C e custa R$ 15,00.\n\nO cliente decidiu comprar sachês de um único suplemento no qual gastasse menos dinheiro e ainda suprisse a falta de minerais indicada pelo nutricionista, mesmo que consumisse alguns deles além de sua necessidade.\nNessas condições, o cliente deverá comprar sachês do suplemento",
+  "alternatives": {
+    "a": "I",
+    "b": "II",
+    "c": "III",
+    "d": "IV",
+    "e": "V"
+  },
+  "answer": "d",
+  "tags": [
+    "aritmética e números",
+    "matemática financeira"
+  ],
+  "year": 2021,
+  "test": "ENEM",
+  "area": "math",
+  "difficulty": 6,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

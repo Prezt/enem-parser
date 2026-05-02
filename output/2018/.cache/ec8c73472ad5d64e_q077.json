@@ -1,0 +1,24 @@
+{
+  "number": 77,
+  "text": "A presunção de que a superfície das chapadas e chapadões representa uma velha peneplanície é corroborada pelo fato de que ela é coberta por acumulações superficiais, tais como massas de areia, camadas de cascalhos e seixos e pela ocorrência generalizada de concreções ferruginosas que formam uma crosta laterítica denominada \"canga\". Qual tipo climático favorece o processo de alteração do solo descrito no texto?",
+  "alternatives": {
+    "a": "Árido, com déficit hídrico.",
+    "b": "Subtropical, com baixas temperaturas.",
+    "c": "Temperado, com invernos frios e secos.",
+    "d": "Tropical, com sazonalidade das chuvas.",
+    "e": "Equatorial, com pluviosidade abundante."
+  },
+  "answer": "d",
+  "tags": [
+    "geografia física e geologia",
+    "clima e processos geomorfológicos"
+  ],
+  "year": 2018,
+  "test": "ENEM",
+  "area": "humanas",
+  "difficulty": 6,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

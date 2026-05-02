@@ -1,0 +1,24 @@
+{
+  "number": 176,
+  "text": "Em um jogo desenvolvido para uso no computador, objetos tridimensionais vão descendo do alto da tela até alcançarem o plano da base. O usuário pode mover o cursor cada objeto durante sua descida para posicioná-lo convenientemente no plano horizontal. Um desses objetos é formado pela justaposição de quatro cubos idênticos, formando assim um sólido rígido, como ilustrado na figura. Para facilitar a movimentação do objeto pelo usuário, o programa projeta ortogonalmente esse sólido em três planos quadriculados perpendiculares entre si, durante sua descida. A figura que apresenta uma possível posição desse sólido com suas respectivas projeções ortogonais sobre os três planos citados, durante sua descida é",
+  "alternatives": {
+    "a": "[Figura: Projeção A]",
+    "b": "[Figura: Projeção B]",
+    "c": "[Figura: Projeção C]",
+    "d": "[Figura: Projeção D]",
+    "e": "[Figura: Projeção E]"
+  },
+  "answer": "e",
+  "tags": [
+    "geometria espacial",
+    "geometria analítica"
+  ],
+  "year": 2020,
+  "test": "ENEM",
+  "area": "math",
+  "difficulty": 6,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

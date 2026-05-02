@@ -1,0 +1,24 @@
+{
+  "number": 92,
+  "text": "A enorme quantidade de resíduos gerados pelo consumo crescente da sociedade traz para a humanidade uma preocupação socioambiental, em especial pela quantidade de lixo produzido. Além da reciclagem e do reúso, pode-se melhorar ainda mais a qualidade de vida substituindo polímeros convencionais por polímeros biodegradáveis. Esses polímeros têm grandes vantagens socioambientais porque",
+  "alternatives": {
+    "a": "não são tóxicos.",
+    "b": "não precisam ser reciclados.",
+    "c": "não causam poluição ambiental quando descartados.",
+    "d": "são degradados em um tempo bastante menor que os convencionais.",
+    "e": "apresentam propriedades mecânicas semelhantes aos convencionais."
+  },
+  "answer": "d",
+  "tags": [
+    "meio ambiente e sustentabilidade",
+    "química geral e inorgânica"
+  ],
+  "year": 2020,
+  "test": "ENEM",
+  "area": "nature",
+  "difficulty": 4,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

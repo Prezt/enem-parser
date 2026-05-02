@@ -1,0 +1,26 @@
+{
+  "number": 131,
+  "text": "Um projetista deseja construir um brinquedo que lance um pequeno cubo ao longo de um trilho horizontal. O dispositivo precisa oferecer a opção de mudar a velocidade de lançamento. Para isso, ele utiliza uma mola em um trilho onde o atrito pode ser desprezado, conforme [Figura: dispositivo com mola e trilho horizontal].\nPara que a velocidade de lançamento do cubo seja aumentada quatro vezes, o projetista deve",
+  "alternatives": {
+    "a": "manter a mesma mola e aumentar duas vezes a sua deformação.",
+    "b": "manter a mesma mola e aumentar quatro vezes a sua deformação.",
+    "c": "manter a mesma mola e aumentar dezesseis vezes a sua deformação.",
+    "d": "trocar a mola por outra de constante elástica duas vezes maior e manter a deformação.",
+    "e": "trocar a mola por outra de constante elástica quatro vezes maior e manter a deformação."
+  },
+  "answer": "b",
+  "tags": [
+    "mecânica newtoniana",
+    "energia e trabalho"
+  ],
+  "year": 2018,
+  "test": "ENEM",
+  "area": "nature",
+  "difficulty": 6,
+  "images": [
+    "figuras/q131_2018_fig1.png"
+  ],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

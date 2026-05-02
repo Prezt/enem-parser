@@ -1,0 +1,24 @@
+{
+  "number": 59,
+  "text": "As estruturas geológicas indicadas no texto são importantes economicamente para o Brasil por concentrarem",
+  "alternatives": {
+    "a": "fontes de águas termais.",
+    "b": "afloramentos de sal-gema.",
+    "c": "jazidas de minerais metálicos.",
+    "d": "depósitos de calcário agrícola.",
+    "e": "reservas de combustível fóssil."
+  },
+  "answer": "c",
+  "tags": [
+    "geografia física e geologia",
+    "geopolítica e território"
+  ],
+  "year": 2020,
+  "test": "ENEM",
+  "area": "humanas",
+  "difficulty": 6,
+  "images": [],
+  "contextId": "enem_2020_humanas_059_ctx1",
+  "contextIds": null,
+  "language": null
+}

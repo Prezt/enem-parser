@@ -1,0 +1,25 @@
+{
+  "number": 45,
+  "text": "Nesses versos, há uma exaltação ao sertão do Cariri em uma ambientação linguisticamente apoiada no(a)",
+  "alternatives": {
+    "a": "uso recorrente de pronomes.",
+    "b": "variedade popular da língua portuguesa.",
+    "c": "referência ao conjunto da fauna nordestina.",
+    "d": "exploração de instrumentos musicais eruditos.",
+    "e": "predomínio de regionalismos lexicais nordestinos."
+  },
+  "answer": "b",
+  "tags": [
+    "interpretação de texto",
+    "linguística e variação linguística",
+    "literatura brasileira"
+  ],
+  "year": 2019,
+  "test": "ENEM",
+  "area": "linguagens",
+  "difficulty": 6,
+  "images": [],
+  "contextId": "enem_2019_linguagens_ctx45",
+  "contextIds": null,
+  "language": null
+}

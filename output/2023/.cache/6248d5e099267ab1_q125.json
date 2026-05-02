@@ -1,0 +1,23 @@
+{
+  "number": 125,
+  "text": "A síndrome de Down é uma alteração genética associada à presença de três cromossomos 21 e não um par, como é normal. Isso ocorre quando um gameta possuidor de dois cromossomos 21 participa da formação do zigoto. Em 2008, no interior de São Paulo, uma dessas mulheres estéreis teve um filho. Sabendo disso, um jovem casal, ambos com essa síndrome, deseja ter um bebê por razões genéticas. O médico informa ao casal que, com relação aos cromossomos 21 do futuro filho, é possível que ele tenha:",
+  "alternatives": {
+    "a": "todos normais.",
+    "b": "todos tetrassômicos.",
+    "c": "apenas normais ou tetrassômicos.",
+    "d": "apenas trissômicos ou tetrassômicos.",
+    "e": "normais, trissômicos ou tetrassômicos."
+  },
+  "answer": "e",
+  "tags": [
+    "genética",
+    "síndrome de down"
+  ],
+  "year": 2023,
+  "test": "ENEM",
+  "area": "nature",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

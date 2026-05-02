@@ -1,0 +1,23 @@
+{
+  "number": 24,
+  "text": "Nesse artigo de opinião, ao fazer uso de uma fala rebuscada no exemplo da compra do pão, o autor evidencia a importância de(a)",
+  "alternatives": {
+    "a": "se ter um notável saber jurídico.",
+    "b": "valorização da inteligência do falante.",
+    "c": "falar difícil para demonstrar inteligência.",
+    "d": "coesão e da coerência em documentos jurídicos.",
+    "e": "adequação da linguagem à situação de comunicação"
+  },
+  "answer": "e",
+  "tags": [
+    "linguística",
+    "comunicação"
+  ],
+  "year": 2022,
+  "test": "ENEM",
+  "area": "linguagens",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

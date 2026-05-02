@@ -1,0 +1,25 @@
+{
+  "number": 3,
+  "text": "A poetisa Kamala Das, como muitos escritores indianos, escreve suas obras em inglês, apesar de essa não ser sua primeira língua. Nesses versos, ela",
+  "alternatives": {
+    "a": "usa a língua inglesa com efeito humorístico.",
+    "b": "recorre a vozes de vários escritores ingleses.",
+    "c": "adverte sobre o uso distorcido da língua inglesa.",
+    "d": "demonstra consciência de sua identidade linguística.",
+    "e": "reconhece a incompreensão na sua maneira de falar inglês."
+  },
+  "answer": "d",
+  "tags": [
+    "interpretação de texto",
+    "língua inglesa",
+    "linguística e variação linguística"
+  ],
+  "year": 2018,
+  "test": "ENEM",
+  "area": "linguagens",
+  "difficulty": 6,
+  "images": [],
+  "contextId": "enem_2018_linguagens_ctx3",
+  "contextIds": null,
+  "language": "en"
+}

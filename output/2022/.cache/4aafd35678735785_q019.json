@@ -1,0 +1,23 @@
+{
+  "number": 19,
+  "text": "Nesse texto, a violência no futebol está caracterizada como um(a)",
+  "alternatives": {
+    "a": "problema social localizado numa região do país.",
+    "b": "desafio para as torcidas organizadas dos clubes.",
+    "c": "reflexo da precariedade da organização social no país.",
+    "d": "inadequação de espaço nos estádios para receber o público.",
+    "e": "consequência da insatisfação dos clubes com a organização dos jogos."
+  },
+  "answer": "c",
+  "tags": [
+    "sociedade",
+    "violência"
+  ],
+  "year": 2022,
+  "test": "ENEM",
+  "area": "linguagens",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

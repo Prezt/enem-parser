@@ -1,0 +1,25 @@
+{
+  "number": 17,
+  "text": "Nesse fragmento, a fim de atrair a atenção do leitor e de estabelecer um fio condutor de sentido, o autor utiliza-se de",
+  "alternatives": {
+    "a": "primeira pessoa do singular para imprimir subjetividade ao relato de mais uma desilusão amorosa.",
+    "b": "ironia para tratar da relação com os celulares na era de produtos altamente descartáveis.",
+    "c": "frases feitas na apresentação de situações amorosas estereotipadas para construir a ambientação do texto.",
+    "d": "quebra de expectativa como estratégia argumentativa para ocultar informações.",
+    "e": "verbos no tempo pretérito para enfatizar uma aproximação com os fatos abordados ao longo do texto."
+  },
+  "answer": "c",
+  "tags": [
+    "interpretação de texto",
+    "gêneros textuais",
+    "literatura brasileira"
+  ],
+  "year": 2018,
+  "test": "ENEM",
+  "area": "linguagens",
+  "difficulty": 6,
+  "images": [],
+  "contextId": "enem_2018_linguagens_q17_ctx1",
+  "contextIds": null,
+  "language": null
+}

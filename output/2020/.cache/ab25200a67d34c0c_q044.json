@@ -1,0 +1,24 @@
+{
+  "number": 44,
+  "text": "Nessa campanha publicitária, a imagem da família e texto verbal unem-se para reforçar a ideia de que",
+  "alternatives": {
+    "a": "a família que adota é mais feliz.",
+    "b": "a adoção tardia é muito positiva.",
+    "c": "as famílias preferem adotar bebês.",
+    "d": "a adoção de adolescentes é mais simples.",
+    "e": "os filhos adotivos são companheiros dos pais."
+  },
+  "answer": "b",
+  "tags": [
+    "interpretação de texto",
+    "comunicação e mídia"
+  ],
+  "year": 2020,
+  "test": "ENEM",
+  "area": "linguagens",
+  "difficulty": 5,
+  "images": [],
+  "contextId": "enem_2020_linguagens_ctx1",
+  "contextIds": null,
+  "language": null
+}

@@ -1,0 +1,25 @@
+{
+  "number": 56,
+  "text": "FO EU QUERIA\nRAI PODER. [Figura: charge ilustra um anseio presente na sociedade]\nA charge ilustra uma situação de ...",
+  "alternatives": {
+    "a": "situação de revolta individual.",
+    "b": "satisfação de desejos pessoais.",
+    "c": "participação em ações decisórias.",
+    "d": "permanência em passividade social.",
+    "e": "conivência em interesses partidários."
+  },
+  "answer": "c",
+  "tags": [
+    "sociedade",
+    "anseio"
+  ],
+  "year": 2023,
+  "test": "ENEM",
+  "area": "humanas",
+  "images": [
+    "figuras/q056_2023_fig1.png"
+  ],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

@@ -1,0 +1,25 @@
+{
+  "number": 41,
+  "text": "Nessa petição da pitoresca personagem do romance de Lima Barreto, o uso da norma-padrão justifica-se pela",
+  "alternatives": {
+    "a": "situação social de enunciação representada.",
+    "b": "divergência teórica entre gramáticos e literatos.",
+    "c": "pouca representatividade das línguas indígenas.",
+    "d": "atitude irônica diante da língua dos colonizadores.",
+    "e": "tentativa de solicitação do documento demandado."
+  },
+  "answer": "a",
+  "tags": [
+    "interpretação de texto",
+    "linguística e variação linguística",
+    "literatura brasileira"
+  ],
+  "year": 2020,
+  "test": "ENEM",
+  "area": "linguagens",
+  "difficulty": 6,
+  "images": [],
+  "contextId": "enem_2020_linguagens_ctx1",
+  "contextIds": null,
+  "language": null
+}

@@ -1,0 +1,24 @@
+{
+  "number": 138,
+  "text": "Uma pessoa, que perdeu um objeto pessoal quando visitou uma cidade, pretende divulgar nos meios de comunicação informações a respeito da perda desse objeto e de seu contato para eventual devolução. No entanto, ela lembra que, de acordo com o Art. 1234 do Código Civil, poderá ter que pagar pelas despesas de transporte desse objeto até sua cidade e poderá ter que recompensar a pessoa que lhe restituir o objeto em, pelo menos, 5% do valor do objeto.\nEla sabe que o custo com transporte será de um quinto do valor atual do objeto e, como ela tem muito interesse em reavê-lo, pretende ofertar o maior percentual possível de recompensa, desde que o gasto total com as despesas não ultrapasse o valor atual do objeto.\nNessas condições, o percentual sobre o valor do objeto, dado como recompensa, que ela deverá ofertar é igual a",
+  "alternatives": {
+    "a": "20%",
+    "b": "25%",
+    "c": "40%",
+    "d": "60%",
+    "e": "80%"
+  },
+  "answer": "e",
+  "tags": [
+    "aritmética e números",
+    "matemática financeira"
+  ],
+  "year": 2019,
+  "test": "ENEM",
+  "area": "math",
+  "difficulty": 5,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

@@ -1,0 +1,23 @@
+{
+  "number": 1,
+  "text": "O filme 'Como estrelas em la terra' aborda o tema da dislexia. Relacionando o cartaz do filme com a sinopse, constata-se que o(a) ...",
+  "alternatives": {
+    "a": "olhar diferenciado para com o outro gera mudanças",
+    "b": "estudante com dislexia apresenta um tom questionado",
+    "c": "abordagem para lidar com a dislexia é pautada na disciplina.",
+    "d": "contato com os pais prejudica o acompanhamento da dislexia.",
+    "e": "mudança de interesses ocorre na transição da infância para a vida adulta."
+  },
+  "answer": null,
+  "tags": [
+    "dislexia",
+    "filmes"
+  ],
+  "year": 2023,
+  "test": "ENEM",
+  "area": "linguagens",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

@@ -1,0 +1,24 @@
+{
+  "number": 71,
+  "text": "No contexto das distintas formas de apropriação da terra o poema de Cora Coralina valoriza a relação entre",
+  "alternatives": {
+    "a": "grileiros e controle territorial.",
+    "b": "meeiros e divisão do trabalho.",
+    "c": "camponeses e uso da natureza.",
+    "d": "indígenas e manejo agroecológico.",
+    "e": "latifundiários e fertilização do solo."
+  },
+  "answer": "c",
+  "tags": [
+    "literatura brasileira",
+    "cultura e identidade"
+  ],
+  "year": 2020,
+  "test": "ENEM",
+  "area": "humanas",
+  "difficulty": 6,
+  "images": [],
+  "contextId": "enem_2020_humanas_q71_ctx1",
+  "contextIds": null,
+  "language": null
+}

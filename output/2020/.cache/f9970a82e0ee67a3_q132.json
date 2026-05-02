@@ -1,0 +1,24 @@
+{
+  "number": 132,
+  "text": "Megaespetáculos com queima de grande quantidade de fogos de artifício em festas de final de ano são muito comuns no Brasil. Após a queima, grande quantidade de material particulado permanece suspensa no ar. Entre os resíduos, encontram-se compostos de sódio, potássio, bário, cálcio, chumbo, antimônio, cromo, além de percloratos e gases, como os dióxidos de nitrogênio e enxofre.\n\nEsses espetáculos promovem riscos ambientais, porque",
+  "alternatives": {
+    "a": "as substâncias resultantes da queima de fogos de artifício são inflamáveis.",
+    "b": "os resíduos produzidos na queima de fogos de artifício ainda são explosivos.",
+    "c": "o sódio e o potássio são os principais responsáveis pela toxicidade do produto da queima.",
+    "d": "os produtos da queima contêm metais pesados e gases tóxicos que resultam em poluição atmosférica.",
+    "e": "o material particulado gerado se deposita na superfície das folhas das plantas impedindo os processos de respiração celular."
+  },
+  "answer": "d",
+  "tags": [
+    "química geral e inorgânica",
+    "meio ambiente e sustentabilidade"
+  ],
+  "year": 2020,
+  "test": "ENEM",
+  "area": "nature",
+  "difficulty": 5,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

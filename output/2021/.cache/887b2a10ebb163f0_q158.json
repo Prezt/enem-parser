@@ -1,0 +1,24 @@
+{
+  "number": 158,
+  "text": "Para realizar um voo entre duas cidades que distam 2 000 km uma da outra, uma companhia aérea utilizava um modelo de aeronave A, capaz de transportar até 200 passageiros. Quando uma dessas aeronaves está lotada de passageiros, o consumo de combustível é de 0,02 litro por quilômetro e por passageiro. Essa companhia resolveu trocar o modelo de aeronave A por um modelo B, capaz de transportar até 300 passageiros, e cujo consumo de combustível é de 0,01 litro por quilômetro e por passageiro. A quantidade de combustível consumida pelo modelo B em um voo lotado entre as duas cidades é",
+  "alternatives": {
+    "a": "10% menor",
+    "b": "20% menor",
+    "c": "igual",
+    "d": "20% maior",
+    "e": "11% maior"
+  },
+  "answer": "b",
+  "tags": [
+    "aritmética e números",
+    "matemática financeira"
+  ],
+  "year": 2021,
+  "test": "ENEM",
+  "area": "math",
+  "difficulty": 4,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

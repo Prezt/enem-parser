@@ -1,0 +1,21 @@
+{
+  "number": 3,
+  "text": "[UNABLE TO EXTRACT - SOURCE TEXT SEVERELY CORRUPTED]",
+  "alternatives": {
+    "a": "[CORRUPTED]",
+    "b": "[CORRUPTED]",
+    "c": "[CORRUPTED]",
+    "d": "[CORRUPTED]",
+    "e": "[CORRUPTED]"
+  },
+  "answer": "a",
+  "tags": [],
+  "year": 2021,
+  "test": "ENEM",
+  "area": "linguagens",
+  "difficulty": 5,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

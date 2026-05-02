@@ -1,0 +1,23 @@
+{
+  "number": 37,
+  "text": "O uso das redes sociais como forma de ampliar universos foi uma descoberta recente para o artista Wolney Fernandes, que começou a criar quando o ambiente em Goiás era mais árido em relação às artes visuais. “Hoje, ser diferente é uma potência e quem sabe o que quer com própria arte encontra espaço”, diz. As colagens artísticas do goiano aparecem em capas de obras literárias pelo Brasil e exterior.",
+  "alternatives": {
+    "a": "dar suporte à técnica de colagem em Artes Visuais, contornando dificuldades práticas.",
+    "b": "aproximar-se da estética visual própria da editoração de obras artísticas, como capas de livros.",
+    "c": "oferecer uma vitrine internacional para sua produção artística, a fim de dar mais visibilidade a suas obras.",
+    "d": "enfatizar o caráter original e inovador de suas criações artísticas, diferenciando-se das artes tradicionais.",
+    "e": "trazer um sentido tecnológico às suas colagens, uma vez que as imagens artísticas são recorrentes nas redes sociais."
+  },
+  "answer": "c",
+  "tags": [
+    "redes-sociais",
+    "artes-visuais"
+  ],
+  "year": 2023,
+  "test": "ENEM",
+  "area": "linguagens",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

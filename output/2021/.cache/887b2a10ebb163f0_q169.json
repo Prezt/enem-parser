@@ -1,0 +1,23 @@
+{
+  "number": 169,
+  "text": "Uma empresa de brindes promocionais contrata um profissional para desenhista de uma peça a ser fabricada em breve. A primeira tarefa designada a esse profissional é desenhar peças pequenas em formato de um triângulo equilátero de altura h, conforme ilustra a Figura 2. Após esse processo, cada peça é aquecida, deformando os cantos, e cortada em um dos cantos, ficando com o formato que se assemelha a um triângulo, com uma abertura e uma haste, conforme ilustra a Figura 1. Essa haste é utilizada para fixar a peça a uma corrente ou a um chaveiro. O profissional foi informado que a altura do triângulo equilátero é h = 8 cm, sendo assim, ele precisa providenciar uma barra de comprimento adequado para trabalhar. Deseja-se que o comprimento da barra utilizada seja igual ao perímetro do triângulo equilátero representado na Figura 2. Nessas condições, o valor que mais se aproxima da medida do comprimento da barra, em centímetro, é",
+  "alternatives": {
+    "a": "9,20",
+    "b": "13,60",
+    "c": "20,40",
+    "d": "27,18",
+    "e": "36,24"
+  },
+  "answer": "d",
+  "tags": [
+    "geometria plana"
+  ],
+  "year": 2021,
+  "test": "ENEM",
+  "area": "math",
+  "difficulty": 4,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

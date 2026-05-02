@@ -1,0 +1,23 @@
+{
+  "number": 90,
+  "text": "Não tinha outra filosofia. Nem eu. Não digo que a Univ\rs só as fórmulas, o vocabulário, o esqueleto. Tratei-a com Horácio, uma dúzia de locuções morais e políticas, para a história, a jurisprudência. Colhi de todas as coisas a fraseologia da conversação. A descrição crítica do personagem de Machado de Assis se mostra semelhante às características dos sofistas, contestados na Grécia Antiga.",
+  "alternatives": {
+    "a": "elaboração conceitual de entendimentos",
+    "b": "utilização persuasiva do discurso",
+    "c": "narração alegórica dos rapsodos",
+    "d": "investigação empírica da physis",
+    "e": "expressão pictográfica da pólis"
+  },
+  "answer": "b",
+  "tags": [
+    "literatura",
+    "filosofia"
+  ],
+  "year": 2023,
+  "test": "ENEM",
+  "area": "humanas",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

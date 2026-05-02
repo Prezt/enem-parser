@@ -1,0 +1,24 @@
+{
+  "number": 32,
+  "text": "Qual é o principal efeito de sentido da repetição da estrutura 'comprar aquilo que os caras anunciavam como o top' ao longo do texto?",
+  "alternatives": {
+    "a": "Demonstrar a variedade de produtos escolares disponíveis no mercado.",
+    "b": "Criticar a influência da publicidade no consumo infantil.",
+    "c": "Destacar a qualidade superior dos produtos anunciados.",
+    "d": "Enfatizar a pressão social para adquirir produtos de marca.",
+    "e": "Indicar a evolução do mercado de artigos escolares."
+  },
+  "answer": "d",
+  "tags": [
+    "interpretação de texto",
+    "comunicação e mídia"
+  ],
+  "year": 2021,
+  "test": "ENEM",
+  "area": "linguagens",
+  "difficulty": 6,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

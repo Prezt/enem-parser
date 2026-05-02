@@ -1,0 +1,24 @@
+{
+  "number": 67,
+  "text": "A dinâmica hidrológica expressa no gráfico demonstra que o processo de urbanização promove a",
+  "alternatives": {
+    "a": "redução do volume dos rios.",
+    "b": "expansão do lençol freático.",
+    "c": "diminuição do índice de chuvas.",
+    "d": "retração do nível dos reservatórios.",
+    "e": "ampliação do escoamento superficial."
+  },
+  "answer": "e",
+  "tags": [
+    "geografia física e geologia",
+    "meio ambiente e sustentabilidade"
+  ],
+  "year": 2018,
+  "test": "ENEM",
+  "area": "humanas",
+  "difficulty": 5,
+  "images": [],
+  "contextId": "enem_2018_humanas_67_ctx1",
+  "contextIds": null,
+  "language": null
+}

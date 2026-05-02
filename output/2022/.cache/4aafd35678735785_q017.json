@@ -1,0 +1,23 @@
+{
+  "number": 17,
+  "text": "Esse texto, que simula um verbete para a palavra ‘palavra’, constitui-se como um poema porque",
+  "alternatives": {
+    "a": "tematiza o fazer poético, como em “Os poetas classificam as palavras pela alma”.",
+    "b": "utiliza o recurso expressivo da metáfora, como em “As palavras têm corpo e alma”.",
+    "c": "valoriza a gramática da língua, como em “substantivo, adjetivo, verbo, advérbio, conjunção”.",
+    "d": "estabelece comparações, como em “As palavras têm corpo e alma, mas são diferentes das pessoas”.",
+    "e": "apresenta informações pertinentes acerca do conceito de “palavra”, como em “As gramáticas classificam as palavras”."
+  },
+  "answer": "b",
+  "tags": [
+    "poesia",
+    "linguística"
+  ],
+  "year": 2022,
+  "test": "ENEM",
+  "area": "linguagens",
+  "images": [],
+  "contextId": "enem_2022_linguagens_ctx1",
+  "contextIds": null,
+  "language": null
+}

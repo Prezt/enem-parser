@@ -1,0 +1,25 @@
+{
+  "number": 19,
+  "text": "Essa petição de habeas corpus, ao transgredir o rigor da linguagem jurídica,",
+  "alternatives": {
+    "a": "permite que a narrativa seja objetiva e repleta de sentidos denotativos.",
+    "b": "mostra que o cordel explora termos próprios da esfera do direito.",
+    "c": "demonstra que o jogo de linguagem proposto atenua a gravidade do delito.",
+    "d": "exemplifica como o texto em forma de cordel compromete a solicitação pretendida.",
+    "e": "esclarece que os termos \"crime\" e \"processo de contravenção\" são sinônimos."
+  },
+  "answer": "c",
+  "tags": [
+    "interpretação de texto",
+    "gêneros textuais",
+    "literatura brasileira"
+  ],
+  "year": 2020,
+  "test": "ENEM",
+  "area": "linguagens",
+  "difficulty": 6,
+  "images": [],
+  "contextId": "enem_2020_linguagens_ctx1",
+  "contextIds": null,
+  "language": null
+}

@@ -1,0 +1,23 @@
+{
+  "number": 93,
+  "text": "A utilização de tecnologia nuclear é um tema bastante controverso, por causa do risco de acidentes graves, como aqueles ocorridos em Chernobyl (1986), Goiânia (1987) e Fukushima (2011). Apesar das muitas desvantagens, como a geração de resíduos tóxicos, a descontaminação ambiental dispendiosa em caso de acidentes e a utilização em armas nucleares, a geração de energia nuclear apresenta vantagens em comparação a outras fontes de energia. A geração dessa energia tem como característica:",
+  "alternatives": {
+    "a": "Formar resíduos facilmente recicláveis.",
+    "b": "Promover o aumento do desmatamento.",
+    "c": "Contribuir para a produção de chuva ácida.",
+    "d": "Emitir gases tóxicos que são lançados no ambiente",
+    "e": "Produzir calor sem o consumo de combustíveis fósseis"
+  },
+  "answer": "e",
+  "tags": [
+    "energia nuclear",
+    "desvantagens"
+  ],
+  "year": 2023,
+  "test": "ENEM",
+  "area": "nature",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

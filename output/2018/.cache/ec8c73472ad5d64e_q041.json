@@ -1,0 +1,25 @@
+{
+  "number": 41,
+  "text": "Nesse texto, busca-se convencer o leitor a mudar seu comportamento por meio da associação de verbos no modo imperativo à",
+  "alternatives": {
+    "a": "indicação de diversos canais de atendimento.",
+    "b": "divulgação do Centro de Defesa da Mulher.",
+    "c": "informação sobre a duração da campanha.",
+    "d": "apresentação dos diversos apoiadores.",
+    "e": "utilização da imagem das três mulheres."
+  },
+  "answer": "e",
+  "tags": [
+    "interpretação de texto",
+    "gêneros textuais",
+    "comunicação e mídia"
+  ],
+  "year": 2018,
+  "test": "ENEM",
+  "area": "linguagens",
+  "difficulty": 6,
+  "images": [],
+  "contextId": "enem_2018_linguagens_q41_ctx1",
+  "contextIds": null,
+  "language": null
+}

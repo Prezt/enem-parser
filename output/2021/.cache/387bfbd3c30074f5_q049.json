@@ -1,0 +1,27 @@
+{
+  "number": 49,
+  "text": "Considerando os textos apresentados, qual é a principal crítica feita aos sistemas tradicionais de proteção do patrimônio histórico?",
+  "alternatives": {
+    "a": "Consideram o monumento desvinculado da realidade social e econômica.",
+    "b": "Promovem a valorização excessiva do patrimônio sem considerar sua manutenção.",
+    "c": "Não reconhecem a importância da transmissão das obras do passado.",
+    "d": "Impedem a modernização necessária das estruturas históricas.",
+    "e": "Priorizam apenas os monumentos de valor espiritual elevado."
+  },
+  "answer": "c",
+  "tags": [
+    "história da cultura e arte",
+    "direitos humanos e cidadania"
+  ],
+  "year": 2021,
+  "test": "ENEM",
+  "area": "humanas",
+  "difficulty": 6,
+  "images": [],
+  "contextId": null,
+  "contextIds": [
+    "enem_2021_humanas_ctx1",
+    "enem_2021_humanas_ctx2"
+  ],
+  "language": null
+}

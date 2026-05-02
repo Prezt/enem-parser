@@ -1,0 +1,24 @@
+{
+  "number": 131,
+  "text": "O eletrocardiograma é um exame cardíaco que mede a atividade elétrica do coração. A imagem apresenta o resultado típico obtido em um paciente saudável, com a intensidade do sinal (V) em função do tempo (s). De acordo com o eletrocardiograma apresentado, qual foi o número de batimentos cardíacos por minuto desse paciente durante o exame?",
+  "alternatives": {
+    "a": "30",
+    "b": "60",
+    "c": "100",
+    "d": "120",
+    "e": "180"
+  },
+  "answer": "b",
+  "tags": [
+    "fisiologia humana",
+    "física moderna"
+  ],
+  "year": 2021,
+  "test": "ENEM",
+  "area": "nature",
+  "difficulty": 6,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

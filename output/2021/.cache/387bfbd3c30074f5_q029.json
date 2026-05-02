@@ -1,0 +1,25 @@
+{
+  "number": 29,
+  "text": "O texto a seguir faz parte de um artigo sobre como ler notícias na era da informação. O autor argumenta que o leitor não deve consumir passivamente as informações recebidas, mas deve questionar, investigar e desenvolver ceticismo crítico diante dos fatos divulgados. Esse comportamento deve partir de uma iniciativa individual e tornar-se coletivo.\n\nNo texto, os argumentos apresentados permitem inferir que o objetivo do autor é convencer os leitores a",
+  "alternatives": {
+    "a": "buscarem fontes de informação comprometidas com a verdade.",
+    "b": "privilegiarem notícias veiculadas em jornais de grande circulação.",
+    "c": "adotarem uma postura crítica em relação às informações recebidas.",
+    "d": "questionarem a prática jornalística anterior ao surgimento da internet.",
+    "e": "valorizarem reportagens redigidas com imparcialidade diante dos fatos."
+  },
+  "answer": "c",
+  "tags": [
+    "interpretação de texto",
+    "comunicação e mídia",
+    "gêneros textuais"
+  ],
+  "year": 2021,
+  "test": "ENEM",
+  "area": "linguagens",
+  "difficulty": 5,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

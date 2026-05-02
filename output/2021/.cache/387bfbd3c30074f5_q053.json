@@ -1,0 +1,24 @@
+{
+  "number": 53,
+  "text": "Artistas por um dia?",
+  "alternatives": {
+    "a": "Diversidade regional",
+    "b": "Preservação de tradições",
+    "c": "Experimentação e criatividade",
+    "d": "Formação de novos públicos",
+    "e": "Acessibilidade cultural"
+  },
+  "answer": "b",
+  "tags": [
+    "literatura brasileira",
+    "cultura e identidade"
+  ],
+  "year": 2021,
+  "test": "ENEM",
+  "area": "humanas",
+  "difficulty": 5,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

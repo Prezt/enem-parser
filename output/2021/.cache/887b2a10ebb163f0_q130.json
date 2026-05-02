@@ -1,0 +1,24 @@
+{
+  "number": 130,
+  "text": "Com o objetivo de proporcionar aroma e sabor a diversos alimentos, a indústria alimentícia se utiliza de compostos orgânicos como as apresentadas no quadro. Qual dos aromas apresenta cadeia carbônica saturada?",
+  "alternatives": {
+    "a": "kiwi",
+    "b": "banana",
+    "c": "pêssego",
+    "d": "rum",
+    "e": "uva"
+  },
+  "answer": "b",
+  "tags": [
+    "química orgânica",
+    "química geral e inorgânica"
+  ],
+  "year": 2021,
+  "test": "ENEM",
+  "area": "nature",
+  "difficulty": 6,
+  "images": [],
+  "contextId": "enem_2021_nature_130_ctx1",
+  "contextIds": null,
+  "language": null
+}

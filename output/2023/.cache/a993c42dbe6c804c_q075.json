@@ -1,0 +1,23 @@
+{
+  "number": 75,
+  "text": "A torcida do Fluminense inicia um movimento para mudar a letra de uma das músicas mais populares das rquibancadas tricolores. Grupos pedem a remoção do ermo “mulambo imundo”, em uma provocação direta ao lamengo. Mulambo é um termo que surgiu em Angola, a época da escravatura, e eles eram chamados de mulambos pelos senhores de engenho, os patrões as fazendas. Qual mudança no comportamento social a proposta eportada no texto reflete?",
+  "alternatives": {
+    "a": "Rejeição de costumes elitistas.",
+    "b": "Repulsão de condutas misóginas.",
+    "c": "Condenação do preconceito racial.",
+    "d": "Criminalização de práticas homofóbicas.",
+    "e": "Contestação do comportamento machista."
+  },
+  "answer": "c",
+  "tags": [
+    "sociedade",
+    "cultura"
+  ],
+  "year": 2023,
+  "test": "ENEM",
+  "area": "humanas",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

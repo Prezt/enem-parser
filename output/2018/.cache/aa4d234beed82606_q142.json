@@ -1,0 +1,24 @@
+{
+  "number": 142,
+  "text": "De acordo com a Lei Universal da Gravitação, proposta por Isaac Newton, a intensidade da força gravitacional que a Terra exerce sobre um satélite em órbita circular é proporcional à massa m do satélite e inversamente proporcional ao quadrado do raio r da órbita, ou seja, F = km/r². No plano cartesiano, três satélites, A, B e C, estão representados, cada um, por um ponto (m; r) cujas coordenadas são, respectivamente, a massa do satélite e o raio da sua órbita em torno da Terra. Com base nas posições relativas dos pontos no gráfico, deseja-se comparar as intensidades FA, FB e FC da força gravitacional que a Terra exerce sobre os satélites A, B e C, respectivamente. As intensidades FA, FB e FC expressas no gráfico satisfazem a relação",
+  "alternatives": {
+    "a": "FC = FA < FB",
+    "b": "FA = FB < FC",
+    "c": "FA < FB < FC",
+    "d": "FA < FC < FB",
+    "e": "FC < FA < FB"
+  },
+  "answer": "e",
+  "tags": [
+    "matemática financeira",
+    "funções"
+  ],
+  "year": 2018,
+  "test": "ENEM",
+  "area": "math",
+  "difficulty": 6,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

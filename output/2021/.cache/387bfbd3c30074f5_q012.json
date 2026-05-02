@@ -1,0 +1,25 @@
+{
+  "number": 12,
+  "text": "Observando o cartaz e considerando as funções da linguagem, qual é o objetivo principal da mensagem?",
+  "alternatives": {
+    "a": "Informar sobre os tipos de plástico utilizados na indústria de embalagens.",
+    "b": "Desvincular o conceito de descarte da ideia de sustentabilidade ambiental.",
+    "c": "Conscientizar a população sobre a importância da reciclagem de materiais plásticos.",
+    "d": "Orientar o consumidor sobre o modo correto de descartar embalagens de plástico.",
+    "e": "Alertar a população sobre as sanções legais acerca do abandono de resíduos no meio ambiente."
+  },
+  "answer": "d",
+  "tags": [
+    "interpretação de texto",
+    "comunicação e mídia",
+    "linguística e variação linguística"
+  ],
+  "year": 2021,
+  "test": "ENEM",
+  "area": "linguagens",
+  "difficulty": 6,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

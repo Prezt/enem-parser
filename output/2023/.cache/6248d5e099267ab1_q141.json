@@ -1,0 +1,23 @@
+{
+  "number": 141,
+  "text": "No alojamento de uma universidade, há alguns quartos vagos. Um desses quartos ficou disponível, e muitos estudantes se candidataram para um sorteio será realizado. Para esse sorteio, cartões individuais são depositados em uma urna, sendo que, para cada estudante de primeiro ano, um cartão com seu nome; para cada estudante de segundo ano, dois cartões com seu nome; e para cada estudante de terceiro ano, três cartões com seu nome. Foram inscritos 200 estudantes no sorteio: 100 do primeiro ano, 60 do segundo ano e 40 do terceiro ano. Todos os cartões têm a mesma probabilidade de serem sorteados. Qual a probabilidade de o vencedor do sorteio ser um estudante do segundo ano?",
+  "alternatives": {
+    "a": "1",
+    "b": "1",
+    "c": "8",
+    "d": "9",
+    "e": "8"
+  },
+  "answer": "e",
+  "tags": [
+    "probabilidade",
+    "estatística"
+  ],
+  "year": 2023,
+  "test": "ENEM",
+  "area": "math",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

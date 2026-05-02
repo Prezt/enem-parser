@@ -1,0 +1,23 @@
+{
+  "number": 58,
+  "text": "As práticas religiosas mencionadas nos textos estã associadas, respectivamente, à:",
+  "alternatives": {
+    "a": "Delimitação de paisagens urbanas e abandono d componentes espiritualistas.",
+    "b": "Demarcação de patrimônios afetivos e apropriaçã de elementos judaizantes.",
+    "c": "Expansão de fronteiras regionais e subjetivação d cristianismo medieval.",
+    "d": "Circunscrição de bens simbólicos e admissão d cerimônias ecumênicas.",
+    "e": "Criação de lugares místicos e experiências d catolicismo popular."
+  },
+  "answer": "e",
+  "tags": [
+    "religião",
+    "história"
+  ],
+  "year": 2022,
+  "test": "ENEM",
+  "area": "humanas",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

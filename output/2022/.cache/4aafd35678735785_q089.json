@@ -1,0 +1,23 @@
+{
+  "number": 89,
+  "text": "As sociedades mencionadas deixaram como legado uma diversidade de",
+  "alternatives": {
+    "a": "bens religiosos inspirados na matriz cristã.",
+    "b": "materiais bélicos pilhados em batalhas coloniais.",
+    "c": "heranças culturais constituídas em saberes próprios.",
+    "d": "costumes laborais moldados em estilos estrangeiros.",
+    "e": "práticas medicinais alicerçadas no conhecimento científico."
+  },
+  "answer": "c",
+  "tags": [
+    "história",
+    "cultura"
+  ],
+  "year": 2022,
+  "test": "ENEM",
+  "area": "humanas",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

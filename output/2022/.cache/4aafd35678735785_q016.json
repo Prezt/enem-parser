@@ -1,0 +1,23 @@
+{
+  "number": 16,
+  "text": "O texto é exemplar de um gênero discursivo que cumpr a função social de",
+  "alternatives": {
+    "a": "narrar, por meio de imagem e poesia, cenas da vida das irmãs Petra e Elena.",
+    "b": "descrever, por meio das memórias de Petra, a separação de duas irmãs.",
+    "c": "sintetizar, por meio das principais cenas do filme, a história de Elena.",
+    "d": "lançar, por meio da história de vida do autor, um filme autobiográfico.",
+    "e": "avaliar, por meio de análise crítica, o filme em referência."
+  },
+  "answer": "e",
+  "tags": [
+    "gênero discursivo",
+    "função social"
+  ],
+  "year": 2022,
+  "test": "ENEM",
+  "area": "linguagens",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

@@ -1,0 +1,25 @@
+{
+  "number": 34,
+  "text": "O infográfico intitulado \"Os riscos para crianças do uso do celular antes de dormir\" apresenta, por meio de ícones e setas, os malefícios causados pelo uso de dispositivos digitais antes de dormir — como obesidade, comprometimento do sistema imunológico e depressão — e recomendações para evitá-los, como permanecer duas horas sem telas antes de dormir e manter o telefone longe da cama.\n\nNo texto, os recursos verbais e não verbais empregados têm por objetivo",
+  "alternatives": {
+    "a": "divulgar informações científicas sobre o uso indiscriminado de aparelhos celulares.",
+    "b": "influenciar o leitor a mudar atitudes e hábitos considerados prejudiciais às crianças.",
+    "c": "relacionar o uso da tecnologia aos efeitos decorrentes da falta de exercícios físicos.",
+    "d": "indicar medidas eficazes para desestimular a utilização de telefones pelo público infantil.",
+    "e": "sugerir aos pais e responsáveis a substituição de dispositivos móveis por atividades lúdicas."
+  },
+  "answer": "b",
+  "tags": [
+    "interpretação de texto",
+    "comunicação e mídia",
+    "gêneros textuais"
+  ],
+  "year": 2021,
+  "test": "ENEM",
+  "area": "linguagens",
+  "difficulty": 5,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

@@ -1,0 +1,24 @@
+{
+  "number": 99,
+  "text": "A identificação de riscos de produtos perigosos para o transporte rodoviário é obrigatória e realizada por meio da sinalização composta por um painel de segurança, de cor laranjada, e um rótulo de risco. As informações inseridas no painel de segurança e no rótulo de risco, conforme determina a legislação, permitem que se identifique o produto transportado e os perigos a ele associados. A sinalização mostrada identifica uma substância que está sendo transportada em um caminhão.\n\n268 GÁS TÓXICO\n1005\n2\n\nOs três algarismos da parte superior do painel indicam \"Número de risco\". O número 268 indica tratar-se de um gás (2), tóxico (6) e corrosivo (8). Os quatro dígitos da parte inferior correspondem ao \"Número ONU\", que identifica o produto transportado.\n\nConsiderando a identificação apresentada no caminhão, código 1005 corresponde à substância",
+  "alternatives": {
+    "a": "eteno (C₂H₄)",
+    "b": "nitrogênio (N₂)",
+    "c": "amônia (NH₃)",
+    "d": "propano (C₃H₈)",
+    "e": "dióxido de carbono (CO₂)"
+  },
+  "answer": "c",
+  "tags": [
+    "química geral e inorgânica",
+    "química orgânica"
+  ],
+  "year": 2018,
+  "test": "ENEM",
+  "area": "nature",
+  "difficulty": 6,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

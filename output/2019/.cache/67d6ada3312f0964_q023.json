@@ -1,0 +1,25 @@
+{
+  "number": 23,
+  "text": "Nesse cartaz, o uso da imagem do calçado aliada a texto verbal tem o objetivo de",
+  "alternatives": {
+    "a": "criticar as difíceis condições de vida dos refugiados",
+    "b": "revelar a longa trajetória percorrida pelos refugiados",
+    "c": "incentivar a campanha de doações para os refugiados",
+    "d": "denunciar a situação de carência vivida pelos refugiados",
+    "e": "simbolizar a necessidade de adesão à causa dos refugiados"
+  },
+  "answer": "e",
+  "tags": [
+    "interpretação de texto",
+    "artes visuais",
+    "comunicação e mídia"
+  ],
+  "year": 2019,
+  "test": "ENEM",
+  "area": "linguagens",
+  "difficulty": 5,
+  "images": [],
+  "contextId": "enem_2019_linguagens_q23",
+  "contextIds": null,
+  "language": null
+}

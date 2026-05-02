@@ -1,0 +1,24 @@
+{
+  "number": 85,
+  "text": "Analise o anúncio de fuga de escravo publicado no Jornal Correio Paulistano no século XIX e considere as informações sobre o escravo José. Qual das seguintes alternativas melhor caracteriza o contexto histórico e social em que tal anúncio foi produzido?",
+  "alternatives": {
+    "a": "A abolição da escravidão estava próxima, o que levava ao aumento de fugas e à publicação de anúncios para captura de escravos.",
+    "b": "A escravidão era amplamente aceita como instituição legítima, e os anúncios de fuga refletiam a preocupação dos senhores em recuperar sua propriedade.",
+    "c": "Os escravos fugidos frequentemente conseguiam se estabelecer legalmente como homens livres nas cidades grandes.",
+    "d": "A lei garantia proteção total aos escravos fugidos, o que explicava a necessidade de anúncios públicos.",
+    "e": "O sistema de escravidão estava em colapso devido ao grande número de fugas registradas nos jornais da época."
+  },
+  "answer": "a",
+  "tags": [
+    "história do brasil imperial",
+    "ética e política"
+  ],
+  "year": 2021,
+  "test": "ENEM",
+  "area": "humanas",
+  "difficulty": 6,
+  "images": [],
+  "contextId": "enem_2021_humanas_q85_ctx1",
+  "contextIds": null,
+  "language": null
+}

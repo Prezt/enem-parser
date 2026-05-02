@@ -1,0 +1,24 @@
+{
+  "number": 110,
+  "text": "Um estudante relatou que o mapeamento do DNA da cevada foi quase todo concluído e seu código genético esvendado. Chamou atenção para o número de genes que compõem esse código genético e que a semente da cevada, apesar de pequena, possui um genoma mais complexo que o humano, sendo boa parte desse código constituída de sequências repetidas. Nesse contexto, o conceito de código genético está abordado de forma equivocada. Cientificamente esse conceito é definido como",
+  "alternatives": {
+    "a": "trincas de nucleotídeos que codificam os aminoácidos.",
+    "b": "localização de todos os genes encontrados em um genoma.",
+    "c": "codificação de sequências repetidas presentes em um genoma.",
+    "d": "conjunto de todos os RNAs mensageiros transcritos em um organismo.",
+    "e": "todas as sequências de pares de bases presentes em um organismo."
+  },
+  "answer": "a",
+  "tags": [
+    "genética e hereditariedade",
+    "citologia"
+  ],
+  "year": 2018,
+  "test": "ENEM",
+  "area": "nature",
+  "difficulty": 6,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

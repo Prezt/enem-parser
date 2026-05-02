@@ -1,0 +1,24 @@
+{
+  "number": 9,
+  "text": "O fragmento do conto \"A volta do marido pródigo\" apresenta características do estilo de Guimarães Rosa. A expressão \"P'ra uns, as vacas morrem … p'ra outros até boi pega\" exemplifica o recurso estilístico de Rosa relacionado",
+  "alternatives": {
+    "a": "à criação de palavras que expressam sentimentos e emoções do homem rural.",
+    "b": "à utilização de estruturas sintáticas que refletem o modo de falar coloquial.",
+    "c": "aos nomes de personagens que acentuam aspectos psicológicos e sociais.",
+    "d": "ao emprego de ditados populares que resgatam a sabedoria ancestral.",
+    "e": "à recriação de mitos e lendas que caracterizam a cultura brasileira."
+  },
+  "answer": "d",
+  "tags": [
+    "literatura brasileira",
+    "gêneros textuais"
+  ],
+  "year": 2021,
+  "test": "ENEM",
+  "area": "linguagens",
+  "difficulty": 6,
+  "images": [],
+  "contextId": "enem_2021_linguagens_ctx1",
+  "contextIds": null,
+  "language": null
+}

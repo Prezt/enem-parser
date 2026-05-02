@@ -1,0 +1,24 @@
+{
+  "number": 7,
+  "text": "A utilização de determinadas variedades linguísticas em campanhas educativas tem a função de atingir o público-alvo de forma mais direta e eficaz. No caso desse texto, identifica-se essa estratégia pelo(a)",
+  "alternatives": {
+    "a": "discurso formal da língua portuguesa.",
+    "b": "registro padrão próprio da língua escrita.",
+    "c": "seleção lexical restrita à esfera da medicina.",
+    "d": "fidelidade ao jargão da linguagem publicitária.",
+    "e": "uso de marcas linguísticas típicas da oralidade."
+  },
+  "answer": "e",
+  "tags": [
+    "linguística e variação linguística",
+    "comunicação e mídia"
+  ],
+  "year": 2018,
+  "test": "ENEM",
+  "area": "linguagens",
+  "difficulty": 5,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

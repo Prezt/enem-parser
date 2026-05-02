@@ -1,0 +1,23 @@
+{
+  "number": 119,
+  "text": "Suponha um frasco metálico de um aerossol de capacidade igual a 100 mL, contendo 0,1 mol de produto gasoso à temperatura de 650 °C, no momento da explosão. Considere: R = 0,082 L ⋅ atm / (mol ⋅ K). A pressão, em atm, dentro do frasco, no momento da explosão, é mais próxima de",
+  "alternatives": {
+    "a": "756",
+    "b": "533",
+    "c": "76",
+    "d": "53",
+    "e": "13"
+  },
+  "answer": "c",
+  "tags": [
+    "física",
+    "química"
+  ],
+  "year": 2023,
+  "test": "ENEM",
+  "area": "nature",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

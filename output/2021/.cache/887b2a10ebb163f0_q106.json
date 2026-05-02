@@ -1,0 +1,26 @@
+{
+  "number": 106,
+  "text": "Na presença de luz, a bilirrubina é convertida em lumirrubina, que é excretada pela bile ou pela urina. A imagem ilustra o que ocorre com a bilirrubina quando exposta à luz.\n\n[Figura: Estrutura química da bilirrubina e lumirrubina com representação de isomeria]\n\nQual é o tipo de isomeria que ocorre na conversão de bilirrubina em lumirrubina?",
+  "alternatives": {
+    "a": "Ótico",
+    "b": "Funcional",
+    "c": "De cadeia",
+    "d": "De posição",
+    "e": "Geométrico"
+  },
+  "answer": "c",
+  "tags": [
+    "química orgânica",
+    "estequiometria"
+  ],
+  "year": 2021,
+  "test": "ENEM",
+  "area": "nature",
+  "difficulty": 6,
+  "images": [
+    "figuras/q106_2021_fig1.png"
+  ],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

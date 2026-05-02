@@ -1,0 +1,27 @@
+{
+  "number": 126,
+  "text": "Tensoativos são compostos orgânicos que possuem uma região hidrofóbica e outra hidrofílica. O principal tensoativo iônico sintético surgiu na década de 1940 e teve grande aceitação no mercado de detergentes em razão do melhor desempenho comparado ao do sabão. No entanto, o uso desse produto provocou grandes problemas ambientais entre eles a resistência à degradação biológica, por causa dos diversos carbonos terciários na cadeia que compõe a porção hidrofóbica desse tensoativo aniônico. As ramificações na cadeia dificultam sua degradação, levando à persistência no meio ambiente por longos períodos. Isso levou a sua substituição na maioria dos países por tensoativos biodegradáveis, ou seja, com cadeias alquílicas lineares.\n\nQual a fórmula estrutural do tensoativo persistente no ambiente mencionado no texto?\n\n[Figura: estruturas químicas de tensoativos com cadeias ramificadas]",
+  "alternatives": {
+    "a": "A estrutura com ramificações terciárias e grupo SO3Na",
+    "b": "A estrutura linear com grupo SO3Na",
+    "c": "A estrutura com grupo CN e ramificações",
+    "d": "A estrutura com íon N+ e cloro",
+    "e": "A estrutura com grupo N e cloro"
+  },
+  "answer": "b",
+  "tags": [
+    "química orgânica",
+    "química geral e inorgânica",
+    "meio ambiente e sustentabilidade"
+  ],
+  "year": 2018,
+  "test": "ENEM",
+  "area": "nature",
+  "difficulty": 6,
+  "images": [
+    "figuras/q126_2018_fig1.png"
+  ],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

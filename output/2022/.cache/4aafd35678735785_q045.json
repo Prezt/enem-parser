@@ -1,0 +1,25 @@
+{
+  "number": 45,
+  "text": "[Figura] Chico Science foi fundamental para a renovação da música pernambucana, fato que se deu pela",
+  "alternatives": {
+    "a": "utilização de aparelhos musicais eletrônicos em lugar dos instrumentos tradicionais.",
+    "b": "ocupação de espaços da natureza local para a produção de eventos musicais memoráveis.",
+    "c": "substituição de antigas práticas musicais, como o frevo, por melodias e harmonias inovadoras.",
+    "d": "recuperação de composições tradicionais folclóricas e sua apresentação em grandes festivais.",
+    "e": "integração de referenciais culturais de diferentes origens, criando uma nova combinação estética."
+  },
+  "answer": "e",
+  "tags": [
+    "cultura",
+    "música"
+  ],
+  "year": 2022,
+  "test": "ENEM",
+  "area": "linguagens",
+  "images": [
+    "figuras/q045_2022_fig1.png"
+  ],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

@@ -1,0 +1,24 @@
+{
+  "number": 123,
+  "text": "As células e os organismos precisam realizar trabalho para permanecerem vivos e se reproduzirem. A energia metabólica necessária para a realização desse trabalho é oriunda da oxidação de combustíveis, gerados no ciclo do carbono, por meio de processos capazes de interconverter diferentes formas da energia. Nesse ciclo, a formação de combustíveis está vinculada à conversão de energia",
+  "alternatives": {
+    "a": "térmica em cinética.",
+    "b": "química em térmica.",
+    "c": "eletroquímica em calor.",
+    "d": "cinética em eletromagnética.",
+    "e": "eletromagnética em química."
+  },
+  "answer": "e",
+  "tags": [
+    "biologia",
+    "termoquímica e cinética"
+  ],
+  "year": 2018,
+  "test": "ENEM",
+  "area": "nature",
+  "difficulty": 6,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

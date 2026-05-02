@@ -1,0 +1,23 @@
+{
+  "number": 150,
+  "text": "Dirigir após ingerir bebidas alcoólicas é uma atitude extremamente perigosa, uma vez que, a partir da primeira dose, a pessoa já começa a ter perda de sensibilidade de movimentos e de reflexos. Apesar de a eliminação absorção do álcool depender de cada pessoa e como o organismo consegue metabolizar a substância, ao final da primeira hora após a ingestão, a concentração de álcool ( C ) no sangue corresponde a aproximadamente 90% da quantidade ( q ) de álcool ingerida, e a eliminação total dessa concentração pode demorar até 12 horas. Nessas condições, ao final da primeira hora após a ingestão da quantidade  q  de álcool, a concentração  C  dessa substância no sangue é expressa algebricamente por",
+  "alternatives": {
+    "a": "C = 0,9 q",
+    "b": "C = 0,1 q",
+    "c": "C = 1 − 0,1 q",
+    "d": "C = 1 − 0,9 q",
+    "e": "C = q − 10"
+  },
+  "answer": "a",
+  "tags": [
+    "álgebra",
+    "matemática-aplicada"
+  ],
+  "year": 2023,
+  "test": "ENEM",
+  "area": "math",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

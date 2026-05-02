@@ -1,0 +1,25 @@
+{
+  "number": 4,
+  "text": "No poema de Robert Frost, as palavras \"fault\" e \"blame\" revelam por parte do eu lírico uma",
+  "alternatives": {
+    "a": "culpa por não poder cuidar do pássaro.",
+    "b": "atitude errada por querer matar o pássaro.",
+    "c": "necessidade de entender o silêncio do pássaro.",
+    "d": "sensibilização com relação à natureza do pássaro.",
+    "e": "irritação quanto à persistência do canto do pássaro."
+  },
+  "answer": "d",
+  "tags": [
+    "interpretação de texto",
+    "literatura mundial",
+    "língua inglesa"
+  ],
+  "year": 2020,
+  "test": "ENEM",
+  "area": "linguagens",
+  "difficulty": 6,
+  "images": [],
+  "contextId": "enem_2020_linguagens_ctx1",
+  "contextIds": null,
+  "language": "en"
+}

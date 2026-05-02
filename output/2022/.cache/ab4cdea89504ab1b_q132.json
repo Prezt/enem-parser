@@ -1,0 +1,23 @@
+{
+  "number": 132,
+  "text": "Os resultados de um ensaio clínico randomizado na dengue nas áreas que receberam o mosquito Aedes aegypti tratado com bactéria Wolbachia, iniciativa da Fiocruz, confirmaram uma redução de 77% dos casos de dengue. Trata-se da mesma tecnologia utilizada no combate à dengue consiste em?",
+  "alternatives": {
+    "a": "predação do vírus pela bactéria.",
+    "b": "esterilização de mosquitos infectados.",
+    "c": "alteração no genótipo do mosquito pela bactéria.",
+    "d": "competição do vírus e da bactéria no hospedeiro.",
+    "e": "inserção de material genético do vírus na bactéria."
+  },
+  "answer": "d",
+  "tags": [
+    "biologia",
+    "ensaio clínico"
+  ],
+  "year": 2022,
+  "test": "ENEM",
+  "area": "nature",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

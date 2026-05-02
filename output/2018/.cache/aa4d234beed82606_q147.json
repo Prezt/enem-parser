@@ -1,0 +1,24 @@
+{
+  "number": 147,
+  "text": "O colesterol total de uma pessoa é obtido pela soma da taxa do seu \"colesterol bom\" com a taxa do seu \"colesterol ruim\". Os exames periódicos, realizados em um paciente adulto, apresentaram taxa normal de \"colesterol bom\", porém, taxa do \"colesterol ruim\" (também chamado LDL) de 280 mg/dL.\n\nO quadro apresenta uma classificação de acordo com as taxas de LDL em adultos.\n\n| Taxa de LDL (mg/dL) | Classificação |\n| --- | --- |\n| Menor do que 100 | Ótima |\n| De 100 a 129 | Próxima de ótima |\n| De 130 a 159 | Limite |\n| De 160 a 189 | Alta |\n| 190 ou mais | Muito alta |\n\nO paciente, seguindo as recomendações médicas sobre estilo de vida e alimentação, realizou o exame logo após o primeiro mês, e a taxa de LDL reduziu 25%. No mês seguinte, realizou novo exame e constatou uma redução de mais 20% na taxa de LDL.\n\nDe acordo com o resultado do segundo exame, a classificação da taxa de LDL do paciente é",
+  "alternatives": {
+    "a": "ótima.",
+    "b": "próxima de ótima.",
+    "c": "limite.",
+    "d": "alta.",
+    "e": "muito alta."
+  },
+  "answer": "d",
+  "tags": [
+    "aritmética e números",
+    "matemática financeira"
+  ],
+  "year": 2018,
+  "test": "ENEM",
+  "area": "math",
+  "difficulty": 3,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

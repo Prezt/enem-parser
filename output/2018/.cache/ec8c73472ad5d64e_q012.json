@@ -1,0 +1,25 @@
+{
+  "number": 12,
+  "text": "Por ser múltipla e apresentar peculiaridades de acordo com a intenção do emissor, a linguagem apresenta funções diferentes. Nesse fragmento, predomina a função referencial da linguagem, porque há a presença de elementos que",
+  "alternatives": {
+    "a": "buscam convencer o leitor, incitando o uso do aplicativo.",
+    "b": "definem o aplicativo, revelando o ponto de vista da autora.",
+    "c": "evidenciam a subjetividade, explorando a entonação emotiva.",
+    "d": "expõem dados sobre o aplicativo, usando linguagem denotativa.",
+    "e": "objetivam manter um diálogo com o leitor, recorrendo a uma indagação."
+  },
+  "answer": "d",
+  "tags": [
+    "linguística e variação linguística",
+    "comunicação e mídia",
+    "interpretação de texto"
+  ],
+  "year": 2018,
+  "test": "ENEM",
+  "area": "linguagens",
+  "difficulty": 6,
+  "images": [],
+  "contextId": "enem_2018_linguagens_12_ctx1",
+  "contextIds": null,
+  "language": null
+}

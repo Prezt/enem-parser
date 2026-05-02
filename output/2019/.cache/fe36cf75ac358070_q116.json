@@ -1,0 +1,26 @@
+{
+  "number": 116,
+  "text": "A fluidez da membrana celular é caracterizada pela capacidade de movimento das moléculas componentes dessa estrutura. Os seres vivos mantêm essa propriedade de duas formas: controlando a temperatura e/ou alterando a composição lipídica da membrana. Neste último aspecto, o tamanho e o grau de insaturação das caudas hidrocarbônicas dos fosfolipídios, conforme representados na figura, influenciam significativamente a fluidez. Isso porque quanto maior for a magnitude das interações entre os fosfolipídios, menor será a fluidez da membrana.\n\n[Figura: Representação simplificada da estrutura de um fosfolipídio com cabeça polar e caudas hidrocarbônicas indicando insaturação]\n\nAssim, existem bicamadas lipídicas com diferentes composições de fosfolipídios, como as mostradas de I a V.\n\n[Figura: Bicamadas lipídicas com diferentes composições de fosfolipídios - I, II, III, IV, V]\n\nQual das bicamadas lipídicas apresentadas possui maior fluidez?",
+  "alternatives": {
+    "a": "I",
+    "b": "II",
+    "c": "III",
+    "d": "IV",
+    "e": "V"
+  },
+  "answer": "b",
+  "tags": [
+    "citologia",
+    "soluções e solubilidade"
+  ],
+  "year": 2019,
+  "test": "ENEM",
+  "area": "nature",
+  "difficulty": 6,
+  "images": [
+    "figuras/q116_2019_fig1.png"
+  ],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

@@ -305,9 +305,9 @@ def _process_block(
         # contexts come before the question stem, so process them first.
         destinations: list[tuple[str, str | None]] = []  # ("ctx", ctx_id) | ("question", None)
         for ctx_id, ctx_data in extracted_contexts.items():
-            for _ in _MARKER_RE.findall(ctx_data.get("text", "")):
+            for _ in _MARKER_RE.findall(ctx_data.get("text") or ""):
                 destinations.append(("ctx", ctx_id))
-        for _ in _MARKER_RE.findall(data.get("text", "")):
+        for _ in _MARKER_RE.findall(data.get("text") or ""):
             destinations.append(("question", None))
 
         ctx_images: dict[str, list[str]] = {}

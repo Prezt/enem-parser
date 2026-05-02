@@ -1,0 +1,24 @@
+{
+  "number": 29,
+  "text": "Nessa letra da canção, a suposição do último verso finaliza a intenção do autor de",
+  "alternatives": {
+    "a": "ironizar as relações familiares modernas.",
+    "b": "reforçar o humor da situação representada.",
+    "c": "expressar perplexidade em relação ao parente.",
+    "d": "atribuir à criança a causa da dúvida existencial.",
+    "e": "questionar os lugares predeterminados da família."
+  },
+  "answer": "b",
+  "tags": [
+    "interpretação de texto",
+    "gêneros textuais"
+  ],
+  "year": 2020,
+  "test": "ENEM",
+  "area": "linguagens",
+  "difficulty": 5,
+  "images": [],
+  "contextId": "enem_2020_linguagens_ctx1",
+  "contextIds": null,
+  "language": null
+}

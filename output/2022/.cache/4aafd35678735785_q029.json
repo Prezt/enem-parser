@@ -1,0 +1,23 @@
+{
+  "number": 29,
+  "text": "No relato da visita de duas mulheres ricas a uma vidente no Morro do Castelo, a ironia — um dos traços mais representativos da narrativa machadiana — consiste no",
+  "alternatives": {
+    "a": "modo de vestir dos moradores do morro carioca.",
+    "b": "senso prático em relação às oportunidades de renda",
+    "c": "mistério que cerca as clientes de práticas divinatórias.",
+    "d": "misto de singeleza e astúcia dos gestos da personagem.",
+    "e": "interesse do narrador pelas figuras femininas ambíguas."
+  },
+  "answer": "d",
+  "tags": [
+    "literatura",
+    "ironia"
+  ],
+  "year": 2022,
+  "test": "ENEM",
+  "area": "linguagens",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

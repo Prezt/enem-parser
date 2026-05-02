@@ -1,0 +1,24 @@
+{
+  "number": 51,
+  "text": "Escrito durante a Primeira Guerra Mundial, o seguinte trecho faz parte da carta enviada pelo secretário do exterior britânico, Sir Arthur James Balfour, ao banqueiro Lord Rotschild, presidente da Liga Sionista, em 2 de novembro de 1917, a carta ficou conhecida como Declaração Balfour. “O governo de Sua Majestade vê com aprovação o estabelecimento na Palestina de um lar nacional para o povo judeu, e fará todos os esforços para facilitar tal objetivo. Nada será feito que possa prejudicar os direitos civis e religiosos das comunidades não judaicas na Palestina.” GATTAZ, A. A Guerra da Palestina. São Paulo: Usina do Livro, 2002 (adaptado). A análise do resultado do processo em questão revela que o governo inglês foi incapaz de garantir seu objetivo de",
+  "alternatives": {
+    "a": "promover o bem-estar social.",
+    "b": "negociar o apoio muçulmano.",
+    "c": "mediar os conflitos territoriais.",
+    "d": "estimular a cooperação regional.",
+    "e": "combater os governos autocráticos."
+  },
+  "answer": "c",
+  "tags": [
+    "Primeira Guerra Mundial",
+    "história política",
+    "declaração balfour"
+  ],
+  "year": 2023,
+  "test": "ENEM",
+  "area": "humanas",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

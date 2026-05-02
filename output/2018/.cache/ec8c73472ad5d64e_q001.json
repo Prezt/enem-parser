@@ -1,0 +1,24 @@
+{
+  "number": 1,
+  "text": "A relação dos vocábulos shower, bus e homeless, no texto, refere-se a",
+  "alternatives": {
+    "a": "empregar moradores de rua em lava a jatos para ônibus",
+    "b": "criar acesso a banhos gratuitos para moradores de rua",
+    "c": "comissionar sem-teto para dirigir os ônibus da cidade",
+    "d": "exigir das autoridades que os ônibus municipais tenham banheiros",
+    "e": "abrigar dois mil moradores de rua em ônibus que foram adaptados"
+  },
+  "answer": "b",
+  "tags": [
+    "língua inglesa",
+    "interpretação de texto"
+  ],
+  "year": 2018,
+  "test": "ENEM",
+  "area": "linguagens",
+  "difficulty": 3,
+  "images": [],
+  "contextId": "enem_2018_linguagens_ctx1",
+  "contextIds": null,
+  "language": "en"
+}

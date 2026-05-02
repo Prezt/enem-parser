@@ -1,0 +1,24 @@
+{
+  "number": 179,
+  "text": "Um quebra-cabeça consiste em recobrir um quadrado com triângulos retângulos isósceles, como ilustra a figura. Uma artesã confecciona um quebra-cabeça como descrito, de tal modo que a menor das peças é um triângulo retângulo isósceles cujos catetos medem 2 cm. O quebra-cabeça, quando montado, resultará em um quadrado cuja medida do lado, em centímetro, é",
+  "alternatives": {
+    "a": "14",
+    "b": "12",
+    "c": "7√2",
+    "d": "6 + 4√2",
+    "e": "6 + 2√2"
+  },
+  "answer": "a",
+  "tags": [
+    "geometria plana",
+    "análise combinatória"
+  ],
+  "year": 2018,
+  "test": "ENEM",
+  "area": "math",
+  "difficulty": 7,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

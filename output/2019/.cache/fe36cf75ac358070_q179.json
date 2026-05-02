@@ -1,0 +1,24 @@
+{
+  "number": 179,
+  "text": "Nos seis cômodos de uma casa há sensores de presença. A lâmpada de cada cômodo acende assim que uma pessoa nele adentra, e apaga assim que sai dele, considerando que os tempos de acendimento e o desligamento sejam instantâneos. O morador dessa casa visitou alguns desses cômodos, entrando e saindo deles uma única vez, num total de oito deslocamentos. O gráfico descreve o consumo acumulado de energia, em watt-minuto, das lâmpadas de LED dessa casa, enquanto a figura apresenta a planta baixa da casa com os cômodos numerados de 1 a 6, com as potências das respectivas lâmpadas, em watt.",
+  "alternatives": {
+    "a": "1 → 4 → 5 → 4 → 1 → 6 → 1 → 4",
+    "b": "1 → 2 → 3 → 1 → 4 → 1 → 4 → 4",
+    "c": "1 → 4 → 5 → 4 → 1 → 6 → 1 → 2 → 3",
+    "d": "1 → 2 → 3 → 5 → 4 → 1 → 6 → 1 → 4",
+    "e": "1 → 4 → 2 → 3 → 5 → 1 → 6 → 1 → 4"
+  },
+  "answer": "a",
+  "tags": [
+    "análise combinatória",
+    "aritmética e números"
+  ],
+  "year": 2019,
+  "test": "ENEM",
+  "area": "math",
+  "difficulty": 6,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

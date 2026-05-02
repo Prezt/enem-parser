@@ -1,0 +1,27 @@
+{
+  "number": 74,
+  "text": "Os textos mostram-se alinhados a um entendimento cerca da ideia de conhecimento, numa perspectiva que mpara a",
+  "alternatives": {
+    "a": "anterioridade da razão no domínio cognitivo.",
+    "b": "confirmação da existência de saberes inatos.",
+    "c": "valorização do corpo na apreensão da realidade.",
+    "d": "verificabilidade de proposições no campo da lógica.",
+    "e": "possibilidade de contemplação de verdades atemporais."
+  },
+  "answer": "c",
+  "tags": [
+    "filosofia moderna e contemporânea",
+    "epistemologia e lógica"
+  ],
+  "year": 2020,
+  "test": "ENEM",
+  "area": "humanas",
+  "difficulty": 6,
+  "images": [],
+  "contextId": null,
+  "contextIds": [
+    "enem_2020_humanas_ctx1",
+    "enem_2020_humanas_ctx2"
+  ],
+  "language": null
+}

@@ -1,0 +1,24 @@
+{
+  "number": 122,
+  "text": "O exame parasitológico de fezes é utilizado para detectar ovos de parasitos. Um dos métodos utilizados, denominado de centrífugo-flutuação, considera a densidade dos ovos em relação a uma solução de densidade 1,15 g mL−1. Assim, ovos que flutuam na superfície dessa solução são detectados. Os dados de densidade dos ovos de alguns parasitos estão apresentados na tabela.\n\n- Ancylostoma: 1,06 g mL−1\n- Ascaris lumbricoides: 1,11 g mL−1\n- Ascaris suum: 1,13 g mL−1\n- Schistosoma mansoni: 1,18 g mL−1\n- Taenia saginata: 1,30 g mL−1\n\nConsiderando-se a densidade dos ovos e da solução, ovos de quais parasitos podem ser detectados por esse método?",
+  "alternatives": {
+    "a": "A. lumbricoides, A. suum e S. mansoni.",
+    "b": "S. mansoni, T. saginata e Ancylostoma.",
+    "c": "Ancylostoma, A. lumbricoides e A. suum.",
+    "d": "T. saginata, S. mansoni e A. lumbricoides.",
+    "e": "A. lumbricoides, A. suum e T. saginata."
+  },
+  "answer": "c",
+  "tags": [
+    "microbiologia e imunologia",
+    "química geral e inorgânica"
+  ],
+  "year": 2020,
+  "test": "ENEM",
+  "area": "nature",
+  "difficulty": 6,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

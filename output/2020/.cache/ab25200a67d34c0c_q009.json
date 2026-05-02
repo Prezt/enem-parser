@@ -1,0 +1,25 @@
+{
+  "number": 9,
+  "text": "A leitura do texto permite ao leitor entrar em contato com",
+  "alternatives": {
+    "a": "registros do inventário do português brasileiro.",
+    "b": "justificativas da variedade linguística do país.",
+    "c": "influências da fala do nordestino no uso da língua.",
+    "d": "explorações do falar de um grupo social específico.",
+    "e": "representações da mudança linguística do português"
+  },
+  "answer": "a",
+  "tags": [
+    "interpretação de texto",
+    "linguística e variação linguística",
+    "literatura brasileira"
+  ],
+  "year": 2020,
+  "test": "ENEM",
+  "area": "linguagens",
+  "difficulty": 5,
+  "images": [],
+  "contextId": "enem_2020_linguagens_q9_ctx1",
+  "contextIds": null,
+  "language": null
+}

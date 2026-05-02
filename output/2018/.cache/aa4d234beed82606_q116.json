@@ -1,0 +1,24 @@
+{
+  "number": 116,
+  "text": "Células solares à base de TiO₂ sensibilizadas por corante. Nessas células, o corante adsorvido sobre o TiO₂ é excitado (S*) é capaz de transferir elétrons para o TiO₂. A conversão de energia solar em elétrons é ilustrada na figura. A reação 3 é fundamental para o contínuo funcionamento da célula. Qual é a função da reação 3?",
+  "alternatives": {
+    "a": "reduz íons I₃⁻ a I⁻",
+    "b": "regenera o corante",
+    "c": "garante que a reação 4 ocorra",
+    "d": "promove a oxidação do corante",
+    "e": "transfere elétrons para o eletrodo de TiO₂"
+  },
+  "answer": "b",
+  "tags": [
+    "química geral e inorgânica",
+    "eletroquímica"
+  ],
+  "year": 2018,
+  "test": "ENEM",
+  "area": "nature",
+  "difficulty": 6,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

@@ -1,0 +1,24 @@
+{
+  "number": 89,
+  "text": "Segundo o autor, qual é a origem do conhecimento humano?",
+  "alternatives": {
+    "a": "A potência inata da mente.",
+    "b": "A revelação da inspiração divina.",
+    "c": "O estudo das tradições filosóficas.",
+    "d": "A vivência dos fenômenos do mundo.",
+    "e": "O desenvolvimento do raciocínio abstrato."
+  },
+  "answer": "d",
+  "tags": [
+    "filosofia moderna e contemporânea",
+    "epistemologia e lógica"
+  ],
+  "year": 2020,
+  "test": "ENEM",
+  "area": "humanas",
+  "difficulty": 5,
+  "images": [],
+  "contextId": "enem_2020_humanas_89_ctx1",
+  "contextIds": null,
+  "language": null
+}

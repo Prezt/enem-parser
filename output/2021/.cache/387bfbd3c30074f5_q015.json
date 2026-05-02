@@ -1,0 +1,27 @@
+{
+  "number": 15,
+  "text": "A leitura dos dois textos permite afirmar que a obra de Machado de Assis é representativa da",
+  "alternatives": {
+    "a": "originalidade de um autor que se afasta dos modelos europeus e funda uma literatura inteiramente brasileira.",
+    "b": "capacidade de diálogo entre duas tradições literárias, ainda que se reconheça a dificuldade dessa convivência.",
+    "c": "supremacia do modelo clássico vienense sobre as influências populares e dançantes das composições líricas.",
+    "d": "tensa relação entre o erudito e o popular no Brasil, sendo impossível harmonizar essas duas dimensões da obra.",
+    "e": "recusa em incorporar elementos da cultura popular, mantendo-se fiel aos princípios do classicismo europeu."
+  },
+  "answer": "d",
+  "tags": [
+    "literatura brasileira",
+    "interpretação de texto"
+  ],
+  "year": 2021,
+  "test": "ENEM",
+  "area": "linguagens",
+  "difficulty": 6,
+  "images": [],
+  "contextId": null,
+  "contextIds": [
+    "enem_2021_linguagens_ctx1",
+    "enem_2021_linguagens_ctx2"
+  ],
+  "language": null
+}

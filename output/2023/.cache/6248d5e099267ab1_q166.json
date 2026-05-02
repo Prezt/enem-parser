@@ -1,0 +1,23 @@
+{
+  "number": 166,
+  "text": "Uma pessoa pratica quatro atividades físicas — caminhar e correr. Essas atividades apresentam o número de horas diárias por atividade. Dias da semana Caminhar Corr Segunda-feira 1,0 0,5 Terça-feira 0,5 1,0 Quarta-feira 0,0 1,5 Quinta-feira 0,0 2,0 Sexta-feira 0,0 0,5 Ela deseja comemorar seu aniversário e escolhe o dia da semana em que a soma das horas de atividades físicas praticadas for o maior. Para tanto, considera que os gastos calóricos são os seguintes: Atividade física Caminhar Correr Gasto calórico (cal/h) 248 360 O dia da semana em que será comemorado o aniversário é",
+  "alternatives": {
+    "a": "segunda-feira.",
+    "b": "terça-feira.",
+    "c": "quarta-feira.",
+    "d": "quinta-feira.",
+    "e": "sexta-feira."
+  },
+  "answer": "c",
+  "tags": [
+    "matemática",
+    "estatística"
+  ],
+  "year": 2023,
+  "test": "ENEM",
+  "area": "math",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

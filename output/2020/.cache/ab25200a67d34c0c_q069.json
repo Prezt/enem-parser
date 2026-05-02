@@ -1,0 +1,25 @@
+{
+  "number": 69,
+  "text": "No contexto do pensamento político, a ideia apresentada mostra-se consoante o(a)",
+  "alternatives": {
+    "a": "ideal republicano de governo.",
+    "b": "corrente tripartite dos poderes.",
+    "c": "posicionamento crítico do socialismo.",
+    "d": "legitimidade do absolutismo monárquico.",
+    "e": "entendimento do contratualismo moderno."
+  },
+  "answer": "e",
+  "tags": [
+    "filosofia moderna e contemporânea",
+    "ética e política",
+    "direitos humanos e cidadania"
+  ],
+  "year": 2020,
+  "test": "ENEM",
+  "area": "humanas",
+  "difficulty": 6,
+  "images": [],
+  "contextId": "enem_2020_humanas_q69_ctx1",
+  "contextIds": null,
+  "language": null
+}

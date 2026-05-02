@@ -1,0 +1,23 @@
+{
+  "number": 5,
+  "text": "A letra da canção Que quede claro, da banda cubana Orishas, revela o(a)",
+  "alternatives": {
+    "a": "indignação diante do desrespeito à diversidade",
+    "b": "violência característica das grandes metrópoles",
+    "c": "preconceito da sociedade com relação ao misticismo",
+    "d": "descuido da população com os sonhos dos imigrantes",
+    "e": "falta de segurança existente no transporte público urbano"
+  },
+  "answer": "b",
+  "tags": [
+    "música",
+    "sociedad"
+  ],
+  "year": 2023,
+  "test": "ENEM",
+  "area": "linguagens",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

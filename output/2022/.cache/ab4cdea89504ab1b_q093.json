@@ -1,0 +1,23 @@
+{
+  "number": 93,
+  "text": "Considere que cada usina apresente potência igual a 75 MW, com o parque totalizando uma potência instalada de 150 MW. Considere ainda que a radiância solar média é de 1 500 W/m² e que a eficiência dos painéis é de 20%. Nessas condições, a área total dos painéis solares que compõem o Parque Solar Lapa é mais próxima de:",
+  "alternatives": {
+    "a": "1 000 000 m²",
+    "b": "500 000 m²",
+    "c": "250 000 m²",
+    "d": "100 000 m²",
+    "e": "20 000 m²"
+  },
+  "answer": "b",
+  "tags": [
+    "energia renovável",
+    "física"
+  ],
+  "year": 2022,
+  "test": "ENEM",
+  "area": "nature",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

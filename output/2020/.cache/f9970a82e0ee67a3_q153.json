@@ -1,0 +1,24 @@
+{
+  "number": 153,
+  "text": "Para chegar à universidade, um estudante utiliza um metrô e, depois, tem duas opções:\n  - seguir num ônibus, percorrendo 2,0 km;\n  - alugar uma bicicleta, ao lado da estação do metrô, seguindo 3,0 km pela ciclovia.\n\nO quadro fornece as velocidades médias do ônibus e da bicicleta, em km/h, no trajeto metrô−universidade:\n\n| Dia da semana | Ônibus (km/h) | Bicicleta (km/h) |\n|---|---|---|\n| Segunda-feira | 9 | 15 |\n| Terça-feira | 20 | 22 |\n| Quarta-feira | 15 | 24 |\n| Quinta-feira | 12 | 15 |\n| Sexta-feira | 10 | 18 |\n| Sábado | 30 | 16 |\n\nA fim de poupar tempo no deslocamento para a universidade, em quais dias o aluno deve seguir pela ciclovia?",
+  "alternatives": {
+    "a": "Às segundas, quintas e sextas-feiras.",
+    "b": "Às terças e quintas-feiras e aos sábados.",
+    "c": "Às segundas, quartas e sextas-feiras.",
+    "d": "Às terças, quartas e sextas-feiras.",
+    "e": "Às terças e quartas-feiras e aos sábados."
+  },
+  "answer": "c",
+  "tags": [
+    "aritmética e números",
+    "análise combinatória"
+  ],
+  "year": 2020,
+  "test": "ENEM",
+  "area": "math",
+  "difficulty": 4,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

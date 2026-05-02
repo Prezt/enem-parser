@@ -1,0 +1,27 @@
+{
+  "number": 34,
+  "text": "[Figura: descrição da cena inicial de Gira] [Gráfico - relacionado ao espetáculo] Logo no início de Gira, um grupo de sete bailarinas cupa o centro da cena. Mãos cruzadas sobre a lateral squerda do quadril, olhos fechados, troncos que pendulam obre si mesmos em vaguíssimas órbitas, tudo nelas ugere o transe. Está estabelecido o caráter volátil do que e passará no palco dali para frente. Mas engana-se quem enensa que vai assistir a uma representação mimética dos ultos afro-brasileiros.",
+  "alternatives": {
+    "a": "crítica aos movimentos padronizados do balé clássico",
+    "b": "representação contemporânea de rituais ancestrais extintos",
+    "c": "reelaboração estética erudita de práticas religiosas populares",
+    "d": "releitura irônica da atmosfera mística presente no culto a entidades",
+    "e": "oposição entre o resgate de tradições e a efemeridade da vida humana"
+  },
+  "answer": "c",
+  "tags": [
+    "dança",
+    "religião afro-brasileira",
+    "arte"
+  ],
+  "year": 2023,
+  "test": "ENEM",
+  "area": "linguagens",
+  "images": [
+    "figuras/q034_2023_fig1.png",
+    "figuras/q034_2023_fig2.png"
+  ],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

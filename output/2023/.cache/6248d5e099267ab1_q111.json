@@ -1,0 +1,25 @@
+{
+  "number": 111,
+  "text": "[Figura: tirinha de Mauricio de Sousa] Na prática, à medida que se aumenta o comprimento do barbante...",
+  "alternatives": {
+    "a": "Altura.",
+    "b": "Período.",
+    "c": "Amplitude.",
+    "d": "Velocidade.",
+    "e": "Comprimento de onda."
+  },
+  "answer": "c",
+  "tags": [
+    "física",
+    "som"
+  ],
+  "year": 2023,
+  "test": "ENEM",
+  "area": "nature",
+  "images": [
+    "figuras/q111_2023_fig1.png"
+  ],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

@@ -1,0 +1,25 @@
+{
+  "number": 44,
+  "text": "Nesse texto, a mobilização do uso padrão das formas verbais e pronominais",
+  "alternatives": {
+    "a": "ajuda a localizar o enredo num ambiente estático.",
+    "b": "auxilia na caracterização física do personagem principal.",
+    "c": "acrescenta informações modificadoras às ações dos personagens.",
+    "d": "alterna os tempos da narrativa, fazendo progredir as ideias do texto.",
+    "e": "está a serviço do projeto poético, auxiliando na distinção dos referentes."
+  },
+  "answer": "e",
+  "tags": [
+    "interpretação de texto",
+    "linguística e variação linguística",
+    "literatura brasileira"
+  ],
+  "year": 2019,
+  "test": "ENEM",
+  "area": "linguagens",
+  "difficulty": 6,
+  "images": [],
+  "contextId": "enem_2019_linguagens_44_ctx",
+  "contextIds": null,
+  "language": null
+}

@@ -1,0 +1,23 @@
+{
+  "number": 171,
+  "text": "No quadro estão registradas as pontuações desses cinco jogadores nos quatro primeiros jogos da finais deste ano. O quinto e último jogo será realizado para decidir a equipe campeã e qual o melhor jogador da temporada. O jogador que precisa fazer a menor quantidade de pontos no quinto jogo, para igualar a média de pontos do melhor jogador da temporada passada, é o",
+  "alternatives": {
+    "a": "I.",
+    "b": "II.",
+    "c": "III.",
+    "d": "IV.",
+    "e": "V."
+  },
+  "answer": "a",
+  "tags": [
+    "estatística",
+    "média"
+  ],
+  "year": 2022,
+  "test": "ENEM",
+  "area": "math",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

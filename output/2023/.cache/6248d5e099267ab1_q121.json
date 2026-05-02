@@ -1,0 +1,24 @@
+{
+  "number": 121,
+  "text": "Os solos amazônicos, ricos em silicato, não são apro... (continuation of the text as provided)",
+  "alternatives": {
+    "a": "potássio.",
+    "b": "cálcio.",
+    "c": "magnésio.",
+    "d": "zinco.",
+    "e": "ferro."
+  },
+  "answer": "a",
+  "tags": [
+    "solos",
+    "biocarvão",
+    "eletronegatividade"
+  ],
+  "year": 2023,
+  "test": "ENEM",
+  "area": "nature",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

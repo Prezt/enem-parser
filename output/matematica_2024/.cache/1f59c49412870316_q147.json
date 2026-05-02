@@ -1,0 +1,23 @@
+{
+  "number": 147,
+  "text": "Uma professora de matemática utiliza em suas aulas uma “máquina caça-números” para verificar o conhecimentos de seus estudantes sobre representação de números racionais. Essa máquina tem um visor dividido em seis compartimentos e, na lateral, uma alavanca. Cada estudante puxa a alavanca e espera que os compartimentos parassem de girar. A partir daí, precisa responder para a professora em quais posições se encontram os números que representam a mesma quantidade.\nUm estudante puxou a alavanca, aguardou que os compartimentos parassem de girar e observou os números apresentados no visor. A configuração da máquina naquele instante está apresentada na imagem.\nEsse estudante respondeu corretamente à pergunta da professora.",
+  "alternatives": {
+    "a": "I, II e IV",
+    "b": "II, IV e V",
+    "c": "II, III e V",
+    "d": "III, V e VI",
+    "e": "III, IV e VI"
+  },
+  "answer": "b",
+  "tags": [
+    "números racionais",
+    "representação"
+  ],
+  "year": 2024,
+  "test": "ENEM",
+  "area": "math",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

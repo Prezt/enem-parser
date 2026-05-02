@@ -1,0 +1,27 @@
+{
+  "number": 63,
+  "text": "Qual característica do meio físico é condição necessária para a distribuição espacial do fenômeno representado?\n\n[Figura: Trajetória de ciclones tropicais]",
+  "alternatives": {
+    "a": "Cobertura vegetal com porte arbóreo.",
+    "b": "Barreiras orográficas com altitudes elevadas.",
+    "c": "Pressão atmosférica com diferença acentuada.",
+    "d": "Superfície continental com refletividade intensa.",
+    "e": "Correntes marinhas com direções convergentes."
+  },
+  "answer": "c",
+  "tags": [
+    "climatologia",
+    "geografia física e geologia",
+    "meio ambiente e sustentabilidade"
+  ],
+  "year": 2018,
+  "test": "ENEM",
+  "area": "humanas",
+  "difficulty": 6,
+  "images": [
+    "figuras/q063_2018_fig1.png"
+  ],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

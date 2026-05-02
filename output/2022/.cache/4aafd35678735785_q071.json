@@ -1,0 +1,23 @@
+{
+  "number": 71,
+  "text": "Nas sociedades contemporâneas, consiste em violação do princípio básico enunciado no texto:",
+  "alternatives": {
+    "a": "Supressão de eleições de representantes políticos.",
+    "b": "Intervenção em áreas de vulnerabilidade pela Igreja",
+    "c": "Disseminação de projetos sociais em universidades",
+    "d": "Ampliação dos processos de concentração de renda",
+    "e": "Regulamentação das relações de trabalho pelo Legislativo."
+  },
+  "answer": "a",
+  "tags": [
+    "direito",
+    "estado"
+  ],
+  "year": 2022,
+  "test": "ENEM",
+  "area": "humanas",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

@@ -1,0 +1,24 @@
+{
+  "number": 97,
+  "text": "As cutias, pequenos roedores das zonas tropicais transportam pela boca as sementes que caem da árvores, mas, em vez de comê-las, enterram-nas em outro lugar. Esse procedimento lhes permite salvar maioria de suas sementes enterradas para as época mais secas, quando não há frutos maduros disponíveis Cientistas descobriram que as cutias roubam a sementes enterradas por outras, e esse comportament de \"ladroagem\" faz com que uma mesma semente poss ser enterrada dezenas de vezes. Essa \"ladroagem\" está associada à relação de",
+  "alternatives": {
+    "a": "sinfilia",
+    "b": "predatismo",
+    "c": "parasitismo",
+    "d": "competição",
+    "e": "comensalismo"
+  },
+  "answer": "d",
+  "tags": [
+    "ecologia",
+    "zoologia"
+  ],
+  "year": 2019,
+  "test": "ENEM",
+  "area": "nature",
+  "difficulty": 5,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

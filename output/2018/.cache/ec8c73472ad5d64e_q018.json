@@ -1,0 +1,25 @@
+{
+  "number": 18,
+  "text": "Entre as estratégias argumentativas utilizadas para sustentar a tese apresentada nesse fragmento, destaca-se a recorrência de",
+  "alternatives": {
+    "a": "estruturas sintáticas semelhantes, para reforçar a velocidade das mudanças da vida.",
+    "b": "marcas de interlocução, para aproximar o leitor das experiências vividas pela autora.",
+    "c": "formas verbais no presente, para exprimir reais possibilidades de concretização das ações.",
+    "d": "construções de oposição, para enfatizar que as expectativas são afetadas pelo inesperado.",
+    "e": "sequências descritivas, para promover a identificação do leitor com as situações apresentadas."
+  },
+  "answer": "d",
+  "tags": [
+    "interpretação de texto",
+    "gêneros textuais",
+    "comunicação e mídia"
+  ],
+  "year": 2018,
+  "test": "ENEM",
+  "area": "linguagens",
+  "difficulty": 6,
+  "images": [],
+  "contextId": "enem_2018_linguagens_q18_ctx1",
+  "contextIds": null,
+  "language": null
+}

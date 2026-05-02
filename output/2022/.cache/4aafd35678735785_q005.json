@@ -1,0 +1,23 @@
+{
+  "number": 5,
+  "text": "Nesse poema, o eu lírico evidencia um sentimento de",
+  "alternatives": {
+    "a": "contentamento com a interação virtual.",
+    "b": "zelo com o envio de mensagens.",
+    "c": "preocupação com a composição de textos.",
+    "d": "mágoa com o comportamento de alguém.",
+    "e": "insatisfação com uma forma de comunicação."
+  },
+  "answer": "e",
+  "tags": [
+    "poesia",
+    "comunicação"
+  ],
+  "year": 2022,
+  "test": "ENEM",
+  "area": "linguagens",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

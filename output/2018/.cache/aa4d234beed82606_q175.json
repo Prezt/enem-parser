@@ -1,0 +1,24 @@
+{
+  "number": 175,
+  "text": "Uma loja vende automóveis em N parcelas iguais sem juros. No momento de contratar o financiamento, caso o cliente queira aumentar o prazo, acrescentando mais 5 parcelas, o valor de cada uma das parcelas diminui R$ 200,00, ou se ele quiser diminuir o prazo com 4 parcelas a menos, o valor de cada uma das parcelas sobe R$ 232,00. Considere ainda que, nas três possibilidades de pagamento, o valor do automóvel é o mesmo, todas são sem juros e não é dado desconto em nenhuma das situações.\n\nNessas condições, qual é a quantidade N de parcelas a serem pagas de acordo com a proposta inicial da loja?",
+  "alternatives": {
+    "a": "20",
+    "b": "24",
+    "c": "29",
+    "d": "40",
+    "e": "58"
+  },
+  "answer": "b",
+  "tags": [
+    "álgebra",
+    "matemática financeira"
+  ],
+  "year": 2018,
+  "test": "ENEM",
+  "area": "math",
+  "difficulty": 6,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

@@ -1,0 +1,25 @@
+{
+  "number": 56,
+  "text": "[Figura: TÁ ESTUDANDO, JÚNIOR? CALMA, TÔ TENTANDO ACHAR UM SINAL DE WI-FI!] A crítica contida no texto e na figura evidencia o seguinte aspecto da sociedade contemporânea:",
+  "alternatives": {
+    "a": "Exclusão social.",
+    "b": "Expansão digital.",
+    "c": "Manifestação cultural.",
+    "d": "Organização espacial.",
+    "e": "Valorização intelectual."
+  },
+  "answer": "a",
+  "tags": [
+    "sociedade",
+    "educação"
+  ],
+  "year": 2022,
+  "test": "ENEM",
+  "area": "humanas",
+  "images": [
+    "figuras/q056_2022_fig1.png"
+  ],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

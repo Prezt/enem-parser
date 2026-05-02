@@ -1,0 +1,28 @@
+{
+  "number": 118,
+  "text": "Grupos de pesquisa em todo o mundo vêm buscando soluções inovadoras, visando a produção de dispositivos para a geração de energia elétrica. Dentre eles, pode-se destacar as baterias de zinco-ar, que combinam o oxigênio atmosférico e o metal zinco em um eletrólito aquoso de caráter alcalino. O esquema de funcionamento da bateria zinco-ar está apresentado na figura.\n\n[Esquema - Bateria zinco-ar com eletrodo poroso, eletrodo de zinco, membrana separadora e espécies químicas Zn(OH)₄²⁻, O₂, OH⁻]\n\nNo funcionamento da bateria, a espécie química formada no ânodo é",
+  "alternatives": {
+    "a": "H₂(g)",
+    "b": "O₂(g)",
+    "c": "H₂O(l)",
+    "d": "OH⁻(aq)",
+    "e": "Zn(OH)₄²⁻(aq)"
+  },
+  "answer": "e",
+  "tags": [
+    "eletroquímica",
+    "equilíbrio químico"
+  ],
+  "year": 2019,
+  "test": "ENEM",
+  "area": "nature",
+  "difficulty": 6,
+  "images": [
+    "figuras/q118_2019_fig1.png"
+  ],
+  "contextId": null,
+  "contextIds": [
+    "enem_2019_nature_ctx118"
+  ],
+  "language": null
+}

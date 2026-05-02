@@ -1,0 +1,23 @@
+{
+  "number": 121,
+  "text": "Qual dos antimicrobianos deve ser utilizado para curar uma infecção causada por um fungo sem afetar as bactérias da microbiota normal do organismo?",
+  "alternatives": {
+    "a": "Une-se aos ribossomos",
+    "b": "Une-se aos microtúbulos",
+    "c": "Une-se aos fosfolipídeos da membrana plasmática",
+    "d": "Interfere na síntese de timina",
+    "e": "Interfere na síntese de uracil"
+  },
+  "answer": "b",
+  "tags": [
+    "antimicrobianos",
+    "microbiologia"
+  ],
+  "year": 2022,
+  "test": "ENEM",
+  "area": "nature",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

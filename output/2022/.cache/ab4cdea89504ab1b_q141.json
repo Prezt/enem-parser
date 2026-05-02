@@ -1,0 +1,23 @@
+{
+  "number": 141,
+  "text": "O jogo inicia e, nas quatro primeiras rodadas, foram sorteados os seguintes números: 03, 27, 07 e 48. Ao final da quarta rodada, somente Pedro possuía uma cartela que continha esses quatro números sorteados, sendo que todos os demais jogadores conseguiram assinalar, no máximo, um desses números em suas cartelas. Observe na Figura 2 o cartão de Pedro após as quatro primeiras rodadas. [Figura 2] A probabilidade de Pedro ganhar o jogo em uma das duas próximas rodadas é",
+  "alternatives": {
+    "a": "1/46 + 1/45",
+    "b": "2/46",
+    "c": "8/46",
+    "d": "43/46",
+    "e": "49/46"
+  },
+  "answer": "e",
+  "tags": [
+    "probabilidade",
+    "jogo"
+  ],
+  "year": 2022,
+  "test": "ENEM",
+  "area": "math",
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

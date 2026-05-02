@@ -1,0 +1,24 @@
+{
+  "number": 165,
+  "text": "Um automóvel apresenta um desempenho médio de 16 km/L. Um engenheiro desenvolveu um novo motor que consome 0,1 L de combustível a cada 20 km percorridos. O valor do desempenho médio do automóvel com o novo motor, em quilômetro por litro, expresso com uma casa decimal, é",
+  "alternatives": {
+    "a": "15,9",
+    "b": "16,1",
+    "c": "16,4",
+    "d": "17,4",
+    "e": "18,0"
+  },
+  "answer": "d",
+  "tags": [
+    "matemática financeira",
+    "aritmética e números"
+  ],
+  "year": 2021,
+  "test": "ENEM",
+  "area": "math",
+  "difficulty": 4,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}

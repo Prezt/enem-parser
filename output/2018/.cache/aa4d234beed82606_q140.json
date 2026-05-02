@@ -1,0 +1,24 @@
+{
+  "number": 140,
+  "text": "Um artesão possui potes cilíndricos de tinta cujas medidas externas são 4 cm de diâmetro e 6 cm de altura. Ele pretende adquirir caixas organizadoras para armazenar seus potes de tinta, empilhados verticalmente com tampas voltadas para cima, de forma que as caixas possam ser fechadas.\n\nNo mercado, existem cinco opções de caixas organizadoras, com tampa, em formato de paralelepípedo reto retângulo, vendidas pelo mesmo preço, possuindo as seguintes dimensões internas:\n\n| Modelo | Comprimento (cm) | Largura (cm) | Altura (cm) |\n|--------|------------------|--------------|-------------|\n| I      | 8                | 8            | 40          |\n| II     | 8                | 20           | 14          |\n| III    | 18               | 5            | 35          |\n| IV     | 20               | 12           | 12          |\n| V      | 24               | 8            | 14          |\n\nQual desses modelos o artesão deve adquirir para conseguir armazenar o maior número de potes por caixa?",
+  "alternatives": {
+    "a": "I",
+    "b": "II",
+    "c": "III",
+    "d": "IV",
+    "e": "V"
+  },
+  "answer": "d",
+  "tags": [
+    "geometria espacial",
+    "análise combinatória"
+  ],
+  "year": 2018,
+  "test": "ENEM",
+  "area": "math",
+  "difficulty": 6,
+  "images": [],
+  "contextId": null,
+  "contextIds": null,
+  "language": null
+}
